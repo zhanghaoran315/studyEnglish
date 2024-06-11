@@ -73,6 +73,72 @@ hoof
 
 mosquito
 蚊子
+
+veto  否决权 禁止 v反对
+
+vote
+投票 选举 投票总数 选票总数
+
+bamboo
+竹子 竹竿
+
+
+上面太详细了
+1.一般情况：名词复数形式通常在词尾加-s。例如，book变为books，
+
+2.以s, x, ch, sh结尾的名词：在词尾加-es。例如，bus变为buses，watch变为watches。
+
+3.以辅音字母加y结尾的名词：将y变为i再加-es。例如，city变为cities，baby变为babies。
+
+4.以f或fe结尾的名词：将f或fe变为ves。例如，shelf变为shelves，leaf变为leaves。
+5.以辅音字母+o结尾往往+es z，以元音字母+o结尾往往+s z
+
+
+suffix
+-er  ...的人
+-ee  被...的人
+
+brush
+刷子
+
+bench
+长凳 长椅 法官
+
+seat
+座位
+v坐
+
+
+gloves
+
+socks
+
+traffic
+
+chair
+椅子 主席
+
+craft
+手艺 工艺 飞行器
+
+aircraft
+飞机 航空器
+
+carry
+运输 传输
+
+carrier
+载体 航空母舰
+
+
+witness
+
+royal
+王室的
+皇家的
+
+一流的
+
 ```
 
 
