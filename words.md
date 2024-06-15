@@ -139,11 +139,85 @@ royal
 
 一流的
 
+sad
+伤心的 难过的
+
+exit
+n 出口 通道
+v 退出 退场
+
+boat
+小船
+
+bowl
+碗 盆
+
+stick
+n 棍 条
+v 粘贴 将...插入
+
+chop
+n 猪排
+v 切碎 砍
+
+chopstick
+筷子
+
+sing
+v 唱歌 歌颂
+
+song 
+n 歌曲 歌
+
+wish
+v 希望 祝
+
+beginning
+开始
+
+bath
+n 洗澡
+v 洗澡
+
+wash
+n v 洗
+
+cooker
+炉子 炊具
+cook
+n 厨师
+v 烧 煮 做饭
+
+
+clerk
+n 店员 职员
+
+business
+n 商业 生意 营业额
+
+on business
+出差
+
+come back
+返回
+
+stay
+v 保持 停留 待
+
+enjoy
+v 享受 欣赏
+
+pass
+v 通过
+
+pass sb sth
+给 传递
+pass sth to
+
+hammer
+n 锤子 链球
+v 敲打 捶打
 ```
 
 
-
-```
-
-```
 
