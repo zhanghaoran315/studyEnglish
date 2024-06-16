@@ -217,6 +217,23 @@ pass sth to
 hammer
 n 锤子 链球
 v 敲打 捶打
+
+
+obvious
+adj 明显的
+
+obviously
+adv 显然
+
+honest
+诚实的 老实的
+
+bet
+n v 打赌
+
+drop
+n 下降 滴
+v 掉下 降低
 ```
 
 
