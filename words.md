@@ -234,6 +234,81 @@ n v 打赌
 drop
 n 下降 滴
 v 掉下 降低
+
+
+ill
+病 疾病
+生病的
+
+conversation
+谈话 轻松
+
+talk
+n v 谈话 正式
+
+term
+学期
+
+subject
+话题 科目
+
+interesting
+
+early
+adj adv 早的
+
+late
+adj adv 晚的
+
+best
+adv 最
+adj 最好的
+
+season
+季节
+
+weep
+n 哭泣
+v 哭泣 流出 渗出
+
+wave
+n 波浪
+v 挥手 招手
+
+
+well
+n 井
+
+wet
+潮湿的
+使潮湿 把。。。弄湿
+
+dry
+
+north
+
+mild
+温和的 温暖的
+
+mild food
+清淡的食物
+
+spicy
+辛辣的 刺激的
+
+spicy food 辛辣的食物
+hot food 
+
+always  100%
+usually 90%
+often   60%
+sometimes  30%
+seldom    5%
+never 0%
+
+
+church
+教堂
 ```
 
 
