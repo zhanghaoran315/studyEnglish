@@ -202,7 +202,7 @@ come back
 返回
 
 stay
-v 保持 停留 待
+vi 保持 停留 待
 
 enjoy
 v 享受 欣赏
@@ -309,6 +309,9 @@ never 0%
 
 church
 教堂
+
+try
+n v 试图 尝试 努力
 ```
 
 
