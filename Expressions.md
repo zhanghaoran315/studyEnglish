@@ -22,5 +22,8 @@ come with
 与...一起来
 
 in the middle of
+
+out of
+从...出来
 ```
 
