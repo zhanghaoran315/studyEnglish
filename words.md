@@ -316,6 +316,11 @@ n v 试图 尝试 努力
 
 evil
 n adj 邪恶 邪恶的
+
+else
+adv 其他 另外
+常与特殊疑问词连用
+What else do you like?
 ```
 
 
