@@ -312,6 +312,10 @@ church
 
 try
 n v 试图 尝试 努力
+
+
+evil
+n adj 邪恶 邪恶的
 ```
 
 
