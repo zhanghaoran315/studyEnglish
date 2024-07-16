@@ -36,6 +36,33 @@ To tell you the truth, ...
 跟你说句心里话，。。。
 
 
+in bed
+生病卧床
+in the bed
+在床上
+
+get up
+go to bed
+go to sleep
+
+
+look for
+找
+
+on time
+准时 按时
+in time
+及时
+
+by the way
+顺便
+
+at the race
+在比赛现场 观看比赛
+in the race
+参加比赛
+
+
 ```
 
 

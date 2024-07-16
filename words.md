@@ -321,6 +321,67 @@ else
 adv 其他 另外
 常与特殊疑问词连用
 What else do you like?
+
+fever
+n 发烧 发热
+v 使发高烧
+
+wrong
+n 犯罪
+adj 错误的
+
+gentle
+n 绅士
+adj 温和的 温柔的
+
+familiar
+n 常客
+adj 熟悉的
+
+yet
+adv 还 仍
+
+remain
+n 剩余物
+v 保持 继续
+
+lean
+n 瘦肉
+v 倚靠 倾斜
+adj 精干的 瘦且健康的
+lean-leant-leant
+
+lean out of
+身体探出
+
+slave
+n 奴隶
+enslave
+v 奴役 征服
+
+grocer
+杂货商
+
+
+absent
+vt 不在 缺席 不参加
+adj 缺席的
+be absent from 
+
+
+regret
+n v 后悔 遗憾
+
+crowd
+n 人群 群众
+
+foreign
+外国的
+
+foreigner
+外国人
+
+
 ```
 
 
