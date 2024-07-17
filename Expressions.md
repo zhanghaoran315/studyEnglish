@@ -62,6 +62,19 @@ at the race
 in the race
 参加比赛
 
+put into 放入
+
+take out
+拿出
+take sth out of
+从...拿出
+
+in fashion
+流行
+out of fashion
+
+
+
 
 ```
 

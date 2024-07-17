@@ -381,7 +381,41 @@ foreign
 foreigner
 外国人
 
+capital
+首都
 
+greet
+v 打招呼 问候
+
+lose
+v 失去 丧失 丢失
+lose-lost-lost
+
+lose one's way
+迷路
+
+mandarine
+普通话
+
+dialect
+方言
+
+dead
+n 死 死人
+adj 死的 死去的
+
+scissors
+剪刀
+
+comfort
+n 舒适 安逸
+vt 安慰
+
+comfortable
+舒适的 安逸的
+
+uncomfortable
+不舒服的
 ```
 
 
