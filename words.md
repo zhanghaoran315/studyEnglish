@@ -559,6 +559,35 @@ v 着陆 登录
 sunrise
 日出
 
+hold
+v 1.握住 抓住 2.认为
+hold-held-held
+
+consider
+v 考虑 认为
+
+accident
+n 事故 意外
+
+sell-sold-sold
+v 卖
+
+forget
+v 忘记 遗忘
+forget-forgot-forgotten
+
+hurt
+n 委屈
+v 伤害 使疼痛
+hurt-hurt-hurt
+
+cosmetic
+n 化妆品
+adj 美容的
+
+
+
+
 
 
 

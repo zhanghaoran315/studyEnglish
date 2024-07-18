@@ -95,6 +95,9 @@ work on
 drive into
 撞倒
 
+for sale
+出售
+
 
 ```
 
