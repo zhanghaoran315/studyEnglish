@@ -416,6 +416,152 @@ comfortable
 
 uncomfortable
 不舒服的
+
+indeed
+adv
+1.的确
+2.强调肯定的陈述或答复
+
+appoint
+vt 任命 安排 确定
+
+appointment
+n 约会 预约
+
+have an appointment with
+和...有约
+
+urgent
+急切的 急迫的
+
+urgent business
+急事
+urgent to do
+坚持要
+
+arrange
+v 安排 整理
+
+blind
+n 窗帘
+vt 使失明 使变瞎
+adj 失明的 瞎的
+
+a blind date
+
+till
+prep
+直到 直到...为止
+
+tender
+n 投标
+v 投标
+adj 温柔的 亲切的
+
+chemist
+化学家 药剂师
+
+chemistry
+化学
+
+physics
+物理
+
+geography
+地理
+
+biology
+生物
+
+physical
+n 体检
+adj 身体的 肉体的
+
+clear
+v 清除
+adj 清楚的 明确的
+
+clearly
+adv 清除地
+
+roast
+n 烤肉
+v 烤 烘烤
+adj 烤的
+
+then
+adv 然后 那么
+
+mess
+n 杂乱 混乱
+
+last
+v 持续 延续
+adj 最后的 上一个的
+The rain has lasted for four hours.
+
+good-looking
+好看的 漂亮的
+
+gorgeous
+非常漂亮的 美丽动人的
+
+fear
+n 害怕 担忧
+v 害怕 担忧
+
+honesty
+n 诚实 老实 正直
+
+honest
+诚实的 老实的 正直的
+
+pay
+n 工资 薪水
+v 支付 受益
+
+ever
+adv 曾经 总是 永远
+
+boil
+n 沸点 沸腾
+v 煮 用沸水煮
+
+attend
+v 出席 参加 专心
+
+attendant
+服务员 随从
+
+crash
+n 碰撞 崩溃 撞车
+v 碰撞 崩溃
+
+licence
+n 许可证 执照
+license
+
+discover
+v 发现
+
+shuttle
+n 1.来往于两地之间的航班(或班车、火车)
+2.梭子
+
+final
+n 决赛 大学毕业考试
+adj 最后的
+
+land
+n 土地 国家 陆地
+v 着陆 登录
+
+sunrise
+日出
+
+
+
+
 ```
 
 

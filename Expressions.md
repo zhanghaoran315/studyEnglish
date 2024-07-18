@@ -73,7 +73,27 @@ in fashion
 流行
 out of fashion
 
+in need
+在危难中
+在危急中
 
+put off
+推迟 拖延
+
+at all
+根本，一点也不，在语气上表示对否定的一种加强
+
+a lot of
+许多的 大量的
+
+all the time
+总是 一直
+
+work on
+从事于
+
+drive into
+撞倒
 
 
 ```
