@@ -108,6 +108,13 @@ not only ... but also
 
 plenty of
 许多的 大量的
+
+the other
+另一个 
+另外一个
+
+the other day
+几天前(一定要用在一般过去时中)
 ```
 
 

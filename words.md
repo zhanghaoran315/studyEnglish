@@ -645,6 +645,36 @@ v 访问 参观
 ground
 n 地面
 
+leave
+n 假期 休假
+v 1.离开
+2.遗留(忘)
+3.剩余
+leave-left-left
+
+describe
+vt 描述 形容 把...称为
+
+zipper
+zip
+n 拉链
+v 压缩 拉
+
+lip
+n 嘴唇
+
+handle
+n 手柄 把手
+v 处理 操纵 控制
+
+belong
+vi 属于
+
+cousin
+n 表妹 表兄 远亲
+
+
+
 
 
 
