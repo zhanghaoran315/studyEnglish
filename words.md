@@ -586,7 +586,64 @@ n 化妆品
 adj 美容的
 
 
+far
+adj 远的
+adv 远
 
+around
+prep
+adv 环绕 围绕 周围
+
+move
+n 移动 行动 搬家
+v 移动 搬家(vi)
+move in 
+move into + n
+
+miss
+v 1.未达到 未击中 错过
+2.想念 思恋
+
+neighbour
+neighbor
+邻居 邻国 邻座
+
+trouble
+n 麻烦 (机器、车辆等)故障
+
+worry
+n 担心 担忧
+v 担心 担忧
+
+fade
+n 淡入 淡出
+v 褪色 凋谢
+adj 平淡的 乏味的
+
+angry
+生气的 愤怒的
+
+imagine
+v 猜想 认为
+
+view
+n 看发 意见
+v 看 观看
+
+exchange
+n 交换 交流 兑换
+v 交换 交流 兑换
+
+clever
+聪明的 精明的
+
+visit
+n 访问 参观
+v 访问 参观
+
+
+ground
+n 地面
 
 
 

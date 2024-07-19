@@ -96,9 +96,18 @@ drive into
 撞倒
 
 for sale
-出售
+出售 待售
 
+have the last word
+说了算 最后排版
 
+so far
+目前为止 迄今为止
+
+not only ... but also
+
+plenty of
+许多的 大量的
 ```
 
 
