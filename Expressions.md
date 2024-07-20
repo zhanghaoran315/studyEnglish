@@ -115,6 +115,15 @@ the other
 
 the other day
 几天前(一定要用在一般过去时中)
+
+at once
+立即
+
+cheer up
+振作起来 使高兴起来
+
+next to
+在...的旁边 = beside
 ```
 
 

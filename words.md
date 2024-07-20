@@ -673,6 +673,136 @@ vi 属于
 cousin
 n 表妹 表兄 远亲
 
+fall
+n 秋天 降低 落下
+v 落下 下跌 跌倒
+fall-fell-fallen
+
+leg
+n 腿 支架
+
+lie
+n 谎言
+v 躺 说谎
+lie-lay-lain-lying
+lie on one's back
+平躺 仰卧
+
+glad
+高兴的 愉快的
+
+card
+卡片 信用卡 贺卡
+
+credit
+信用 贷款 学分
+
+youth
+青年 年轻人
+
+association
+协会 联盟
+
+league
+联合会 联盟
+
+format
+n 格式
+vt 格式化
+
+formal
+正式的 正规的
+
+pass
+n 通过 合格
+v 1.通过 及格
+2.给 递
+
+mathematics
+数学
+
+failure
+n 失败 故障 倒闭
+
+fail
+v 失败 不及格
+
+mark
+n 记号 分数
+v 做记号
+
+stupid
+n 傻子 笨蛋
+adj 愚蠢的
+
+dirt
+污物 灰尘
+
+dear
+亲爱的 昂贵的
+
+stale
+n 尿
+adj 不新鲜的 变味的
+
+sour
+adj 酸的
+
+soft
+1.软的
+2.舒服的 舒适的
+
+bitter
+苦的 寒冷的
+
+breath
+呼吸
+
+unclear
+不清楚的 不明确的
+
+weapon
+武器
+
+intelligence
+n 智力 智慧
+
+intelligent
+聪明的 智能的
+
+brilliant
+极端聪明的 很成功的
+
+talent
+才能 天赋 
+
+talented
+有才能得 有天赋的
+
+mistake
+n 错误 失误
+vt 误解 误会
+
+present
+n 1.目前 现在
+2.礼物 礼品
+
+correct
+v 改正 纠正
+对的 正确的
+
+keep
+n 生活费用
+v 1.保持 继续
+2.保存 保留
+keep-kept-kept
+
+touch
+n v 触摸
+
+
+
+
 
 
 
