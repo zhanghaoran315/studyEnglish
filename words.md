@@ -800,6 +800,14 @@ keep-kept-kept
 touch
 n v 触摸
 
+suit
+n 一套衣服
+v 适合 合身(款式 颜色)
+
+fit
+n 适合 合身
+v 适合 合身 安装(尺寸 大小)
+
 
 
 
