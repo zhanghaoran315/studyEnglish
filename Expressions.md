@@ -124,6 +124,30 @@ cheer up
 
 next to
 在...的旁边 = beside
+
+make up one's mind
+下定决心
+
+get off
+下车
+get in/on
+上车
+
+look for
+寻找
+
+look through
+透过...看
+
+nice and adj
+表达满意或称赞（很、挺、...得很）
+
+as adv as 主语 can/could
+尽主语最大的可能怎样
+
+run away
+逃走 离家出走
+
 ```
 
 

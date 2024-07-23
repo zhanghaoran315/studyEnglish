@@ -809,6 +809,150 @@ n 适合 合身
 v 适合 合身 安装(尺寸 大小)
 
 
+death
+n 死 死亡
+
+cause
+n 原因 起因 事业
+vt 导致 造成
+
+model
+n 1.型号 样式
+2.模型 模特
+
+afford
+vt 买的起 付得起钱
+
+deposit
+n 存款 定金
+
+install
+vt 安装 设置
+
+instalment
+n 分期付款 一般用复数
+
+buy sth on monthly installments
+
+price
+n 价格
+put a price on sth
+给...定价
+
+skin
+皮肤
+
+donkey
+驴
+
+change
+n 1.改变 变化
+2.零钱 找回的零钱
+v.1.改变 变化
+2.兑换 换乘
+
+passenger
+n 乘客 旅客
+
+neither
+adv 也不
+
+tramp
+流浪汉
+
+except
+prep 除...之外
+
+knock
+n 敲击 敲门声
+v 敲(vi) 打(vt)
+
+quiet
+平静的 安静的
+
+impossible
+不可能的
+
+possible
+可能的
+
+invite
+vt 邀请
+invite sb to sth（n/pron）
+invite sb to do sth
+
+through
+prep. 通过 穿过 透过...看
+
+sniper
+n 狙击手
+
+curtain
+n 窗帘 幕布
+
+swallow
+n 燕子
+v 吞下
+
+later
+adv 以后 后来
+
+ring
+n 戒指 铃声
+v 1.给...打电话
+2.包围 环绕
+ring-rang-rung
+
+ancient
+古老的 古代的
+
+popular
+流行的 受欢迎的
+
+well-known
+众所周知的 出名的
+
+asleep
+adj 睡觉 睡着
+
+torch
+n 火炬 火把 手电筒
+
+voice
+n 声音
+
+parrot
+鹦鹉
+
+fluent
+adj 流利的 流畅的 
+
+snail
+蜗牛
+
+crawl
+n 自由泳
+v 爬 匍匐前进
+
+away
+adv 离开
+
+soon
+adv 不久 很快
+
+exercise
+n 锻炼 练习
+v 锻炼
+
+programme
+n 1.方案 计划
+2.程序 节目
+
+program
+n 程序 节目
+
+co-worker
+同事
 
 
 
