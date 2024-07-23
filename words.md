@@ -954,6 +954,13 @@ n 程序 节目
 co-worker
 同事
 
+become
+v 变成 成为
+
+lock
+n 锁
+v 锁 使固定
+
 
 
 
