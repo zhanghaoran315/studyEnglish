@@ -148,6 +148,13 @@ as adv as 主语 can/could
 run away
 逃走 离家出走
 
+next to
+prep.
+旁边
+
+on the road
+in the street
+
 ```
 
 

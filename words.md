@@ -961,6 +961,57 @@ lock
 n 锁
 v 锁 使固定
 
+recognize
+vt 认识 认出
+
+
+choice
+n 选择 抉择
+adj 优质的 优选的 上等的
+
+general
+n 将军 上将
+adj 一般的 普通的
+
+perfect
+adj 完美的 最佳的 准确的
+
+guess
+n 猜测 想
+v 猜测 想
+
+grow
+v 长 让...生长
+grow-grew-grown
+
+kitten
+小猫
+
+puppy
+小狗
+
+foal
+小马
+
+lamb
+小羊 羊羔肉
+
+piggy
+小猪
+
+nuisance
+n 讨厌的人或事 麻烦事
+
+decision
+n 决定
+
+surprise
+n 惊讶 意外的事
+v 使吃惊 使感到意外
+
+
+
+
 
 
 
