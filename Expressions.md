@@ -155,6 +155,13 @@ prep.
 on the road
 in the street
 
+learn sb by oneself
+自学
+
+look after
+照顾
+照看
+
 ```
 
 

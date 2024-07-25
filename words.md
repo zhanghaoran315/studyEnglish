@@ -1009,6 +1009,50 @@ surprise
 n 惊讶 意外的事
 v 使吃惊 使感到意外
 
+grant
+vt 授予 同意
+
+deny
+v 否认 拒绝
+
+famous
+著名的 出名的
+
+expression
+n 表示 表达 表情
+
+wave
+n 波浪
+v 挥手 招手
+
+track
+n 跑道 轨道 路线
+v 追踪
+
+overtake
+v 超过 赶上 后面超车
+
+lorry
+n 卡车
+
+truck
+n 卡车 手推车
+
+sign
+n 标志 牌子
+v 签名 签字
+
+charge
+n 收费 充电量
+v 给...充电 罚款
+
+steal
+v 窃取 偷
+steal-stole-stolen
+
+suppose
+v 认为 假设
+
 
 
 
