@@ -1053,6 +1053,33 @@ steal-stole-stolen
 suppose
 v 认为 假设
 
+report
+n 报告
+v 汇报 报告
+
+mink
+水貂 貂皮
+
+wonder
+n 奇迹 奇观
+v 想知道 = want to know
+
+wonderful
+令人惊奇的 令人赞叹的
+
+future
+n 未来
+adj 未来的
+
+get married
+结婚
+marry
+v 结婚 取 嫁 把...嫁给
+married
+已婚的
+
+
+
 
 
 

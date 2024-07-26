@@ -162,6 +162,9 @@ look after
 照顾
 照看
 
+for a long time
+长达很久  早就
+
 ```
 
 
