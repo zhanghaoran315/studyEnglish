@@ -899,7 +899,7 @@ adv 以后 后来
 
 ring
 n 戒指 铃声
-v 1.给...打电话
+v 1.响 给...打电话
 2.包围 环绕
 ring-rang-rung
 
@@ -1077,6 +1077,11 @@ marry
 v 结婚 取 嫁 把...嫁给
 married
 已婚的
+
+lend
+n (短期)贷款
+v 借给 提供
+lend-lent-lent
 
 
 
