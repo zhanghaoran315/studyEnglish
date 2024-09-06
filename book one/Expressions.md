@@ -10,6 +10,10 @@ at least
 
 no more than
 仅仅 才(少)
+no less than
+不少于 多达
+
+
 not more than
 最多 不超过(多)
 
