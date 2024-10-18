@@ -92,6 +92,44 @@ v 安排 把...编入预算
 budgetary
 a 预算的
 
+controversial
+a 引起争论的 有争议的
+
+controversy
+n 争论 争议
+
+council
+n 理事会 委员会
+
+crawl
+n v 爬行 匍匐前进
+
+creep
+n 毛骨悚然的感觉
+v 爬行 慢慢的移动
+
+crucial
+a 决定性的 重要的
+
+crucial
+a 决定性的 重要的
+
+cruise
+n 游船度假
+v 巡航 漫游
+
+
+cruise
+n 游船度假
+v 巡航 漫游
+
+cruiser
+n 巡洋舰 巡逻警车
+
+
+
+
+
 
 
 
