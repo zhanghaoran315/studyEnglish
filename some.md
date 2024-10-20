@@ -126,6 +126,170 @@ v 巡航 漫游
 cruiser
 n 巡洋舰 巡逻警车
 
+deprive
+v 使丧失 剥夺
+
+deprivation
+n 丧失 剥夺
+
+depress
+v 使沮丧 使萧条
+
+depression
+n 沮丧 萧条
+
+
+dent
+n 凹痕
+v 使凹陷 凹进去
+
+deliver
+v 交付 传送 发表
+
+delivery
+n 交付 传送 发表 分娩
+
+deliberate
+a 故意的
+
+deliberation
+n 审议 考虑
+
+delegate
+n 代表
+v 
+
+delegation
+n 代表团
+
+defiance
+n 藐视 反抗 挑衅
+
+defy
+v 藐视 反抗 挑衅
+
+defiant
+a 挑衅的 藐视的
+
+defendant
+n 被告
+
+defective
+a 有毛病的 有缺陷的
+
+decline
+v 下降 减少 衰退 谢绝
+
+decay
+n 腐烂 腐朽 衰退 衰减
+v 腐烂 腐朽 衰退 衰减
+
+decent
+a 得体的 正派的 相当好的
+
+deception
+n 欺骗 骗局
+
+deceptive
+a 骗人的
+
+
+convey
+v 表达 传递 运送
+
+crane
+n 吊车 起重机
+v 伸着脖子看
+
+curse
+n 诅咒 咒骂
+v 诅咒 咒骂
+
+consent
+n
+v 同意 赞成 允许 准许
+
+consensus
+n 一致看法 共识
+
+consensus
+n 一致看法 共识
+
+congress
+n 国会 代表大会
+
+congressional
+a 国会的
+
+confuse
+v 使混乱 使困惑
+
+confusion
+n 混乱 困惑
+
+confront
+v 面对 对抗 对峙
+
+confrontation
+n 对抗 对峙
+
+conform
+v 1.符合 一致
+2.遵守 遵从
+
+conformity
+n 1.符合 一致
+2.遵守 遵从
+
+conflict
+n
+v 冲突 争执 战斗
+
+
+confine
+v 限制 禁闭
+
+confinement
+n 限制 禁闭
+
+confidential
+a 保密的 悄悄的
+
+conduct
+n 行为 举止
+v 1.执行 实施
+2.指挥
+3.带领 引领
+
+condense
+v 压缩 凝结
+
+condemn
+v 谴责 指责 判刑
+
+conclude
+v 结束 作结论 推断
+
+concert
+n 音乐会 和谐
+v 使协调 协同安排
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
