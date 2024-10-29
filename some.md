@@ -65,8 +65,28 @@ v 使偏见
 bid
 n v 出价 投标 尝试 争取
 
+blame
+n 责备 责任
+v 责备 归咎于
+
+blast
+n 爆炸 冲击波
+v 炸伤 炸毁
+
 blend
 v 混合 融合 协调
+
+bloom
+n 花 蓬勃发展
+v 开花 容光焕发
+
+blossom
+n 花 
+v 开花 盛开 兴旺 兴盛
+
+boast
+v 自夸 吹嘘 拥有(令人自豪的事)
+
 
 bond
 n 关系 联系
@@ -79,6 +99,17 @@ bound be sth
 
 bondage
 n 奴役 限制 束缚
+
+boost
+n
+v 促进 推动 使增长
+
+bother
+v 打扰 使烦恼
+
+bounce
+n 弹力 活力
+v 使弹起 反弹 反射
 
 bracket
 n 括号 组别
@@ -93,6 +124,31 @@ v 安排 把...编入预算
 
 budgetary
 a 预算的
+
+bulk
+n 1.体积 容量
+2.大块 大多数 大部分
+
+bulky
+a 庞大的 笨重的
+
+bully
+n 欺凌弱小者
+v 威逼 胁迫
+
+bureau
+n 局 处 书桌
+
+bypass
+n 旁路 支路
+v 避开 绕开
+
+cabin
+n 小屋 客舱
+v 把...换在小屋了
+
+cabinet
+n 内阁 橱柜
 
 controversial
 a 引起争论的 有争议的
@@ -496,6 +552,104 @@ v 强迫 迫使
 
 compelling
 a 引人注目的
+
+cereal
+n 谷物 麦片
+
+character
+n 个性 性格 角色 人物
+
+characteristic
+n 特征 特色
+a 特有的 典型的
+
+characterize
+v 描绘...的特征
+以...为特征 
+以...为典型
+
+charter
+n 特许 包租 原则 宪章
+v 特许 包租
+
+choke
+n 阻气门 呛住的声音 
+v 使窒息
+
+chop
+n 排骨 肉块
+v 砍 切碎
+
+chore
+n 琐事 家务活
+
+chorus
+n 合唱团 
+v 合唱
+
+circuit
+n 电路 环行
+
+
+clap
+n 拍手 鼓掌 
+v 拍手 鼓掌
+
+clash
+n 冲突 碰撞声
+v 冲突
+
+claw
+n 爪 
+v 用爪抓
+
+clip
+n 夹子
+v 剪 夹住
+
+breed
+v 繁殖 饲养
+
+bribe
+n 贿赂 收买
+v 贿赂 收买
+
+bribery
+n 贿赂行为
+
+brief
+n 概要 摘要
+v 介绍 提供
+a 短暂的 简洁的
+
+briefing
+n 简报
+
+bruise
+n 擦伤 挫伤
+v 擦伤 挫伤 打击 挫折
+
+brutal
+a 残酷的 野蛮的
+
+brutality
+n 残酷
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
