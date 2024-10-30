@@ -635,6 +635,31 @@ a 残酷的 野蛮的
 brutality
 n 残酷
 
+attorney
+n 代理人 律师
+
+auditorium
+n 礼堂 观众席
+
+awe
+n 敬畏
+v 使敬畏
+
+awesome
+a 极好的 令人惊叹的
+
+bargain
+n 交易 特价商品
+v 讨价还价
+
+
+
+
+
+
+
+
+
 
 
 
