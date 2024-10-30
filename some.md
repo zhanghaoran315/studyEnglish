@@ -1,12 +1,43 @@
 # some
 
 ```
+acquaint
+v 使认识 使了解
+
+acquaintance
+n 认识的人 认识 交情
+
+acquire
+v 取得 获得 学到
+
+acquisition
+n 收购 获得 得到
+
+adequacy
+n 足够 胜任
+
+adequate
+a 足够的 可以胜任的
+
+adequately
+ad 足够地 充分地
+
+advance
+n 预付款 发展 增长
+v 预付 提出 提前
+
 advocacy
 n 拥护 主张 辩护
 
 advocate
 n 提倡者 支持者
 v 提倡 拥护 主张
+
+aggression
+n 攻击 侵略
+
+aggressive
+a 好斗的 侵略性的
 
 ample
 a 足够的 丰富的
@@ -20,17 +51,49 @@ n 预料 期待
 appoint
 v 任命 指定 约定
 
+arbitrary
+a 任意的 专横的 武断的
+
+arouse
+v 引起 激起 唤醒
+
+arousal
+n 引起 激起 唤醒
+
 assemble
 v 集合 聚集 组装 装配
 
+assembly
+n 集会 会议
+
 assign
-v 分配 指派 确定
+v 1.分配 2.指派 3.确定
+
+associate
+n 工作伙伴 同事
+v 将...联系起来 将...关联起来
+a 准的 副的
+
+assume
+v 1.假定 假设
+2.承担
+3.呈现出 显示出
+
+assumption
+n 假设
+
+assurance
+n 保证 担保
+
+assure
+v 保证 担保 使确信 弄清
+
 
 attain
-v 达到 实现 获得
+v 达到 得到 实现 
 
 authentic
-a 真实的 正宗的
+a 真实的 原作的 正宗的
 
 authenticity
 n 真实性
@@ -77,7 +140,7 @@ blend
 v 混合 融合 协调
 
 bloom
-n 花 蓬勃发展
+n 花 蓬勃发展 气色红润
 v 开花 容光焕发
 
 blossom
@@ -145,7 +208,7 @@ v 避开 绕开
 
 cabin
 n 小屋 客舱
-v 把...换在小屋了
+v 把...关在小屋了
 
 cabinet
 n 内阁 橱柜
@@ -651,6 +714,61 @@ a 极好的 令人惊叹的
 bargain
 n 交易 特价商品
 v 讨价还价
+
+beam
+n 横梁 光线 笑容
+v 笑 发射
+
+bend
+v 弯曲(使四肢) 拐弯
+bend-bent-bent
+
+beneficial
+a 有益的 有利的
+
+beneficiary
+n 受益人 受惠者
+
+benefit
+n 利益 救济金
+v 有利于 对...有利
+
+betray
+v 背叛 出卖 泄露
+
+betrayal
+n 背叛 出卖 泄露
+
+bind
+v 绑定 捆绑 结合
+bind-bound-bound
+
+allege
+v 宣称 断言
+
+
+antique
+n 古董 古玩
+a 古老的 过时的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
