@@ -246,6 +246,13 @@ v 使丧失 剥夺
 deprivation
 n 丧失 剥夺
 
+derive
+v 起源 源于
+
+derivative
+n 派生物 提取物
+a 非独创的 模仿他人的
+
 depress
 v 使沮丧 使萧条
 
@@ -257,17 +264,16 @@ dent
 n 凹痕
 v 使凹陷 凹进去
 
-deliver
-v 交付 传送 发表
 
-delivery
-n 交付 传送 发表 分娩
 
 deliberate
 a 故意的
 
 deliberation
 n 审议 考虑
+
+delicate
+a 微妙的 易碎的 精美的
 
 delegate
 n 代表
@@ -292,6 +298,7 @@ defective
 a 有毛病的 有缺陷的
 
 decline
+n 
 v 下降 减少 衰退 谢绝
 
 decay
@@ -307,6 +314,11 @@ n 欺骗 骗局
 deceptive
 a 骗人的
 
+deliver
+v 交付 传送 发表
+
+delivery
+n 交付 传送 发表 分娩
 
 convey
 v 表达 传递 运送
@@ -385,6 +397,9 @@ concert
 n 音乐会 和谐
 v 使协调 协同安排
 
+conscientious
+a 认真的 仔细的
+
 
 consolidate
 v 加强 巩固 合并
@@ -396,7 +411,7 @@ constitute
 v 被视为 构成 建立
 
 constitution
-n 宪法 体格 构成
+n 宪法 构成 体格 
 
 consult
 v 商量 请教
@@ -408,7 +423,7 @@ consultation
 n 请教 咨询
 
 consultative
-a 咨询的
+a 咨询的 协商的
 
 contaminate
 v 弄脏 污染
@@ -497,7 +512,7 @@ commentator
 n 评论员
 
 combative
-a 好多的 好争论的
+a 好斗的 好争论的
 
 collaborate
 v 合作 通敌
@@ -746,10 +761,172 @@ bind-bound-bound
 allege
 v 宣称 断言
 
-
 antique
 n 古董 古玩
 a 古老的 过时的
+
+considerate
+a 周到的 体谅的
+
+considering
+prep 考虑到 鉴于
+ad 总的来看
+
+consistent
+a 一致的 持续的 连续的
+
+convention
+n 习俗 惯例 会议 公约
+
+conventional
+a 传统的 常规的
+
+convertible
+a 可转变的 可改变的
+
+corrupt
+v 使堕落 使恶化
+a 腐败的 堕落的
+
+court
+n 法院 球场
+v 奉承 讨好 招致
+
+defect
+n 缺点 缺陷
+v 背叛 叛变
+
+defection
+n 缺点 缺陷 背叛 叛变
+
+deficiency
+n 缺乏 不足
+
+deficient
+a 缺乏的 不足的
+
+deficit
+n 赤字 逆差 不足额
+
+deposit
+n 存款 押金 沉淀物
+v 存放 使沉淀
+
+deputy
+n 代理人 代表
+a 副的 代理的
+
+descend
+v 下来 下降 来临
+
+descendant
+n 子孙 后代
+
+descent
+n 下降 血统
+
+deteriorate
+v 恶化 退化
+
+deterioration
+n 恶化 退化
+
+diagnose
+v 诊断 断定
+
+diagnosis
+n 诊断 断定
+
+dial
+n 表盘 刻度盘
+v 拨号
+
+dignify
+v 使高贵 使崇高
+
+dignity
+n 尊严 自尊 高贵
+
+diligence
+n 勤奋 用功
+
+diligent
+a 勤奋的 用功的
+
+dimension
+n 方面 部分 大小 尺寸 纬度
+
+discipline
+n 纪律 训练
+
+disciplined
+a 受过训练的 遵守纪律的
+
+disciplinary
+a 纪律性的
+
+discourage
+v 阻拦 使泄气
+
+discriminate
+v 1.区别对待 歧视
+2.区分 区别
+
+discriminatory
+a 歧视的 区别对待的
+
+disrupt
+v 打扰 使中断
+
+disruption
+n 打扰 中断
+
+disruptive
+a 破坏性的 扰乱性的
+
+dissolve
+v 溶解 解除 消失
+
+distinguish
+v 区分 辨别
+
+distinguishable
+a 可区分的 可辨别的
+
+distract
+v 使分心 转移(注意力)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
