@@ -896,6 +896,162 @@ a 可区分的 可辨别的
 distract
 v 使分心 转移(注意力)
 
+distraction
+n 分散注意力 
+
+distinct
+a 明显的 清楚的 有区别的
+
+distinction
+n 区别
+
+distinctive
+a 独特的
+
+distress
+n 痛苦 悲伤
+v 使悲伤
+
+distressful
+a 痛苦的
+
+distribute
+v 分配 分布
+
+distribution
+n 分配 分布
+
+distributive
+a 分配的
+
+disturb
+v 打扰 使分心
+
+disturbance
+n 打扰 骚动
+
+ditch
+n 沟 渠
+
+diversify
+v 多样化
+
+diversity
+n 差异 多样性
+
+dizzy
+a 头晕的 眩晕的
+
+dispose
+v 处理 处置 安排
+
+disposal
+n 处理 处置 清理
+
+dispute
+n 争论
+v 争论 辩论 质疑
+
+disputable
+a 有争议的 可疑的
+
+earn
+v 赚得 挣得 赢得
+
+ease
+n 容易 轻易
+v 减轻 缓和
+
+echo
+n 回声
+v 充满了回声 回响 回荡
+
+
+elevate
+v 1.举起 抬起
+2.提高 提升
+3.晋升
+
+elevation
+n 提高 提升 晋升 高度 海拔
+
+elevator
+n 电梯 升降机
+
+eliminate
+v 排除 清除 淘汰
+
+elimination
+n 排除 清除 淘汰
+
+
+elite
+n 精英 精华
+a 杰出的 精锐的
+
+emission
+n 发射 排放
+
+emit
+v 发出
+
+emphasis
+n 强调 
+
+emphasize
+v 强调
+
+emphatic
+a 强调的
+
+engage
+v 1.从事 参加 
+2.交战 雇用 吸引
+
+engagement
+n 订婚 雇用
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
