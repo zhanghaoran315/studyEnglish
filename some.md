@@ -925,7 +925,7 @@ distributive
 a 分配的
 
 disturb
-v 打扰 使分心
+v 打扰 使不安
 
 disturbance
 n 打扰 骚动
@@ -984,10 +984,22 @@ v 排除 清除 淘汰
 elimination
 n 排除 清除 淘汰
 
+eliminate
+v 排除 清除 淘汰
+
+eliminate
+v 排除 清除 淘汰
+
+elimination
+n 排除 清除 淘汰
+
 
 elite
 n 精英 精华
 a 杰出的 精锐的
+
+embrace
+v 包含 拥抱 欣然接受
 
 emission
 n 发射 排放
