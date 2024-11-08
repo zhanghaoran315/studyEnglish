@@ -977,22 +977,11 @@ n 提高 提升 晋升 高度 海拔
 
 elevator
 n 电梯 升降机
-
 eliminate
 v 排除 清除 淘汰
 
 elimination
 n 排除 清除 淘汰
-
-eliminate
-v 排除 清除 淘汰
-
-eliminate
-v 排除 清除 淘汰
-
-elimination
-n 排除 清除 淘汰
-
 
 elite
 n 精英 精华
@@ -1000,6 +989,12 @@ a 杰出的 精锐的
 
 embrace
 v 包含 拥抱 欣然接受
+
+emerge
+v 出现 浮现 显露 暴露
+
+emergence
+n 出现 兴起
 
 emission
 n 发射 排放
@@ -1049,10 +1044,26 @@ v 施加 发挥 努力
 exertion
 n 施加 发挥 努力
 
+fascinate
+v 吸引 迷住
+
+fascination
+a 吸引力 迷人
+
+fascinating
+a 迷人的
+
 fore
 n 前部
 a 前面的
 ad 在前面
+
+glow
+n 喜悦
+v 发出暗淡的光 发红 发热
+
+gorgeous
+a 非常漂亮的
 
 
 
