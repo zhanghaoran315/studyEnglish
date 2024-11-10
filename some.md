@@ -1058,12 +1058,68 @@ n 前部
 a 前面的
 ad 在前面
 
+genuine
+a 真正的 真诚的
+
 glow
 n 喜悦
 v 发出暗淡的光 发红 发热
 
 gorgeous
 a 非常漂亮的
+
+gracious
+a 亲切的 慈祥的
+
+
+gracious
+a 亲切的 慈祥的
+
+grave
+n 坟墓
+a 严重的 严肃的
+
+grant
+n 拨款
+v 批准 同意
+
+
+granted
+ad 不错 的确
+
+
+harness
+n 马具
+v 控制 治理
+
+hatch
+n 舱口 舱门
+v 策划 孵化
+
+haul
+n 大量非法的物品
+v 拖 拉 拽
+
+haunt
+v 常出没于 (不快的事情)萦绕于 
+
+
+hay
+n 干草
+v 把...制成干草
+
+hazard
+n 危险
+
+
+
+
+
+
+
+
+
+
 
 
 
