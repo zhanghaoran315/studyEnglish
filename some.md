@@ -1174,6 +1174,9 @@ n 插图 实例
 illustrative
 a 说明性的 解释性的
 
+imaginary
+a 假想的 虚构的
+
 impose
 v 强制实行 把...强加于
 
