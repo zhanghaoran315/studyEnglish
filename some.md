@@ -1090,7 +1090,7 @@ ad 不错 的确
 
 harness
 n 马具
-v 控制 治理
+v 控制 利用
 
 hatch
 n 舱口 舱门
@@ -1110,6 +1110,114 @@ v 把...制成干草
 
 hazard
 n 危险
+
+haze
+n 薄雾
+
+hazy
+a 朦胧的 有薄雾的
+
+herd
+n 兽群 人群
+
+highlight
+n 最好的部分
+v 突出 强调
+
+hijack
+v 抢劫 劫持
+
+hinder
+v 阻碍 妨碍 阻挡
+
+hint
+n 提示 暗示
+v 提示 暗示
+
+historical
+a 与历史有关的
+
+honor
+n 荣誉 荣幸
+v 尊重 给...以荣誉
+
+humble
+a 谦逊的 虚心的
+
+idiom
+n 习语 成语 惯用语
+
+idiomatic
+a 惯用的
+
+idle
+a 空闲的 闲置的 无事可做的
+
+idly
+ad 漫步尽心地 闲散地
+
+illegal
+a 非法的 违法的
+
+illusion
+n 错觉 幻觉
+
+illusory
+a 错觉的 产生幻觉的
+
+illustrate
+v (举例)说明 (作图)解释
+
+illustration
+n 插图 实例
+
+illustrative
+a 说明性的 解释性的
+
+impose
+v 强制实行 把...强加于
+
+imposing
+a 使人印象深刻的
+
+imposition
+n 征收 强加
+
+impress
+v 给...留下深刻印象 使意思到
+
+impulse
+n 冲动 一时的念头
+
+impulsive
+a 易冲动的
+
+impulsive
+a 易冲动的
+
+incentive
+n 刺激 激励 鼓励
+
+incline
+n 斜坡
+v 使倾向于 使倾斜
+
+inclination
+n 倾向 意愿
+
+hostile
+a 敌对的 敌意的 强烈反对
+
+hostility
+n 敌对 敌意 强烈反对
+
+
+
+
+
+
+
+
 
 
 
