@@ -1087,6 +1087,23 @@ v 批准 同意
 granted
 ad 不错 的确
 
+grief
+n 悲痛 悲伤
+
+grieve
+v 使悲痛 使悲伤
+
+grievous
+a 极严重的
+
+grind-ground-ground
+n 苦差事
+v 磨碎 磨粉
+
+grip
+n 紧握 紧抓
+v 紧握 紧抓
+
 
 harness
 n 马具
@@ -1187,7 +1204,7 @@ imposition
 n 征收 强加
 
 impress
-v 给...留下深刻印象 使意思到
+v 给...留下深刻印象 使意识到
 
 impulse
 n 冲动 一时的念头
@@ -1213,6 +1230,82 @@ a 敌对的 敌意的 强烈反对
 
 hostility
 n 敌对 敌意 强烈反对
+
+imply
+v 暗示 隐含 意味着
+
+implication
+n 可能的结果 含义
+
+incidentally
+ad 顺便提一句 附带地
+
+
+function
+n 功能 函数
+v 起作用 运转
+
+indicate
+v 1.指示 表明
+2.象征 暗示
+
+indicate
+v 1.指示 表明 象征 暗示
+
+indicator
+n 指示物 指示灯 指针
+
+indicator
+n 指示物 指示灯 指针
+
+dispensable
+a 可有可无的
+
+induce
+v 1.引起 导致
+2.引诱 劝说
+
+inducement
+n 引诱 刺激
+
+inevitable
+a 不可避免的 必然发生的
+
+infect
+v 传染 使感染
+
+infectious
+a 传染性的 感染的
+
+inferior
+n 下级
+a 下级的 下等的 较差的
+
+inferiority
+n 下级 次等
+
+inform
+v 1.通知 告知
+2.告发 检举
+
+informative
+a 提供有用信息的 使人增进知识的
+
+ingredient
+n 1.组成部分 成分
+2.原料 配料
+3.要素 因素
+
+initiative
+n 自发性 主动性 主动权 法案 倡议
+
+
+
+
+
+
+
+
 
 
 
