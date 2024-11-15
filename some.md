@@ -1212,9 +1212,6 @@ n 冲动 一时的念头
 impulsive
 a 易冲动的
 
-impulsive
-a 易冲动的
-
 incentive
 n 刺激 激励 鼓励
 
@@ -1248,9 +1245,6 @@ v 起作用 运转
 indicate
 v 1.指示 表明
 2.象征 暗示
-
-indicate
-v 1.指示 表明 象征 暗示
 
 indicator
 n 指示物 指示灯 指针
@@ -1296,8 +1290,43 @@ n 1.组成部分 成分
 2.原料 配料
 3.要素 因素
 
+initiate
+n 新加入者
+v 开始 发起
+
+initiation
+n 开始 发起
+
 initiative
-n 自发性 主动性 主动权 法案 倡议
+n 倡议 自发性 主动性 主动权 
+
+institute
+n 学院 研究院 研究所
+v 建立 实行
+
+institution
+n 机构 制度 建立 风俗习惯
+
+institutional
+a 机构的
+
+instruct
+v 命令 指示
+
+instruction
+n 指导 说明
+
+integrate
+v 使结合 使融入 使成为一体
+
+integration
+n 整合 集成
+
+
+
+
+
+
 
 
 
