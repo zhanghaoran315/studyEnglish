@@ -1035,8 +1035,7 @@ exclusive
 n 独家新闻
 a 独有的 排外的
 
-excursion
-n 远足 短途旅行
+
 
 exert
 v 施加 发挥 努力
