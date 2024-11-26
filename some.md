@@ -997,7 +997,7 @@ emergence
 n 出现 兴起
 
 emission
-n 发射 排放
+n 排放
 
 emit
 v 发出
