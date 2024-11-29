@@ -1,11 +1,7 @@
 # sui
 
 ```
-pepper
-n
-v 
-
-
+penalty
 
 
 ```
