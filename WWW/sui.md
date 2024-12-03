@@ -1,17 +1,22 @@
 # sui
 
 ```
-omission
-n 省略 删除 遗漏
+outdated
+a 过时的 陈旧的
 
-omission
-n 省略 删除 遗漏
+overdue
+a 早该发生的 逾期未还的 过期未付的
 
-omit
-v 省略 
+
+
+
 
 
 ```
+
+
+
+
 
 
 
