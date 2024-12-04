@@ -1,15 +1,9 @@
 # sui
 
 ```
-outdated
-a 过时的 陈旧的
-
-overdue
-a 早该发生的 逾期未还的 过期未付的
-
-
-
-
+portable
+n 便携式设备
+a 手提的 便携式的 轻便的
 
 
 ```
