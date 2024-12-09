@@ -1,9 +1,20 @@
 # sui
 
 ```
-privilege
-n 特权 荣幸
-v 给予特权 特别优待
+provoke
+v1.激怒 煽动 挑衅
+2.引起 激起
+
+provoke
+v1.激怒 
+
+provocation
+n 激怒 煽动 挑衅
+
+provocative
+a 煽动的 挑衅的
+
+
 
 
 ```
