@@ -1,80 +1,36 @@
 # sui
 
 ```
-shock
-n 休克 震惊 惊愕
-v 
+roll
+n 卷 名单
+v 翻滚 滚动 把...卷起来
 
-shoot
-v 拍摄 射击
+roller
+n 滚筒 滚轴
 
-shoot
-v 拍摄 射击
+rope
+n 绳索
+v 捆 绑
 
-shore
-n 海滨
-v 支撑 使稳住
+rose
+n 玫瑰
+a 玫瑰色的
 
-shortcoming
-n 缺点 短处
+rosy
+a 粉红色的 红润的 美好的
 
-shortcoming
-n 缺点 短处
+rough
+a 粗糙的 粗略的 粗暴的
 
-shout
-v 呼喊 大声说
+roughly
+ad 粗糙的 粗略的 粗暴的
 
-shout
-v 呼喊 大声说
+rouse
+v 唤醒 激起
 
-shout
-v 
-
-shrimp
-n 虾 小分子
-
-shrink
-v 缩小 收缩 减少
-
-shrink
-v 缩小 收缩 减少
-shrink-shrank-shrunk
-
-shrug
-n
-v 耸肩
-
-shrug
-n
-v 耸肩
-
-sideways
-a 向侧面的
-ad 向侧面地 侧着
-
-siege
-n
-v 围攻  包围
-
-sight
-n 视力 视觉 看见 景象
-v 看到 发现
-
-sight
-n 视力 视觉 看见 景象
-v 
-
-sightseeing
-n 观光 浏览
-a 观光的 浏览的
-
-sightseeing
-n 观光 浏览
-a 观光的 浏览的
-
-
-
-
+route
+n 路线 航线 
+v 按某路线发送
 
 
 
