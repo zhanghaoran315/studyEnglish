@@ -1,40 +1,16 @@
 ```
-society
-n 社会 社团
+resemblance
+n 相似 相像
 
-sore
-n 痛处
-a 疼痛的
+reservation
+n 预定 预约 保留 自然保护区
 
-sorrow
-n 
-v 懊悔 遗憾
-
-species
-n
-a 物种上的
-
-specify
-v 列举 详细说明
-
-
-soak
-
-span
-n 跨度 范围
-v 跨越 持续
-
-
-solvent
-n 溶剂
-a 有溶解能力的 可溶解的
+reserve
+n 储量 自然保护区
+v 预定 预约 保持 保留
 
 
 
-
-
-
-
-
+residence
 ```
 
