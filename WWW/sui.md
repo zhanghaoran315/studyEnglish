@@ -1,62 +1,210 @@
 ```
-propose
-v 建议 提议 求婚 
-计划 打算
+preview
+n 
+
+primary
+a
+
+primarily
+ad 
+
+prime
+a 
+
+principal
+n
+a
+
+prior
+a
+
+priority
+n 
+
+privilege
+n
+v 
+
+procedure
+n 
+
+proceed
+v 
+
+process
+n
+v 
+
+proclamation
+n
+
+profit
+n
+v 
+
+profitable
+a 
+
+profound
+a 
+
+progress
+n
+v
+
+prominence
+n 
+
+promise
+n
+v
+
+
+promising
+a
+
+promote
+v 
+
+prompt
+n
+v
+a
+
+proportion
+n 
 
 propose
-v 建议 提议 求婚
-计划 打算
+v 
 
-propose
-v 建议 提议 求婚
-计划 打算
+proposal
+n
 
 proposition
-n 建议 提议
-
-proposition
-n 建议 提议
-
-
-prose
-n 散文
-
-prose
-n 散文
-
-prose
-n 散文
+n
 
 prospect
-n 前景 前途 可能性
-v 勘探
-
-
-prospect
-n 前景 前途 kenengxi
-
-prospective
-a 可能的 潜在的 即将发生的
+n
+v
 
 prospective
 a 
 
-protect
-v 保护 防护 提供保险
-
-protect
-v 
-
-protection
-n 保护 防护 保险
-
-
-protective
-a 保护的 防护的
-
 protest
 n
-v 抗议 反对
+v
+
+proof
+n
+a
+
+prove
+v 
+
+provided
+c
+
+provincial
+a 
+
+provision
+n
+
+provoke
+
+provocation
+n 
+
+provocative
+a
+
+publication
+n
+
+publicity
+n
+
+publicize
+v 
+
+publicly
+ad
+
+pump
+n
+v 
+
+punch
+n
+v 
+
+punctuality
+n
+
+purify
+v
+
+purpose
+n 
+
+purposeful
+a 
+
+pursue
+v 
+
+pursuit
+n
+
+puzzle
+n
+v
+
+quake
+n
+v 
+
+qualify
+v 
+
+qualification
+n 
+
+qualitative
+a 
+
+quantify
+v 
+
+quantitative
+a 
+
+quarrel
+n
+v
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
