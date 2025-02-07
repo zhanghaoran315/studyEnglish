@@ -1,7 +1,12 @@
 # EEEE
 
 ```
-qualification
-n 资格 资历 学历 限定条件
+relevance
+n 关联 相关性
+
+relevant
+a 相关的
+
+
 ```
 
