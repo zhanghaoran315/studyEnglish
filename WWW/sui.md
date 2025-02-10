@@ -328,6 +328,223 @@ n
 represent
 v 
 
+reveal
+v
+
+revenue
+n
+
+reverse
+n
+v
+
+reversal
+n
+
+reversible
+a
+
+scary
+a 
+
+reward
+n
+v 
+
+rewarding
+a 
+
+riddle
+n 
+
+
+riot
+n
+
+rival
+n 
+v
+
+rivalry
+n
+
+rob
+v 
+
+robbery
+n
+
+rosy
+a
+
+rub
+v
+
+rubber
+n
+a 
+
+ruin
+n
+v
+
+ruinous
+a 
+
+rural
+a 
+
+rush
+n 
+v 
+
+sack
+n 
+v 
+
+sake
+n
+
+scale
+n 大小 规模 比例
+v 攀登 改变...的大小
+
+scandalous
+a 丑闻的 可耻的
+
+scar
+n 疤 伤痕
+v 结疤 留伤痕
+
+scarce
+a 缺乏的 不足的
+ad 仅仅 几乎不
+
+scarcely
+ad 几乎不 简直不
+
+scenic
+a 风景优美的 舞台的
+
+scent
+n 气味 香味
+v 发觉 闻到
+
+scheme
+n 计划 规划 图解 图表
+v 想 认为 拟定计划 搞阴谋
+
+sight
+n 视力 视觉 看见 景象
+v 发现 看见
+
+seize
+v 抓住 夺取 把握
+
+sense
+n
+v 检测
+
+sequence
+n 系列 顺序
+v 按顺序排好
+
+sequential
+a 按次序的 顺序的
+
+sharp
+a 锋利的 急剧的 强烈的
+ad
+
+shed
+n 棚 厂房 库房
+v 流出 摆脱
+
+sheer
+a 纯粹的 完全的 陡峭的
+
+shelter
+n 
+v 掩蔽 躲避
+
+shock
+n 休克 震惊 惊愕
+v 使震惊 使惊愕
+
+shore
+n 海滨
+v 支撑 使稳住
+
+shout
+v 呼喊 大声说
+
+shrimp
+n 虾 小个子
+
+shrink
+v
+
+sightseeing
+n
+a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,22 +1,35 @@
 # EEEE
 
 ```
-remain
-n
+scary
+a 恐怖的 吓人的
+
+scatter
+v 分散 散开 使散播
+
+scatter
+v 分散 散开 使散播
+
+sight
+n 视力 视觉 看见 景象
 v 
 
-resent
-v 怨恨 愤恨
 
-resume
-n 简历 概要 摘要
-v 重新开始 
+seize
+v 抓住 夺取 把握
 
-resumption
+seize
+v 
 
-retreat
-n
-v 撤退 离开 退却
+seizure
+n 夺取 没收
+
+seizure
+n 夺取 没收
+
+selective
+a 精心挑选的 选
+
 
 ```
 
