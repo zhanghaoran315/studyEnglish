@@ -488,6 +488,534 @@ sightseeing
 n
 a 
 
+spark
+n
+v
+
+sparkle
+n
+v
+
+singular
+n
+a
+
+species
+n
+a
+
+sketch
+n
+v
+
+specify
+v 
+
+span
+n
+v
+
+sore
+n
+a
+
+sorrow
+n
+v
+
+slide
+n
+v
+slide-slid-slid
+
+skeleton
+n
+a
+
+slavery
+n
+
+slender
+a 
+
+slim
+v
+a 
+
+slip
+v 
+
+sober
+v
+a 
+
+society
+n 
+
+soluble
+a 
+
+sort
+n
+v
+
+sow
+n
+v 
+
+spade
+n 
+
+
+special
+n
+a 
+
+specialty
+speciality
+n
+
+specification
+n 
+
+speculate
+v 
+
+spill
+n
+v 溢出 流出
+
+spin
+v 纺纱 吐丝 旋转 眩晕
+
+spit
+n 吐痰 唾液
+v 
+
+split
+n 裂口 裂缝 分裂 分歧
+v 使分裂 使分歧 分摊 分享
+
+stain
+n 污渍 污点
+v 染色 玷污
+
+stainless
+a 不锈钢的 无瑕疵的
+
+survey
+n 调查 测量
+v 查看 审查
+
+survive
+v 生存 存活 幸存 幸免于难
+
+splash
+n 飞溅声 污点
+v 溅 泼
+
+strain
+n 拉紧 扭伤 张力
+v 拉紧 尽力
+
+submit
+v 提交 屈服 顺从 投降
+
+supervise
+v 监督 管理 指导
+
+supervision
+n 监督 管理
+
+supplement
+n 增补物 增刊 附加费
+v 增补 补充
+
+supplementary
+a 补充的 追加的
+
+spell
+n
+v 
+
+spelling
+n 拼写 拼法
+
+spontaneous
+a 自发的 自然的
+
+spontaneous
+a 自发的 自然的
+
+spontaneity
+n 自发性 自然
+
+spot
+n 地点 场所 斑点 污渍
+v 发现 注意到
+
+squeeze
+v 挤压 挤 捏
+
+stack
+n 堆栈 一堆 大量 许多
+v 堆积
+
+stimulant
+n 兴奋剂
+a 使人兴奋的
+
+stimulate
+v 促进 刺激 激励
+
+stimulation
+n 促进 刺激 激励
+
+strike
+n 罢工
+v 罢工 撞击 击打
+strike-struck-struck
+
+striking
+a 显著的 惊人的
+
+striking
+a 显著的 惊人的
+
+stroke
+n
+v
+
+
+subject
+n 主题 科目
+v 使臣服 使顺从
+a 服从于
+
+submission
+n 提交 投降 意见
+
+submissive
+a 服从的 顺从的
+
+substitute
+n 代替者 代用品
+v 代替 取代
+
+substitution
+n 代替 置换
+
+subtract
+v 减 减去
+
+suck
+v 吸 吮吸
+
+sufficient
+a 足够的 充分的
+
+superiority
+n 优秀 优越
+
+surrender
+n
+v 投降 放弃
+
+suspend
+v 暂停 推迟 延缓
+
+suspend
+v 暂停 推迟 延缓 悬 挂 吊
+
+suspend
+v 暂停 推迟 延缓 悬 挂 吊
+
+suspension
+n 暂停 推辞 停职
+
+terrify
+v 使恐惧 使惊吓
+
+thought
+n 思想 思考 想法 主义
+
+thoughtful
+a 深思的 体贴的 周到的
+
+tolerable
+a 可以的 可容忍的
+
+tolerable
+a 可以的 
+
+torture
+n
+v 折磨 拷问
+
+transmission
+n 传播 传送 发射
+
+transmission
+n 传播 传送 发射
+
+treasure
+n 财富 珍宝
+v 珍爱 珍藏
+
+undertake
+v 承诺 承担 负责 从事
+
+undertaking
+n 任务 工作
+
+uniform
+n
+a 一致的 统一的
+
+uniform
+n 
+a 一致的 统一的
+
+uniform
+n
+a 一致的 统一的
+
+
+unprecedented
+a 空前的 前所未有的
+
+vain
+a 徒劳的
+
+vain
+a 徒劳的
+
+vanity
+n 虚荣 虚荣心
+
+view
+n
+v
+
+vanish
+v 消失 突然不见
+
+versatile
+a 多才多艺的 多功能的
+
+versatile
+a 多才多艺的 
+
+
+vigorous
+a 充满活力的 精力充沛的
+
+vigorous
+
+virtually
+ad 实际上 几乎
+
+visible
+a 明显的 看得见的
+
+visual
+a 视力的 视觉的
+
+
+wage
+n 工资 
+v 发动 进行
+
+ware
+n 物品 器皿
+
+withdraw
+v 撤销 收回 撤退 提取
+
+withdraw
+v 撤销 收回 撤退 提取
+
+withdraw
+withdrew
+withdrawn
+
+withstand
+v 承受 经受住
+
+withstand
+v 承受 经受住
+
+withstand
+v 承受 经受住
+
+worthless
+a 无价值的 不值钱的
+
+worthless
+a 无价值的 不值钱的
+
+worthy
+n 杰出人物
+a 值得的
+
+worthiness
+n 值得 有价值
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
