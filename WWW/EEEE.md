@@ -1,52 +1,65 @@
 # EEEE
 
 ```
-transfer
-n 转移 传递
-v 转移 传递 转让
+refrain
+v 克制 抑制 忍住
 
-transference
-n
+refrain
+v 克制 抑制 忍住
 
-undermine
-v 破坏 逐渐削弱
+recall
+n 记忆力 记性 召回
+v 回忆起 记起 召回
 
-upright
-a 正直的 垂直的 诚实的
+record
+n 记录 记载 记录 唱片
+v 
 
-upright
+recover
+v 
+
+regulate
+v 管理 控制 调整
+
+regulatory
+a 管理的 控制的 调整的
+
+relay
+n 接力赛
+v 转发 转播
+
+relay
+n 接力赛 
+v 转发 转播
+
+relief
+n 减轻 缓和 救济
+
+religious
 a 
 
-upset
-n
-v
+
+readily
 a
 
-sustainability
-n 持续性
+reason
+n 理由 原因
+v 
 
-tedious
-a 乏味的 厌烦的
+publicity
+n 宣传 关注
 
-tedious
-a 乏味的 厌烦的
 
-valid
-a 有效的 合理的 正当的
 
-validate
-v 确认 证实 验证
 
-validate
-v 确认 证实 验证
 
-validity
-n 有效性 合法性
 
-tackle
 
-trifle
-n 琐事 小事 稍微 少量
+
+
+
+
+
 
 
 

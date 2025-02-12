@@ -85,24 +85,24 @@ n
 
 prospect
 n
-v
+v 勘探
 
 prospective
-a 
+a 即将发生的
 
 protest
-n
-v
+n 抗议 反对
+v 抗议 反对
 
 proof
 n
 a
 
 prove
-v 
+v 证明 证实 显示
 
 provided
-c
+c 假如 如果
 
 provincial
 a 
@@ -111,6 +111,7 @@ provision
 n
 
 provoke
+v 激怒 煽动 挑衅 引起 激起
 
 provocation
 n 
@@ -119,7 +120,7 @@ provocative
 a
 
 publication
-n
+n 出版 发行 出版物
 
 publicity
 n
@@ -129,6 +130,10 @@ v
 
 publicly
 ad
+
+pulse
+n 脉搏 节奏
+v 跳动
 
 pump
 n
@@ -157,12 +162,12 @@ pursuit
 n
 
 puzzle
-n
-v
+n 谜 拼图 智力游戏
+v 
 
 quake
 n
-v 
+v 震动 发抖 颤抖 地震
 
 qualify
 v 
@@ -189,18 +194,18 @@ n
 v 
 
 raise
-n
-v
+n 加薪
+v 举起 提起 提高 增加 募集 提出 抚养 饲养
 
 
 rally
-n
-v
+n 
+v 集合 召集 振作精神 恢复健康
 
 rank
 n
-v
-a
+v 排列
+a 恶臭的 过于茂盛的
 
 radical
 n
@@ -210,8 +215,8 @@ raging
 a 
 
 raid
-n
-v
+n 突袭 抢劫 突击检查
+v 突袭 抢劫 突击检查
 
 rail
 n
@@ -221,17 +226,23 @@ rate
 n
 v 
 
+rating
+n 等级 级别 收视率
+
 quota
 n
 v
 
 rack
-n
-v 
+n 支架 架子
+v 使痛苦 折磨
 
 rage
-n
-v
+n 狂怒 暴露
+v 发怒 怒斥
+
+rarity
+n 罕见 稀有 珍品
 
 realistic
 a
@@ -297,11 +308,11 @@ relish
 v 
 
 remain
-n 
-v 
+n 遗体 残骸 剩余物
+v 留下 剩下 保持
 
 remainder
-n 
+n 余数 剩余物 剩余时间
 
 retain
 v 
@@ -860,6 +871,106 @@ a 值得的
 
 worthiness
 n 值得 有价值
+
+scale
+n 大小 规模 比例
+v 攀登 改变...的大小
+
+scale
+n 大小 规模 比例
+
+scent
+n 气味 香味
+v 发觉 闻到
+
+renewable
+a 可再生的 可更新的 可继续的
+
+renovate
+v 更新 修复 革新 翻新
+
+transfer
+n 转移 传递
+v 转移 传递 转让
+
+transference
+n
+
+undermine
+v 破坏 逐渐削弱
+
+upright
+a 正直的 垂直的 诚实的
+
+upright
+a 
+
+upset
+n
+v
+a
+
+sustainability
+n 持续性
+
+tedious
+a 乏味的 厌烦的
+
+tedious
+a 乏味的 厌烦的
+
+valid
+a 有效的 合理的 正当的
+
+validate
+v 确认 证实 验证
+
+validate
+v 确认 证实 验证
+
+validity
+n 有效性 合法性
+
+tackle
+
+trifle
+n 琐事 小事 稍微 少量
+
+triumph
+
+
+solvent
+n 溶剂
+a 有溶解能力的
+
+
+sow
+n 母猪
+v 播种 散布
+
+scary
+a 恐怖的 吓人的
+
+scatter
+v 分散 散开 使散播
+
+ruin
+n 破坏 毁灭 破产
+v 破坏 毁灭 使破产
+
+
+resolve
+v 解决 决心 决定
+
+resort
+n  
+v 求助 采取 
+
+
+
+
+
+
 
 
 
