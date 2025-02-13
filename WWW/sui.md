@@ -50,7 +50,11 @@ a
 
 progress
 n
-v
+v 进步 进展 前进 行进
+
+progressive
+n
+a
 
 prominence
 n 
