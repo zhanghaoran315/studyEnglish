@@ -49,6 +49,13 @@ v
 publicity
 n 宣传 关注
 
+near
+a 近的
+ad 在附近 几乎 差不多
+p 在附近 接近 靠近
+
+
+
 
 
 
