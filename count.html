@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MD文件单词统计</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; }
+        .result { margin-top: 20px; font-size: 18px; color: #333; }
+    </style>
+</head>
+<body>
+    <h1>上传MD文件统计唯一单词数量</h1>
+    <input type="file" id="fileInput" accept=".md">
+    <button onclick="uploadFile()">上传并统计</button>
+    <div id="result" class="result"></div>
+
+    <script>
+        function uploadFile() {
+            const fileInput = document.getElementById('fileInput');
+            const file = fileInput.files[0];
+            if (!file) {
+                alert('请先选择一个MD文件！');
+                return;
+            }
+
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const content = e.target.result;
+                // 使用marked将MD转换为HTML
+                const html = marked.parse(content);
+                // 从HTML中提取纯文本
+                const text = new DOMParser().parseFromString(html, 'text/html').body.textContent;
+                // 提取单词，忽略大小写
+                const words = text.match(/\w+/g) || [];
+                const uniqueWords = new Set(words.map(word => word.toLowerCase()));
+                // 显示结果
+                document.getElementById('result').innerHTML = `唯一单词数量：${uniqueWords.size}`;
+            };
+            reader.readAsText(file);
+        }
+    </script>
+</body>
+</html>
