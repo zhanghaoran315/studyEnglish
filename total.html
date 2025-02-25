@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MD文件单词统计（支持拖动上传）</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; text-align: center; }
+        .drop-zone { 
+            border: 2px dashed #ccc; 
+            padding: 40px; 
+            margin: 20px 0; 
+            background: #f9f9f9; 
+            cursor: pointer; 
+        }
+        .drop-zone.dragover { 
+            background: #e0e0e0; 
+            border-color: #666; 
+        }
+        .result { margin-top: 20px; font-size: 18px; color: #333; }
+    </style>
+</head>
+<body>
+    <h1>上传或拖动MD文件统计唯一英文单词数量</h1>
+    <input type="file" id="fileInput" accept=".md" style="display: none;">
+    <label for="fileInput" class="drop-zone" id="dropZone">
+        点击选择MD文件或将MD文件拖到此处
+    </label>
+    <button onclick="uploadFile()">上传并统计</button>
+    <div id="result" class="result"></div>
+
+    <script>
+        function countUniqueWords(text) {
+            const words = text.match(/[a-zA-Z]+/g) || [];
+            console.log('提取的单词:', words); // 调试用
+            const uniqueWords = new Set(words.map(word => word.toLowerCase()));
+            return uniqueWords.size;
+        }
+
+        function uploadFile() {
+            const fileInput = document.getElementById('fileInput');
+            const file = fileInput.files[0];
+            if (!file) {
+                alert('请先选择一个MD文件！');
+                return;
+            }
+            processFile(file);
+        }
+
+        function processFile(file) {
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const content = e.target.result;
+                console.log('文件内容:', content); // 调试用
+                const count = countUniqueWords(content);
+                document.getElementById('result').innerHTML = `文件中唯一英文单词数量：${count}`;
+            };
+            reader.readAsText(file);
+        }
+
+        // 拖动上传功能
+        const dropZone = document.getElementById('dropZone');
+        dropZone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropZone.classList.add('dragover');
+        });
+
+        dropZone.addEventListener('dragleave', () => {
+            dropZone.classList.remove('dragover');
+        });
+
+        dropZone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropZone.classList.remove('dragover');
+            const file = e.dataTransfer.files[0];
+            if (file && file.name.endsWith('.md')) {
+                processFile(file);
+            } else {
+                alert('请拖入一个MD文件！');
+            }
+        });
+
+        // 点击上传
+        document.getElementById('fileInput').addEventListener('change', () => {
+            const file = document.getElementById('fileInput').files[0];
+            if (file) {
+                processFile(file);
+            }
+        });
+    </script>
+</body>
+</html>
