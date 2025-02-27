@@ -7,38 +7,87 @@
     <style>
         body { font-family: Arial, sans-serif; max-width: 800px; margin: 20px auto; }
         .result { margin-top: 20px; font-size: 18px; color: #333; }
+        .file-item { margin: 10px 0; padding: 10px; border: 1px solid #ddd; }
+        .total { font-weight: bold; margin-top: 15px; }
+        .clear-btn { margin-left: 10px; }
     </style>
 </head>
 <body>
-    <h1>上传MD文件统计所有唯一英文单词数量</h1>
-    <input type="file" id="fileInput" accept=".md">
-    <button onclick="uploadFile()">上传并统计</button>
+    <h1>上传MD文件统计所有唯一英文单词数量（支持分次上传）</h1>
+    <input type="file" id="fileInput" accept=".md" multiple>
+    <button onclick="uploadFiles()">上传并统计</button>
+    <button onclick="clearResults()" class="clear-btn">清除所有结果</button>
     <div id="result" class="result"></div>
 
     <script>
+        let allResults = []; // 存储所有文件的结果
+        let totalUniqueWords = new Set(); // 存储所有唯一单词
+
         function countUniqueWords(text) {
             const words = text.match(/[a-zA-Z]+/g) || [];
-            console.log('words', words);
             const uniqueWords = new Set(words.map(word => word.toLowerCase()));
             return uniqueWords.size;
         }
 
-        function uploadFile() {
+        function uploadFiles() {
             const fileInput = document.getElementById('fileInput');
-            const file = fileInput.files[0];
-            if (!file) {
-                alert('请先选择一个MD文件！');
+            const files = Array.from(fileInput.files);
+            const resultDiv = document.getElementById('result');
+
+            if (files.length === 0) {
+                alert('请先选择至少一个MD文件！');
                 return;
             }
 
-            const reader = new FileReader();
-            reader.onload = function(e) {
-                const content = e.target.result;
-                console.log(content);
-                const count = countUniqueWords(content);
-                document.getElementById('result').innerHTML = `文件中唯一英文单词数量：${count}`;
-            };
-            reader.readAsText(file);
+            resultDiv.innerHTML = '正在处理...';
+            let completed = 0;
+            const newResults = [];
+
+            files.forEach((file, index) => {
+                // 检查是否已上传过同名文件
+                if (allResults.some(result => result.name === file.name)) {
+                    alert(`文件 "${file.name}" 已上传过，将被跳过！`);
+                    completed++;
+                    return;
+                }
+
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    const content = e.target.result;
+                    const uniqueCount = countUniqueWords(content);
+                    newResults[index] = { name: file.name, count: uniqueCount };
+
+                    // 将新单词加入总数统计
+                    const words = content.match(/[a-zA-Z]+/g) || [];
+                    words.forEach(word => totalUniqueWords.add(word.toLowerCase()));
+
+                    completed++;
+                    if (completed === files.length) {
+                        // 将新结果追加到总结果中
+                        allResults = allResults.concat(newResults.filter(r => r)); // 过滤掉undefined
+                        allResults.sort((a, b) => a.name.localeCompare(b.name)); // 按文件名排序
+
+                        // 更新显示
+                        let output = '';
+                        allResults.forEach(result => {
+                            output += `<div class="file-item">${result.name}: ${result.count} 个唯一英文单词</div>`;
+                        });
+                        output += `<div class="total">所有文件中总计唯一英文单词数量: ${totalUniqueWords.size}</div>`;
+                        resultDiv.innerHTML = output;
+
+                        // 清空输入框
+                        fileInput.value = '';
+                    }
+                };
+                reader.readAsText(file);
+            });
+        }
+
+        function clearResults() {
+            allResults = [];
+            totalUniqueWords = new Set();
+            document.getElementById('result').innerHTML = '';
+            document.getElementById('fileInput').value = '';
         }
     </script>
 </body>
