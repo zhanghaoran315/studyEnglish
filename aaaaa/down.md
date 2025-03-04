@@ -291,10 +291,10 @@ workaholic
 n 工作狂
 
 agent
-n 代理人
+n 代理人 代理商
 
 agency
-n 代理机构
+n 代理 中介
 
 career
 n 生涯 职业 事业
@@ -325,6 +325,10 @@ n 餐巾 餐巾纸
 
 dessert
 n 甜点
+
+desert
+n 沙漠 荒原
+v 抛弃 遗弃 离弃 废弃
 
 formal
 a 正式的 正规的
@@ -358,6 +362,7 @@ a 有营养的
 
 nutrient
 n 营养物
+a 营养的
 
 muscle
 n 肌肉
@@ -393,9 +398,6 @@ a 补充的 追加的
 
 complement
 v 补充
-
-personal
-a 个人的
 
 personality
 n 性格 个性
@@ -531,6 +533,9 @@ a 习惯的
 deliver
 v 交付 发表 传送 分娩
 
+convey
+v 表达 传递 运送
+
 enterprise
 n 企业 公司
 
@@ -555,6 +560,9 @@ a 适当的 恰当的 抽象
 
 proper
 a
+
+apt
+a 适当地 恰当的
 
 overcome
 v 战胜 克服
@@ -684,10 +692,13 @@ oxide
 n 氧化物
 
 fluid
-n 流体
+n 流体 液体
 
 dioxide
 n 二氧化物
+
+dialog
+n
 
 dialogue
 n 对话 对白
@@ -707,12 +718,6 @@ flame
 n 火焰 橘红色
 v 燃烧 变红
 
-lame
-a
-
-lamp
-n 灯
-
 dial
 n 表盘 刻度盘
 v 拨号
@@ -721,7 +726,7 @@ particle
 n 颗粒 微粒
 
 particular
-a 特指的 特别的 挑剔的
+a 特殊的 特别的 格外的 挑剔的
 
 in particular
 尤其 特别
@@ -804,7 +809,7 @@ v 代表 表示 象征
 ify - v
 
 significant
-a 重要的 有意义的
+a 重要的 显著的 有意义的
 
 flexible
 a 灵活的 柔韧的
@@ -869,6 +874,9 @@ n 集中 专心 浓度
 metal
 n 金属
 
+mental
+a 精神的 思想的
+
 medal
 n 奖章 勋章
 
@@ -877,6 +885,9 @@ n 头盔
 
 horizon
 n 地平线 眼界 范围
+
+horizontal
+a 水平的
 
 guarantee
 n
@@ -923,29 +934,12 @@ v 测量
 measurement
 n 测量
 
-appropriate
-
-proper
-
-apt
-a 适当地 恰当的
 
 adapt
 v 使适应 改编
 
 adaptation
 n 适应 改编
-
-mountain
-n
-
-mount
-n 山
-v 攀登 登上 组织 开展 逐步增加
-
-amount
-n 总量
-v 总计
 
 double
 
@@ -1003,7 +997,7 @@ bridegroom
 groom
 n 新郎
 
-wayon
+wagon
 n 马车 货车车厢
 ```
 
@@ -1027,7 +1021,7 @@ a 单独的 个别的
 
 compromise
 n
-v 妥协 折中
+v 妥协 折中 和解
 
 catchy
 a 易记的
@@ -1100,23 +1094,13 @@ v 捆 绑
 ripe
 a 熟的 成熟的
 
-common
-n 公地
-a 普通的 普遍的 常见的 共同的 共有的 共享的
-
-communicate
-v 沟通 传达 传递
-
 howl
-n 嚎叫
+n 呼啸 怒吼 嚎叫
 v 呼啸 怒吼
 
 comment
 n 批评 评论
 v 表达意见
-
-mental
-a 精神的 思想的
 
 bronze
 n 青铜
@@ -1256,12 +1240,6 @@ voyage
 n 航行 航海
 
 元音字母可表示空间、时间、轻重大小
-
-bullet
-n 子弹
-
-bulletin
-n 公告 简报
 
 strategy
 n 战略部署 规划 策略
