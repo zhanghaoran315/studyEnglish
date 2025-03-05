@@ -1330,6 +1330,10 @@ pat
 n
 v 拍打 轻拍
 
+pet
+n 宠物
+v 抚摸 宠爱
+
 type
 n 类型 种类
 v 打字
@@ -1375,6 +1379,10 @@ v 尝试 试图
 trial
 n 审判 试验 试用 预赛
 
+trail
+n 小路 小径 足迹 痕迹
+v 跟踪 落后 拖 拉
+
 deed
 n 行动 行为
 
@@ -1418,6 +1426,7 @@ n
 
 parachute
 n 降落伞
+v 跳伞 空降 空投
 
 peg
 n 钉子 楔子
@@ -1465,6 +1474,10 @@ n 错误 缺点
 
 faulty = false
 
+fake
+a 假的 伪造的
+v 伪造 冒充
+
 pray
 v 祈祷
 
@@ -1505,12 +1518,6 @@ n 港口
 porch
 n 门廊 走廊
 
-sergeant
-n (陆军或空军)中士
-
-servant
-n 仆人 职员
-
 stubborn
 a 固执的 顽固的 倔强的
 
@@ -1527,9 +1534,6 @@ corp
 
 corporate
 a 公司的 法人的
-
-care
-n 照顾 照料 保养 护理 小心 谨慎 关心
 
 charity
 n 慈善 慈善机构
@@ -1548,6 +1552,9 @@ n 钱包
 grave
 n 坟墓
 a 严重的 重大的 严峻的
+
+bacterium
+n 细菌
 
 bacteria
 n 细菌
@@ -1648,10 +1655,13 @@ v 使兴奋 使激动
 bound
 n
 v 跳跃
-a bound to do、bound be sth
+a bound to do sth、bound be sth
 一定会 很可能会
+bound by
+受约束 有义务
 
 rebound
+n 篮板球
 v 反弹 弹回
 
 bind
@@ -1682,6 +1692,10 @@ crash
 n
 v 碰撞 崩溃
 
+crush
+n 拥挤的人群 迷恋
+v 压碎 使变皱 挤
+
 drama
 n 戏剧
 
@@ -1708,13 +1722,6 @@ a 残忍的 残酷的
 
 cruelty
 n 残忍 残酷
-
-owe
-v 欠 归因于 归功于
-
-own
-v 有 拥有 承认
-a 自己的
 
 avenue
 n 大街
@@ -1747,8 +1754,8 @@ n 罪犯
 a 犯罪的
 
 fire
-n 火
-v 射击 解雇
+n 火 火灾
+v 射击 解雇 开除
 
 hire
 v 雇用 聘用 租用 租借
@@ -1760,15 +1767,22 @@ bow
 n 弓
 v 鞠躬 低头 使弯曲
 
+bowl
+n 碗 盆 钵
+
+bowling
+n 保龄球
+
 accuse
 v 指责 控告
+
+accusation
+n 指责 控告
 
 excuse
 n 借口 原因
 v 原谅 宽恕
 
-pet
-n 宠物
 
 appetite
 n 胃口 食欲
@@ -1799,10 +1813,12 @@ v 逃跑 逃避
 flee-fled-fled
 
 junior
+n 年少者 青少年
 a 年少的
 
 senior
-a 年老的
+n 上级 较年长的人
+a 年老的 级别较高的
 
 interview
 n
@@ -1979,13 +1995,16 @@ suite
 n 一套 套间
 
 consult
-v 咨询 请教 查询 查阅 商量 商议
+v 请教 咨询 商量 商议 查询 查阅
 
 consultant
 n 顾问
 
 council
-n 委员会 理事会 顾问委员会
+n 委员会 理事会
+
+councilor
+n 委员 议员
 
 tiny
 a 极小的 微小的
@@ -2030,17 +2049,14 @@ beast
 n 野兽
 
 beauty
-n 野兽
+n 美人
 
 shallow
 a
 
 hollow
+n 孔 洞
 a 空洞的 空心的
-
-fake
-a 假的 伪造的
-v 伪造 冒充
 
 power
 n 能力 权利 力量 政权 幂
