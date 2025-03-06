@@ -487,6 +487,9 @@ n 木板
 atom
 n 原子
 
+molecule
+n 分子
+
 petroleum
 n 石油
 
@@ -1011,7 +1014,7 @@ v 滥用 虐待
 ab - 否定
 
 cooperate
-v 合作 配合
+v 合作 协作
 
 co - 共同
 
@@ -1149,7 +1152,7 @@ affect
 v 影响 使感染
 
 effect
-n 效果 结果
+n 效果 作用
 
 infect
 v 传染 使感染
@@ -1205,10 +1208,11 @@ destroy
 v 破坏 毁灭
 
 destruct
+v 破坏
 a 破坏的
 
 destruction
-n 破坏
+n 破坏 毁灭
 
 ancestor
 n 祖先 祖宗
@@ -2320,9 +2324,6 @@ n 疫苗
 catastrophe
 n 大灾难
 
-partner
-n 伙伴 合伙人
-
 welfare
 n 福利 幸福
 
@@ -2331,9 +2332,6 @@ n 偶像
 
 noble
 a 高尚的 高贵的
-
-pudding
-n 布丁 甜点
 
 nephew
 n 侄子 外甥
@@ -2354,7 +2352,9 @@ paradise
 n 天堂 乐园
 
 parallel
-a 平行的 同时发生的
+n 相似之处
+v 与...相似 与...同时发生
+a 平行的 相似的 同时发生的
 
 altai
 n 阿尔泰山
@@ -2370,6 +2370,7 @@ n 柠檬水
 
 fence
 n 围栏 栅栏 篱笆
+v 围住
 
 koala
 n 考拉
@@ -2395,9 +2396,6 @@ n 酸奶
 
 recipe
 n 食谱 配方 方法
-
-mushroom
-n 蘑菇
 
 bun
 n 小面包
@@ -2434,12 +2432,6 @@ a 蛰伏的 冬眠的
 
 dormitory
 n 宿舍 寝室
-
-champagne
-n 香槟
-
-mile
-n 英里
 
 fertile
 a 肥沃的 能生育的
@@ -2478,7 +2470,13 @@ persuade
 v 说服 劝说 使相信 使信服
 
 immune
-a 免疫的 有免疫力的 免除 豁免
+a 免疫的 免除的
+
+immunity
+n 免疫力 免除
+
+immunize
+v 使免疫 使免除
 
 deny
 v 否认 否定 拒绝
@@ -2518,7 +2516,7 @@ bunch
 n 捆 束 扎 大量 大批
 
 accumulate
-n 积累 堆积
+v 积累 堆积
 
 backyard
 n 后院
@@ -2540,7 +2538,7 @@ n
 a
 
 insane
-a 疯狂的 精神失常的
+a 疯狂的 愚蠢的 精神失常的
 
 vase
 n 花瓶
@@ -2550,6 +2548,9 @@ a 巨大的 辽阔的
 
 vessel
 n 轮船 容器
+
+vise
+n 老虎钳 签证
 
 swallow
 n 燕子
@@ -2609,6 +2610,9 @@ a 令人厌恶的
 disgust
 v 使反感 使厌恶
 
+gust
+n 一阵强风 一阵狂风
+
 dizzy
 a 头晕的 眩晕的
 
@@ -2666,8 +2670,6 @@ n 雄鹿 美元 澳元
 deer
 n 鹿
 
-molecule
-n 分子
 
 38
 ax
@@ -2727,10 +2729,11 @@ investigate
 v 调查 研究
 
 invest
-v 投资 投入
+v 投资 投入 授予 给予
 
 glue
 n 胶水
+v 黏合 粘牢
 
 typewriter
 n 打字机
@@ -2813,8 +2816,8 @@ subtraction
 n 减法 减少
 
 contract
-n 合同 契约
-v 收缩 缩小
+n 合同 合约
+v 缩小 收缩 感染 订约 订合同
 
 attract
 v 吸引 引起
@@ -2959,7 +2962,7 @@ composition
 n 组成 构成 作文 作曲
 
 oppose
-v 反对 与...对抗
+v 反对 抵制
 
 opposite
 n 反面 对立面
@@ -3031,6 +3034,7 @@ n
 
 destruct
 v 破坏
+a 破坏的
 
 destruction
 n 破坏 毁灭
@@ -3046,6 +3050,9 @@ v 指导 通知 命令 教授
 
 instruction
 n 指导 说明
+
+triple
+a 
 
 tribe
 n 部落 群 族
@@ -3092,7 +3099,7 @@ description
 n 描述 形容
 
 subscribe
-v 订约 订购
+v 订阅 订购
 
 sculpture
 n
@@ -3111,6 +3118,8 @@ n 克
 
 diagram
 n 图表 图解
+
+dia - 二者之间
 
 miss - 扔 投
 
