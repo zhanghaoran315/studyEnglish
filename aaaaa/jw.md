@@ -65,6 +65,13 @@ thick mist
 call out
 唤起 出动 大声叫唤
 
+leap
+n
+v 跳跃 激增 猛涨
+
+fireplace       
+n 壁炉  
+
 
 
 
