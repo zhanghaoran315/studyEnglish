@@ -19,6 +19,9 @@ n 地方官
 look out
 注意 面朝 照料
 
+look up
+仰望 查阅 尊敬 拜访
+
 shine
 v 闪耀 发光 照耀
 shine-shone-shone
@@ -327,28 +330,111 @@ v 麻烦 烦恼
 stay out of
 置身于...之外
 
+5
+
+demon
+n 魔鬼 恶魔 
+
+attack
+n
+v 攻击 袭击 进攻
+
+attach
+v 系上 附上 贴上
+
+attachment
+n 附件
+
+attain
+v 达到 实现 获得
+
+try to do sth
+努力 尽力做某事
+
+try doing sth
+尝试 试图做某事
+
+kidnap
+v 绑架 劫持
+
+nap
+n
+v 小睡
+
+比较状语从句
+as ... as ...
+形容词同级比较，和...一样
+
+not as ... as ...
+not so ... as ...
+不如...那样...
+
+as soon as 
+no sooner ... than
+一...就...
+
+amaze
+v 使惊讶 使惊愕
+
+gloom
+n 忧郁 黑暗
+
+gloomy
+a 悲观的 沮丧的 黑暗的 阴暗的
+
+sword
+n 刀 剑
+
+armor
+n 盔甲
+
+revenge
+n
+v 报复 报仇
+
+shriek
+n
+v 尖叫
+
+weapon
+n 武器
+
+pull
+v 拉 扯 拖 拽 拔出 抽出
+
+handful
+n 少数 一把
+
+blow
+n
+v 吹
 
 
+strand
+n 股 缕 部分 方面
+
+exactly
+ad 确切地 准确地 精确地
+
+at once
+立刻 马上
+
+kick
+n
+v 踢 踹
+
+before long
+不久之后 在短时间内
 
 
+beyond
+p 超过 超出 除...之外
 
+away
+ad 不在 离开
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+bother
+v 打扰 使烦恼
 
 
 
