@@ -436,6 +436,45 @@ ad 不在 离开
 bother
 v 打扰 使烦恼
 
+6
+fall down
+跌倒 倒塌 失败
+
+at all
+固定搭配，放在否定句句尾，根本，一点也不，在语气上表示对否定的一种加强
+
+octopus
+n 章鱼
+
+stab
+v 刺 戳 捅
+
+snort
+v (表示气愤或被逗乐)喷鼻息 哼
+
+stomp
+n
+v 跺脚
+
+outrage
+n 愤怒
+v 使愤怒
+
+treasury
+n 财宝库
+
+beam
+n 梁 束 光线
+v 笑容满面
+
+
+
+
+
+
+
+
+
 
 
 
