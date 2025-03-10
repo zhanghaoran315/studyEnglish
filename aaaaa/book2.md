@@ -7922,7 +7922,7 @@ recommand
 v 推荐 建议
 
 demand
-v 需要
+v 需要 要求
 
 insist
 v 坚持 坚决要求

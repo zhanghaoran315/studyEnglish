@@ -157,6 +157,9 @@ v 皱眉
 brow
 n 额头
 
+eyebrow
+n 眉毛
+
 sigh
 n
 v 叹气
@@ -243,11 +246,11 @@ knuckle
 n 指关节 指节
 
 rude
-a 
+a
 
 crude
 n 原油
-a 粗略的 粗糙的 
+a 粗略的 粗糙的
 
 prude
 n 过分守礼人 弹性色变者
@@ -333,7 +336,7 @@ stay out of
 5
 
 demon
-n 魔鬼 恶魔 
+n 魔鬼 恶魔
 
 attack
 n
@@ -369,7 +372,7 @@ not as ... as ...
 not so ... as ...
 不如...那样...
 
-as soon as 
+as soon as
 no sooner ... than
 一...就...
 
@@ -457,7 +460,7 @@ n
 v 跺脚
 
 outrage
-n 愤怒
+n 愤怒 暴行
 v 使愤怒
 
 treasury
@@ -466,6 +469,171 @@ n 财宝库
 beam
 n 梁 束 光线
 v 笑容满面
+
+7
+
+bet
+n
+v 打赌
+
+command
+n
+v 命令 控制 指挥
+
+make
+v 使变得；使成为
+
+clench
+v 紧握 攥紧
+
+let go
+let go of
+放开 释放
+
+yank
+v 猛拉 猛拽
+
+按照计划、打算应该做某事
+be supposed to do sth
+
+grow
+v 扩大 生长 长大 增加 增强
+grow-grew-grew
+
+forth
+ad 向前 离开
+
+back and forth
+来回地
+
+ghost
+n 鬼魂 幽灵
+
+step
+n 步
+v 踩踏 行走
+
+hold up
+举起 阻挡 拦截
+
+nonsense
+n 胡说 废话
+
+nervous
+a 焦虑的 紧张的
+
+pluck
+v 摘 拔 弹
+
+jar
+n 罐 坛 瓶
+
+cross out
+删去 注销
+
+messenger
+n 信使 邮递员
+
+
+demand
+v 需要 要求
+
+keep an eye on sth
+照看 留意 密切注视
+
+in charge
+in charge of
+charge of
+负责 主管
+
+hooray
+int 万岁 好极了
+
+eventually
+adv 最后 终于 = in the end = at last = finally = in time
+
+gasp
+v 喘气
+
+live up
+快乐的过日子
+
+show
+v 引 带 领
+
+take
+v 需要...时间 吃 对待 处理
+
+bite
+n
+v 叮 咬
+bite-bit-bitten
+
+go by
+经过 随便走访 凭...判断
+
+maiden
+n 少女
+
+gown
+n 礼服 长袍
+
+light up
+照亮 点亮
+
+cast a spell on sb
+用符咒迷惑; 迷住;
+
+moan
+n
+v 呻吟 抱怨
+
+no match for
+不能与...相比
+敌不过
+
+boom
+n
+v 发出低沉的声音
+
+get out of
+逃避 避免
+
+bang
+v 猛敲 碰撞
+
+perch
+n 鲈鱼
+v 栖息 使坐 坐在...的边缘
+
+hawk
+n 鹰
+
+swoop
+n
+v 俯冲 突然袭击
+
+flagpole
+n 旗杆
+
+come over
+过来 顺便拜访 抓住
+
+hurl
+v 投掷 猛扔 大声说出
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
