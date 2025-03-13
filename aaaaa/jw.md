@@ -267,6 +267,9 @@ n 残暴的人 暴君
 brutal
 a 残酷的 残暴的
 
+brutality
+n 残酷
+
 nappy
 n 尿布
 
