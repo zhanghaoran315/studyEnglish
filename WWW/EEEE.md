@@ -223,6 +223,125 @@ v 保证 担保 使确信 弄清除
 assurance
 n 保证 担保 自信 保险
 
+attribute
+n 属性 特征
+v 把..归因于 认为...是由于
+
+
+attributable
+a 可归因于
+
+attributive
+n 定语
+
+auditorium
+n 
+
+authentic
+a 真实的 真正的
+
+authenticity
+n 真实性
+
+authorize
+v 授权 批准
+
+authorize
+v 授权 批准
+
+automate
+v 使自动化
+
+automate
+v 使自动化
+
+awe
+n 敬畏 惊叹
+v 使敬畏 使惊叹
+
+awesome
+a 很好的 令人惊叹的
+
+awkward
+
+awkward
+a 笨拙的 令人尴尬的 棘手的 难应付的
+
+awkward
+a 
+
+badge
+n 徽章 标记
+
+bail
+n
+v 保释
+
+bankrupt
+v 使破产
+a 破产的
+
+bargain
+n 交易 协议 特价商品
+v 讨价还价
+
+beam
+n 梁 束 光线
+v 笑容满面
+
+beam
+n 梁 束 光线
+v 笑容满面
+
+bear
+n
+v 承受 忍受 带有 具有 生
+bear-bore-borne
+
+bias
+n 偏见 偏爱
+v 使偏心 使有偏见
+
+bid
+n
+v 出价 投标 努力尝试 争取
+
+bid
+n
+v
+bid-bade-bid
+
+boundary
+n 边界 分界线
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

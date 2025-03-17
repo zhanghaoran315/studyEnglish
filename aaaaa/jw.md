@@ -4,6 +4,10 @@
 
 ```
 
+dress
+n 连衣裙
+v 穿衣服 dress ... in
+
 jade
 n 玉 翡翠
 
