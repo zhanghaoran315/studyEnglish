@@ -4,6 +4,21 @@
 
 ```
 
+thirst
+n 渴 口渴
+
+thirsty
+a 渴的 口渴的
+
+cloak
+n 斗篷 披风 遮盖物
+v 掩盖 遮盖
+
+cloakroom
+n 衣帽间
+
+
+
 dress
 n 连衣裙
 v 穿衣服 dress ... in
