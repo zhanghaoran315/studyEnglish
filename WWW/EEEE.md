@@ -274,6 +274,540 @@ v 使泄气 使灰心
 
 distress
 
+extend
+v 扩大 延伸 伸展
+
+extended
+a 扩大的 延伸的
+
+extension
+n 扩大 延伸 伸展
+
+extensive
+广阔的 广大的
+
+extensive
+广阔的 广大的
+
+expand
+v 扩大 扩展
+
+expand
+v 扩大 扩展
+
+expansion
+n 扩大 扩展
+
+expansion
+n 扩大 扩展
+
+expansive
+a 广阔的 广大的
+
+expansive
+a 广阔的 广大的
+
+expend
+v 花费 支出
+
+expend
+v 花费 支出
+
+expenditure
+n 花费 支出
+
+expenditure
+n 花费 支出
+
+extinguish
+v 扑灭 熄灭 消灭
+
+extinguish
+v 扑灭 熄灭 消灭
+
+extinguish
+
+extinguish
+v 扑灭 熄灭 消灭
+
+extraordinary
+a 非凡的 特别的
+
+face
+n 脸面 
+v 面临 面对
+
+face
+n
+v 面临 面对
+
+facilitate
+v 促进 使便利
+
+facilitate
+v 促进 使便利
+
+facilitate
+v 促进 使便利
+
+facilitation
+n 促进 便利
+
+facility
+n 
+
+faithful
+a 忠诚的 忠实的
+
+faithful
+a 忠诚的 忠实的
+
+faithful
+a 忠诚的 忠实的
+
+fake
+n 假货 赝品
+v 假装 装桌
+a 假的 伪造的
+
+falsehood
+n 虚假 谎言
+
+falsehood
+n 虚假 谎言
+
+familiar
+a 熟悉的
+
+familiarity
+n 熟悉 通晓
+
+familiarize
+v 使熟悉 使通晓
+
+farewell
+
+fascinate
+v 吸引 迷住
+
+fascinating
+a 
+
+fascination
+n 迷人 吸引人
+
+fatigue
+n 
+v 
+
+feature
+n 
+v
+
+
+feature
+n
+v
+
+fierce
+a
+
+ferocity
+n 
+
+ferocity
+n
+
+finance
+n 财政 金融
+v 提供资金
+
+finance
+n
+v 
+
+financial
+a 财政的 金融的
+
+flaw
+n 瑕疵 缺点
+
+flaw
+n 瑕疵 缺点
+
+flawless
+a 无瑕疵的 完美的
+
+flock
+n 一大群 
+v 
+
+fluctuate
+v 起伏 波动
+
+fluctuate
+v 起伏 波动
+
+fluctuation
+n 起伏 波动
+
+
+fore
+n 前部
+a 前面的
+ad 在前面
+
+foresee
+v 预见 预知
+
+foresee
+v 预见 预知
+
+foresee
+v 
+
+foreseeable
+a 可预见的
+
+foreseeable
+a 可预见的
+
+foresight
+n 远见 深谋远虑
+
+foresight
+n 远见 深谋远虑
+
+foresight
+n 远见 深谋远虑
+
+foresight
+n 远见 深谋远虑
+
+
+forest
+n 森林
+
+forestry
+n 林业 林学
+
+forge
+v 锻造 魏总
+
+forge
+v 锻造 伪造
+
+forge
+v 锻造 伪造
+
+forge
+v
+
+forgery
+
+formal
+a 正式的 正规的
+
+formal
+a 正式的 正规的
+
+format
+n 格式 板式
+
+format
+n 格式 板式
+
+formula
+n 公式 配方 方案
+
+formula
+n 公式 配方 方案
+
+formulate
+v 制定
+
+formulate
+v 制定
+
+formulation
+n 制定 配方
+
+forth
+ad 向前 离开
+
+forth
+ad 向前 离开
+
+forth
+ad 向前 离开
+
+forthcoming
+a 即将到来的
+
+forthcoming
+a 即将到来的
+
+fortune
+n 运气 机会 财富
+
+fortune
+n 运气 机会 财富
+
+fortunate
+a 幸运的
+
+fortunate
+a 幸运的
+
+fossil
+n 化石
+a 化石的 守旧的
+
+fox
+n 狐狸
+
+fraction
+n 小部分 少量
+
+fraction
+n 小部分 少量
+
+fragment
+n 碎片 片段
+
+fragment
+n 碎片 片段
+v 使分裂 使破裂
+
+fragment
+n 碎片 片段
+v 使分裂 使破裂
+
+fragmentation
+n 分裂 破裂
+
+fragmentation
+n 分裂 破裂
+
+fragmentary
+a 残缺不全的
+
+fragmentary
+a 残缺不全的
+
+
+fragmentary
+a 残缺不全的
+
+frank
+a 坦白的 直率的
+
+frank
+a 坦白的 直率的
+
+frank
+a 坦白的 直率的
+
+frank
+a 坦白的 直率的
+
+freight
+n 货运 货物
+
+freight、
+n 货运 货物
+
+frontier
+n 边境 边界
+a 边界的
+
+frontier
+n 边境 边界
+a 边界的
+
+frontier
+n 边境 边界
+a 边界的
+
+
+frost
+n 霜
+
+frost
+n 霜
+
+frost
+n 霜
+v 结霜
+
+frost
+n 
+v 结霜
+
+frost
+n
+v
+
+frosty
+a 结霜的
+
+functional
+a 实用的
+
+functional
+a 实用的
+
+fundamental
+a 基本的  根本的
+
+fundamental
+a 基本的 根本的
+
+fundamental
+a 基本的 根本的
+
+funeral
+n 葬礼
+a 葬礼的
+
+fuss
+n
+v 
+
+gamble
+n
+v 赌博 冒险
+
+gamble
+n
+v 赌博 冒险
+
+gamble
+n
+v 赌博 冒险
+
+gang
+n 
+
+gangster
+n 歹徒 匪徒
+
+gangster
+n 歹徒 匪徒
+
+garment
+n 衣服 服装
+
+general
+n
+a 
+
+generalize
+v 概括 归纳
+
+generate
+
+generator
+n 发电机 发生器
+
+gentle
+a 温和的 文雅的
+
+gentle
+a 温和的 文雅的
+
+genuine
+a 正真的 真诚的
+
+genuine
+a 正真的 真诚的
+
+germ
+n 细菌 萌芽
+
+germ
+n 细菌 萌芽
+
+hospitable
+a 好客的 殷勤的
+
+hospitable
+a 好客的 殷勤的
+
+hospitable
+a 好客的 殷勤的
+
+hospitable
+a 好客的 殷勤的
+
+hostile
+a 敌对的 敌意的 强烈反对
+
+hostility
+n 敌对 敌意 强烈反对
+
+humble
+a 谦逊的 虚心的
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
