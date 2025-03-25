@@ -100,6 +100,74 @@ v 举例说明
 exert
 v 施加 发挥 努力
 
+eliminate
+v 排除 清除 淘汰
+
+embrace
+v 拥抱 包含 欣然接受
+
+emerge
+v 出现 浮现 暴露 显露
+
+disguise
+n
+v 伪装 乔装 演示
+
+order
+n 顺序 秩序 订货 点餐
+v 命令 要求 组织 订购 点餐
+
+dispose
+v 处理 处置 安排 使倾向于
+
+dispose
+v 处理 处置 安排 使倾向于
+
+dispute
+n
+v 争论 争执 辩论
+
+dispute
+n
+v 争论 争执 辩论
+
+disputable
+a 有争议的
+
+disruptive
+a 破坏性的 扰乱性的
+
+distinct
+a 明显的 清楚的 有区别的
+
+distinct
+a 明显的 清楚的 有区别的
+
+distract
+v 转移 使分心
+
+distract
+v 转移 使分心
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
