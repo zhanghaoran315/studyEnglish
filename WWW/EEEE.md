@@ -253,6 +253,18 @@ v 排除 释放 准许sb离开
 order
 n 
 
+cold
+n 感冒 伤风
+a 
+
+s
+
+s es sh ch + es
+
+
+
+
+
 
 
 

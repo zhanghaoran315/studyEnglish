@@ -1,5 +1,39 @@
 # concept
 
+# 名词
+
+名词所有格
+1.名词's名词
+Mike's car
+
+2.第一个名词以s结尾且发z音
+名词's 名词   发 zs
+名词' 名词
+Tomas's book 
+Jones's car
+
+3.第一个名词本身是复数
+名词s' 名词     这种情况只能保留'   发 zs
+The teachers' reading-room
+The boys' teacher
+
+4.所有格中第二个名词，多次出现可省略
+This shirt is Tim's shirt
+This shirt is Tim's
+
+at the butcher's (shop)
+
+固定结构
+in four hours' time  95
+在5小时后
+twenty minutes' time
+
+表达“的”，介词to
+the key to the front door
+the answer to the question
+the exit to the building
+the ticket to the movie
+
 
 # 人称代词
 第一人称
@@ -57,6 +91,34 @@ too
 ad 
 1.太 很 非常（adj、adv前）
 2.也 还（肯定句，疑问句末，either用于否定句）
+
+perhaps
+adv 也许 可能 大概
+Perhaps so 也许会
+Perhaps not 也许不会
+
+maybe
+adv 也许 可能 大概
+
+Here it is     通常会把here/there放到句首
+It is here    它在这
+
+Here + 主语 + 动词
+
+I am here.   Here I am.   我在这
+He is here.  Here he is.  他在这
+
+Here we go...   咱开始吧
+
+简单倒装
+
+# 形容词
+adj的位置
+1.noun前做定语
+It is a blue car.
+2.系动词后单独做表语
+The car is blue.
+
 
 
 # 冠词
@@ -212,4 +274,17 @@ What nationality are you?
 谁是法国人  You
 Who are French  XXX
 Who is French? (主语是who  第三人称单数)
+
+特殊疑问句
+your name is what?
+
+wh question语序：特殊疑问词+be+n.
+
+What is your name?
+
+你的工作是什么
+What is your job?
+
+你的外套是什么颜色 (什么颜色)
+What color is your coat?
 

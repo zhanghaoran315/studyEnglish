@@ -4,49 +4,6 @@
 
 ```
 
-terrible
-a 可怕的 糟糕的
-
-fine
-n 罚款 罚金
-v 处...以罚金
-a 好的（表示满意）很好
-
-mechanic
-n 机械师 力学
-
-host
-n 主机 服务器 主人 主持人 东道主
-v 主持 主办
-
-hostess
-n 女主人 女主持人
-
-make
-n 牌子
-
-What make is ...?
-
-
-thirst
-n 渴 口渴
-
-thirsty
-a 渴的 口渴的
-
-cloak
-n 斗篷 披风 遮盖物
-v 掩盖 遮盖
-
-cloakroom
-n 衣帽间
-
-
-
-dress
-n 连衣裙
-v 穿衣服 dress ... in
-
 jade
 n 玉 翡翠
 
@@ -668,56 +625,15 @@ come over
 hurl
 v 投掷 猛扔 大声说出
 
+```
 
+# idiom
 
+```
+a green hand
+新手
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+a lucky dog
+幸运儿
 
 ```
