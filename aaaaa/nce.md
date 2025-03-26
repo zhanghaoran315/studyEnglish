@@ -1,6 +1,38 @@
 # construct
 
 ```
+will
+modal 将
+n 意志 毅力
+
+lefthandler
+左撇子
+
+matter
+n 问题 事情 (询问某人的情况)怎么了
+
+What is the matter with you?
+你怎么了?
+
+It doesn't matter.
+没关系
+
+
+good-looking
+a 好看的
+
+easy-going
+a 随和的 好相处的
+
+hard
+adj 1.硬的 坚硬的
+2.艰苦的 艰难的
+3.用力的 努力的
+adv 努力地
+
+hard-working
+a 勤奋的
+
 luck
 n 好运 运气
 

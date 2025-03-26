@@ -2,18 +2,18 @@
 
 # 名词
 
-名词所有格
-1.名词's名词
+## 名词所有格 
+1.名词's 名词
 Mike's car
 
-2.第一个名词以s结尾且发z音
-名词's 名词   发 zs
+2.第一个名词以 s 结尾且发 z 音
+名词's 名词 发 zs
 名词' 名词
-Tomas's book 
+Tomas's book
 Jones's car
 
 3.第一个名词本身是复数
-名词s' 名词     这种情况只能保留'   发 zs
+名词 s' 名词 这种情况只能保留' 发 zs
 The teachers' reading-room
 The boys' teacher
 
@@ -24,18 +24,43 @@ This shirt is Tim's
 at the butcher's (shop)
 
 固定结构
-in four hours' time  95
-在5小时后
+in four hours' time 95
+在 5 小时后
 twenty minutes' time
 
-表达“的”，介词to
+表达“的”，介词 to
 the key to the front door
 the answer to the question
 the exit to the building
 the ticket to the movie
 
+## 可数名词复数 
+1.一般情况：名词复数形式通常在词尾加-s。例如，book 变为 books 2.以 s, x, ch, sh 结尾的名词：在词尾加-es。例如，bus 变为 buses，watch 变为 watches 3.以辅音字母加 y 结尾的名词：将 y 变为 i 再加-es。例如，city 变为 cities，baby 变为 babies 4.以 f 或 fe 结尾的名词：将 f 或 fe 变为 ves。例如，shelf 变为 shelves，leaf 变为 leaves 5.以辅音字母+o 结尾往往+es z。例如，tomato 变为 tomatoes，以元音字母+o 结尾往往+s z。例如，video 变为 videos
+
+特殊： 1.缩写一般+s(看全拼)
+photo photos（photograph）
+kilo kilos（kilogram） 千克
+
+2.外来词汇往往直接+s
+piano pianos
+钢琴
+tobacco tobaccos
+烟草
+
+3.特殊变化
+child children
+
+4.有些名词直接加 s
+roof roofs 屋顶
+chief chiefs 领袖 主要的 首要的
+belief beliefs 信心 信仰
+
+句子的复数形式需要考虑代词、动词、名词的一致
+He is an assistant
+They are assistant
 
 # 人称代词
+
 第一人称
 I me
 we us
@@ -52,45 +77,40 @@ it it
 they them
 
 be 动词
-am be动词现在时第一人称单数
+am be 动词现在时第一人称单数
 I am ...
 I am a doctor
 I am Sam
 I am Chinese
 
-are be动词现在时复数
-are与第二人称或复数人称搭配
+are be 动词现在时复数
+are 与第二人称或复数人称搭配
 You are ...
 You are ...
-We are 
+We are
 They are
 
 第三人称(除了第一人称、第二人称都可以叫第三人称)
-is 
-He is 
+is
+He is
 She is
 It is
 A book is
 A tree is
 Tom is
 
-
 # 物主代词
+
 adj
 my your his her its our your thier
 
 noun
 mine yours his hers its ours yours thiers
 
-
-
-
 # 副词
 
 too
-ad 
-1.太 很 非常（adj、adv前）
-2.也 还（肯定句，疑问句末，either用于否定句）
+ad 1.太 很 非常（adj、adv 前） 2.也 还（肯定句，疑问句末，either 用于否定句）
 
 perhaps
 adv 也许 可能 大概
@@ -100,53 +120,53 @@ Perhaps not 也许不会
 maybe
 adv 也许 可能 大概
 
-Here it is     通常会把here/there放到句首
-It is here    它在这
+Here it is 通常会把 here/there 放到句首
+It is here 它在这
 
 Here + 主语 + 动词
 
-I am here.   Here I am.   我在这
-He is here.  Here he is.  他在这
+I am here. Here I am. 我在这
+He is here. Here he is. 他在这
 
-Here we go...   咱开始吧
+Here we go... 咱开始吧
 
 简单倒装
 
 # 形容词
-adj的位置
-1.noun前做定语
-It is a blue car.
-2.系动词后单独做表语
+
+adj 的位置
+1.noun 前做定语
+It is a blue car. 2.系动词后单独做表语
 The car is blue.
 
-
-
 # 冠词
+
 戴在名词头上的帽子，没有特殊情况不能摘
 
 冠词是一种词类，用来限定名词的用法和意义。在英语中，冠词分为三种：定冠词（the）、不定冠词（a/an）和零冠词（无冠词）。
 
 a\an\the
 
-a\an  一个、一间、一台
-the  这 那 这些 那些
+a\an 一个、一间、一台
+the 这 那 这些 那些
 the student 这个、那个
 the students 这些、那些
 
 定冠词 the 确定的、知道的
-不定冠词 a\an  不确定的，不知道的
+不定冠词 a\an 不确定的，不知道的
 
 零冠词的用法：
+
 1. 用于复数名词前表示泛指
 2. 用在职位、头衔以及国名、地名和其他专用名字前
 
-不定冠词a/an的用法
+不定冠词 a/an 的用法
 1、用在单数可数名词前，泛指一类人或事物
 2、第一次提到某人某物
 3、表示速度或频率，意思是“每一”
 4、用在固定搭配里面
 
-定冠词the的用法
+定冠词 the 的用法
 1、特指某人或某物
 2、用于第二次提到的人或物前
 3、用于自然界中独一无二的事物的名词前
@@ -156,14 +176,14 @@ the students 这些、那些
 7、用在形容词或副词前，表示一类人或事物
 8、用在地理名词前，表示江、海洋、山脉、群岛、海峡、海湾
 
-monk  和尚
+monk 和尚
 
 There is a monk
 The monk is Jack
 
 不定冠词 a\an 的区别
 
-an + 元音发音开头，其余用a
+an + 元音发音开头，其余用 a
 
 an egg
 an orange
@@ -171,14 +191,14 @@ an hour
 
 特殊情况：国家，国籍，人名，城市名不用冠词
 
-I am in China 
+I am in China
 I am in the China XXXX
 
-
 # 句子
+
 句子
 结构
-简单句  1-98
+简单句 1-98
 并列句  
 复合句
 
@@ -191,7 +211,6 @@ I am in the China XXXX
 
 宾语：动作的承受者、对象或结果
 宾补：对宾语的补充说明
-
 
 用途
 肯定句：主语+动词+其他成分
@@ -234,20 +253,16 @@ Whose 用于提问事物的所有者，例如"Whose bike is this?"（这是谁�
 
 Why 用于提问原因，例如"Why do you like this movie?"（你为什么喜欢这部电影？）
 
-How 及其相关形式（如how many, how much等）用于提问方式、程度或频率，例如"How old are you?"（你多大了？）和"How much does it cost?"（这个多少钱？）
+How 及其相关形式（如 how many, how much 等）用于提问方式、程度或频率，例如"How old are you?"（你多大了？）和"How much does it cost?"（这个多少钱？）
 
 Your name is Bob
 Is your name bob?
 你的名字是什么？Bob
 What is your name?
-谁是Bob?  Your name
+谁是 Bob? Your name
 Who is Bob.
 
-肯定句转特殊疑问句
-1.找到肯定句中被提问的部分  Bob
-2.选择最合适的特殊疑问词 What
-3.将特殊疑问词置于句首
-4.如果不针对肯定句的主语提问，动词放在主语前 bob
+肯定句转特殊疑问句 1.找到肯定句中被提问的部分 Bob 2.选择最合适的特殊疑问词 What 3.将特殊疑问词置于句首 4.如果不针对肯定句的主语提问，动词放在主语前 bob
 针对主语提问，动词不用提前
 
 He is my teacher
@@ -263,22 +278,22 @@ Whose book is on the table?
 我的书在那 on the table
 Where is my book?
 
-什么在桌上  my book
+什么在桌上 my book
 What is on the table
 
 You are French
 
-你是什么国籍  French
+你是什么国籍 French
 What nationality are you?
 
-谁是法国人  You
-Who are French  XXX
-Who is French? (主语是who  第三人称单数)
+谁是法国人 You
+Who are French XXX
+Who is French? (主语是 who 第三人称单数)
 
 特殊疑问句
 your name is what?
 
-wh question语序：特殊疑问词+be+n.
+wh question 语序：特殊疑问词+be+n.
 
 What is your name?
 
@@ -287,4 +302,51 @@ What is your job?
 
 你的外套是什么颜色 (什么颜色)
 What color is your coat?
+
+# be 动词
+
+be 动词和主语的缩写
+
+I am = I'm
+
+You are = you're
+
+he is = he's
+she is = she's
+It is = It's
+
+we are = we're
+they are = they're
+
+be 动词和否定词缩写
+I am not = I'm not
+You are not = you're not = you aren't
+He is not = he's not = he isn't
+she is not = she's not = she isn't
+It is not = it's not = it isn't
+We are not = we're not = we aren't
+They are not = they're not = they aren't
+
+天气好
+good 一般不可以指天气好
+
+天气好，3 个
+It's a fine day
+It's a nice day
+It's a lovely day
+
+表示满意，认同对方的观点
+That's fine.
+
+
+# there be句型
+There be 主语
+那里  不需要做翻译
+
+be  存在
+某地存在某人或某物
+
+There is a book on the table.
+There is a pen in my bag
+
 
