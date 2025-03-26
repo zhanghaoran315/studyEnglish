@@ -165,9 +165,9 @@ n
 v 叹气
 
 light
-n 光
+n 光 电灯
 v 点燃 点火 照亮 使明亮
-a
+a 轻的 少量的
 light-lit-lit
 
 light up
@@ -635,5 +635,20 @@ a green hand
 
 a lucky dog
 幸运儿
+
+grandfather clock  
+老式坐钟
+
+Great-grandfather 
+曾祖父
+
+Great-grandmother  
+曾祖母
+
+shelf life 
+保质期
+
+dressing table
+梳妆台
 
 ```

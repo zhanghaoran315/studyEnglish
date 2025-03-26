@@ -132,6 +132,9 @@ Here we go... 咱开始吧
 
 简单倒装
 
+everywhere  
+adv 到处 每个地方
+
 # 形容词
 
 adj 的位置
@@ -211,6 +214,13 @@ I am in the China XXXX
 
 宾语：动作的承受者、对象或结果
 宾补：对宾语的补充说明
+
+
+
+You give me a book
+
+主谓宾宾
+a book是要承受这个give动作(直接宾语)，还是要补充说明me(间接宾语)
 
 用途
 肯定句：主语+动词+其他成分
@@ -348,5 +358,87 @@ be  存在
 
 There is a book on the table.
 There is a pen in my bag
+
+There be (am/is/are) be动词的三种形式取决于主语
+am 不太可能出现
+
+当主语是第三人称单数或者不可数名词时，用is
+
+There is a witness everywhere
+Where there is a will, there is a way
+
+当主语是可数名词复数，用are
+There are spots in the sun.
+There are thirty students in the classroom
+
+There are  two books, one pen and some ink.
+
+就近原则
+be动词原则
+
+
+23
+# 动词
+## 双宾语结构
+动词  	及物动词 vt.     - 宾语 动作的承受着
+     	不及物动词 vi. (不能接或者不能直接接)
+     	 
+I love you
+I drink tea
+I eat food
+
+I walk
+I run
+I must go.
+Please come here. (here是地点状语)
+
+
+Look me, please.  XXX 错误的 vi
+Look at me, please.
+
+
+teach you English
+write him a letter
+send her an e-mail
+offer you a job
+read me this letter
+post him a letter
+sell her a new car  
+
+sell-sold-sold
+v 卖 出售
+sell sb. sth.
+sell sth. to sb.
+
+bring-brought-brought
+vt 拿来 带来
+
+tell-told-told
+vt 告诉 说
+
+hand
+vt 交 递 给 传
+
+buy-bought-bought
+vt 购买
+buy sb. sth.
+buy sth. for sb.
+
+show-showed-shown
+vt 
+1.显示 表明 
+2.给...看
+
+show sb. sth.
+show sth. to sb.
+
+Bring her some flowers.
+Tell me an English story. 
+Hand me that book.
+Show me that book.
+Buy me a flower.
+
+动代名结构
+
 
 

@@ -1,6 +1,37 @@
 # construct
 
 ```
+
+
+large
+a 大的  （强调面积）
+
+little
+a 小的 可爱的
+a little girl 
+一个小女孩 (可爱的)
+
+empty
+v 倒空 
+adj 空的
+
+full
+a 满的 充满的
+
+
+give
+v 给
+give-gave-given
+
+accusative
+n 宾格
+
+
+talk
+n
+v 谈论 谈话
+
+
 will
 modal 将
 n 意志 毅力
