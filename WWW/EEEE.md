@@ -261,6 +261,49 @@ s
 
 s es sh ch + es
 
+sell sb sth
+sell sth to sb
+
+sell-sold-sold
+
+bring-brought-brought
+
+tell-told-told
+
+buy-bought-bought
+
+buy sb sth
+
+buy sth for sb
+
+show-showed-shown
+
+show sb sth
+
+show sth to sb
+
+trousers
+n 裤子
+
+命令
+shut the door
+
+请求 
+please give me it
+
+Let‘a
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,6 +1,113 @@
 # construct
 
 ```
+tomorrow
+n
+ad 明天
+
+yesterday
+n
+ad 昨天
+
+screen
+n 隔板
+
+
+
+eat
+v 吃 喝
+
+eat breakfast 吃早餐
+eat an apple
+eat some bread
+
+porridge
+n 燕麦粥
+
+eat soup
+eat porridge
+
+eat medicine XXX
+take medicine VVV
+eat milk XXXX
+
+Eat" 用于 固体食物（如 eat an apple, eat rice）
+
+
+suck
+n v 吮、吸
+
+breast
+n. 乳房 胸部 心情
+
+suck the breast
+喝奶
+
+drink-drank-drunk
+n 饮料
+v 喝
+drink-drank
+drink water
+drink tea
+drink coffee
+
+have-had-had
+几乎可以代替所有吃喝
+have tea
+have medicine
+have breakfast
+have soup
+have bread
+have cigarette
+
+
+pardon
+n 
+v 原谅 宽恕 赦免
+int (用于请求别人重复某事)什么，请再说一遍
+
+beg
+v 恳求 乞求
+
+
+beggar
+n 乞丐
+
+regret
+n 后悔 遗憾
+v 后悔 遗憾
+
+
+adj + en = v
+shorten 
+vt 缩短 减少
+
+weak
+adj 虚弱的
+
+weaken
+vt 使虚弱 削弱
+
+wardrobe
+n 衣柜
+
+color
+n 颜色
+vt 给……涂颜色
+
+What is the color?
+color the picture 给图片上色
+
+milk
+n 牛奶
+v 挤奶
+
+I like milk
+Milk it.
+给奶牛挤奶
+
+widow
+n 寡妇 遗孀
 
 
 large

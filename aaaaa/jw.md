@@ -651,4 +651,20 @@ shelf life
 dressing table
 梳妆台
 
+put on & take off
+
+穿衣服、戴眼镜、戴首饰，gloves，scarf
+
+turn on & turn off
+打开带电的设备
+turn on the television
+
+turn on the light
+
+tap
+n 水龙头
+v 轻拍 轻敲
+
+turn on the tap
+
 ```

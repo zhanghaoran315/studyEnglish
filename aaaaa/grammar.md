@@ -34,6 +34,19 @@ the answer to the question
 the exit to the building
 the ticket to the movie
 
+
+## 名词的数
+clothes
+n 衣服
+
+clothes是一个没有单数形式的复数名词，其前不可加不定冠词，也不可加数词，但可用some，these，those，many，few等词修饰
+
+clothing是不可数名词。
+
+单复数同型
+people、hair、fish、sheep、chothes
+
+
 ## 可数名词复数 
 1.一般情况：名词复数形式通常在词尾加-s。例如，book 变为 books 2.以 s, x, ch, sh 结尾的名词：在词尾加-es。例如，bus 变为 buses，watch 变为 watches 3.以辅音字母加 y 结尾的名词：将 y 变为 i 再加-es。例如，city 变为 cities，baby 变为 babies 4.以 f 或 fe 结尾的名词：将 f 或 fe 变为 ves。例如，shelf 变为 shelves，leaf 变为 leaves 5.以辅音字母+o 结尾往往+es z。例如，tomato 变为 tomatoes，以元音字母+o 结尾往往+s z。例如，video 变为 videos
 
@@ -135,6 +148,9 @@ Here we go... 咱开始吧
 everywhere  
 adv 到处 每个地方
 
+# 情态动词
+
+
 # 形容词
 
 adj 的位置
@@ -196,6 +212,63 @@ an hour
 
 I am in China
 I am in the China XXXX
+
+
+25
+冠词用法复习
+There is an electric cooker 。。。  The cooker is
+There is a table 。。。             The table is
+
+总结：初次出现，不了解，不确定，用不定冠词 a/an
+	 再次出现，了解了，确定了，用定冠词 the
+
+# 介词
+near
+prep. 接近 靠近
+一般prep.经常会放在n.或者pron.的前面  靠近XX
+near the table 
+
+27
+in和on的区别
+
+There is a book in my bag.
+There is a book on the table.
+
+
+There is a man on the tree XXXX
+
+on the tree 长在树上
+in the tree 在树上
+
+There is a man in the tree.
+There is an apple on the tree.
+
+He is in the plane/train/ship  XXXXX
+He is on the plane/train/ship
+
+一般在英文中，在飞机、火车、轮船、公共汽车，甲板上习惯用 on
+
+There is a picture on the wall.
+There is a window in the wall.
+
+当事物镶在墙上用in，在墙的表面用on
+
+There is a door in the wall
+
+under
+prep. 在...之下
+
+太阳下(in)
+under the sun XXXX
+in the sun.
+
+tree
+family tree 
+家谱
+clothes tree
+衣帽架
+Christmas tree 
+圣诞树
 
 # 句子
 
@@ -272,7 +345,7 @@ What is your name?
 谁是 Bob? Your name
 Who is Bob.
 
-肯定句转特殊疑问句 1.找到肯定句中被提问的部分 Bob 2.选择最合适的特殊疑问词 What 3.将特殊疑问词置于句首 4.如果不针对肯定句的主语提问，动词放在主语前 bob
+肯定句转特殊疑问句 1.找到肯定句中被提问的部分 Bob 2.选择最合适的特殊疑问词 What 3.如果不针对肯定句的主语提问，动词放在主语前 bob
 针对主语提问，动词不用提前
 
 He is my teacher
@@ -312,6 +385,10 @@ What is your job?
 
 你的外套是什么颜色 (什么颜色)
 What color is your coat?
+
+What about ...? 表询问 征求意见
+I would like a cup of coffee.
+What about you?
 
 # be 动词
 
@@ -375,6 +452,17 @@ There are  two books, one pen and some ink.
 
 就近原则
 be动词原则
+
+1.构成
+There be + (is,are) + 地点
+2.有   拥有  have
+	   存在  There be
+
+3.分类
+	There is + 单数名词
+	There are + 复数名词
+
+There is an electric cooker in the kitchen.
 
 
 23
@@ -441,4 +529,108 @@ Buy me a flower.
 动代名结构
 
 
+# 祈使句
+祈使句：用来表示命令、请求、建议等
+1.没有主语
+2.动词打头（动词原型）
 
+1.表示命令：动词原型+....
+shut the door
+2.表示请求：please+动词原形+。。。
+please give me it.
+3.表示建议：Let's + 动词原形+。。。
+Let's go,ok?
+
+
+
+# 时态
+
+一共16个时态
+
+
+1st31
+1.现在进行时
+基本概念：目前正在发生的动作
+
+主语 + am/is/are + 动词ing
+
+动词+ing （现在分词）
+1.动词直接加ing
+walking
+reading
+seeing
+going
+
+2.动词以不发音的字母e结尾，去掉e再加ing
+coming
+making
+smoking
+
+3.动词的拼写是以：辅音+1元音+1辅音结尾，同时该元音字母在单词中处于重读音节
+，此时双写结尾的辅音字母再加ing
+
+sit sitting
+run running
+swim swimming
+regret regretting 
+n 后悔 遗憾
+v 后悔 遗憾
+clean cleanning   XXXX
+open openning  XXX
+
+4.例外
+die
+v 死亡
+dying
+
+I watch TV
+
+I am watching TV
+
+We clean the room
+
+We are cleaning the room
+
+She play the guitar.
+
+She is playing the guitar
+
+He type a letter
+
+He is typing a letter
+
+They swim in the river
+
+They are swimming in the river.
+
+句型变化
+肯定句
+否定句
+一般疑问句
+特殊疑问句
+
+She is watching TV
+Who is watching TV?
+What is she doing?
+What are you doing?
+She isn't watching TV.
+Is she watching TV?
+Yes, she is.
+NO, she isn't
+
+They are swimming in the river.
+They aren't swimming in the river.
+Are they swimming in the river.
+Who is swimming in the river?
+=================
+who 作主语等同于 she he it 第三人称
+=================
+Where are they swimming?
+What are they doing?
+
+Yes, they are.
+NO, they aren't
+
+He is sweeping the floor
+He isn't sweeping the floor.
+Is he sweeping the floor?
