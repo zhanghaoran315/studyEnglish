@@ -34,6 +34,63 @@ the answer to the question
 the exit to the building
 the ticket to the movie
 
+of所有格
+This is a photograph of our village.
+
+名词's + 名词
+Mary's romm
+Tom's bike
+Sam's car
+
+前面一部分称为定语
+定语：定语是用来限定、说明名词或代词的品质与特征的
+
+I want shirt
+I want a red shirt
+
+Boy is my friend
+The tall boy is my friend.
+
+Father is a doctor.
+His father is a doctor.
+Room is large
+Mary's room is large
+
+定语's 被定语限定的词
+定语前置
+
+This is a photograph of our village.
+被定语限定的词 of 定语
+定语后置
+
+作定语的名词是有生命的时候，往往采用名词所有格's的形式
+作定语的名词是无生命的时候，往往采用名词所有格of的形式
+
+cover
+n 封面 盖子
+v 覆盖 遮盖
+
+The window of this room is open
+这个房间的窗户是开着的
+The name of this book is very long
+这本书的名字很长
+I like the color of this car.
+我喜欢这辆车的颜色
+
+The cover of this book is old.
+
+
+Some of them are going into the park
+
+这不是所有格
+some of them 整体中的部分
+部分 of 整体
+
+Three of us are French
+One of them is a new student
+Many of the students come from China.
+Half of the cars are red.
+
 
 ## 名词的数
 clothes
@@ -111,6 +168,17 @@ It is
 A book is
 A tree is
 Tom is
+
+英语的人称顺序
+1.单数人称遵循：第二人称、第三人称、第一人称的顺序(231)
+You, he and I must clean up the classroom.
+
+2复人称遵循：第一称、第二称、第三称的顺序(123)
+We, you and they must clean up the classroom.
+
+3当承认错误时，无论单复数一律是123的顺序
+I, you and he are sorry for being late.
+We, you and they are sorry for being late.
 
 # 物主代词
 
@@ -269,6 +337,25 @@ clothes tree
 衣帽架
 Christmas tree 
 圣诞树
+
+
+
+for
+prep.
+
+1.为了..某人而... It's for you
+It's for my daughter
+
+2.对于某人来说 Math is so difficult for me.
+
+3.表原因
+What are you sorry for?
+What are you sad for?
+What are you happy for?
+What are you busy for?
+
+4.长达
+I study Yoga for two years.
 
 # 句子
 
@@ -634,3 +721,168 @@ NO, they aren't
 He is sweeping the floor
 He isn't sweeping the floor.
 Is he sweeping the floor?
+
+1st37
+一般将来时：表示现在对未来的一种计划和打算
+
+1.
+主语+am/is/are going to+动词原型+其他成分
+
+2.主语+shall/will+动词原型+其他成分
+shall用于第一人称
+I shall study hard.
+We shall study hard.
+
+缩写
+I'll study hard.
+
+I am going to go shopping this weekend.
+我打算周末去逛街
+
+He is going to sell his old car, and buy a new one.
+
+I am gonna be happy this year.
+口语: be going to = be gonna
+going to = gonna
+
+I'm going to be happy this year.
+be不能省掉 do原形
+be going to句型
+be going to do\be going to be + .n/adj./prep.
+
+我打算下周开始忙起来
+I'm going to be busy next week.
+他计划这周末呆在家里
+He is going to be at home this weekend.
+这个孩子打算以后成为一个医生
+This kid is going to be a doctor
+
+句型变换
+疑问句
+be 提前
+否定
+be not
+
+She is going to go shopping this weekend.
+Is she going to go shopping this weekend.
+
+
+that is all right
+没事了 没关系
+
+will可以用于所有人称
+You will be happy
+He will go to New York
+She will leave tomorrow.
+They will stay here
+
+She'll leave tomorrow
+
+shall/will助动词
+句型变换
+I will give you a call.
+一般疑问句
+Will you give me a call?
+否定句
+I will not give you a call.
+缩写
+I won't give you a call.
+特殊疑问句
+What will you do?
+
+be going to & will的区别
+1.be going to说话那一刻之前早就已计划好的，will在说话的那一刻所做的决定
+
+
+A: Mary is in hospital.
+B: Yes, I konw, I am going to see her tomorrow.
+A: Really!I will see her tomorrow.
+
+A: Bob,we are going to spend our weekend in the country.
+Do you want to come with us?
+B: Great!
+
+A: What's wrong?
+B: I am in trouble.
+A: Don't worry, I will help you.
+
+trouble
+n 麻烦 (机器、车辆等的)故障
+
+worry
+n 担心 担忧
+v 担心 担忧
+
+2.be going to客观上有迹象或证据表明即将要发生的事
+will主观上根据经验判断未来要发生的事
+
+LooK, it is going to rain.
+
+The house is going to fall down
+
+The flower is going to fade.
+
+
+fade
+n 淡入 淡出 
+v 褪色 凋谢
+adj 平淡的 乏味的
+
+angry
+生气的 愤怒的
+
+She will be happy if you come.
+
+She will be angry if you absent.
+
+imagine
+v 猜想 认为
+
+box-office
+n 票房收入
+
+I imagine this film will be a box-office success.
+
+3.will有时还用来表达请求或赞成，be going to则无此意
+
+Will you open the window please?
+
+Will you come with me?
+
+Please turn off the lights before you leave.  ????
+
+Yes, I will.
+
+Don't be late!
+No, I won't
+
+如果没有明确的迹象区分打算计划、说话那一刻的临时计划或主客观对未来的推测，以及请求、赞成，二者往往可以互换。
+
+无计划、无推测、无请求或赞成
+
+
+I am going to miss you.
+I will miss you.
+
+I will buy a big house one day.
+I am going to buy a big house on day.
+
+I won't tell you the truth.
+I am not going to tell you the truth.
+
+动词原型
+walk
+1.情态动词+动词原型
+He must stays at home.  XXXXX
+She can help us.
+
+2.be going to + 动词原形
+I am going to do my homework.
+
+3.祈使句中的动词用原型  
+Don't + 动词原型
+
+Be careful!
+Don't drop it!
+
+

@@ -1,6 +1,67 @@
 # construct
 
 ```
+angry
+a 生气的 愤怒的
+
+another 
+det./pron. 另一个
+There is another book in my bag
+
+1.anothor+可数名词单数
+anothor后接可数名词单数要直接接
+Here is anothor photograph
+
+2.another+数词+名词复数
+I need another two hammers.
+
+hammer
+n 锤子
+
+forever
+for ever  85
+adv 永远
+
+along
+prep. 沿
+
+
+...is with his family.
+
+with是一个prep.介词前需要接动词 
+The desk near the window.  XXXXX
+The desk is near the window.
+
+She with her friends.   XXXXX
+She is with her friends.
+
+
+wait
+vi. 等待
+wait for me 等等我
+
+look at
+listen to
+
+
+with
+prep. 和...在一起(附带 伴随)
+
+He is with his new grilfriend.
+I am with my new sunglasses.
+The house is width a garden
+
+人与人 人与物 物与物
+
+根据常规，"sunglass"应该改为"sunglasses"，因为"glass"是可数名词，需要用复数形式，即"sunglasses"。
+另外，根据语境，"I am wearing my new sunglasses"（我戴着我的新太阳镜）可能更加合适，因为"with"通常用于表示附带或伴随的关系，而"wear"则更准确地描述了戴眼镜的动作。
+
+
+wear
+v 穿 戴 蓄(須) 留(发)
+wear-wore-worn
+
+
 tomorrow
 n
 ad 明天
@@ -9,8 +70,16 @@ yesterday
 n
 ad 昨天
 
+weekend
+n 周末
+
 screen
-n 隔板
+n 隔板 遮蔽物
+v 遮蔽 保护
+
+sunscreen
+sunblock
+n 防晒霜
 
 
 
