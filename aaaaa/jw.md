@@ -670,4 +670,45 @@ turn on the tap
 dream boat 
 梦中情人
 
+sugar coat 
+委婉
+
+Can you sugar coat a little?
+你可以稍微委婉一点吗？
+
+
+behind the times
+过时的 落伍的
+
+next door
+在隔壁
+
+next door to
+与...相邻
+
+She is next door
+She is next door to us
+There is a school next door to the park.
+
+next-door
+adj. 隔壁的
+
+The next-door girl is very beautiful.
+
+The old man next-door is going to leave.
+有些时候next-door可以放到被修饰词的后面来说
+
+
+bread and butter
+生计 饭碗
+
+jog
+v 慢跑 轻击 轻碰
+
+He goes jogging in all weathers.（
+
+under the weather
+不舒服
+I'm a little under the weather.
+
 ```

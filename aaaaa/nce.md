@@ -1,6 +1,77 @@
 # construct
 
 ```
+set
+n 一套 一幅 一组
+v
+1.设置
+2.落（下）
+3.（赛跑时）使（自己）就位，使(自己)作好准备
+
+cheat
+n (尤指游戏中的)作弊者，骗子
+v 欺骗；(尤指在游戏、比赛、考试等中)作弊，舞弊
+
+stand
+n 桌 台 摊位
+v 站立 站起来 位于（某处）
+
+
+leave
+n 休假 假期
+v 离开(某人、某处) 剩下 丢弃
+leave-left-left
+
+way
+n 方式 方法 路
+
+minute
+n 分钟 一会儿
+wait a minute
+等一会 等一下
+
+Can you come here a minute please?
+a minute
+一会 一下
+
+
+now
+adv 现在 此刻
+（时间状语，常出现在句尾）
+一般和现在进行时(主+be+doing)搭配
+What are you doing?
+I'm cooking now.
+
+还可以和其他时态搭配
+What are you going to do now?
+你现在打算做什么
+I'm busy now.
+一般现在时
+
+lend
+n 贷款
+v 借给 提供
+lend-lent-lent
+
+borrow
+v 借入 借用
+
+rent
+n 租金 房租
+v 租用 出租
+
+rend
+v 撕裂 撕碎
+rend-rent-rent
+
+box-office
+n 票房收入
+
+worry
+n 担心 担忧
+v 担心 担忧
+
+
 angry
 a 生气的 愤怒的
 
@@ -89,6 +160,12 @@ v 吃 喝
 eat breakfast 吃早餐
 eat an apple
 eat some bread
+
+soap
+n 肥皂
+
+soup
+n 汤
 
 porridge
 n 燕麦粥

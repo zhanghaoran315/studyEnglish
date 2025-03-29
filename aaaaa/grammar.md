@@ -2,7 +2,10 @@
 
 # 名词
 
-## 名词所有格 
+1.冠词+名词 2.名词所有格 3.单复数 4.可数和不可数
+
+## 名词所有格
+
 1.名词's 名词
 Mike's car
 
@@ -34,7 +37,7 @@ the answer to the question
 the exit to the building
 the ticket to the movie
 
-of所有格
+of 所有格
 This is a photograph of our village.
 
 名词's + 名词
@@ -63,8 +66,8 @@ This is a photograph of our village.
 被定语限定的词 of 定语
 定语后置
 
-作定语的名词是有生命的时候，往往采用名词所有格's的形式
-作定语的名词是无生命的时候，往往采用名词所有格of的形式
+作定语的名词是有生命的时候，往往采用名词所有格's 的形式
+作定语的名词是无生命的时候，往往采用名词所有格 of 的形式
 
 cover
 n 封面 盖子
@@ -79,7 +82,6 @@ I like the color of this car.
 
 The cover of this book is old.
 
-
 Some of them are going into the park
 
 这不是所有格
@@ -91,20 +93,55 @@ One of them is a new student
 Many of the students come from China.
 Half of the cars are red.
 
-
 ## 名词的数
+
 clothes
 n 衣服
 
-clothes是一个没有单数形式的复数名词，其前不可加不定冠词，也不可加数词，但可用some，these，those，many，few等词修饰
+clothes 是一个没有单数形式的复数名词，其前不可加不定冠词，也不可加数词，但可用 some，these，those，many，few 等词修饰
 
-clothing是不可数名词。
+clothing 是不可数名词。
 
 单复数同型
 people、hair、fish、sheep、chothes
 
+cloth
+n 布
 
-## 可数名词复数 
+不可数名词
+概念：不可以数的，不可以计算的名词
+包括： 1.液体状的东西：water、tea、coffee、milk、beer 2.物质名词：soap、bread、chocolate、rice、tobacco 3.抽象名词：love、friendship、work、homework
+
+不可数名词用法 1.前面不可以加 one、two、three 等数词 2.前面不可以加 a\an，可以用 the \*\*\*\* 3.后面不能加 s，永远是单数
+
+a water\two tea\some milks\breads XXXXX
+
+the beer\the cheese\some rice
+
+与量词搭配
+a piece of bread
+a loaf of bread
+a bar of soap
+a bottle of cola
+a pound of .... 一磅的。。。
+a tin of cola
+a cup of coffee
+a box of tea
+a spoon of sugar
+
+There is some bread on the table
+
+I am thirsty. Would you bring me some tea, please?
+
+There are two bars of soap in the bathroom.
+就近原则
+
+two bars of chocolate.
+four cups of tea.
+two tins of cola
+
+## 可数名词复数
+
 1.一般情况：名词复数形式通常在词尾加-s。例如，book 变为 books 2.以 s, x, ch, sh 结尾的名词：在词尾加-es。例如，bus 变为 buses，watch 变为 watches 3.以辅音字母加 y 结尾的名词：将 y 变为 i 再加-es。例如，city 变为 cities，baby 变为 babies 4.以 f 或 fe 结尾的名词：将 f 或 fe 变为 ves。例如，shelf 变为 shelves，leaf 变为 leaves 5.以辅音字母+o 结尾往往+es z。例如，tomato 变为 tomatoes，以元音字母+o 结尾往往+s z。例如，video 变为 videos
 
 特殊： 1.缩写一般+s(看全拼)
@@ -128,103 +165,6 @@ belief beliefs 信心 信仰
 句子的复数形式需要考虑代词、动词、名词的一致
 He is an assistant
 They are assistant
-
-# 人称代词
-
-第一人称
-I me
-we us
-
-第二人称
-you you
-you you
-
-第三人称
-he him
-she her
-it it
-
-they them
-
-be 动词
-am be 动词现在时第一人称单数
-I am ...
-I am a doctor
-I am Sam
-I am Chinese
-
-are be 动词现在时复数
-are 与第二人称或复数人称搭配
-You are ...
-You are ...
-We are
-They are
-
-第三人称(除了第一人称、第二人称都可以叫第三人称)
-is
-He is
-She is
-It is
-A book is
-A tree is
-Tom is
-
-英语的人称顺序
-1.单数人称遵循：第二人称、第三人称、第一人称的顺序(231)
-You, he and I must clean up the classroom.
-
-2复人称遵循：第一称、第二称、第三称的顺序(123)
-We, you and they must clean up the classroom.
-
-3当承认错误时，无论单复数一律是123的顺序
-I, you and he are sorry for being late.
-We, you and they are sorry for being late.
-
-# 物主代词
-
-adj
-my your his her its our your thier
-
-noun
-mine yours his hers its ours yours thiers
-
-# 副词
-
-too
-ad 1.太 很 非常（adj、adv 前） 2.也 还（肯定句，疑问句末，either 用于否定句）
-
-perhaps
-adv 也许 可能 大概
-Perhaps so 也许会
-Perhaps not 也许不会
-
-maybe
-adv 也许 可能 大概
-
-Here it is 通常会把 here/there 放到句首
-It is here 它在这
-
-Here + 主语 + 动词
-
-I am here. Here I am. 我在这
-He is here. Here he is. 他在这
-
-Here we go... 咱开始吧
-
-简单倒装
-
-everywhere  
-adv 到处 每个地方
-
-# 情态动词
-
-
-# 形容词
-
-adj 的位置
-1.noun 前做定语
-It is a blue car. 2.系动词后单独做表语
-The car is blue.
 
 # 冠词
 
@@ -281,27 +221,242 @@ an hour
 I am in China
 I am in the China XXXX
 
-
 25
 冠词用法复习
-There is an electric cooker 。。。  The cooker is
-There is a table 。。。             The table is
+There is an electric cooker 。。。 The cooker is
+There is a table 。。。 The table is
 
 总结：初次出现，不了解，不确定，用不定冠词 a/an
-	 再次出现，了解了，确定了，用定冠词 the
+再次出现，了解了，确定了，用定冠词 the
+
+     英语注重形合
+
+Do you like book? XXXXXX
+Do you like a book? XXXXXX
+
+你喜欢书吗。这个书应该是泛指，应该用复数
+Do you like books?
+
+movie
+n 电影 电影院
+
+Do you like movies?
+
+Do you like stories?
+
+Do you like tea?
+
+Do you like English?
+
+# 限定词
+
+some、any
+一些
+
+1.  some/any+复数名词或不可数名词时表一些
+    some 用在肯定句
+    any 用在否定句和疑问句
+
+some students
+some water
+any cups
+any money
+
+Is there a + 可数名词单数
+Is there any + 不可数名词
+
+lend
+n (短期)贷款
+v 借给 提供
+lend-lent-lent
+
+rent
+n 租金 房租
+v 租用 出租
+
+2.但在表请求、建议、反问的疑问句，或希望得到对方肯定答案才提出的疑问句中可以用 some
+Can you lend me some money?
+
+去别家做客
+Shall I have some coffee?
+我能来点 coffee 吗 (shall 询问 征求对方意见 109)
+What about some tea?
+要不要来些茶 建议
+
+What about ... ? 表询问
+
+Why don't we have some beer?
+
+Are there some students in the classroom?
+希望得到对方肯定答案
+Yes, there are
+
+2.1.在一个表示部分否定的否定句中可以用 some
+Some of them are not Chinese
+
+3.some/any + 单数名词，some 翻译为“某一”，any 翻译为“任一”
+Some day, he can be some one.
+某一天，他可能成为个人物
+
+You can buy it in any supermarket.
+你可以在任何一个超市里买到
+
+# 人称代词
+
+第一人称
+I me
+we us
+
+第二人称
+you you
+you you
+
+第三人称
+he him
+she her
+it it
+
+they them
+
+be 动词
+am be 动词现在时第一人称单数
+I am ...
+I am a doctor
+I am Sam
+I am Chinese
+
+are be 动词现在时复数
+are 与第二人称或复数人称搭配
+You are ...
+You are ...
+We are
+They are
+
+第三人称(除了第一人称、第二人称都可以叫第三人称)
+is
+He is
+She is
+It is
+A book is
+A tree is
+Tom is
+
+英语的人称顺序 1.单数人称遵循：第二人称、第三人称、第一人称的顺序(231)
+You, he and I must clean up the classroom.
+
+2 复人称遵循：第一称、第二称、第三称的顺序(123)
+We, you and they must clean up the classroom.
+
+3 当承认错误时，无论单复数一律是 123 的顺序
+I, you and he are sorry for being late.
+We, you and they are sorry for being late.
+
+# 物主代词
+
+adj
+my your his her its our your thier
+
+noun
+mine yours his hers its ours yours thiers
+
+# 副词
+
+too
+ad 1.太 很 非常（adj、adv 前） 2.也 还（肯定句，疑问句末，either 用于否定句）
+
+I don't know either.
+
+Do you love English, too?
+
+perhaps
+adv 也许 可能 大概
+Perhaps so 也许会
+Perhaps not 也许不会
+
+maybe
+adv 也许 可能 大概
+
+Here it is 通常会把 here/there 放到句首
+It is here 它在这
+
+Here + 主语 + 动词
+
+I am here. Here I am. 我在这
+He is here. Here he is. 他在这
+
+Here we go... 咱开始吧
+
+简单倒装
+
+everywhere  
+adv 到处 每个地方
+
+# 情态动词
+
+1.情态动词：表示情感、态度
+You must go out!
+Can you please stand up?
+
+2.包括：can\must\may。。。 3.用法：接动词原形 4.没有人称和数的变化
+She is ... She can
+I am ... I can
+He is ... He can
+They are ... They can
+
+5.疑问句：提前 6.否定句
+can can't cannot(不能写成 can not)
+must mustn't(禁止)
+may may not
+
+Tom can swim well. （能力）
+Can tom swim well?
+
+The students must finish their homework tonight.
+
+The students don't need to finish their
+
+Can I have a cup of tea?
+May I have a cup of tea?
+
+动词分类 1.连系动词 2.情态动词 3.实义动词 4.助动词
+
+shall 1.同 I 和 we 连用，表示将来：将要，将会 2.在疑问句中同 I 和 we 连用：表示提出或征求意见 3.表示决心、命令或指示：必须，一定，应该 4.表示希望、要求：应该，要；可以，能够
+
+情态动词 can，常用的 3 个意思 1.能力
+Can you swim？
+I believe I can fly.
+
+Can you speak English? XXXX
+这里表能力，不要这么说?(这样不礼貌)
+Do you speak English?
+
+2.允许(征求对方的意见)
+Can I come in?
+Can I smoke here?
+
+3.请求，要求
+Can you open the window, please?
+Can you shut up?
+
+# 形容词
+
+adj 的位置
+1.noun 前做定语
+It is a blue car. 2.系动词后单独做表语
+The car is blue.
 
 # 介词
+
 near
 prep. 接近 靠近
-一般prep.经常会放在n.或者pron.的前面  靠近XX
-near the table 
+一般 prep.经常会放在 n.或者 pron.的前面 靠近 XX
+near the table
 
 27
-in和on的区别
+in 和 on 的区别
 
 There is a book in my bag.
 There is a book on the table.
-
 
 There is a man on the tree XXXX
 
@@ -311,7 +466,7 @@ in the tree 在树上
 There is a man in the tree.
 There is an apple on the tree.
 
-He is in the plane/train/ship  XXXXX
+He is in the plane/train/ship XXXXX
 He is on the plane/train/ship
 
 一般在英文中，在飞机、火车、轮船、公共汽车，甲板上习惯用 on
@@ -319,7 +474,7 @@ He is on the plane/train/ship
 There is a picture on the wall.
 There is a window in the wall.
 
-当事物镶在墙上用in，在墙的表面用on
+当事物镶在墙上用 in，在墙的表面用 on
 
 There is a door in the wall
 
@@ -331,14 +486,12 @@ under the sun XXXX
 in the sun.
 
 tree
-family tree 
+family tree
 家谱
 clothes tree
 衣帽架
-Christmas tree 
+Christmas tree
 圣诞树
-
-
 
 for
 prep.
@@ -356,6 +509,106 @@ What are you busy for?
 
 4.长达
 I study Yoga for two years.
+
+1.52
+介词 in on at
+
+in 1.在...里面
+There is a boy in the room.
+There is a pen in the box.
+
+2.在一个较大的地方
+We live in China.
+They live in Beijing.
+
+3.穿着 戴着
+The man in a hat
+
+和时间搭配 1.搭配大段的时间
+月份：in Jan. in Feb. in Mar. in Apr.
+季度：in spring in summer in autumn in winter
+年份：in 2023 in 1999
+
+2.搭配一段时间
+在一段时间之后
+in five hours' time
+in a weeks' time
+在一周后(一般将来时)
+
+固定搭配：
+in the morning
+in the afternoon
+in the evening
+
+on 1.在...之上
+There is a book on the table.
+The picture is on the wall.
+
+当事物镶在墙上用 in，在墙的表面用 on
+
+2.在...旁边，靠近
+The village is on a river.
+
+和时间搭配
+与某天搭配
+on 1st
+on 2nd
+on 3rd
+
+on Monday
+on Tuesday
+on Wednesday
+
+on Jan. 27th, 2013
+
+at 1.用于较小且具体的地点或门牌号前
+She is at the bus station
+
+He lives at 27 Park Road.
+
+at school
+at church
+at the butcher's
+
+2.与时间搭配,与分钟和小时搭配
+at 7:00
+at 5:30
+at 12:00
+
+3.固定搭配
+at noon
+at night
+
+英文中有很多表示时间的词，都不能和 in on at 搭配来使用
+on yesterday XXXX yesterday 本身就有昨天 在昨天的意思
+on tomorrow XXX
+on today XXXX
+
+in this year XXX  
+in last week XXXXX
+at now XXXXXX
+
+只要时间以 this 开头，一般不加 in on at ,本身就有在的意思
+this morning
+this week
+this month
+this year
+
+凡是以 last 开头表时间的词或短语，一般不加 in on at
+last
+最后的 上一个的
+last night
+last week
+last month
+last year
+
+凡是以 next 开头表时间的词或短语，一般不加 in on at
+next
+下一个
+next time
+next week
+next month
+next year
 
 # 句子
 
@@ -375,12 +628,10 @@ I study Yoga for two years.
 宾语：动作的承受者、对象或结果
 宾补：对宾语的补充说明
 
-
-
 You give me a book
 
 主谓宾宾
-a book是要承受这个give动作(直接宾语)，还是要补充说明me(间接宾语)
+a book 是要承受这个 give 动作(直接宾语)，还是要补充说明 me(间接宾语)
 
 用途
 肯定句：主语+动词+其他成分
@@ -477,7 +728,123 @@ What about ...? 表询问 征求意见
 I would like a cup of coffee.
 What about you?
 
+What about some tea?
+要不要来些茶 建议
+
+do with
+处理
+
+What are you going to do with this dog?
+
+What are you going to do with these empty bottles.
+
+句子转换
+
+句子分类 1.肯定句 positive sentence 2.否定句 negative sentence 3.一般疑问句 Yes-no question 4.特殊疑问句 Wh question
+
+positive sentence
+肯定句转一般疑问句，动词 主语
+1.be 动词 主语 ?
+
+He is a teacher
+Is he a teacher?
+
+He is watching TV.
+Is he watching TV.
+
+2.情态动词 主语 ?
+He must go now.
+Must he go now?
+
+I can help you.
+Can I help you?
+
+3.助动词 主语 ?
+
+4.  be 情态动词 助动词 都出现谁在最左侧，就把谁放在最前面
+
+He must be in the office
+
+Must he be in the office
+
+5.三无句型，找外援，do(助动词，不需要翻译)
+do 主语 ?
+Do you like coffee?
+Yes, I do
+No, I don't
+主语加助动词做简略回答
+
+Yes, I like XXXXX
+
+I must do my
+
+肯定句转否定句，加否定词 not
+
+1.be 动词 be not
+He is a teacher.
+He isn't a teacher
+He is watching TV
+He isn't watching Tv
+
+2.情态动词 情态动词 not
+He must go now.
+He mustn't go now.
+He needn't go now.
+
+I can help you
+I can't help you
+
+3.助动词 助动词 not
+
+4.be 动词 情态动词 助动词 都出现谁在最左侧，就把 not 放在谁后面
+
+He must be in the office
+He mustn't be in the office.
+
+5.三无句型，找外援，do(助动词，不需要翻译)
+do not ?
+I like coffee
+I don't like coffee.
+
+I speak Chinese.
+I don't speak Chinese
+
+肯定句转特殊疑问句
+1.be 动词 主语 ?
+
+He is a teacher
+Who is he?
+
+He is watching TV.
+What is he doing?
+
+2.情态动词 主语 ?
+He must go now.
+When must he go?
+
+I can swim.
+What can you do?
+
+3.助动词 主语 ?
+
+4.  be 动词 情态动词 助动词 都出现谁在最左侧，就把谁放在主语前面
+
+He must be in the office
+Where must he be?
+
+5.三无句型，找外援，do(助动词，不需要翻译)
+do 主语 ?
+I like coffee.
+What do you like?
+
+I come from China.
+Where do you come from?
+
 # be 动词
+
+be
+v 是 有 存在 位于 在(某处)
+be-was-been-being
 
 be 动词和主语的缩写
 
@@ -512,52 +879,52 @@ It's a lovely day
 表示满意，认同对方的观点
 That's fine.
 
+# there be 句型
 
-# there be句型
 There be 主语
-那里  不需要做翻译
+那里 不需要做翻译
 
-be  存在
+be 存在
 某地存在某人或某物
 
 There is a book on the table.
 There is a pen in my bag
 
-There be (am/is/are) be动词的三种形式取决于主语
+There be (am/is/are) be 动词的三种形式取决于主语
 am 不太可能出现
 
-当主语是第三人称单数或者不可数名词时，用is
+当主语是第三人称单数或者不可数名词时，用 is
 
 There is a witness everywhere
 Where there is a will, there is a way
 
-当主语是可数名词复数，用are
+当主语是可数名词复数，用 are
 There are spots in the sun.
 There are thirty students in the classroom
 
-There are  two books, one pen and some ink.
+There are two books, one pen and some ink.
 
 就近原则
-be动词原则
+be 动词原则
 
 1.构成
-There be + (is,are) + 地点
-2.有   拥有  have
-	   存在  There be
+There be + (is,are) + 地点 2.有 拥有 have
+存在 There be
 
 3.分类
-	There is + 单数名词
-	There are + 复数名词
+There is + 单数名词
+There are + 复数名词
 
 There is an electric cooker in the kitchen.
 
-
 23
+
 # 动词
+
 ## 双宾语结构
-动词  	及物动词 vt.     - 宾语 动作的承受着
-     	不及物动词 vi. (不能接或者不能直接接)
-     	 
+
+动词 及物动词 vt. - 宾语 动作的承受着
+不及物动词 vi. (不能接或者不能直接接)
 I love you
 I drink tea
 I eat food
@@ -565,12 +932,10 @@ I eat food
 I walk
 I run
 I must go.
-Please come here. (here是地点状语)
+Please come here. (here 是地点状语)
 
-
-Look me, please.  XXX 错误的 vi
+Look me, please. XXX 错误的 vi
 Look at me, please.
-
 
 teach you English
 write him a letter
@@ -578,15 +943,26 @@ send her an e-mail
 offer you a job
 read me this letter
 post him a letter
-sell her a new car  
+sell her a new car
 
 sell-sold-sold
 v 卖 出售
 sell sb. sth.
 sell sth. to sb.
 
+take
+v 拿 取
+
+take him a book
+take a book to him
+
 bring-brought-brought
 vt 拿来 带来
+
+take
+带走 近到远
+bring
+带来 远到近
 
 tell-told-told
 vt 告诉 说
@@ -600,70 +976,116 @@ buy sb. sth.
 buy sth. for sb.
 
 show-showed-shown
-vt 
-1.显示 表明 
-2.给...看
+vt 1.显示 表明 2.给...看
 
 show sb. sth.
 show sth. to sb.
 
 Bring her some flowers.
-Tell me an English story. 
+Tell me an English story.
 Hand me that book.
 Show me that book.
 Buy me a flower.
 
 动代名结构
 
+在语气上对间接宾语(pron)进行强调，可以把直接宾语和间接宾语的位置互换，在直接宾语和间接宾语加上一个 to
+
+Give some glasses to me.
+Write a letter to him
+Send an e-mail to her
+Offer a job to you
+Read this letter to me
+Post a letter to me
+Sell a new car to her
+
+有些可以接双宾语的 vt 后面的两个宾语进行替换，接的是 for
+Buy me a flower
+Buy a flower for me
+
+Make me a bookcase
+Make a bookcase for me.
+
+get
+v 1.得到 获得 2.取(某物)
+get-got-got
+Get me that hat
+Get that hat for me.
+get me a book
+get a book for me.
+
+cloth
+n 布
+
+直接宾语是代词，往往用 to 或 for 的结构
+Give me a book
+
+Give it to me
+Give me it XXXXXXX
+
+Read me this letter
+Read it to me.
+
+Buy me a flower.
+Buy it for me
+
+1.39
+双宾语强调结构
 
 # 祈使句
-祈使句：用来表示命令、请求、建议等
-1.没有主语
-2.动词打头（动词原型）
+
+祈使句：用来表示命令、请求、建议等 1.没有主语 2.动词打头（动词原型）
 
 1.表示命令：动词原型+....
-shut the door
-2.表示请求：please+动词原形+。。。
-please give me it.
-3.表示建议：Let's + 动词原形+。。。
+shut the door 2.表示请求：please+动词原形+。。。
+please give me it. 3.表示建议：Let's + 动词原形+。。。
 Let's go,ok?
 
+1.39
 
+形式上否定的祈使句
+Don't + 动词原型
+Dont't speak.
+
+Do not enter.
+
+enter
+n 回车键
+v 进入
+
+Please don’t smoke
 
 # 时态
 
-一共16个时态
+一共 16 个时态
 
-
-1st31
-1.现在进行时
+1st31 1.现在进行时
 基本概念：目前正在发生的动作
 
-主语 + am/is/are + 动词ing
+主语 + am/is/are + 动词 ing
 
-动词+ing （现在分词）
-1.动词直接加ing
+动词+ing （现在分词） 1.动词直接加 ing
 walking
 reading
 seeing
 going
 
-2.动词以不发音的字母e结尾，去掉e再加ing
+2.动词以不发音的字母 e 结尾，去掉 e 再加 ing
 coming
 making
 smoking
 
-3.动词的拼写是以：辅音+1元音+1辅音结尾，同时该元音字母在单词中处于重读音节
-，此时双写结尾的辅音字母再加ing
+3.动词的拼写是以：辅音+1 元音+1 辅音结尾，同时该元音字母在单词中处于重读音节
+，此时双写结尾的辅音字母再加 ing
 
 sit sitting
 run running
 swim swimming
-regret regretting 
+regret regretting
 n 后悔 遗憾
 v 后悔 遗憾
-clean cleanning   XXXX
-open openning  XXX
+clean cleanning XXXX
+open openning XXX
 
 4.例外
 die
@@ -725,13 +1147,12 @@ Is he sweeping the floor?
 1st37
 一般将来时：表示现在对未来的一种计划和打算
 
-1.
-主语+am/is/are going to+动词原型+其他成分
+1.  主语+am/is/are going to+动词原型+其他成分
 
-2.主语+shall/will+动词原型+其他成分
-shall用于第一人称
-I shall study hard.
-We shall study hard.
+    2.主语+shall/will+动词原型+其他成分
+    shall 用于第一人称
+    I shall study hard.
+    We shall study hard.
 
 缩写
 I'll study hard.
@@ -746,8 +1167,8 @@ I am gonna be happy this year.
 going to = gonna
 
 I'm going to be happy this year.
-be不能省掉 do原形
-be going to句型
+be 不能省掉 do 原形
+be going to 句型
 be going to do\be going to be + .n/adj./prep.
 
 我打算下周开始忙起来
@@ -766,11 +1187,10 @@ be not
 She is going to go shopping this weekend.
 Is she going to go shopping this weekend.
 
-
 that is all right
 没事了 没关系
 
-will可以用于所有人称
+will 可以用于所有人称
 You will be happy
 He will go to New York
 She will leave tomorrow.
@@ -778,7 +1198,7 @@ They will stay here
 
 She'll leave tomorrow
 
-shall/will助动词
+shall/will 助动词
 句型变换
 I will give you a call.
 一般疑问句
@@ -790,9 +1210,8 @@ I won't give you a call.
 特殊疑问句
 What will you do?
 
-be going to & will的区别
-1.be going to说话那一刻之前早就已计划好的，will在说话的那一刻所做的决定
-
+be going to & will 的区别
+1.be going to 说话那一刻之前早就已计划好的，will 在说话的那一刻所做的决定
 
 A: Mary is in hospital.
 B: Yes, I konw, I am going to see her tomorrow.
@@ -809,12 +1228,8 @@ A: Don't worry, I will help you.
 trouble
 n 麻烦 (机器、车辆等的)故障
 
-worry
-n 担心 担忧
-v 担心 担忧
-
-2.be going to客观上有迹象或证据表明即将要发生的事
-will主观上根据经验判断未来要发生的事
+2.be going to 客观上有迹象或证据表明即将要发生的事
+will 主观上根据经验判断未来要发生的事
 
 LooK, it is going to rain.
 
@@ -822,9 +1237,8 @@ The house is going to fall down
 
 The flower is going to fade.
 
-
 fade
-n 淡入 淡出 
+n 淡入 淡出
 v 褪色 凋谢
 adj 平淡的 乏味的
 
@@ -843,13 +1257,13 @@ n 票房收入
 
 I imagine this film will be a box-office success.
 
-3.will有时还用来表达请求或赞成，be going to则无此意
+3.will 有时还用来表达请求或赞成，be going to 则无此意
 
 Will you open the window please?
 
 Will you come with me?
 
-Please turn off the lights before you leave.  ????
+Please turn off the lights before you leave. ????
 
 Yes, I will.
 
@@ -859,7 +1273,6 @@ No, I won't
 如果没有明确的迹象区分打算计划、说话那一刻的临时计划或主客观对未来的推测，以及请求、赞成，二者往往可以互换。
 
 无计划、无推测、无请求或赞成
-
 
 I am going to miss you.
 I will miss you.
@@ -871,9 +1284,8 @@ I won't tell you the truth.
 I am not going to tell you the truth.
 
 动词原型
-walk
-1.情态动词+动词原型
-He must stays at home.  XXXXX
+walk 1.情态动词+动词原型
+He must stays at home. XXXXX
 She can help us.
 
 2.be going to + 动词原形
@@ -885,4 +1297,136 @@ Don't + 动词原型
 Be careful!
 Don't drop it!
 
+1.49
+一般现在时态
+何时用： 1.经常的状态：主语+am/is/are 2.习惯的动作：主语+v 3.真理：主语+am/is/are，主语+v
 
+They are very bad.
+They often cheat in the exams.
+The earth is round.
+The sun rises in the east.
+
+动词的变化
+主语+v
+主语为非三单+动词原形
+主语为三单+动词 s/es
+
+1.直接+s
+
+2.以 s\x\sh\ch 结尾+es
+
+3.辅音+y 结尾，改 y 为 i+es
+
+4.辅音+o 结尾+es
+
+He loves his girlfriend very much.
+Jim and Lily walk to school every day.
+They drink beer every night.
+My dog watches TV at night.
+She goes to school on foot.
+
+练习
+She gets up at six in the morning.
+
+Tom is a worker. He works in a factory.
+His sisters work in a hospital.
+
+疑问
+They drink beer every night.
+Do they drink beer every night?
+
+He loves his girlfriend very much.
+Does he love his girlfriend very much.
+
+否定句
+They drink beer every night.
+They don't drink beer every night.
+
+He loves his girlfriend very much.
+He doesn't love his girlfriend very much.
+
+How do you go to school?
+I go to school by bus. But my brother goes to school on foot.
+
+Lucy doesn't want to go shopping with her. But she must.
+
+Do you want any meat ...?
+什么时候用
+Are you ...? Is he/Is she/Is it
+Do you ...? Dose he/Dose she/Dose it
+
+Are you + 非动词?
+Do you + 动词?
+
+Are you busy?
+Are you a teacher?
+Are you at home?(介词短语)
+
+Do you sleep well?
+Do you make the bed today?
+Do you have breakfast?
+
+===========
+Is she tall?
+Is he a boss?
+Is he in Beijing?
+
+wash
+v 洗 洗手 洗脸 洗澡
+
+Does he swim well?
+Does she wash her hands?
+Does he walk to school?
+
+先看词性，再看人称
+Are you ...? Is he/Is she/Is it
+Do you ...? Dose he/Dose she/Dose it
+
+late
+adj. 晚的 迟的
+adv 晚 迟
+
+be late for
+迟到
+
+Is she your girlfriend?
+Do you go to bed late?
+Does he study in Beijing
+
+先看词性：动词 or 非动词
+再看人称：三单 or 非三单
+
+三单：第三人称单数
+she he it
+Lucy\Sam\Mr. Lee\this book\that city\the cell phone
+
+2.不要直接回答 Yes No
+
+Yes, please.
+
+No, thank you.
+
+3.  But my husband doesn't.
+
+isn't aren't don't doesn't
+
+isn't aren't 接非动词
+don't doesn't 接动词
+
+练习
+He isn't tall.
+
+He doesn't usually swim
+
+We don't usually meet
+
+They aren't bad students.
+
+She doesn't like meat.
+
+usually
+adv. 通常
+
+To tell you the truth, ...
+跟你说句老实话
+跟你说句心里话
