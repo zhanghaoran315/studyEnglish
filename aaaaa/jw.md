@@ -22,6 +22,8 @@ look out
 look up
 仰望 查阅 尊敬 拜访
 
+look for 找
+
 shine
 v 闪耀 发光 照耀
 shine-shone-shone
@@ -710,5 +712,20 @@ He goes jogging in all weathers.（
 under the weather
 不舒服
 I'm a little under the weather.
+
+all the time
+总是 一直
+
+big sale
+大甩卖
+for sale
+出售
+
+have the last word.
+说了算，最后拍板
+
+at once
+立即
+Come to my office at once!
 
 ```

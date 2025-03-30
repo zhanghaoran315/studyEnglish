@@ -1,6 +1,302 @@
 # construct
 
 ```
+leather
+n 皮革 皮衣
+adj 皮革的
+
+return
+n 返回
+v 返回
+
+a return ticket
+往返票
+
+a one-way ticket
+
+single ticket
+
+a university（/j/ 开头，辅音音素）
+
+return用法
+1.go back 返回 go back to
+return from / return to
+从...返回，返回到...
+
+He will go back from New York next month.
+He will return from New York next month.
+
+She will go back to China next week.
+She will return to China next week.
+
+2.send back 退、还
+I am going to return the books.
+
+He will return me my money next week.
+
+He will return the coat he bought yesterday.
+
+You cannot return things you have bought.
+
+
+fly from 从...飞回
+fly to 飞到...
+
+clever
+n 聪明的 精明的
+
+move
+n
+v 移动 搬家 vi
+
+move to
+He moved to London last year.
+move into + 房屋 n = move in
+
+When did they move into the house/it?
+When did they move in?
+
+move out
+搬走
+
+
+hurt
+v 伤害 使疼痛
+hurt-hurt-hurt
+
+believe
+v 相信 认为
+
+think
+n 想 
+v 想 思考 认为 
+think-thought-thought
+
+
+work on
+从事于
+
+drive into 撞倒
+
+such
+a 那样的 这样的
+
+such as
+例如 像这样
+
+honest
+a 诚实的 正直的 老实的
+
+honesty
+n 诚实 正直 老实
+
+to be honest
+老实说
+
+fear
+n
+v 害怕 担忧
+
+blind
+n 窗帘
+vt 使失明 使变瞎
+adj 失明的 瞎的
+
+arrange
+v 安排 整理
+
+
+urgent
+a 紧急的 紧迫的
+have an appointment
+have a date
+
+urgent to do sth
+坚持要
+His father is urgent to get a grilfriend for him.
+His mother is urgent to arrange a blind date.
+
+have an appointment with
+和...有约
+I have an appointment with the doctor at 10:30
+
+He had a date with his girlfriend yesterday.
+
+fashion
+n 流行款式 时尚
+in fashion 流行
+out of fashion 过时
+
+ago
+adv 以前
+时间状语一般放句首或者句尾
+three days ago,
+two weeks ago,
+five years ago,
+age往往和过去时搭配使用
+
+strange
+adj 1.奇怪的 古怪的
+2.陌生的 不熟悉的
+
+stranger
+n 陌生人
+
+put ... into 放入
+take out 拿出
+take sth. out of 从...拿出来
+
+她把书放进了包，从钱包里拿出了一些钱
+She put the book into the bag, and took some money out of 
+her wallet.
+
+lose
+v 失去 丧失 丢失
+lose-lost-lost
+
+lose one's way
+迷路
+
+greet
+v 打招呼、问候
+greet to sb. 向某人打招呼
+say hello to sb.
+
+cut
+v 切、割
+cut-cut-cut
+
+
+say
+v 说
+say-said-said-says
+
+speak
+v 讲话 说话
+speak-spoke-spoken
+
+say和speak的区别
+1.say强调说话的内容(只要有内容)
+She said hello to me.
+He said sorry to me.
+My mom always says "Life was like a box of chocolate"
+
+2.speak突出说话的方式或说话的能力(语言)
+speak loudly
+speak slowly
+speak English
+
+对某人说
+say to sb
+speak to sb
+
+answer
+n 回答 答案
+v 回答 接(电话)
+
+answer the phone
+
+年龄的表达
+years old
+year-old
+
+19
+nineteen years old
+nineteen year-old
+
+good
+adj
+good-better-best
+
+well
+adj 只表身体好
+adv 凡是一件事做的好
+well-better-best
+
+
+
+swine
+n 猪 讨厌的人
+
+flu
+n 流感
+bird flu
+禽流感
+swine flu
+猪流感
+
+mesales
+n 麻疹
+
+mumps
+n 腮腺炎
+
+
+
+
+bad
+n 坏人 坏事
+a 坏的 严重的
+ad 很 非常
+bad-worse-worst
+
+badly
+adv 严重地 非常
+
+call
+n 
+v 叫 请 打电话
+
+打电话
+call sb.
+phone sb.
+give sb. a call
+give sb. a phone
+
+remember
+v 记得 记住 想起 记起
+
+past
+n 过去
+adj 过去的
+adv 过去
+prep 超过，多于
+
+teen
+n 青少年
+a 十几岁的 青少年的
+
+teenager
+n 青少年
+
+size
+n 尺寸 尺码 大小
+
+
+envelope
+n 信封
+
+writing paper
+信纸
+
+moment
+n 片刻 瞬间
+
+at the moment
+此刻
+She is learning English at the moment.
+
+usual
+a 通常的 寻常的
+
+as usual
+像往常一样 照旧
+
+unusual
+a 不寻常的 特别的
+
+
+
 set
 n 一套 一幅 一组
 v
@@ -390,10 +686,7 @@ v 主持 主办
 hostess
 n 女主人 女主持人
 
-make
-n 牌子
 
-What make is ...?
 
 
 thirst

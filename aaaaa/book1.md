@@ -8980,7 +8980,8 @@ n 化妆品
 adj 美容的
 
 worth
-n 价值 价值(十元、40英镑等)的东西
+n 价值
+a 值
 
 6.be + worth
 Your MP3 is so nice. How much is it?

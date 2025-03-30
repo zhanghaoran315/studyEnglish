@@ -2,10 +2,18 @@
 
 # 名词
 
-1.冠词+名词 2.名词所有格 3.单复数 4.可数和不可数
+```
+1.冠词+名词 
+2.名词所有格 
+3.单复数 
+4.可数和不可数
+```
+
+
 
 ## 名词所有格
 
+```
 1.名词's 名词
 Mike's car
 
@@ -31,7 +39,7 @@ in four hours' time 95
 在 5 小时后
 twenty minutes' time
 
-表达“的”，介词 to
+表达“的”，介词 to 65
 the key to the front door
 the answer to the question
 the exit to the building
@@ -92,6 +100,9 @@ Three of us are French
 One of them is a new student
 Many of the students come from China.
 Half of the cars are red.
+```
+
+
 
 ## 名词的数
 
@@ -142,7 +153,12 @@ two tins of cola
 
 ## 可数名词复数
 
-1.一般情况：名词复数形式通常在词尾加-s。例如，book 变为 books 2.以 s, x, ch, sh 结尾的名词：在词尾加-es。例如，bus 变为 buses，watch 变为 watches 3.以辅音字母加 y 结尾的名词：将 y 变为 i 再加-es。例如，city 变为 cities，baby 变为 babies 4.以 f 或 fe 结尾的名词：将 f 或 fe 变为 ves。例如，shelf 变为 shelves，leaf 变为 leaves 5.以辅音字母+o 结尾往往+es z。例如，tomato 变为 tomatoes，以元音字母+o 结尾往往+s z。例如，video 变为 videos
+```
+1.一般情况：名词复数形式通常在词尾加-s。例如，book 变为 books 
+
+2.以 s, x, ch, sh 结尾的名词：在词尾加-es。例如，bus 变为 buses，watch 变为 watches 
+
+3.以辅音字母加 y 结尾的名词：将 y 变为 i 再加-es。例如，city 变为 cities，baby 变为 babies 4.以 f 或 fe 结尾的名词：将 f 或 fe 变为 ves。例如，shelf 变为 shelves，leaf 变为 leaves 5.以辅音字母+o 结尾往往+es z。例如，tomato 变为 tomatoes，以元音字母+o 结尾往往+s z。例如，video 变为 videos
 
 特殊： 1.缩写一般+s(看全拼)
 photo photos（photograph）
@@ -165,9 +181,39 @@ belief beliefs 信心 信仰
 句子的复数形式需要考虑代词、动词、名词的一致
 He is an assistant
 They are assistant
+```
 
-# 冠词
+其他
 
+```
+
+He was in car number 15.
+car number 15
+15号车
+line 10
+10号线
+Room 601
+601室
+Platform 19
+19站台
+
+名词与数词的短语，通常会把数词放到后面
+
+other 后接名词
+其他5辆车
+
+other five cars  XXX
+five other cars
+
+其他两位老师
+two other teachers
+```
+
+
+
+## 冠词
+
+```
 戴在名词头上的帽子，没有特殊情况不能摘
 
 冠词是一种词类，用来限定名词的用法和意义。在英语中，冠词分为三种：定冠词（the）、不定冠词（a/an）和零冠词（无冠词）。
@@ -247,13 +293,512 @@ Do you like stories?
 Do you like tea?
 
 Do you like English?
+```
+
+# 动词
+
+```
+want 和 want to do 的区别
+
+want 直接接名词/代词
+
+want to do接动词不定式
+后接动词不定式（to + 动词原形）
+
+want sb to do
+想让某人做某事
+
+want doing
+被动含义，较少用
+```
+
+## 常见动词
+
+```
+双宾语结构
+
+
+动词 及物动词 vt. - 宾语 动作的承受着
+
+不及物动词 vi. (不能接或者不能直接接)
+I love you
+I drink tea
+I eat food
+
+I walk
+I run
+I must go.
+Please come here. (here 是地点状语)
+
+
+Look me, please. XXX 错误的 vi
+Look at me, please.
+
+
+teach you English
+
+write him a letter
+
+send her an e-mail
+
+offer you a job
+
+read me this letter
+
+post him a letter
+
+sell her a new car
+
+
+
+sell-sold-sold
+v 卖 出售
+sell sb. sth.
+sell sth. to sb.
+
+
+take
+v 拿 取
+
+
+take him a book
+
+take a book to him
+
+
+
+bring-brought-brought
+
+vt 拿来 带来
+
+take
+
+带走 近到远
+
+bring
+带来 远到近
+
+tell-told-told
+vt 告诉 说
+
+
+hand
+vt 交 递 给 传
+
+
+buy-bought-bought
+
+vt 购买
+
+buy sb. sth.
+buy sth. for sb.
+
+show-showed-shown
+vt 1.显示 表明 2.给...看
+
+
+show sb. sth.
+
+show sth. to sb.
+
+
+
+Bring her some flowers.
+
+Tell me an English story.
+
+Hand me that book.
+
+Show me that book.
+
+Buy me a flower.
+
+动代名结构
+
+在语气上对间接宾语(pron)进行强调，可以把直接宾语和间接宾语的位置互换，在直接宾语和间接宾语加上一个 to
+
+
+Give some glasses to me.
+
+Write a letter to him
+
+Send an e-mail to her
+
+Offer a job to you
+
+Read this letter to me
+
+Post a letter to me
+
+Sell a new car to her
+
+有些可以接双宾语的 vt 后面的两个宾语进行替换，接的是 for
+
+Buy me a flower
+
+Buy a flower for me
+
+
+
+Make me a bookcase
+
+Make a bookcase for me.
+
+
+
+get
+v 1.得到 获得 2.取(某物)
+get-got-got
+Get me that hat
+Get that hat for me.
+
+get me a book
+get a book for me.
+
+cloth
+n 布
+
+
+直接宾语是代词，往往用 to 或 for 的结构
+Give me a book
+Give it to me
+Give me it XXXXXXX
+Read me this letter
+Read it to me.
+
+Buy me a flower.
+Buy it for me
+
+1.39
+
+双宾语强调结构
+```
+
+
+
+have
+
+```
+have做实义动词
+have做助动词
+
+have-had-had
+1.拥有
+2.吃 喝
+3.患生得长有
+4.have a 名词(动作、行为)、理解成从事、进行
+5.经历
+
+1.拥有
+后面是可数名词单数，需要加冠词
+have an unbrella
+have a bike
+have some water
+
+2.吃 喝
+后面是可数名词单数，需要加冠词
+have an apple
+have a biscuit
+have some coffee
+
+吃喝 U
+have lunch
+have dinner
+
+
+3.患生得长有
+一册
+have flu
+have measles
+have mumps
+除了这3个都要加冠词
+have a cold
+have a fever
+have a headache
+
+4.have a 名词(动作、行为)
+理解成从事、进行，不做翻译
+have a bath
+have a rest
+have a talk
+have a swim
+have a walk
+have a try
+have a haircut
+
+
+5.经历
+后面是可数名词单数，需要加冠词
+have a holiday
+have a party
+have a class
+上课
+have a good time
+have a lesson
+
+
+
+have got
+has got
+这里不是过去式，这是固定结构，有，拥有
+
+I have a new bike
+He has a new bike
+
+I have got a new bike
+He has got a new bike.
+
+也可以用缩写
+I've got a new bike
+He's got a new bike.
+
+使用地域的差别
+have/has  美式
+have got/has got  英式
+
+
+I have a new bike
+三无句型
+一般疑问句
+Do you have a new bike?
+Yes, I do.
+NO, I don't
+否定句
+I don't have a new bike.
+特殊疑问句
+What do you have?
+
+have做助动词
+have got里
+have 很少这样
+have done 现在完成时
+
+
+have got固定结构
+在have got固定结构里，have视为助动词
+I've got a new bike.
+一般疑问句
+Have you got a new bike?
+Yes, I have.
+No, I haven't
+否定句
+I haven't got a new bike.
+特殊疑问句
+What have you got?
+
+have/has got
+拥有 患病
+get-got-got/gotten美式
+
+I have got a bike
+I have got a headache
+
+在过去时态下一般只用had，不加got
+I had a car.
+Did you have a car?
+Yes, I did.
+No, I didn't
+在美式英语中
+I have a new bike.
+这个have不当助动词讲，但是偶尔会把他当助动词用，它是一种特例很少见，不鼓励用
+否定句
+I haven't a new bike.
+一般疑问句
+Have you a new bike.
+
+```
+
+make
+
+```
+make
+n 牌子
+v 1.制造 制作
+
+
+What make is ...?
+
+1.制造
+make a table
+make a list
+make a cake
+make tea
+
+2.制作
+make a film
+make an ad.
+
+3.产生，引起
+make a noise
+
+4.写
+make a shopping list
+
+make money
+
+```
+
+感官动词
+
+```
+感官动词
+feel
+n 
+v  感觉 认为
+feel-felt-felt
+
+look
+n 看
+v 看起来
+
+smell
+n 气味
+v 闻起来
+smell-smelt-smelt
+
+sound
+n 声音
+v 听起来
+
+taste
+n 味道
+v 尝起来
+
+You look young
+It tastes good.
+感官动词修饰形容词(和主系表一样)
+
+感官动词修饰形容词
+副词修饰实义动词
+The girl looks gentle, but she doesn't do her homework carefully.
+
+The music sounds very nice.I enjoy listening to it again.
+
+
+The food smells good and sells well
+```
+
+cost|spend|take
+
+```
+cost
+n 花费 费用 成本 
+v 花费
+cost-cost-cost
+
+spend
+n 花销
+v 花费 度过 消耗
+spend-spent-spent
+
+take-took-taken
+
+这件衬衫花了我300元
+我花了300元买了这件衬衫
+
+This shirt costs me ¥ 300.
+
+I spend ¥ 300 to buy this shirt.
+
+1.
+主语是人 spend
+主语是物 cost/take
+
+2.
+sth. costs(sb.) + 金钱
+sth. takes(sb.) + 时间
+
+journey
+旅行 (长途)旅程
+
+This journey takes two hours.
+
+This pair of shoes costs me 30 pounds.
+
+他在纽约度过了两周的时间
+He spent two weeks in New York
+
+
+spend-spent-spent
+3. spend+时间+地点
+
+He spent twenty years in Beijing.
+
+
+4. spend+时间+with sb.
+
+He spent his holiday with his girlfriend
+
+She spent her weekend with her boyfriend.
+
+5. spend+钱+on sb./sth.
+He spent all his money on books.
+
+她把所有的钱都花在买化妆品上了
+She spent all her money on cosmetics.
+
+cosmetic
+n 化妆品
+adj 美容的
+
+worth
+n 价值 价值(十元、40英镑等)的东西
+
+6.be + worth
+Your MP3 is so nice. How much is it?
+It's worth ¥ 500
+
+The apartment is worth three million
+now.
+
+How is your car worth?
+
+It's worth the money.
+就值这个钱
+
+spend-cost-take
+
+1.主语是人 spend
+  主语是物 cost/take
+  
+2.sth. costs (sb.) + 金钱
+  sth. takes (sb.) + 时间
+  
+3.spend+时间+地点
+
+4.spend+时间+with sb.
+
+5.spend+钱+on sth./sb.
+
+6.be worth
+
+It's worth every penny of it.
+一份价钱一分货
+
+Women always have the last word.
+女人总是最后说了算
+
+have the last word.
+说了算，最后拍板
+
+
+我们家我妈说了算
+My mom has the last word in my family.
+
+I have the last word now.
+```
+
+
 
 # 限定词
 
+some|any
+
+```
 some、any
 一些
 
-1.  some/any+复数名词或不可数名词时表一些
+1.some|any+复数名词或不可数名词时表一些
     some 用在肯定句
     any 用在否定句和疑问句
 
@@ -300,9 +845,76 @@ Some day, he can be some one.
 
 You can buy it in any supermarket.
 你可以在任何一个超市里买到
+```
+
+much|many
+
+```
+much
+许多的
+many
+许多的
+
+much 修饰不可数名词(指代不可数名词)
+much water
+much time
+much money
+
+I haven't got much.
+我的钱不多了
+
+many 修饰可数名词复数
+many books
+many cars
+many students
+
+I haven't got much either!
+```
+
+完全否定和部分否定
+
+```
+完全否定
+He is not a doctor.
+I don't like coffee.
+I don't like it at all.
+I didn't meet him.
+
+部分否定
+We haven't got much tea or coffee.
+我们的茶叶和咖啡没有了 XXXX
+
+我们的茶叶和咖啡不多了
+
+much和many在否定句中表示部分否定
+
+We haven't got much milk.
+我们的牛奶不多了
+They don't have many apples.
+他们的苹果不多了
+She hasn't got much chocolate.
+她的巧克力不多了
+He hasn't got many eggs.
+他的鸡蛋不多了
+
+any在否定句中表达完全否定
+We haven't got much milk.
+我们的牛奶不多了
+We haven't got any milk.
+我们没有牛奶了
+
+They don't have many apples.
+They don't have any apples.
+
+She hasn't got much chocolate.
+She hasn't got any chocolate.
+```
+
+
 
 # 人称代词
 
+```
 第一人称
 I me
 we us
@@ -350,23 +962,148 @@ We, you and they must clean up the classroom.
 3 当承认错误时，无论单复数一律是 123 的顺序
 I, you and he are sorry for being late.
 We, you and they are sorry for being late.
+```
+
+
 
 # 物主代词
 
+```
 adj
 my your his her its our your thier
 
 noun
 mine yours his hers its ours yours thiers
 
+名词性物主代词和形容词性物主代词
+Are these their keys?
+Are these keys theirs?
+Do these keys belong to them?
+
+Is this your letter?
+Is this letter yours?
+Does this letter belong to you?
+
+形容词性物主代词+n
+名词性物主代词可以作主语，表语，宾语
+
+It is my address.
+The address is hers.
+做表语
+
+This is her car.
+The car is hers.
+做表语
+
+My coat is green.
+Mine is brown.
+主语
+
+
+反身代词
+单数  复数
+myself ourselves
+yourself yourselves
+第一、二人称，都是物主代词加self
+
+himself
+herself
+itself  themselves
+第三人称是人称代词宾格加self
+
+作用
+1.强调主语，强调宾语
+2.不言而喻的宾语
+
+用法
+1.by oneself 独自
+2.between oneself 私下
+3.help oneself 随意
+
+何时用
+1.强调主语&宾语
+He himself sent me a gitf!  
+他亲自送我一件礼物
+强调主语
+
+I see WangXiaoya herself 
+我见到了WangXiaoya本人
+
+
+2.不言而喻的宾语
+Take good care of yourself.
+Enjoy yourself.
+
+用法
+1.介词+反身代词
+by oneself
+独自 
+
+I'm going to swim by myself.
+He's going to learn English by himself
+自学
+
+between oneself
+私下
+It's just between ourselves.
+这只是我们之间的秘密
+
+2.动词+反身代词
+enjoy oneself
+玩的开心 过的愉快
+They enjoy themselves.
+
+help oneself
+随意
+
+Help yourselves, please!
+随意（招待别人）
+
+```
+
+
+
 # 副词
 
+```
 too
-ad 1.太 很 非常（adj、adv 前） 2.也 还（肯定句，疑问句末，either 用于否定句）
+ad 1.太 很 非常（adj、adv 前）
+2.也 还（肯定句，疑问句末，either 用于否定句）
 
 I don't know either.
-
 Do you love English, too?
+
+already
+adv 已经
+一般用在助动词的后面
+
+still
+adv 还 仍然
+
+yet
+adv 87
+1.疑问句句末-已经
+2.否定句句尾-还 仍
+not yet
+
+Has he moved to his new house yet?
+No, not yet.
+
+Have you finished yet?
+I haven't finished yet.
+Not yet.
+
+Have you read this book yet?
+I haven't read this book yet.
+Not yet.
+
+also
+adv 而且 此外 也
+
+so
+adv 也
+
+
 
 perhaps
 adv 也许 可能 大概
@@ -391,19 +1128,108 @@ Here we go... 咱开始吧
 everywhere  
 adv 到处 每个地方
 
+else
+adv 其他 另外
+常与特殊疑问词连用
+What else do you like?
+Who else do you know?
+Where else can she be?
+
+just
+adv 恰好 只是 仅仅
+
+on time
+准时 按时
+in time
+及时
+
+副词
+
+功能：修饰形容词、动词和其他副词
+位置：形前动后，表示强调时可微调
+分类：
+频度副词：always、usually、often、sometimes、seldom、never
+程度副词：very、awfully、so、too
+地点副词：here、there
+
+演变：adj.-adv.
+slowly
+suddenly
+quickly
+
+形容词变副词的规则
+1.一般直接+ly
+quickly
+2.辅音+y，改y为i+ly
+lazy-lazily
+happy-happily
+3.以ll结尾的，直接+y
+full-fully   完全地 全部地
+4.辅音+le，e变y
+able-ably
+single-singly
+5.元音+e结尾，去e+ly
+true-truly
+
+then
+adv
+1.然后
+2.那么
+Then no.
+那就算了吧
+
+
+never
+adv 从来没有
+1.一般现在时
+He never gets up early.
+She is naver late.
+never的位置，实前系后
+
+2.现在完成时
+I have never left.
+我从未离开
+I have never ...
+现在完成时的否定形式
+I have not ...
+She has never ...
+
+3.一些短语中
+Never give up!
+Never fear!
+Never mind 没关系，不要紧
+
+ever
+adv 总是 永远 曾经
+1.always
+Honesty ever pays.(总是、永远)
+2.一般过去时(疑问句中)
+Did you ever see such a man?	
+3.现在完成时(疑问句中)
+Have you ever ... ?
+你曾经...
+```
+
+
+
 # 情态动词
 
+```
 1.情态动词：表示情感、态度
 You must go out!
 Can you please stand up?
 
-2.包括：can\must\may。。。 3.用法：接动词原形 4.没有人称和数的变化
+2.包括：can\must\may。。。 
+3.用法：接动词原形 
+4.没有人称和数的变化
 She is ... She can
 I am ... I can
 He is ... He can
 They are ... They can
 
-5.疑问句：提前 6.否定句
+5.疑问句：提前 
+
+6.否定句
 can can't cannot(不能写成 can not)
 must mustn't(禁止)
 may may not
@@ -418,11 +1244,20 @@ The students don't need to finish their
 Can I have a cup of tea?
 May I have a cup of tea?
 
+情态动词后必须接一个动词和它组成谓语，这个动词必须是原型
+
+must/can + be + 非动词
+
 动词分类 1.连系动词 2.情态动词 3.实义动词 4.助动词
 
-shall 1.同 I 和 we 连用，表示将来：将要，将会 2.在疑问句中同 I 和 we 连用：表示提出或征求意见 3.表示决心、命令或指示：必须，一定，应该 4.表示希望、要求：应该，要；可以，能够
+shall 
+1.同 I 和 we 连用，表示将来：将要，将会 
+2.在疑问句中同 I 和 we 连用：表示提出或征求意见 
+3.表示决心、命令或指示：必须，一定，应该 
+4.表示希望、要求：应该，要；可以，能够
 
-情态动词 can，常用的 3 个意思 1.能力
+情态动词 can，常用的 3 个意思 
+1.能力
 Can you swim？
 I believe I can fly.
 
@@ -438,15 +1273,72 @@ Can I smoke here?
 Can you open the window, please?
 Can you shut up?
 
+need
+modal
+v 需要 必须
+
+had better
+情态动词（整体）
+
+主语 had better not 动词原型
+最好(去做某事，否则会有麻烦，困难甚至危险，表达的是一种警告，不要用在长辈和领导身上)
+
+You had better call the police.
+You had better not call the police.
+
+They had better stay here.
+They had better not stay here.
+
+had better一般不用在疑问句
+
+```
+
+
+
 # 形容词
 
+```
 adj 的位置
 1.noun 前做定语
 It is a blue car. 2.系动词后单独做表语
 The car is blue.
 
+形容词顺序
+a blue small case
+
+a small blue case
+
+多个形容词的顺序
+限定 描绘 大长高 
+形状 年龄和新老 
+颜色 国籍和材料
+
+颜色 国籍和材料
+
+
+限定词：the\this\that\my\your\one\two
+描绘：beautiful\cold\pretty\good
+形状：round\square
+材料：wooden\stone\leather
+
+
+the train to London
+开往伦敦的火车
+
+the other
+另一个，另外一个
+the other day
+几天前(这个短语一定用在一般过去时中)
+
+...on the handle with my name and address on it.
+上面写有 我得名字和地址
+```
+
+
+
 # 介词
 
+```
 near
 prep. 接近 靠近
 一般 prep.经常会放在 n.或者 pron.的前面 靠近 XX
@@ -513,7 +1405,8 @@ I study Yoga for two years.
 1.52
 介词 in on at
 
-in 1.在...里面
+in 
+1.在...里面
 There is a boy in the room.
 There is a pen in the box.
 
@@ -524,7 +1417,8 @@ They live in Beijing.
 3.穿着 戴着
 The man in a hat
 
-和时间搭配 1.搭配大段的时间
+和时间搭配 
+1.搭配大段的时间
 月份：in Jan. in Feb. in Mar. in Apr.
 季度：in spring in summer in autumn in winter
 年份：in 2023 in 1999
@@ -610,12 +1504,99 @@ next week
 next month
 next year
 
+about
+prep. 
+1.关于
+2.大约
+3....怎么样?（询问或提意见）
+
+介词后接名词/代词(介词短语)
+
+There is a book on the table.
+
+There is a boy in the room.
+
+What is in it?
+
+1.介词短语经常用作地点状语(一般放句尾)
+There is a car race in our town.
+She bought them in the U.S.
+
+2.介词短语作后置定语
+Can you tell me the way to King Street?
+
+to King Street
+
+Mary's room
+Tom's bike
+
+This is a photograph of our village.
+
+介词短语作定语必须放到被限定词的后面
+The picture on the wall is very beautiful.
+
+The man in the office is my teacher.
+
+I want the glass on the shelf.
+
+Do you have any shoes like these?
+介词短语 like these
+
+till
+conj prep
+直到 直到...为止
+I waited till 10:30
+
+put off
+推迟 拖延
+Never put off till tomorrow.
+```
+
+## 连词
+
+```
+or
+conj. 或者
+Do you like coffee or tea?
+用not或no构成的否定句中，要用or连接对等的词，不用and，或者翻译为即...又....
+He has no brothers or sisters.
+She didn't speak clearly or loudly.
+
+no ... or ...
+not ... or ...
+
+at all
+固定搭配，放在否定句句尾，根本，一点也不，在语气上表示对否定的一种加强
+
+
+because
+conj. 因为
+
+1. because of + n./pron.
+Because of you, I try my hardest just to forget everything.
+
+Because of the weather, I'm not going to swim.
+
+2. because + 句子
+I bought the house because it was large.
+
+Because it was large I bought the house
+
+I said sorry because I hurt him.
+也可以倒着说
+
+Because I hurt him I said sorry
+```
+
+
+
 # 句子
 
+```
 句子
 结构
 简单句 1-98
-并列句  
+并列句 93
 复合句
 
 简单句句型
@@ -827,7 +1808,7 @@ What can you do?
 
 3.助动词 主语 ?
 
-4.  be 动词 情态动词 助动词 都出现谁在最左侧，就把谁放在主语前面
+4.be 动词 情态动词 助动词 都出现谁在最左侧，就把谁放在主语前面
 
 He must be in the office
 Where must he be?
@@ -840,8 +1821,100 @@ What do you like?
 I come from China.
 Where do you come from?
 
+```
+
+## 疑问句
+
+```
+否定疑问句
+
+构成：一般疑问句的疑问词+not的缩略式
+就是把疑问句变否定形式
+
+Are you ok?
+Aren't you ok?
+
+Do you konw that?
+Don't you konw that?
+
+Can you wait?
+Can't you wait?
+
+何时用？
+1.表达强调
+Aren't you lucky!
+你可真幸运
+
+2.表达情绪
+Don't you love me?
+
+翻译：难道、难道不
+
+组织步骤
+一般疑问句(先看词性、再看人称)+not
+
+难道她不漂亮吗？
+Isn't she beautiful?
+
+Doesn't she have a boyfriend?
+
+难道你昨天没有去约会？
+Did you have a date yesterday?
+Didn't you have a date yesterday?
+
+难道你就不能温柔一点吗？
+Can you be tender?
+Can't you be tender?
+```
+
+## 并列句
+
+```
+结构：简单句+and/but/so+简单句，可以让句子表达更多信息，让句子更有逻辑
+He loves me and I am happy.
+He loves me but I am not happy.
+He loves me so I am happy.
+
+and、but、so、or
+not only ... but also ...
+不仅...而且
+
+He's only forty-one years old, and he has already been to nearly every country in the world. 
+
+没有主次之分，可以使用不同的时态
+```
+
+## 宾语从句
+
+```
+sure
+adj. 一定的 确定的
+形容词经常可以用作定语和表语
+
+形容词放在名词前作定语
+He is a tall boy.
+形容词放在be动词后作表语
+He is very tall.
+
+She is beautiful girl.
+She is beautiful.
+
+有些形容词在英语中一般只能用作表语
+sure afraid sorry
+
+I am sure that he is right.
+I am afraid that I can't help you.
+I am sorry that I am late again.
+
+主语+及物动词+单词(名词、代词)作宾语
+主语+及物动词+句子作宾语，宾语从句
+```
+
+
+
 # be 动词
 
+```
 be
 v 是 有 存在 位于 在(某处)
 be-was-been-being
@@ -878,6 +1951,9 @@ It's a lovely day
 
 表示满意，认同对方的观点
 That's fine.
+```
+
+
 
 # there be 句型
 
@@ -919,119 +1995,6 @@ There is an electric cooker in the kitchen.
 
 23
 
-# 动词
-
-## 双宾语结构
-
-动词 及物动词 vt. - 宾语 动作的承受着
-不及物动词 vi. (不能接或者不能直接接)
-I love you
-I drink tea
-I eat food
-
-I walk
-I run
-I must go.
-Please come here. (here 是地点状语)
-
-Look me, please. XXX 错误的 vi
-Look at me, please.
-
-teach you English
-write him a letter
-send her an e-mail
-offer you a job
-read me this letter
-post him a letter
-sell her a new car
-
-sell-sold-sold
-v 卖 出售
-sell sb. sth.
-sell sth. to sb.
-
-take
-v 拿 取
-
-take him a book
-take a book to him
-
-bring-brought-brought
-vt 拿来 带来
-
-take
-带走 近到远
-bring
-带来 远到近
-
-tell-told-told
-vt 告诉 说
-
-hand
-vt 交 递 给 传
-
-buy-bought-bought
-vt 购买
-buy sb. sth.
-buy sth. for sb.
-
-show-showed-shown
-vt 1.显示 表明 2.给...看
-
-show sb. sth.
-show sth. to sb.
-
-Bring her some flowers.
-Tell me an English story.
-Hand me that book.
-Show me that book.
-Buy me a flower.
-
-动代名结构
-
-在语气上对间接宾语(pron)进行强调，可以把直接宾语和间接宾语的位置互换，在直接宾语和间接宾语加上一个 to
-
-Give some glasses to me.
-Write a letter to him
-Send an e-mail to her
-Offer a job to you
-Read this letter to me
-Post a letter to me
-Sell a new car to her
-
-有些可以接双宾语的 vt 后面的两个宾语进行替换，接的是 for
-Buy me a flower
-Buy a flower for me
-
-Make me a bookcase
-Make a bookcase for me.
-
-get
-v 1.得到 获得 2.取(某物)
-get-got-got
-Get me that hat
-Get that hat for me.
-get me a book
-get a book for me.
-
-cloth
-n 布
-
-直接宾语是代词，往往用 to 或 for 的结构
-Give me a book
-
-Give it to me
-Give me it XXXXXXX
-
-Read me this letter
-Read it to me.
-
-Buy me a flower.
-Buy it for me
-
-1.39
-双宾语强调结构
-
 # 祈使句
 
 祈使句：用来表示命令、请求、建议等 1.没有主语 2.动词打头（动词原型）
@@ -1059,7 +2022,11 @@ Please don’t smoke
 
 一共 16 个时态
 
-1st31 1.现在进行时
+## 1.现在进行时
+
+1st31 
+
+```
 基本概念：目前正在发生的动作
 
 主语 + am/is/are + 动词 ing
@@ -1130,10 +2097,13 @@ NO, she isn't
 They are swimming in the river.
 They aren't swimming in the river.
 Are they swimming in the river.
+
 Who is swimming in the river?
 =================
+
 who 作主语等同于 she he it 第三人称
 =================
+
 Where are they swimming?
 What are they doing?
 
@@ -1143,16 +2113,21 @@ NO, they aren't
 He is sweeping the floor
 He isn't sweeping the floor.
 Is he sweeping the floor?
+```
 
 1st37
-一般将来时：表示现在对未来的一种计划和打算
 
-1.  主语+am/is/are going to+动词原型+其他成分
+## 2.一般将来时
 
-    2.主语+shall/will+动词原型+其他成分
-    shall 用于第一人称
-    I shall study hard.
-    We shall study hard.
+```
+表示现在对未来的一种计划和打算
+
+1.主语+am/is/are going to+动词原型+其他成分
+
+2.主语+shall/will+动词原型+其他成分
+   shall 用于第一人称
+   I shall study hard.
+   We shall study hard.
 
 缩写
 I'll study hard.
@@ -1296,10 +2271,17 @@ Don't + 动词原型
 
 Be careful!
 Don't drop it!
+```
 
 1.49
-一般现在时态
-何时用： 1.经常的状态：主语+am/is/are 2.习惯的动作：主语+v 3.真理：主语+am/is/are，主语+v
+
+## 3.一般现在时态
+
+```
+何时用： 
+1.经常的状态：主语+am/is/are 
+2.习惯的动作：主语+v 
+3.真理：主语+am/is/are，主语+v
 
 They are very bad.
 They often cheat in the exams.
@@ -1430,3 +2412,437 @@ adv. 通常
 To tell you the truth, ...
 跟你说句老实话
 跟你说句心里话
+
+
+一般现在时和现在进行时
+
+1.使用情况不同
+A.一般现在时：习惯的状态、经常的动作、真理
+B.现在进行时：此时此刻正在做，一段时间内一直
+
+
+2.结构不同
+A.一般现在时：主语+is/am/are、主语+v
+B.现在进行时：主语+is/am/are+doing
+
+3.时间状语不同
+1.一般现在时：every\always\usually\often\sometimes
+B.现在进行时：now\at the moment
+
+I usually have lunch at 12:00.
+But I am having lunch now at 2:00
+```
+
+## 4.一般过去时
+
+```
+表示过去某一时刻发生的动作或存在的状态
+
+一般过去时态的构成：
+肯定句：主语 + 动词的过去式 + 其他成分
+
+一般过去时态的构成：
+肯定句：主语 + 动词的过去式 + 其他成分
+例如：I studied English yesterday.（昨天我学习了英语。）
+否定句：主语 + did not/didn't + 动词原形 + 其他成分
+例如：She didn't go to the party.（她没有去参加派对。）
+
+过去式变化
+不规则动词
+原形   过去式
+go    went
+say   said
+make  made
+read  read   e
+swim  swam
+put   put
+
+规则动词
+1.动词+ed
+walk    walked
+stay    stayed
+rain    rained
+
+2.动词e+d  不发音的e结尾
+arrive    arrived
+move    moved
+smoke    smoked
+
+3.辅音y-改y为i+ed
+study    studied
+try      tried
+cry      cried
+
+
+4.1辅音+1元音(重读音节)+1辅音，双写辅音+ed
+stopped
+slipped
+regret  regretted
+n v 后悔 遗憾
+
+
+be
+一般现在时
+am     is     are
+一般过去时
+was    was    were
+
+
+变形
+
+
+He went to school yesterday
+
+三无句型
+Do he went to school yesterday
+
+do会吸走原来动词的语法附加条件
+Did he go to school yesterday
+He didn't go to school yesterday
+
+He likes coffee
+
+Does he like coffee?
+
+针对主语提问，不需要动词提前，不需要助动词
+Who went to school yesterday.
+
+buy - bought - bought
+
+I bought a book in that bookstore last week.
+
+Did you buy a book in that bookstore last week?
+Yes, I did.
+No, I didn't
+```
+
+## 5.现在完成时
+
+```
+现在完成时
+主语+have/has(助动词)+动词过去分词+其他成分
+
+用于表示过去发生的动作或状态与现在的关系。
+它由助动词“have/has”和动词的过去分词构成。
+
+have/has + just/already/ever/never + done
+
+现在完成时常用于以下几种情况：
+1.表示过去发生的动作或状态对现在造成的影响或结果。
+2.表示过去发生的动作或状态持续到现在。
+3.表示过去发生的动作或状态，但没有具体的时间状语。
+
+动词原型变过去分词
+不规则动词
+go-went-gone
+read-read-read
+put-put-put
+
+规则动词
+1.动词+ed
+work-worked-worked
+
+2.动词e+d(不发音的e结尾)
+arrive-arrived-arrived
+
+3.拼写以辅音y结尾，改y为i+ed
+study-studied-studied
+
+4.辅音+1元音+辅音，双写辅音+ed
+stop-stopped-stopped
+
+规则动词的过去式和过去分词是完全一样的
+
+
+重点、难点
+现在完成时和一般过去时
+I have already had lunch.
+I have just had a cup.
+I have already had my holiday this year.
+
+普通的发生在过去的动作或状态
+一般过去时
+I went to New York last week.
+I got up very early
+My mom answered the phone.
+
+特殊的发生在过去的动作或状态
+特种过去时--现在完成时
+***
+情况一：说话人主观上 强调 过去的动作或状态的 延续性，且延续到 现在
+
+表示过去发生的动作或状态持续到现在
+
+我学过英语
+我学英语10年了
+
+I studied English
+I have studied English for ten years.
+
+我曾经住在这里
+我在这住了有10年了
+
+副词前一般不用介词
+I lived here.
+I have lived here for eight years.
+
+前天下雨了
+这场雨已经持续了4小时了
+
+last
+adj 最后的 上一个的
+v 持续 延续
+
+It rained the day before yesterday.
+The rain has lasted for four hours.
+
+20年前我当过老师
+我当老师已经10年了
+
+be
+一般现在时   am/is/are
+一般过去时   was/were
+现在完成时   been
+
+I was a teacher twenty years ago.
+I have been a teacher for ten years.
+
+***
+情况二：过去发生的动作或状态对现在产生的 影响 或 结果
+言之过去，意在当下
+
+表示过去发生的动作或状态对现在造成的影响或结果
+
+要不要和我们一起吃晚饭
+Do you want to have supper with us?
+
+不，谢谢，我已经吃过了   现在
+No, thank you, I have had supper.
+
+Tom and I had breakfast together yesterday.
+
+When are you going to do your homework?
+
+I've finished it.
+
+I finished it last week.
+
+我想赶去伦敦的火车
+I want to catch the train to London.
+
+对不起，那趟火车已经开走了
+Sorry, the train has left.
+
+4点钟开走的
+It left at four o'clock
+
+Where is Mary?
+
+She has arrived home.
+
+She arrived home at six o'clock.
+
+表示过去发生的动作或状态，但没有具体的时间状语
+
+具体的、表过去的时间状语往往不能用在现在完成时的句子中
+yesterday
+the day before yesterday
+
+yesterday morning
+
+in 1998/1840/2008
+in Jan./Feb./Mar.
+
+on Monday
+on Tuesday
+
+on 1st/2nd/3rd/4th
+
+at 4:00
+at 6:30
+
+last night/week/month/year
+
+ago
+
+I have already finished my work.
+already加在现在完成时中，强调这个动作比预想的时间或可能发生的时间早
+把早翻译出来
+
+I have already read this book.
+我早就读完了这本书
+I have already had breakfast.
+I have already seen this movie.
+
+Have you just been to the cinema?
+just 刚刚 	只能用在现在完成时
+just now 刚刚 只能用在一般过去时
+
+如果句子没有动词，又需要用现在完成时来表达
+主语+have/has+been+非动词
+
+他一直以来都是个好学生
+He has always been a good student.
+
+我一直都很忙
+I have always been busy.
+
+Have you just been to the cinema?
+
+go-went-gone
+
+been to 去过
+gone to 去了
+
+Where is Jim?
+He has gone to England.
+
+Have you ever been to Japan?
+Yes, I have been to Japan twice.
+
+I heard Great Wall is very exciting place.
+But I have never been to there. XXXX
+
+副词前不加介词
+I heard Great Wall is very exciting place.
+But I have never been there. 
+
+Where have you been?
+I have been to the cinema.
+
+What's on?
+What's on the cinema?
+What's on the radio?
+What's on the television?
+
+Have you ever been there?
+Have you just been to the cinema?
+
+there  地点副词，副词可以直接修饰动词
+cinema 名词
+
+all the time
+总是 一直
+
+口语句型
+Have you ever been to .... ?
+
+It rained all the time.
+
+现在完成时|一般过去时
+
+现在完成时&一般过去时
+结构
+现在完成时：主语+have(has)+done
+一般过去时：主语+was/were/did
+
+用法
+现在完成时：过去发生，影响现在
+一般过去时：过去发生，与现在无关
+
+时间状语：
+现在完成时：just、already、before、never、ever、yet。含糊，不具体
+一般过去时：yesterday、last、ago、just now。具体
+
+语用功能：
+现在完成时：引起话题
+一般过去时：具体谈论
+
+Have you ever ... ?
+你曾经....?
+Have you ever made grilfriend?
+Have you ever kissed gril?
+
+Yes, I have.
+No, I have never.
+
+When did you make your grilfriend?
+Where did you...?
+How did you ...?
+
+make a foreign friend
+cheat on exams
+love a girl
+
+When did you ...?
+Where did you ...?
+What did you ...?
+How did you ...?
+Who did you ...?
+
+
+联系
+I went to Britain last year.
+
+I have already been to Britain.
+
+write-wrote-written
+他上个月写了一本书
+see-saw-seen
+
+
+He wrote a book last month
+他到现在为止写了5本书了
+He has written five books.
+
+
+I saw the film on TV at home last night.
+What's on?
+
+It has been dry for a long time.
+
+Where did you go last weekend?
+Nowhere. I was at home.
+
+现在完成时
+主语+have/has+动词过去分词+其他成分
+
+条件一：说话人主观上 强调 过去的动作或状态的 延续性，且延续到 现在
+
+条件二：过去发生的动作或状态对现在产生的 影响 或 结果
+言之过去，意在当下
+
+具体的、表过去的时间状语往往不能用在现在完成时的句子中
+
+since
+prep.
+自从
+自...以后
+从...以来
+
+I have lived here since 1997.
+
+I haven't seen him since last year.
+
+I have been busy since Monday.
+
+有些时间状语很含糊
+this morning
+this afternoon
+this evening
+this season
+说话的那一刻在此时间范围内要用完成时，否则一般用过去时
+
+今年春天我读了很多书
+（说话的那一刻还在春天）
+I have read a lot of books this spring.
+（说话的那一刻已经过了在春天）
+I read a lot of books this spring. 
+今天早晨我什么都没吃
+（还在早晨）
+I haven't had anything this morning.
+
+（已不在早晨）
+I didn't have anything this morning.
+
+have/has got
+拥有 患病
+get-got-got/gotten美式
+
+I have got a bike
+I have got a headache
+
+注意：
+报告、表达或转述近期刚刚发生的事往往用完成时，多见于新闻
+```
+
