@@ -1,6 +1,130 @@
 # construct
 
 ```
+idea
+n 想法 主意 C
+a good idea
+a bad idea
+I have no idea.
+我不知道、我没有想法
+
+teaspoonful
+n 一满茶勺
+a teaspoonful of sugar
+two teaspoonfuls of milk
+
+keep
+n 生活费用
+v 1.保持 继续(做谋事)
+2.保存 保留
+keep-kept-kept
+
+I have kept the old photo for a long time.
+
+Keep in touch.保持联系
+
+touch
+n v 触摸
+
+Let's keep in touch
+
+correct
+v 改正 纠正
+adj 对的 正确的
+
+mistake
+n 错误 失误 C
+vt 误会 误解
+a mistake
+two mistakes
+
+犯错误
+make a mistake
+
+He made many mistakes in the exam.
+
+
+stale
+n 尿
+adj 不新鲜的 没有新意的
+
+cheap
+adj 便宜的
+
+expensive
+adj 昂贵的
+
+
+hate
+n 讨厌
+v 讨厌
+
+high
+adj 高的
+high & tall
+high表示山的高度，此时不能用tall
+The mountain is very high.
+tall表示人，动物或树木的高，此时不能用high
+He is a tall boy.
+The elephant is very tall.
+Look! There is a boy in the tall tree.
+high和tall都可以表示建筑物的高，此时high更突出高大宏伟
+There are many high/tall buildings along this street.
+high的反义词low
+tall的反义词short
+但是他们的反义词不一定都能表示建筑物的低
+a short building XXXX
+a low building VVVV
+
+
+mark
+n 标记 分数C
+v 做记号
+表达高分、低分用单数
+He got a high mark
+He got a low mark
+表达满分用复数
+He got full marks
+表达具体分数
+He got 90 marks out of 100 for English.
+
+rest
+n 其它的东西 剩余的部分 休息时间
+v 休息
+the rest of the day
+这天剩下的部分
+the rest of my life
+我生命中剩余的部分  余生
+
+have a rest
+休息
+
+
+
+pass
+n 通过 合格
+v
+1.通过 及格(vt vi)
+2.给 递
+
+credit
+n 信用 贷款 学分
+
+a business card
+名片
+a credit card
+信用卡
+a bank card
+银行卡
+
+
+licence
+n 许可证 执照
+v 批准 许可
+
+glad
+n 高兴的 愉快的
+
 leather
 n 皮革 皮衣
 adj 皮革的
@@ -45,6 +169,10 @@ fly to 飞到...
 clever
 n 聪明的 精明的
 
+stupid
+n 傻子 笨蛋
+adj 愚蠢的
+
 move
 n
 v 移动 搬家 vi
@@ -68,8 +196,8 @@ believe
 v 相信 认为
 
 think
-n 想 
-v 想 思考 认为 
+n 想
+v 想 思考 认为
 think-thought-thought
 
 
@@ -147,7 +275,7 @@ take out 拿出
 take sth. out of 从...拿出来
 
 她把书放进了包，从钱包里拿出了一些钱
-She put the book into the bag, and took some money out of 
+She put the book into the bag, and took some money out of
 her wallet.
 
 lose
@@ -244,7 +372,7 @@ badly
 adv 严重地 非常
 
 call
-n 
+n
 v 叫 请 打电话
 
 打电话
@@ -371,7 +499,7 @@ v 担心 担忧
 angry
 a 生气的 愤怒的
 
-another 
+another
 det./pron. 另一个
 There is another book in my bag
 
@@ -395,7 +523,7 @@ prep. 沿
 
 ...is with his family.
 
-with是一个prep.介词前需要接动词 
+with是一个prep.介词前需要接动词
 The desk near the window.  XXXXX
 The desk is near the window.
 
@@ -504,7 +632,7 @@ have cigarette
 
 
 pardon
-n 
+n
 v 原谅 宽恕 赦免
 int (用于请求别人重复某事)什么，请再说一遍
 
@@ -521,7 +649,7 @@ v 后悔 遗憾
 
 
 adj + en = v
-shorten 
+shorten
 vt 缩短 减少
 
 weak
@@ -557,11 +685,11 @@ a 大的  （强调面积）
 
 little
 a 小的 可爱的
-a little girl 
+a little girl
 一个小女孩 (可爱的)
 
 empty
-v 倒空 
+v 倒空
 adj 空的
 
 full

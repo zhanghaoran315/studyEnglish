@@ -315,6 +315,12 @@ cheer
 n 欢呼声
 v 欢呼 加油
 
+cheer up
+振作起来 使高兴起来
+
+Cheers!
+干杯！祝你健康!
+
 flash
 v 闪光 闪耀
 

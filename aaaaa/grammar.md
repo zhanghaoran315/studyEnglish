@@ -100,6 +100,18 @@ Three of us are French
 One of them is a new student
 Many of the students come from China.
 Half of the cars are red.
+
+
+吉米的明信片
+a card from Jimmy
+介词短语后置作定语
+a card in the garage
+我俩中间的孩子
+the kid between us.
+楼前那棵树
+the tree in front of the building
+路上那辆车
+the car on the way
 ```
 
 
@@ -310,6 +322,21 @@ want sb to do
 
 want doing
 被动含义，较少用
+
+carry
+v 1.提 拿 背 抱 扛
+2.携带 带有
+3.支撑 承载
+4.运输 传输
+
+bring-brought-brought
+vt 拿来 带来
+
+take
+v 拿 取
+
+fetch
+v 拿 取 接 请/来
 ```
 
 ## 常见动词
@@ -336,20 +363,12 @@ Look at me, please.
 
 
 teach you English
-
 write him a letter
-
 send her an e-mail
-
 offer you a job
-
 read me this letter
-
 post him a letter
-
 sell her a new car
-
-
 
 sell-sold-sold
 v 卖 出售
@@ -359,20 +378,14 @@ sell sth. to sb.
 
 take
 v 拿 取
-
-
 take him a book
-
 take a book to him
 
 
-
 bring-brought-brought
-
 vt 拿来 带来
 
 take
-
 带走 近到远
 
 bring
@@ -380,7 +393,6 @@ bring
 
 tell-told-told
 vt 告诉 说
-
 
 hand
 vt 交 递 给 传
@@ -1073,6 +1085,18 @@ ad 1.太 很 非常（adj、adv 前）
 I don't know either.
 Do you love English, too?
 
+as well
+也 还
+as well & too
+as well 表达(除...之外)也
+Do you like this car?
+No, I don't. It is too small, and it is expensive as well.
+
+I bought a red car last year.
+I bought one, too
+
+either 当“也”讲一般只能用于否定句句尾
+
 already
 adv 已经
 一般用在助动词的后面
@@ -1208,6 +1232,28 @@ Did you ever see such a man?
 3.现在完成时(疑问句中)
 Have you ever ... ?
 你曾经...
+
+soon
+adv 不久 很快
+I'll be back soon.
+
+enough
+adv 十分 相当 足够地 
+程度副词，修饰形容词，副词等
+very 往往放在adj前面
+
+The book is very interesting.
+He often gets up very early
+
+当enough作程度副词修饰形容词，副词，常放在形容词，副词后面
+
+My house is large enough.
+He got up early enough
+
+certainly
+ad 当然 肯定 确定
+
+
 ```
 
 
@@ -1248,7 +1294,11 @@ May I have a cup of tea?
 
 must/can + be + 非动词
 
-动词分类 1.连系动词 2.情态动词 3.实义动词 4.助动词
+动词分类 
+1.连系动词 
+2.情态动词 
+3.实义动词 
+4.助动词
 
 shall 
 1.同 I 和 we 连用，表示将来：将要，将会 
@@ -1257,21 +1307,29 @@ shall
 4.表示希望、要求：应该，要；可以，能够
 
 情态动词 can，常用的 3 个意思 
+时态的变化, 在过去式中
+can
 1.能力
-Can you swim？
-I believe I can fly.
+He can run very fast.
+He could run very fast.
 
-Can you speak English? XXXX
-这里表能力，不要这么说?(这样不礼貌)
-Do you speak English?
+She can't swim.
+She couldn't swim
+
+can-could
 
 2.允许(征求对方的意见)
-Can I come in?
-Can I smoke here?
+Can I come in?  更口语
+Could I come in?  意思不变，时态也不变，这里不是过去时，区别是语气更婉转
+
+May I come in?  语气更正式
 
 3.请求，要求
-Can you open the window, please?
-Can you shut up?
+Can you open the window, please
+Could you open the window, please
+这里也不是过去时，区别是语气更婉转
+
+只有表能力could才是can的过去时
 
 need
 modal
@@ -1332,6 +1390,106 @@ the other day
 
 ...on the handle with my name and address on it.
 上面写有 我得名字和地址
+
+
+形容词比较级和最高级
+
+不规则
+原型-比较级-最高级
+good、well-better-best
+bad-worse-worst
+many、much-more-most
+little-less-least
+old-older、elder-oldest、eldest
+
+规则形容词
+单音节(元音音标)规则形容词
+1.单音节规则形容词+er比较级，+est最高级
+tall-taller-tallest
+small-smaller-smallest
+strong-stronger-strongest
+short-shorter-shortest
+
+2.单音节规则形容词e，+r比较级，+st最高级
+nice-nicer-nicest
+large-larger-largest
+cute-cuter-cutest
+fine-finer-finest
+
+3.单音节规则形容词辅-元-辅，辅+er比较级，辅+est最高级
+fat-fatter-fattest
+hot-hotter-hottest
+
+big-bigger-biggest
+thin-thinner-thinnest
+
+多音节规则形容词
+1.大多数情况
+beautiful-more beautiful-the most beautiful
+difficult-more difficult-the most difficlut
+important-more important-the most important
+careful-more careful-the most carful
+expensive-more expensive-the most expensive
+
+beautiful-less beautiful-the least beautiful
+difficult-less difficult-the least difficlut
+important-less important-the least important
+careful-less careful-the least carful
+expensive-less expensive-the least expensive
+
+2.特俗情况：辅音+y，改y为i+er比较级，+est最高级
+happy-happier-happiest
+easy-easier-easiest
+pretty-prettier-prettiest
+busy-busier-busiest
+
+
+1.形容词比较级可以单独使用
+I think the blue dress is prettier
+I will certainly be more careful.
+
+You are better now.
+
+2.比较级+than
+than
+conj. 比
+
+Tom is taller than Jim.
+This room is larger than that one.
+This car is cheaper than that one.
+The bule dress is prettier than the green one.
+
+Chinese is more difficult than English.
+
+3.形容词的最高级(必须在3者或3者以上)
+the 最高级 in ... （范围）
+He is the tallest student in our class.
+
+She is the most beautiful girl in the world.
+
+This is the largest room in our school building.
+
+It is the most expensive dictionary in the bookstore.
+
+Tom is taller than I / me?
+
+Tom is taller than me.(这里应该使用宾格)
+Tom is taller than I am(如果一定要用主格这里要用be动词)
+
+
+Tom is older / elder than Jim.
+应该是
+Tom is older than Jim.
+older一般用在比较级和than的结构中
+
+elder和eldest更多用来表示兄弟姐妹间的长幼关系
+
+He is my eldest brother.
+他是我的大哥
+He is my elder brother.
+他是我的哥哥
+She is my eldest sister.
+She is my elder sister.
 ```
 
 
@@ -1550,6 +1708,27 @@ I waited till 10:30
 put off
 推迟 拖延
 Never put off till tomorrow.
+
+next to prep 在...的旁边 = beside
+
+
+with
+prep.
+1.和...在一起
+I am with my mom.
+
+2.带有、具有
+a house with a garden
+a book with a green cover
+
+3.以...方式，用
+We hear with our ears.
+We see with our eyes.
+
+4.对于，至于
+What are you going to do with that ... ?
+
+What's the matter with you?
 ```
 
 ## 连词
@@ -1586,6 +1765,39 @@ I said sorry because I hurt him.
 也可以倒着说
 
 Because I hurt him I said sorry
+```
+
+# Phrase
+
+```
+would like ...
+想 想要(固定搭配)
+would like + 名词/to do
+What would you like to drink?
+
+I would like some coffee, please.
+
+I'd like some coffee.
+I'd like a cup of tea, please.
+
+I'd like to go for a walk.
+I'd like to try on this dress,please.
+
+would like
+提出请求，愿望的一种比较客气的说法
+would like sb. to do sth.
+
+I would like you to type this letter again.
+I would like you to come to my office.
+
+would like = want
+I want you to come to my office.
+I want a cup of coffee.
+
+Would you like ... 
+你想要
+Do you like ...
+你喜欢
 ```
 
 
@@ -1865,6 +2077,50 @@ Didn't you have a date yesterday?
 难道你就不能温柔一点吗？
 Can you be tender?
 Can't you be tender?
+
+
+反意疑问句：
+构成：陈述句+简短的一般疑问句
+用法：期待对方支持、赞同观点
+It's a nice day, is it a nice day?
+It's a nice day, isn't it?
+今天天气不错，不是吗?
+
+反：
+肯定+否定
+否定+肯定
+
+It's a nice day, isn't it?
+It's not a nice day, is it?
+
+组织步骤
+1.动
+2.反
+3.换
+
+be动词
+Lily is in Tokyo, isn't she?
+Chinese people were hard years age, weren't they?
+
+实义动词
+Lily goes to school on foot, doesn't she?
+Sam had a meeting last night, didn't he?
+
+情态动词
+Lily can't speak French, can she?
+Sam must stay at the hotel, mustn't he?
+
+助动词
+You have finished your work, haven't you?
+
+Sam hasn't had his lunch, has he?
+
+反意疑问句的功能
+期待对方支持、赞同观点
+It's pretty, isn't it?
+
+通常可以用，right? eh? ... 语气词代替
+It's pretty, right?/eh?
 ```
 
 ## 并列句
@@ -1908,6 +2164,108 @@ I am sorry that I am late again.
 
 主语+及物动词+单词(名词、代词)作宾语
 主语+及物动词+句子作宾语，宾语从句
+
+宾语：动作的承受着、对象或结果
+宾补：对宾语的补充说明
+He told us that he didn't want to leave this house.
+
+that 引导词，在口语，或一般的书面用语，可以删掉
+
+I found he didn't speak English.
+
+He told us he didn't want to leave this house.
+
+glad
+高兴的 愉快的
+
+
+表语形容词+句子
+I'm afraid that I can't get up.
+I'm sure that you need an X-ray.
+I'm afraid that he can't see you now, Mr. Croft.
+I'm glad that I can see you again.
+
+概念上接近宾语，结构上接近状语
+I believe that this house is for sale.
+
+简单句：只包括一个主语部分和一个谓语部分。谓语部分用来陈述主语发出的动作或状态
+
+She is very well, too.  9
+He telephoned me four times yesterday. 71
+Sam and I had lunch together today. 81
+
+并列句：由等立连词(and\but等)将两个或两个以上简单句连在一起的句子
+
+It is  a samll blue case and it has got a zip.
+
+There are some clouds in the sky, but the sun is shining. 33
+
+
+复合句：由一个主句和一个或一个以上的从句合成的句子(子母句)
+
+I believe that this house is for sale.
+
+I 主句的主语
+believe 主句的谓语动词
+this house 从句的主语
+is 从句的谓语动词
+
+一个句子中一般只允许使用一个动词 XXX
+一个简单句中一般只允许使用一个动词 XXX
+
+I want her to come to my office.
+
+一个简单句中一般只允许使用一个谓语动词 XXX
+谓语动词：陈述主语发出的动作
+
+He must go home now
+I have already had lunch.
+
+一个简单句中一般只允许使用一个谓语部分
+
+
+直接引语&间接引语
+什么是直接引语&间接引语
+"Anhong, I miss you." 直接引语(有引号)
+转述
+He says he misses you. 间接引语
+
+say-said-said-says
+
+直接引语变间接引语
+1.人称的变化
+
+2.指示代词
+this-that,these-those
+
+3.时间状语
+now-then（那时）
+today-that day（那天）
+yesterday-the day before（那天之前）
+tomorrow-the next day（第二天） 
+
+4.地点状语
+here-there
+
+She says, "I will leave this evening."
+She say (that) she will leave that evening.
+
+He says, "My sister was here yesterday"
+He says (that) his sister was there the day before. 
+
+He says to me, "I've found my wallet".
+He tells me (that) he has found his wallet.
+
+She says, "You can sit here, Jim."
+She tells Jim (that) he can sit there.
+
+直接引语、间接引语&宾语从句
+He says (that) his sister was there the day before. 
+
+句子作宾语-宾语从句
+主句一般现在-从句任何时态
+
+结论：间接引语属于宾语从句
 ```
 
 
