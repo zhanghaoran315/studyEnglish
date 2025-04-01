@@ -397,11 +397,8 @@ vt 告诉 说
 hand
 vt 交 递 给 传
 
-
 buy-bought-bought
-
 vt 购买
-
 buy sb. sth.
 buy sth. for sb.
 
@@ -410,53 +407,32 @@ vt 1.显示 表明 2.给...看
 
 
 show sb. sth.
-
 show sth. to sb.
 
 
-
 Bring her some flowers.
-
 Tell me an English story.
-
 Hand me that book.
-
 Show me that book.
-
 Buy me a flower.
 
 动代名结构
-
 在语气上对间接宾语(pron)进行强调，可以把直接宾语和间接宾语的位置互换，在直接宾语和间接宾语加上一个 to
 
 
 Give some glasses to me.
-
 Write a letter to him
-
 Send an e-mail to her
-
 Offer a job to you
-
 Read this letter to me
-
 Post a letter to me
-
 Sell a new car to her
-
 有些可以接双宾语的 vt 后面的两个宾语进行替换，接的是 for
 
 Buy me a flower
-
 Buy a flower for me
-
-
-
 Make me a bookcase
-
 Make a bookcase for me.
-
-
 
 get
 v 1.得到 获得 2.取(某物)
@@ -800,6 +776,66 @@ My mom has the last word in my family.
 I have the last word now.
 ```
 
+## 倒装
+
+
+
+```
+Those kings will always be there to guide you.
+
+I will always be there to guide you too.
+
+So will I.
+
+倒装
+1.构成
+肯定句：so+...+主语
+否定句：neither+...+主语
+
+2.时态一致，人称一致
+
+肯定句
+I like Lee Hong.
+I like Lee Hong too = So do I.
+So does she.
+
+I hate money.
+I hate money, too = So do I.
+She hates money, too = So does she.
+
+I can do it.
+I can do it, too. = So can I.
+He can do it, too. = So can he.
+
+They were young.
+I was young. = So was I.
+She was young, too = So was she.
+
+否定句
+I didn't go to school last week.
+I didn't go to school, either.
+= Neither did I.
+
+She didn't go to school either.
+= Neither did she. 
+
+I am not a nurse.
+I am not a nurse, either.
+= Neither am I.
+She is not a nurse, either.
+= Neither is she.
+
+I haven't had breakfast.
+I haven't had breakfast, either.
+= Neither have I.
+He hasn't had breakfast, either.
+= Neither has he.
+
+If you don't go to the park tomorrow.
+Neither will I.
+一般进来时
+```
+
 
 
 # 限定词
@@ -920,6 +956,26 @@ They don't have any apples.
 
 She hasn't got much chocolate.
 She hasn't got any chocolate.
+```
+
+little|few
+
+```
+少
+little    几乎没有
+a little  有少许
+修饰不可数名词
+比较级和最高级一样 less\the least
+
+few		  几乎没有
+a few	  有几个
+修饰可数名词
+比较级和最高级一样 fewer\the fewest
+
+There is little milk in the cup.
+He knows only few words of French.
+There are a few good man now.
+He has few friends here, he feels lonely.
 ```
 
 
@@ -1253,7 +1309,94 @@ He got up early enough
 certainly
 ad 当然 肯定 确定
 
+instead
+adv
+Don't marry her.Marry me instead.
+不要和他结婚，和我结婚吧(instead并不翻译出来)
+Shall we watch a movie instead?
+咱能不能改看电影
+Shall we use white instead?
+可以改用白色吗？
 
+instead
+ad 代替
+
+instead of + n.\pron.
+而不是 代替
+
+
+原级   比较级  最高级
+
+不规则
+well-better-best
+badly-worse-worst
+much-more-most
+little-less-least
+
+
+规则
+副词最高级不要加the
+1.单音节规则副词+er比较级、+est最高级
+fast-faster-fastest
+hard-harder-hardest
+early-earlier-earliest
+
+2.多音节规则副词+more、most或者less、least
+most carefully
+most quickly
+most warmly
+less carefully 比较不仔细的
+less quickly 
+less warmly 
+
+Which seasons do you like best? 53
+修饰动词，这里是副词的最高级
+Eat more and smoke less!   109
+修饰动词，这里是副词的比较级
+
+He speaks English.
+
+fluent
+adj 流利的 流畅的
+
+snail
+n 蜗牛
+
+He speaks English as fluently as he speaks Chinese.
+
+The man walks as slowly as a snail crawls on the ground.
+
+He studies as hard as she studies
+
+He studies as hard as she does.
+
+He studies as hard as her.（宾格）
+
+He is running as fast as he can run.
+他正在以他最快的速度狂奔
+He is running as fast as he can.
+
+He ran as fast as he could.
+
+as adv(原级) as 主语 can/could
+尽主语最大的可能怎样
+
+run away
+逃走 离家出走
+
+away
+adv 离开
+
+The thieves ran away as quickly as they could.
+
+soon
+adv 不久 很快 
+
+You must come back  as soon as you can.
+
+They work as hard as they can.
+
+You had better drive as carefully as you can.
 ```
 
 
@@ -1318,7 +1461,7 @@ She couldn't swim
 
 can-could
 
-2.允许(征求对方的意见)
+2.可以 允许(征求对方的意见)
 Can I come in?  更口语
 Could I come in?  意思不变，时态也不变，这里不是过去时，区别是语气更婉转
 
@@ -1330,6 +1473,58 @@ Could you open the window, please
 这里也不是过去时，区别是语气更婉转
 
 只有表能力could才是can的过去时
+
+may|might 
+1.可以 = can
+May I have a look at it?
+You may go now.
+may和can都可以，区别只是may语气更加的婉转
+
+2.可能
+He may come tomorrow.
+It may rain tonight.
+
+may be & maybe
+
+maybe
+adv 也许 可能 大概  一般放于句首
+Maybe it is Tim's shirt.
+
+Maybe I am wrong.
+
+perhaps
+adv 也许 可能 大概
+Perhaps it is Tim's shirt.
+Perhaps I am wrong.
+
+may be 固定结构
+表示对现在存在着的状态的一种可能性推测.
+It may be true.
+She may be at home.
+
+might
+1.可以，语气比may更婉转
+Might I have a look at it?
+Might I come in?
+
+might
+2.可能，可能性一般比may小
+He might come tomorrow.
+It might rain tonight.
+We might not go anywhere.
+
+3.might be
+可能性一般小于may be
+It might be true.
+He might be ill.
+
+有些情况互为过去时
+You may come in.
+I asked the teacher if I might come in.
+He may be ill
+I thought he might be ill.
+其他情况只是语气更婉转
+
 
 need
 modal
@@ -1348,6 +1543,154 @@ They had better stay here.
 They had better not stay here.
 
 had better一般不用在疑问句
+
+
+have to & must
+
+1.意思
+have to
+不得不，说话人自己可能一点都不想做这件事情，但是由于客观需要不得不做，勉强的做一件事
+must
+必须，说话人对于这件事有非常坚定的意志，主管能动性
+
+2.词性
+have to
+must
+都是情态动词
+
+3.时态变化
+have to - had to
+must - must
+
+4.人称变化
+have to - has to（三单）
+
+5.疑问句
+have to 不符合一般情态动词的变化，需要借助do/does/did
+must 提前
+
+6.否定形式
+have to - don't/doesn't/didn't have to
+must - mustn't
+must - don't/doesn't/didn't need to
+
+
+7.疑问句的回答
+Do you have to go now?
+Yes, I have to.
+No, I don't have to.
+No, I don't need to.
+
+Must I pass the exam?
+Yes, please.
+I'm afraid so.
+我恐怕你得这样
+肯定
+No, you don't need to.
+
+I must water the garden first.
+
+Do you have to water it now?
+
+I'm afraid I must.
+
+Must I clean the window now? 
+No, you don't nood to.
+```
+
+## 情态动词表推测
+
+```
+
+1.must be 固定结构
+表示对现在存在着的状态的一种肯定性的推测
+肯定是
+
+It must be true.
+这肯定是真的
+It must be 8:00.
+He must be ill.
+
+She must be over twenty years old.
+She must be under twenty years old.
+
+must be的否定形式
+2.can't be
+不可能
+
+表示对现在存在着的状态的一种否定性的推测
+It can't be true.
+It can't be 8:00
+He can't be ill.
+
+She can't be over twenty years old. 
+She can't be under twenty years old.
+
+3.表示对现在存在着的状态的一种可能性的推测
+may be
+可能是...
+
+He must be know that.
+XXX 三个动词
+He must konw that.
+
+一般现在时态的推测后面可用
+n./adj./prep./pron./num...
+
+4.must be doing
+表示对现在正在发生的动作的一种肯定推测
+
+He must be sleeping at home now.
+
+They must be having lunch.
+
+She must be working in the office.
+
+5.can't be doing
+表示对现在正在发生的动作的一种否定推测
+He can't be sleeping at home now.
+
+They can't be having lunch.
+
+She can't be working in the office.
+
+6.may be doing ...
+表示对现在正在发生的动作的一种可能推测
+
+现在进行时态的推测后面用doing
+
+7.must have 动词过去分词
+must + 现在完成时
+表示对过去发生的动作的一种肯定推测
+He must have had lunch.
+
+They must have arrived.
+
+She must have finished her work.
+
+8.can't have 动词过去分词
+表示对过去发生的动作的一种否定推测
+He can't have had lunch.
+
+They can't have arrived.
+
+She can't have finished her work.
+
+9.may have 动词过去分词 ...
+表示对过去发生的动作的一种可能推测
+
+
+10.
+那时肯定正在
+must have been doing...
+那时不可能正在
+Can't have been doing...
+那时可能正在
+may have been doing...
+过去进行时态推测
+后面用doing
+
+He must have been giving class at 7:00 p.m. yesterday
 
 ```
 
@@ -1490,6 +1833,130 @@ He is my elder brother.
 他是我的哥哥
 She is my eldest sister.
 She is my elder sister.
+
+
+Eat more and smoke less.
+v.+比较级
+如果要比较动词，需要将比较级放在动词后面
+
+多喝水少吃东西
+Drink more and eat less
+
+Play more and study less.
+
+形容词的同级比较
+as+形容词原级+as
+Tom is as tall as Jim.
+
+Mary is as beautiful as Carol.
+This room is as large as that one.
+
+形容词同级比较的否定形式就可以转化为比较级+than
+The green apple is as sweet as the red apple.
+The green apple isn't as sweet as the red apple.
+
+The red apple is sweeter than the green apple.
+```
+
+# 代词
+
+```
+every，no，any,some等代词以及由它们所构成的其它代词如everything，everyone,everybody等作主语时，谓语大多采用单数形式。
+
+Isn't there anyone at home?
+Everything is very quiet.
+I am sure there is no one at home.
+Everyone is in the garden.
+Everybody wants to have lunch in the garden.
+There is none left.
+
+当代词特别指代复数名词或表达复数概念时，动词往往采用复数形式，反之，动词则用单数。（尤其不可数名词）
+There are many apples in the refrigerator.
+Some are fresh, some are stale.
+
+Some of the homework is difficult for me.
+Is there any beer in the bottle?
+
+Is there any in the bottle?
+homework和beer都是不可数名词，搭配单数
+
+Are there any tomatoes in the basket?
+Are there any in the basket?
+
+None of the beer is left.
+none指代beer，beer不可数名词
+
+None of our passengers have small change.
+None of our passengers has small change.
+
+"None of our passengers have small change."
+这里将 "none" 视为复数，强调 "not any"（没有一个），因此动词用复数形式 "have"。这种用法在非正式英语中更常见，尤其是当强调 "none" 指代多个个体时。
+
+"None of our passengers has small change."
+这里将 "none" 视为单数，强调 "not one"（连一个都没有），因此动词用单数形式 "has"。这种用法更正式，在传统语法中更受推崇。
+
+All is gone
+一切都过去
+All have arrived。
+
+a few 几个 修饰复数名词，are
+I think there are a few in that box.
+109
+
+a little 一些 修饰不可数名词，is
+I think there is a little in that bottle.
+
+this This is my book.
+these  These are my books.
+
+that  That is Tim's shirt.
+those Those are Tim's shirts.
+
+
+下面的是代词
+Every
+Everyone
+Everybody  每个人，大家
+Everything 一切   全是代词
+
+Everywhere  副词，地点副词，一般放句尾，到处
+
+None
+No one
+Nobody 没人
+Nothing 什么都没有
+
+Nowhere，没有地方
+
+Any
+Anyone
+Anybody 任何人
+Anything 任何东西
+
+Anywhere，任何地方
+
+Some
+Someone
+Somebody 某人
+Something 某个东西
+
+Somewhere 某个地方
+
+everywhere
+nowhere
+anywhere
+somewhere
+这一组是地点副词
+
+He looked for his pen everywhere. 
+You can go nowhere
+
+None
+No one
+Nobody
+Nothing 
+Nowhere
+应该视为否定句
 ```
 
 
@@ -1729,6 +2196,55 @@ We see with our eyes.
 What are you going to do with that ... ?
 
 What's the matter with you?
+
+except
+prep
+除...之外
+
+besides
+prep. 除...之外(还)
+
+
+They all went to sleep, except me.
+把自己剪掉
+
+No one wears glasses besides you.
+加上自己
+
+
+during
+p 在...期间（后面一般加名词）
+
+I studies very hard during my summer vacation.
+
+He slept calmly during the meeting.
+
+during sb. does sth. XXXXX
+
+The thieves entered the house during George slept. XXXXX
+
+
+by
+prep.
+1.乘坐(交通工具等)，表方式
+by bike/car/bus/train
+
+2.不迟于..(常用过去完成时)，在…之前（包含该时间点）
+I will be back by 7:00
+我会在7点前回来（不迟于7点）。
+
+before 在某个时间之前（不包括该时间点）
+
+3.被、由  (141,被动语态)
+Thirty divided by three is ten.
+
+4.用、靠、通过
+They can read by touch.
+He learned English by himself.
+
+5.表示位置（= 在…旁边）
+She sat by the window.（她坐在窗边。）
+
 ```
 
 ## 连词
@@ -2123,6 +2639,130 @@ It's pretty, isn't it?
 It's pretty, right?/eh?
 ```
 
+
+
+## 祈使句
+
+```
+祈使句：用来表示命令、请求、建议等 
+
+1.没有主语 
+2.动词打头（动词原型）
+
+1.表示命令：动词原型+....
+shut the door 2.表示请求：please+动词原形+。。。
+please give me it. 3.表示建议：Let's + 动词原形+。。。
+Let's go,ok?
+
+1.39
+
+形式上否定的祈使句
+Don't + 动词原型
+Dont't speak.
+
+Do not enter.
+
+enter
+n 回车键
+v 进入
+
+Please don’t smoke
+```
+
+## 感叹句
+
+```
+Aren't you luck!
+
+Great!
+Look, here it is!
+Are you crazy!
+
+
+What 和 How
+what 后跟名词 （修饰名词）
+1.What + a/an + adj + n（可数单数） + 主语 + 谓语！
+
+He is a tall boy.
+What a tall boy he is!
+
+She is a good student.
+What a good student she is!
+
+It is an interesting book.
+What an interesting book it is!
+
+It is a beautiful ship.
+What a beautiful ship it is!
+
+2.What + adj + n（不可数/可数复数）+ 主语
++ 谓语
+
+It is good news.
+
+What good news it is!
+
+It is hard work.
+What hard work it is.
+
+They are beautiful photos.
+What beautiful photos they are!
+
+They are good boys.
+What good boys they are!
+
+how 后跟形容词（修饰形容词）
+1.How + adj + a/an + n（可数单数）+主语+谓语！
+
+He is a tall boy.
+How tall a boy he is!
+What a tall boy he is!
+what引领的感叹句特别修饰名词，how引领的感叹句特别修饰形容词
+
+She is a good student.
+
+How good a student she is!
+What a good student she is!
+
+2.how + adj/adv + 主语 + 谓语！
+
+He is clever.
+How clever he is.
+
+She is beautiful.
+How beautiful she is!
+
+He runs fast.
+How fast he runs!
+
+She works hard.
+How hard she works
+
+4个公式
+What + a/an + adj + n（可数单数）！
+What + adj + n（不可数/可数复数）!
+How + adj + a/an + n（可数单数）!
+How + adj/adv!
+在口语中为了省事，可以将主语和谓语部分直接省略掉
+What a tall boy he is!
+What a tall boy!
+
+What good news it is!
+What good news!
+
+How tall a boy he is!
+How tall a boy!
+
+How fast he runs!
+How fast!
+
+否定疑问句也可以改为感叹句
+Aren't you lucky!
+Isn't it a beautiful picture!
+```
+
+
+
 ## 并列句
 
 ```
@@ -2266,6 +2906,151 @@ He says (that) his sister was there the day before.
 主句一般现在-从句任何时态
 
 结论：间接引语属于宾语从句
+
+
+Miss Marsh：“I feel very tired and I don't want to make another film.”
+一般现在时，主语+v
+直接引语
+
+Miss Marsh told reporters she felt tired and she didn't want to make another film.
+一般过去时，主语+was/were
+间接引语
+
+主语是一般过去时，从句要往前推一个时态，从句原时态（直接引语） - 从句变后时态（间接引语）
+一般现在 - 一般过去
+现在完成 - 过去完成时
+一般过去 - 过去完成时
+一般将来 - 过去将来
+
+Susan says：“I am still at home”
+直接引语一般现在：主语+am/is/are
+Susan said she was still at home
+间接引语一般过去：主语+was/were
+
+Susan says：“I did my job well”
+直接引语一般过去：主语+did
+Susan said she had done her job well.
+间接引语过去完成：主语+had done
+
+Susan says：“I have had breakfast”
+直接引语现在完成时：主语+have done
+Susan said she had had her breakfast.
+间接引语过去完成时：主语+had done
+
+Susan says：“I am going to visit Xiamen.”
+直接引语一般将来时：主语+is/am/are going to
+Susan said she was going to visit Xiamen.
+间接引语过去将来时：主语+was/were going to
+
+
+```
+
+## 定语从句
+
+```
+1.什么是定语
+能翻译成 "的" 就是定语
+
+2.定语的位置
+结论：单个词在前，短语或以上放后
+上等的苹果
+a choice apple
+
+要命的牙疼
+a terrible toothache
+
+桌上的面包
+the bread on the table
+
+我旁边的哥们
+the guy next to me.
+
+3.什么是定语从句?
+He is a nice man.
+
+He is the man who loves my friend.
+
+She is a female manager.
+
+She is the manager who served me yesterday.
+定语从句：句子作定语
+
+4.定语从句的零部件
+先行词：被修饰的词
+关系词：先行词是人：who/whom
+先行词是物：which
+先行词是物或者是人：that
+
+who和whom的区别
+先行词作主语：who
+先行词作宾语：whom
+
+He is the man who loves my friend.
+The man loves my friend.
+
+He is the man whom my friend loves.
+
+my friend loves the man
+
+He is the man who loves my friend.
+先行词：the man
+关系词：who
+
+I like the beautiful girl.
+
+I like the beautiful girl who is listening to music.
+先行词：the beautiful girl
+关系词：who
+
+The man who wears a dress is Brad Pitt.
+先行词：the man
+关系词：who
+
+God helps him.
+God helps those who help themselves.
+自助者天助
+
+5.定语从句的核心
+颠倒顺序
+
+general
+n 将军 上将
+adj 一般的 普遍的
+
+The general who makes the fewest mistakes is the best general.
+
+6.组织定语从句的步骤。
+找定语-找先行词(被修饰词)-颠倒顺序-上关系词
+
+People who can make most people happy is the happest in the world.
+
+Do you know the man who watched movie with me yesterday?
+
+The bag that I bought yesterday is very nice.
+
+perfect
+adj 完美的 最佳的 准确的
+
+你给我的那块手表走的可准了
+The watch that you gave me keeps perfect time.
+
+7.定语从句的作用：解释一个东西，或者解释一个人
+What is a present?
+
+A present is something that you give your friend on his or her special day.
+
+A dentist is someone who can see and protect your teeth.
+
+What is a wallet?
+
+A wallet is something that you can put your money in.
+
+What is a mechanic?
+
+A mechanic is someone who repairs cars or machines.
+
+描述人
+A sb. is someone who ....
 ```
 
 
@@ -2353,28 +3138,8 @@ There is an electric cooker in the kitchen.
 
 23
 
-# 祈使句
 
-祈使句：用来表示命令、请求、建议等 1.没有主语 2.动词打头（动词原型）
 
-1.表示命令：动词原型+....
-shut the door 2.表示请求：please+动词原形+。。。
-please give me it. 3.表示建议：Let's + 动词原形+。。。
-Let's go,ok?
-
-1.39
-
-形式上否定的祈使句
-Don't + 动词原型
-Dont't speak.
-
-Do not enter.
-
-enter
-n 回车键
-v 进入
-
-Please don’t smoke
 
 # 时态
 
@@ -2890,6 +3655,15 @@ have/has + just/already/ever/never + done
 2.表示过去发生的动作或状态持续到现在。
 3.表示过去发生的动作或状态，但没有具体的时间状语。
 
+There's none left.
+left是leave当剩下讲的过去分词
+非谓语动词，动词过去分词很多时候具有形容词词性，后来直接演变成了形容词，这里可以将left看做形容词
+形容词修饰名词都放在名词的前面，形容词往往还用来修饰代词，放在代词的后面
+
+There is nothing left.
+
+I have only a few left.
+
 动词原型变过去分词
 不规则动词
 go-went-gone
@@ -3202,5 +3976,202 @@ I have got a headache
 
 注意：
 报告、表达或转述近期刚刚发生的事往往用完成时，多见于新闻
+```
+
+## 6.过去进行时态
+
+```
+
+功能：过去某一时刻、时段正发生的动作
+结构：主语+was/were+doing
+
+She was doing her homework at 10:00
+last night.
+
+
+They were having a date from 7:00-9:00 yesterday.
+
+疑问形式
+Was she doing her homework at 10:00 last night.
+
+否定形式
+They were not having a date from 7:00-9:00 yesterday.
+```
+
+### 时间状语从句
+
+```
+概念：句子做时间状语
+He was calling his girlfriend at 10:00
+
+He was calling his girlfriend when he was driving
+
+引导词
+when  万能引导词
+while  多接进行时态
+as   一边一边，紧接着发生
+三个都翻译成：当...的时候
+before
+after
+
+Jane was waiting for me when I arrived.
+前面 过去进行时
+后面，一般过去时
+
+My brother came into the living room while I was dancing.
+
+I was cooking a meal when you rang me.
+
+While she was watching TV, she heard a sound outside the room.
+```
+
+### 同位语
+
+```
+We looked for them, but we could not find them all.
+look for 寻找
+find 找到
+look 看
+see 看见
+listen 听
+hear 听见
+
+Look!Can you see it?
+Listen!Can you hear it?
+Look for it!Can you find it?
+
+I'm listening to him,but I can hear nothing, because there is something wrong with my ears.
+
+wrong
+adj 错误的 有毛病的
+
+While we were having breakfast, our little boy, Tommy, found two small coins on the floor.
+
+our little boy, Tommy, 
+同位语
+功能：解释名词
+结构：名词+名字，名字+名词
+
+中国
+an ancient country in Asia.
+
+林书豪
+a popular basketball player from Taiwan.
+
+丰台
+a well-known district Beijing.
+
+
+芙蓉姐姐
+a confident "s" women.
+
+自我介绍
+Hello.
+I'm Venus.
+I'm a teacher.
+I'm from Shaanxi province
+I live in Beijing now.
+
+Hello.I'm Venus, an English teacher in New Oriental.
+I'm from Shaanxi province, a nice place in the west of China.
+I live in Beijing, the capital city of China.
+
+He put both into his mouth.
+We both tried to get the coins.
+
+both
+1.pron
+Both are good!
+both = the two books
+
+2.adv 情系后，实词前
+We both like English.
+
+They can both sing.
+```
+
+## 7.过去完成时
+
+```
+Do you like stories?
+
+co-worker
+同事
+
+my friend
+我的一个朋友
+a friend of mine
+a teacher of his
+a classmate of hers
+a co-worker of ours
+a student of yours
+
+While my friend, George, was reading in bed, two thieves climbed into his kitchen.
+
+时间状语从句
+
+After they had entered the house, they went into the dining room.
+
+had + 动词的过去分词 = 过去完成时，发生在过去的过去
+
+suddenly
+adv 突然
+
+What's up?
+（询问sb.）怎么了？出什么事了？
+
+After they had entered the house, they went into the dining room.
+
+after引导的时间状语从句，从句往往用的是过去完成时，主句一般用的是一般过去时
+
+before引导的时间状语从句，从句往往用的是一般过去时，主句一般用的是过去完成时
+
+They had entered the house before they went into the dining room.
+
+He turned off the television.
+He saw the programme.
+
+He turned off the television after he had seen the programme.
+
+Before he turned off the television,
+he had seen the programme.
+
+He went to bed after he had did his homework.  XXXX
+had + 过去分词
+He went to bed after he had done his homework.
+
+Before he went to bed, he had done his homework.
+
+He bought another car.
+He had sold his old one.
+
+He bought another car after he had sold his old one.
+```
+
+## 8.过去将来时
+
+```
+would + 动词原型，过去将来时
+
+一般将来时
+I will have to ....
+Will have to 将不得不
+
+the latest
+最新消息
+the + 形容词 = 名词
+这个名词往往是集合名词
+the old 老年人
+the young 年轻人
+the rich 有钱人
+the poor 穷人
+the best 最好的东西
+
+英文的习惯，先说地点，再说时间
+She said she would have to ...
+过去将来时  would + 动词原型
+She told me she would come.
+
+He said he would go abroad.
 ```
 

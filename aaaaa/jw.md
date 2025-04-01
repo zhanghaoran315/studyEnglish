@@ -508,7 +508,7 @@ v 猛拉 猛拽
 be supposed to do sth
 
 grow
-v 扩大 生长 长大 增加 增强
+v 长 让...生长 增加 增强
 grow-grew-grew
 
 forth
@@ -734,4 +734,47 @@ at once
 立即
 Come to my office at once!
 
+make up one's mind 下定决心
+
+make some friends 交朋友
+
+半勺
+half a teaspoonful
+half an hour
+一个半小时
+one and a half hours
+an hour and a half
+半天
+half a day
+一天半
+one and a half days
+a day and a half
+
+
+两种形式
+a fifty-pound note
+a fifty pounds note
+
+two fifty-pound notes.
+two fifty pounds notes.
+
+a fifty-cent coin
+a fifty cents coin
+
+no more than 
+仅仅 才 (少)
+
+not more than
+最多 不超过 (多)
+
+
+come with
+与...一起来
+
+make up one's mind(s) to do sth.
+某人下定决心做某事
+I made up my mind to study English well.
+
+look after
+照顾 照看
 ```

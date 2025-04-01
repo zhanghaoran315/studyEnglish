@@ -1,6 +1,206 @@
 # construct
 
 ```
+mink
+n 水貂 貂皮
+
+mink coat
+貂皮大衣
+
+sensational
+adj
+1.爆炸性的 耸人听闻的
+2.不同凡响的 非常棒的
+
+There is some sensational news on the newspaper.
+
+You look sensational in that dress.
+
+overtake
+v 超过 赶上
+
+mean
+v 意思是 意味着
+What do you mean?
+
+decision
+n 决定
+
+mean + that
+I mean that it's his own decision to go or not.
+
+mean to do
+意欲做..
+打算做..
+I mean to visit him tomorrow.
+I didn't mean to hurt you.
+
+terribly
+adv 非常(隐含糟糕的，贬义非常，褒义用very)
+I'm terribly sorry.
+It's terribly hot here in summer.
+She's terribly tried after her hard work.
+
+It's terribly dry.
+It's terribly wet.
+
+nuisance
+n 麻烦事 讨厌的人（或东西）
+What a nuisance!
+
+horse
+foal
+小马
+
+choice
+n 选择 抉择
+adj 优质的 优选的 上等的
+
+next to
+prep.
+旁边
+
+male
+n 男性 雄性
+adj 男性的
+
+female
+n 女子
+adj 女性的
+
+heart
+n 心
+
+heart and soul
+全心全意
+
+forget
+v 忘记 遗忘
+forget-forgot-forgotten
+forget sth./sb.
+
+forget to do ... 要做而忘记做
+Don't forget your friends when you become rich.
+
+become
+v 变成 成为
+
+I forgot to lock the door.
+
+lock
+n 锁
+v 锁 使固定
+
+
+fluent
+a 流利的 流畅的
+
+snail
+n 蜗牛
+
+nice
+a 高兴的 愉快的
+Nice to meet you.
+食物的美味
+nice and + adj.
+表达满意或称赞（挺、很、...得很）
+
+Your bedroom looks nice and tidy.
+The boy's shirt is nice and clean.
+The French test was nice and easy.
+
+Don't believe her.
+
+believe sb.
+相信某人（说的话）
+believe in sb.
+信任某人（的能力/人品/潜力
+
+Believe me, please!
+
+I believe in God.
+
+
+sniper
+n 狙击手
+
+curtain
+n 窗帘 幕布
+
+look at
+看
+
+look for
+寻找
+
+look through
+透过...看
+
+joke
+n 笑话
+v 开玩笑
+You must be joking!
+He told me a joke.
+
+quiet
+平静的 安静的
+Please be quiet!
+
+none
+没有任何东西，没有一个
+no-not
+never-
+none
+negative
+neither
+
+none = no + n
+He has no money, no girl friend, no house.
+He has none.
+
+neither
+adv 也不
+
+no+n.
+
+There aren't any books on the shelf.
+There are no books on the shelf.
+
+
+haven't got any = have got no + n. = have got none.
+没有
+
+Have you got any milk?
+No, I haven't got any milk.
+I've got no milk.
+I've got none.
+
+I am not hungry.
+Neither am I.
+
+I met him.
+So did I
+I met him, too.
+
+So ... I.
+I ..., too.
+
+get off
+下车
+get in the car
+get on the train
+
+price
+n 价格
+put a price on sth.
+给...定价
+You can't put a price on love.
+
+pity
+n 同情 怜悯 遗憾 可惜
+v 同情 怜悯
+What a pity!
+
 idea
 n 想法 主意 C
 a good idea
@@ -9,7 +209,7 @@ I have no idea.
 我不知道、我没有想法
 
 teaspoonful
-n 一满茶勺
+n 一茶匙的量
 a teaspoonful of sugar
 two teaspoonfuls of milk
 
