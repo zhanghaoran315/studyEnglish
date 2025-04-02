@@ -402,12 +402,7 @@ vt 购买
 buy sb. sth.
 buy sth. for sb.
 
-show-showed-shown
-vt 1.显示 表明 2.给...看
 
-
-show sb. sth.
-show sth. to sb.
 
 
 Bring her some flowers.
@@ -1179,9 +1174,6 @@ Not yet.
 
 also
 adv 而且 此外 也
-
-so
-adv 也
 
 
 
@@ -2031,6 +2023,7 @@ I study Yoga for two years.
 介词 in on at
 
 in 
+ad 进入 在里面
 1.在...里面
 There is a boy in the room.
 There is a pen in the box.
@@ -2942,7 +2935,11 @@ Susan says：“I am going to visit Xiamen.”
 Susan said she was going to visit Xiamen.
 间接引语过去将来时：主语+was/were going to
 
+否定转移：
 
+当主句谓语是 think, believe, suppose 等时，否定常转移到主句。
+
+例句：I don’t think he is lying.（实际否定从句：“我认为他没说谎”）
 ```
 
 ## 定语从句
@@ -3486,13 +3483,6 @@ Does he walk to school?
 先看词性，再看人称
 Are you ...? Is he/Is she/Is it
 Do you ...? Dose he/Dose she/Dose it
-
-late
-adj. 晚的 迟的
-adv 晚 迟
-
-be late for
-迟到
 
 Is she your girlfriend?
 Do you go to bed late?

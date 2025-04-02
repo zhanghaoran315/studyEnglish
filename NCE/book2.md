@@ -11829,8 +11829,7 @@ The young man spoke in a nervous tone.
 课文
 
 ```
-ask for
-请求 要求 向...要
+
 
 The boss is angry now. You'd better stay away from him, or you ask for trouble.
 

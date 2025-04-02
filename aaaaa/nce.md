@@ -1,6 +1,75 @@
 # construct
 
 ```
+ask
+v 问 询问 请求 请求
+
+ask to do sth
+
+ask sb to do sth.
+求/请求某人做某事 邀请
+
+ask for
+请求 要求 向...要
+
+
+sleep
+n
+v 睡觉
+
+sleepy
+a 困倦的
+
+examine
+v 仔细检查 检验
+
+examination
+n 考试 审查
+
+nor
+c ad 也不
+
+witch
+n 女巫 巫婆
+
+everyday
+a 日常的 每天的
+ad 日常 每天
+
+so
+adv p c 也 所以 那么
+
+deal
+n 协议
+v 发牌
+
+deal with 
+处理；涉及；做生意
+
+a great many + 名词复数形式
+许多的
+
+a great deal of + 不可数名词
+
+great deal 大量
+
+ignore
+v 忽视 不予理会
+
+whenever
+c 每当
+
+late
+adj. 晚的 迟的
+adv 晚 迟
+
+be late for
+迟到
+
+lately
+ad 最近 近来
+
+
 mink
 n 水貂 貂皮
 
@@ -537,9 +606,12 @@ adj
 good-better-best
 
 well
-adj 只表身体好
-adv 凡是一件事做的好
+a 只表身体好
+ad 凡是一件事做的好
 well-better-best
+
+get on well with 
+与...和睦相处
 
 
 
@@ -574,6 +646,9 @@ adv 严重地 非常
 call
 n
 v 叫 请 打电话
+
+call in（ad）
+召来 叫来
 
 打电话
 call sb.
@@ -646,6 +721,13 @@ n 休假 假期
 v 离开(某人、某处) 剩下 丢弃
 leave-left-left
 
+leave out
+忽略 不提及 不包括
+
+feel left out
+感觉被忽略、冷落
+觉得被遗忘
+
 way
 n 方式 方法 路
 
@@ -695,6 +777,9 @@ worry
 n 担心 担忧
 v 担心 担忧
 
+anger
+n 愤怒
+
 
 angry
 a 生气的 愤怒的
@@ -733,7 +818,9 @@ She is with her friends.
 
 wait
 vi. 等待
+wait for
 wait for me 等等我
+
 
 look at
 listen to
@@ -995,6 +1082,9 @@ n 杂货商
 clean
 v 使干净 打扫
 a 干净的 文明的
+
+clean up
+打扫 清除
 
 terrible
 a 可怕的 糟糕的
