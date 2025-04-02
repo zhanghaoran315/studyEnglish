@@ -504,9 +504,6 @@ let go of
 yank
 v 猛拉 猛拽
 
-按照计划、打算应该做某事
-be supposed to do sth
-
 grow
 v 长 让...生长 增加 增强
 grow-grew-grew
@@ -777,4 +774,11 @@ I made up my mind to study English well.
 
 look after
 照顾 照看
+
+by the way
+顺便说一下 顺便问一下
+
+work for 
+为...而工作，受雇于
+I work for a big company.
 ```

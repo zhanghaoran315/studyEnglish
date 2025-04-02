@@ -106,7 +106,7 @@ n 隐私
 
 conversation
 n 谈话
-have a coversation
+have a conversation
 hold a conversation
 
 theatre
@@ -125,6 +125,7 @@ v 玩 吹奏
 
 angry
 生气的
+
 angrily
 生气地
 
@@ -140,27 +141,25 @@ attract
 vt 吸引 引起
 
 draw
-v 1.画
-2.吸引 引起
+n 抽签
+v 拉 扯 画 吸引 引起
+draw-drew-drawn
 
 May I have your attention, please?
 Attention, please.
 
 bear
 n 熊
-v 1.生育 生(孩子)
-2.忍受 容忍
+v 承受 忍受 带有 具有 生（孩子）
 bear-bore-borne/born
 
 stand
-v 1.站立
-2.位于
-3.忍受 容忍
-
+n 桌 台 摊位
+v 站立 站起来 位于（某处）忍受 容忍
 stand-stood-stood
 
 business
-n 事情 商业 生意
+n 商业 生意
 
 rude
 粗鲁的 无礼的
@@ -289,9 +288,8 @@ downtown
 n 市中心 商业区
 
 ring
-n 戒指 铃声
-v 1.响 给...打电话
-2.包围 环绕
+n 戒指 铃声 环 竞技场
+v 包围 环绕 给...打电话
 ring-rang-rung
 
 The phone is ringing
@@ -353,10 +351,13 @@ frequently
 adv 经常
 
 rare
-稀有的 珍贵的
+a 罕见的 稀有的 半熟的
 
 rarely
-adv 很少
+ad 很少 罕见
+
+rarity
+n 罕见 稀有 珍品
 
 I don't go to work on Fridays.
 

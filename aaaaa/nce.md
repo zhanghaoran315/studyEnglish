@@ -1,6 +1,73 @@
 # construct
 
 ```
+frequent
+adj 频繁的 经常发生的
+
+frequently
+adv 经常
+
+explain
+v 解释 说明
+
+play
+n 游戏 戏剧
+v 玩 吹奏
+
+rust
+n 锈 铁锈
+v 使生锈
+
+rusty
+生锈的
+
+surround
+vt 包围 环绕 围绕
+
+surrounding
+n 环境
+a 周围的
+
+surroundings
+n 环境
+
+learned
+a 有学问的 博学的
+
+embarrassed
+a 尴尬的 窘迫的
+
+amuse
+vt 使娱乐 (提供)消遣
+
+amused
+有趣的
+
+I had an amusing experience last year.
+
+ugly
+a 丑陋的 糟糕的 恶性的
+
+middle-aged
+中年的
+
+surprise
+n 惊讶
+v 使惊讶 使吃惊
+
+surprised
+惊讶的
+
+surprising
+令人惊讶的
+
+line
+n 线 线路 队伍
+hotline
+The line is busy.
+on line
+off line
+
 ask
 v 问 询问 请求 请求
 
@@ -43,7 +110,7 @@ deal
 n 协议
 v 发牌
 
-deal with 
+deal with
 处理；涉及；做生意
 
 a great many + 名词复数形式
@@ -456,6 +523,12 @@ When did they move in?
 move out
 搬走
 
+moved
+感动的
+
+moving
+令人感动的
+
 
 hurt
 v 伤害 使疼痛
@@ -610,7 +683,7 @@ a 只表身体好
 ad 凡是一件事做的好
 well-better-best
 
-get on well with 
+get on well with
 与...和睦相处
 
 
@@ -713,7 +786,7 @@ v 欺骗；(尤指在游戏、比赛、考试等中)作弊，舞弊
 
 stand
 n 桌 台 摊位
-v 站立 站起来 位于（某处）
+v 站立 站起来 位于（某处）忍受 容忍
 
 
 leave
@@ -765,6 +838,9 @@ v 借入 借用
 rent
 n 租金 房租
 v 租用 出租
+
+rent out 
+出租 租给
 
 rend
 v 撕裂 撕碎

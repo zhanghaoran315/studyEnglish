@@ -2238,6 +2238,13 @@ He learned English by himself.
 5.表示位置（= 在…旁边）
 She sat by the window.（她坐在窗边。）
 
+
+among
+prep. 在...之间（三者或三者以上）
+between
+强调在两者之间
+Our village is between two hills.
+There is a river among the mountains.
 ```
 
 ## 连词
@@ -2940,6 +2947,67 @@ Susan said she was going to visit Xiamen.
 当主句谓语是 think, believe, suppose 等时，否定常转移到主句。
 
 例句：I don’t think he is lying.（实际否定从句：“我认为他没说谎”）
+
+主语+及物动词+宾语从句（陈诉句）
+I believe this house is for sale.
+
+特俗疑问句
+主语+及物动词+特俗疑问句
+
+Your name is Bob.
+What is your name?
+
+动词在主语前，倒装
+Who is Bob?
+主语(who)在动词前，正装
+
+一个特殊疑问句有可能是倒装句，也有可能是正装句
+如果正装句，直接放在及物动词后
+主语+及物动词+特殊疑问句(正装 主语 动词)
+
+
+主语+及物动词+特殊疑问句(倒装 主语 动词)，需要将倒装改成正装
+What are you talking about?
+I don't konw what you are talking about.
+
+When will you finish?
+
+I don't know when I will finish.
+
+一般疑问句
+主语+及物动词+一般疑问句
+一般疑问句（倒装 动词 主语）
+主语+及物动词+if(是否)+一般疑问句（主语 动词）
+Is he going to study English?
+
+I want to know if he is going to study English.
+
+Will they leave tomorrow?
+
+I don't know if they will leave tomorrow.
+
+Tell Mary we'll be late for dinner this evening.
+
+be late for
+迟到
+I was late for school yesterday.
+
+Don't be late for work!
+
+I said I would be at your house at six o'clock.
+
+by the way
+顺便说一下 顺便问一下
+
+My wife wants to know if mary needs any help.
+if
+1.如果，条件状语从句
+2.是否，宾语从句
+
+You work for the Overseas Enginnering Company.
+work for 
+为...而工作，受雇于
+I work for a big company.
 ```
 
 ## 定语从句
@@ -3134,6 +3202,35 @@ There are + 复数名词
 There is an electric cooker in the kitchen.
 
 23
+
+# 被动语态
+
+```
+The window is closed
+被关 = is closed
+
+被动语态
+be + 过去分词
+be done
+
+被动语态
+be
+一般现在时态：am is are
+was were
+been
+being
+
+何时使用被动语态
+1.不知道动作的发出者
+It is broken.
+
+2.强调动作的发出者
+He breaks it.
+It is broken by him.
+
+3.没必要提出动作的发出者
+A new building was built.
+```
 
 
 

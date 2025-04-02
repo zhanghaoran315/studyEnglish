@@ -60,6 +60,16 @@ be used to do sth
 to start with
 起初 开始时
 
+get on
+get in
+登上 上车
+
+look out of
+朝...外看
+
+look out
+小心 注意
+
 
 
 ```
