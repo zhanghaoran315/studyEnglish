@@ -1,6 +1,39 @@
 # construct
 
 ```
+alarm
+n 警报
+v 使担心 使害怕
+
+enjoy
+v 喜爱 享受 欣赏
+
+slience
+n 沉默
+v 使安静
+
+in slience
+默默地
+
+slient
+a 沉默的 无声的
+
+suggest
+v 暗示 建议 推荐
+
+suggestion
+n 建议
+
+guy
+n 家伙 伙计们
+
+goal
+n 球门 射门 目标
+
+chance
+n 1.机会 可能性
+2.风险 冒险
+
 frequent
 adj 频繁的 经常发生的
 
@@ -55,6 +88,9 @@ surprise
 n 惊讶
 v 使惊讶 使吃惊
 
+in surprise
+吃惊地
+
 surprised
 惊讶的
 
@@ -86,6 +122,9 @@ v 睡觉
 
 sleepy
 a 困倦的
+
+oversleep
+v 睡过头 睡的太久
 
 examine
 v 仔细检查 检验
@@ -247,6 +286,12 @@ The French test was nice and easy.
 
 Don't believe her.
 
+belief
+n 信仰；信念；相信；
+
+disbelief
+n 不信 怀疑
+
 believe sb.
 相信某人（说的话）
 believe in sb.
@@ -351,9 +396,11 @@ two teaspoonfuls of milk
 
 keep
 n 生活费用
-v 1.保持 继续(做谋事)
-2.保存 保留
+v 1.保留 保持 保存 保守
+2.继续(做谋事)
 keep-kept-kept
+
+keep on
 
 I have kept the old photo for a long time.
 
@@ -566,6 +613,9 @@ to be honest
 fear
 n
 v 害怕 担忧
+
+in fear
+害怕 惊恐地
 
 blind
 n 窗帘
@@ -1088,6 +1138,12 @@ What is the matter with you?
 It doesn't matter.
 没关系
 
+no matter + 疑问词(what\when\where\who\how)
+
+让步状语从句，“无论”
+
+no matter + 疑问词 = 疑问词 + ever
+
 
 good-looking
 a 好看的
@@ -1101,8 +1157,15 @@ adj 1.硬的 坚硬的
 3.用力的 努力的
 adv 努力地
 
+be hard on sb
+对sb苛刻
+对sb要求严厉
+
 hard-working
 a 勤奋的
+
+hardship
+n 艰难 困难
 
 luck
 n 好运 运气

@@ -16,13 +16,7 @@ n 陛下 庄严 威严
 magistrate
 n 地方官
 
-look out
-注意 面朝 照料
 
-look up
-仰望 查阅 尊敬 拜访
-
-look for 找
 
 shine
 v 闪耀 发光 照耀
@@ -111,6 +105,9 @@ fight
 n
 v 战斗 打架 参加 竞争
 fight-fought-fought
+
+get into a fight with
+和...打架
 
 one another
 彼此 互相
@@ -244,6 +241,9 @@ ad 然而 不过
 knock
 v 敲 打
 
+knock over
+撞倒
+
 knuckle
 n 指关节 指节
 
@@ -341,6 +341,9 @@ trouble
 n
 v 麻烦 烦恼
 
+in trouble
+处于困境中
+
 stay out of
 置身于...之外
 
@@ -436,6 +439,9 @@ at once
 kick
 n
 v 踢 踹
+
+kick off
+开除sb
 
 before long
 不久之后 在短时间内
@@ -772,8 +778,7 @@ make up one's mind(s) to do sth.
 某人下定决心做某事
 I made up my mind to study English well.
 
-look after
-照顾 照看
+
 
 by the way
 顺便说一下 顺便问一下
