@@ -204,6 +204,7 @@ v 网
 
 
 head
+n 头
 v 领导 主管 朝（某方向）行进
 
 firewood

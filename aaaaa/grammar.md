@@ -2160,11 +2160,6 @@ I want the glass on the shelf.
 Do you have any shoes like these?
 介词短语 like these
 
-till
-conj prep
-直到 直到...为止
-I waited till 10:30
-
 put off
 推迟 拖延
 Never put off till tomorrow.

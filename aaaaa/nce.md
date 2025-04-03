@@ -1,6 +1,15 @@
 # construct
 
 ```
+lot
+det 大量 许多
+ad 很 非常
+
+till
+conj 
+prep 直到 直到...为止
+I waited till 10:30
+
 alarm
 n 警报
 v 使担心 使害怕
