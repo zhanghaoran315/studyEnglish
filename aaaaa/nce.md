@@ -1,6 +1,112 @@
 # construct
 
 ```
+
+transport
+n 
+v 运送 运输
+
+transportation
+n 运输业 交通运输
+
+reuse
+v 重复使用 再次使用
+
+reusable
+a 可重复使用的 可再次使用的
+
+take
+v 1.拿 取
+2.接受 采取
+3.遭受 经受 承受 忍受
+
+take my advice.
+take one's advice
+听取劝告
+
+take up
+学着做 开始做
+
+hoax
+n 骗局 恶作剧
+
+appear
+v 出现 呈现
+
+disappear
+v 消失 不见
+
+appearance
+n 外貌 外观 外表
+
+doubt
+v 怀疑 不相信
+
+fool
+n 蠢人 傻瓜
+v 欺骗 愚弄
+
+foolish
+a 愚蠢的
+
+April Fool's Day
+
+show-showed-shown
+vt 
+1.显示 表明 
+2.给...看
+3.引 带 领
+
+show sb. sth.
+show sth. to sb.
+
+show off
+炫耀 卖弄
+
+show up
+赶到 露面
+
+
+
+turn
+n 1.转动 旋转
+2.行为 举止
+3.轮流的机会
+v.1 转动 旋转
+2.变成 成为
+
+turn ... to ...
+turn ... into ...
+把...变成...
+
+turn around
+调转 转身
+
+turn on 
+打开
+turn off
+关闭
+
+turn in
+上交 提交
+
+turn out
+生产 结果是 关掉
+
+turn to
+向...求助
+
+turn up
+开大 调高
+
+turn down
+开小 调低
+
+turn over
+翻转 翻身
+
+
+
 lot
 det 大量 许多
 ad 很 非常
@@ -54,7 +160,11 @@ v 解释 说明
 
 play
 n 游戏 戏剧
-v 玩 吹奏
+v 玩 吹奏 扮演 表演
+
+play a part in
+take part in
+参加 参与
 
 rust
 n 锈 铁锈
@@ -76,8 +186,17 @@ n 环境
 learned
 a 有学问的 博学的
 
+embarrassment
+n 尴尬 窘迫
+
+embarrass
+v 使尴尬 使窘迫
+
 embarrassed
 a 尴尬的 窘迫的
+
+embarrassing
+a 令人尴尬的 使人害羞的
 
 amuse
 vt 使娱乐 (提供)消遣
@@ -112,6 +231,9 @@ hotline
 The line is busy.
 on line
 off line
+
+in line with
+与...成一排
 
 ask
 v 问 询问 请求 请求
@@ -301,6 +423,18 @@ n 信仰；信念；相信；
 disbelief
 n 不信 怀疑
 
+in disbelief
+怀疑地 难以置信地
+
+believe
+v 相信
+
+believable
+a 可相信的 可信任的
+
+unbelievable
+a 难以置信的 不真实的
+
 believe sb.
 相信某人（说的话）
 believe in sb.
@@ -331,6 +465,13 @@ n 笑话
 v 开玩笑
 You must be joking!
 He told me a joke.
+
+play jokes on sb
+play tricks on sb
+开sb的玩笑
+
+trick
+n 戏法 把戏
 
 quiet
 平静的 安静的
@@ -598,6 +739,8 @@ n 想
 v 想 思考 认为
 think-thought-thought
 
+think to oneself
+心里想
 
 work on
 从事于
@@ -672,6 +815,7 @@ stranger
 n 陌生人
 
 put ... into 放入
+
 take out 拿出
 take sth. out of 从...拿出来
 
@@ -686,6 +830,9 @@ lose-lost-lost
 lose one's way
 迷路
 
+lose weight
+减肥
+
 greet
 v 打招呼、问候
 greet to sb. 向某人打招呼
@@ -694,6 +841,29 @@ say hello to sb.
 cut
 v 切、割
 cut-cut-cut
+
+cut down
+减少 砍到
+
+cut off
+切除
+
+cut up
+切碎
+
+cut in
+插嘴
+
+cut into pieces
+切成碎片
+
+cut across
+抄近道 走近路
+
+cut out
+删除 突然熄火 突然停止运转
+
+
 
 
 say
@@ -782,6 +952,10 @@ v 叫 请 打电话
 call in（ad）
 召来 叫来
 
+call up
+打电话给sb
+征召
+
 打电话
 call sb.
 phone sb.
@@ -790,6 +964,12 @@ give sb. a phone
 
 remember
 v 记得 记住 想起 记起
+
+remember to do sth
+记得要做某事
+
+remember doing sth
+记得做过某事
 
 past
 n 过去
@@ -855,6 +1035,9 @@ leave-left-left
 
 leave out
 忽略 不提及 不包括
+
+leave for
+动身前往
 
 feel left out
 感觉被忽略、冷落
@@ -1069,6 +1252,8 @@ regret
 n 后悔 遗憾
 v 后悔 遗憾
 
+regret to do sth
+
 
 adj + en = v
 shorten
@@ -1121,6 +1306,20 @@ a 满的 充满的
 give
 v 给
 give-gave-given
+
+give sb a lift
+捎sb一程
+give sb a hand
+帮 一把
+give sb a ring
+give sb a call
+给 打电话
+
+give sb a chance
+给 一个几乎
+
+give sb a lesson
+给 一个教训
 
 accusative
 n 宾格
@@ -1272,5 +1471,25 @@ n 衣帽间
 
 dress
 n 连衣裙
-v 穿衣服 dress ... in
+v 穿衣服 
+
+get dressed
+穿上衣服
+
+dress in
+穿...的服装 乔装打扮
+
+dress up
+打扮 装饰
+
+work
+n 工作 作品
+
+look like 
+看起来像
+
+
+civilized
+a 文明的
+
 ```

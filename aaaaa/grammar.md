@@ -630,6 +630,8 @@ n
 v  感觉 认为
 feel-felt-felt
 
+feel like
+
 look
 n 看
 v 看起来
@@ -2125,8 +2127,11 @@ next year
 about
 prep. 
 1.关于
-2.大约
+2.目的是 为了
 3....怎么样?（询问或提意见）
+
+ad
+1.大约 差不多
 
 介词后接名词/代词(介词短语)
 
@@ -2187,10 +2192,10 @@ What's the matter with you?
 
 except
 prep
-除...之外
+除...之外（把自己剪掉）
 
 besides
-prep. 除...之外(还)
+prep. 除...之外(还)（加上自己）
 
 
 They all went to sleep, except me.

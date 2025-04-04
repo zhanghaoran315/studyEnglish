@@ -1505,6 +1505,18 @@ be about to do
 be about to 表示即将或准备做某事，强调即将发生的动作。
 be going to 表示计划、打算做某事，强调主观的打算或计划。
 
+"be about to do" 是 一般将来时 的一种表达方式，强调 "马上要发生"。
+
+比 "will" 和 "be going to" 更紧迫，常用于口语。
+
+否定形式 "be not about to do" 可以表示 拒绝或不愿意做某事。
+
+be not about to do"
+可以表示 "不打算做某事" 或 "不愿意做某事"（带有拒绝的语气）。
+
+be about to ... when...
+刚要....突然
+
 plenty of + 不可数名词/复数名称
 充足的
 plenty of food

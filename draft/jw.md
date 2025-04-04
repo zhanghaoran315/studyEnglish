@@ -37,8 +37,7 @@ n 混乱 紊乱
 steep
 a 陡峭的 急剧的
 
-go up
-上升 增长 被兴建起来
+
 
 waterfall
 fall
@@ -309,8 +308,7 @@ v 使不安 使焦虑
 out here
 这里 在这里
 
-go on
-发生 继续 过去
+
 
 cheer
 n 欢呼声
@@ -328,8 +326,7 @@ v 闪光 闪耀
 but
 p 除了 除...之外
 
-show off
-炫耀 卖弄
+
 
 so
 c 因此 所以 （表示因果关系） 为了 以便 （表示目的）
@@ -337,6 +334,9 @@ c 因此 所以 （表示因果关系） 为了 以便 （表示目的）
 harm
 n
 v 伤害 损害
+
+harmful
+a 有害的
 
 trouble
 n
@@ -454,6 +454,9 @@ p 超过 超出 除...之外
 away
 ad 不在 离开
 
+takeaway
+n 外卖食物
+
 bother
 v 打扰 使烦恼
 
@@ -515,6 +518,9 @@ grow
 v 长 让...生长 增加 增强
 grow-grew-grew
 
+grow up
+成长 长大 成熟
+
 forth
 ad 向前 离开
 
@@ -573,19 +579,11 @@ v 喘气
 live up
 快乐的过日子
 
-show
-v 引 带 领
-
-take
-v 需要...时间 吃 对待 处理
-
 bite
 n
 v 叮 咬
 bite-bit-bitten
 
-go by
-经过 随便走访 凭...判断
 
 maiden
 n 少女
@@ -639,152 +637,3 @@ v 投掷 猛扔 大声说出
 
 ```
 
-# idiom
-
-```
-a green hand
-新手
-
-a lucky dog
-幸运儿
-
-grandfather clock  
-老式坐钟
-
-Great-grandfather 
-曾祖父
-
-Great-grandmother  
-曾祖母
-
-shelf life 
-保质期
-
-dressing table
-梳妆台
-
-put on & take off
-
-穿衣服、戴眼镜、戴首饰，gloves，scarf
-
-turn on & turn off
-打开带电的设备
-turn on the television
-
-turn on the light
-
-tap
-n 水龙头
-v 轻拍 轻敲
-
-turn on the tap
-
-dream boat 
-梦中情人
-
-sugar coat 
-委婉
-
-Can you sugar coat a little?
-你可以稍微委婉一点吗？
-
-
-behind the times
-过时的 落伍的
-
-next door
-在隔壁
-
-next door to
-与...相邻
-
-She is next door
-She is next door to us
-There is a school next door to the park.
-
-next-door
-adj. 隔壁的
-
-The next-door girl is very beautiful.
-
-The old man next-door is going to leave.
-有些时候next-door可以放到被修饰词的后面来说
-
-
-bread and butter
-生计 饭碗
-
-jog
-v 慢跑 轻击 轻碰
-
-He goes jogging in all weathers.（
-
-under the weather
-不舒服
-I'm a little under the weather.
-
-all the time
-总是 一直
-
-big sale
-大甩卖
-for sale
-出售
-
-have the last word.
-说了算，最后拍板
-
-at once
-立即
-Come to my office at once!
-
-make up one's mind 下定决心
-
-make some friends 交朋友
-
-半勺
-half a teaspoonful
-half an hour
-一个半小时
-one and a half hours
-an hour and a half
-半天
-half a day
-一天半
-one and a half days
-a day and a half
-
-
-两种形式
-a fifty-pound note
-a fifty pounds note
-
-two fifty-pound notes.
-two fifty pounds notes.
-
-a fifty-cent coin
-a fifty cents coin
-
-no more than 
-仅仅 才 (少)
-
-not more than
-最多 不超过 (多)
-
-
-come with
-与...一起来
-
-make up one's mind(s) to do sth.
-某人下定决心做某事
-I made up my mind to study English well.
-
-
-
-by the way
-顺便说一下 顺便问一下
-
-work for 
-为...而工作，受雇于
-I work for a big company.
-```

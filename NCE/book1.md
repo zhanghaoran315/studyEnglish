@@ -2153,14 +2153,6 @@ vt 购买
 buy sb. sth.
 buy sth. for sb.
 
-show-showed-shown
-vt 
-1.显示 表明 
-2.给...看
-
-show sb. sth.
-show sth. to sb.
-
 Bring her some flowers.
 Tell me an English story. 
 Hand me that book.

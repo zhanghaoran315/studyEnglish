@@ -91,7 +91,14 @@ take out
 拿出
 
 run out
+run out of
 用完 耗尽
+
+run away
+逃跑
+
+run away from
+回避 逃离 从...逃脱
 
 sell out
 卖光
@@ -111,6 +118,9 @@ set out
 set off
 出发 启程
 
+set up
+建立 设立
+
 try out
 试验 试用 参加...的选拔
 
@@ -119,6 +129,9 @@ come out
 
 bring out
 使显现 激发
+
+bring back
+恢复 使想起 归还
 
 work out
 解决 算出 锻炼
@@ -156,6 +169,12 @@ write down
 look down
 向下看 瞧不起
 
+look up
+参阅 抬头看
+
+make up
+编造
+
 take down
 拆卸 写下 取下
 
@@ -173,6 +192,217 @@ can't help
 
 go off
 （闹钟）发出响声
+
+go by
+经过 随便走访 凭...判断
+
+go up
+上升 增长 被兴建起来
+
+get up
+起床 站起
+
+go on
+发生 继续 过去
+
+at least
+至少
+
+by the end of ...
+在（）以前
+
+by the way
+顺便说一下 顺便问一下
+
+by the time
+在...以前
+
+no more than 
+仅仅 才 (少)
+
+not more than
+最多 不超过 (多)
+
+no more
+不再
+
+end up
+最终成为
+最后处于
+
+put up
+搭起 举起 （开车）接人
+
+not ... anymore
+not any longer
+no longer
+不再
+
+be good for
+对...有益
+
+a green hand
+新手
+
+a lucky dog
+幸运儿
+
+grandfather clock  
+老式坐钟
+
+Great-grandfather 
+曾祖父
+
+Great-grandmother  
+曾祖母
+
+shelf life 
+保质期
+
+dressing table
+梳妆台
+
+put on & take off
+
+穿衣服、戴眼镜、戴首饰，gloves，scarf
+
+turn on & turn off
+打开带电的设备
+turn on the television
+
+turn on the light
+
+tap
+n 水龙头
+v 轻拍 轻敲
+
+turn on the tap
+
+dream boat 
+梦中情人
+
+sugar coat 
+委婉
+
+Can you sugar coat a little?
+你可以稍微委婉一点吗？
+
+
+behind the times
+过时的 落伍的
+
+next door
+在隔壁
+
+next door to
+与...相邻
+
+She is next door
+She is next door to us
+There is a school next door to the park.
+
+next-door
+adj. 隔壁的
+
+The next-door girl is very beautiful.
+
+The old man next-door is going to leave.
+有些时候next-door可以放到被修饰词的后面来说
+
+
+bread and butter
+生计 饭碗
+
+jog
+v 慢跑 轻击 轻碰
+
+He goes jogging in all weathers.（
+
+under the weather
+不舒服
+I'm a little under the weather.
+
+all the time
+总是 一直
+
+big sale
+大甩卖
+for sale
+出售
+
+have the last word.
+说了算，最后拍板
+
+at once
+立即
+Come to my office at once!
+
+make up one's mind 下定决心
+
+make some friends 交朋友
+
+半勺
+half a teaspoonful
+half an hour
+一个半小时
+one and a half hours
+an hour and a half
+半天
+half a day
+一天半
+one and a half days
+a day and a half
+
+
+两种形式
+a fifty-pound note
+a fifty pounds note
+
+two fifty-pound notes.
+two fifty pounds notes.
+
+a fifty-cent coin
+a fifty cents coin
+
+no more than 
+仅仅 才 (少)
+
+not more than
+最多 不超过 (多)
+
+
+come with
+与...一起来
+
+make up one's mind(s) to do sth.
+某人下定决心做某事
+I made up my mind to study English well.
+
+work for 
+为...而工作，受雇于
+I work for a big company.
+
+add up
+把...加起来
+
+put sth to good use
+
+build ... out of
+用...建造
+
+pull down
+拆下 摧毁
+
+upside down
+上下颠倒 倒转
+
+be known for
+be famous for
+因...而闻名
+
+
+
+
 
 
 
