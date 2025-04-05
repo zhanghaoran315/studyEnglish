@@ -603,6 +603,19 @@ make
 感官动词用于描述通过 **视觉、听觉、触觉、嗅觉、味觉** 等感知到的动作或状态，其用法特殊，常接 **宾语 + 动词原形/现在分词/过去分词**。
 
 ```
+hear sb do sth
+sb be heard to do sth
+
+hear sb doing sth
+sb be heard doing sth
+
+
+总结回答你的问题
+✅ 是的，所有在感官动词/使役动词后接的动词原形（do），在被动句中都要改为不定式（to do）。
+✅ 但如果主动句用的是 doing（现在分词），被动句保持 doing 不变。
+
+
+
 感官动词
 feel
 n 
@@ -664,6 +677,15 @@ Get：劝说或说服
 例句：
 ✅ I got my brother to lend me money. （我说服弟弟借钱给我。）
 ✅ How did you get him to agree? （你怎么让他同意的？）
+She got me to help her. （她说服我帮她。）
+
+
+
+动词	语气	结构	适用场景
+Make	强制	make + 人 + do	命令、强迫
+Let	允许	let + 人 + do	许可、放任
+Have	安排	have + 人 + do	正式要求
+Get	劝说	get + 人 + to do	说服、诱导
 ```
 
 

@@ -233,6 +233,7 @@ turn over
 
 
 lot
+n 群 组 批 整个 全部 场地
 det 大量 许多
 ad 很 非常
 
