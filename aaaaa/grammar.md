@@ -598,7 +598,9 @@ make
 
 ```
 
-感官动词
+## 感官动词
+
+感官动词用于描述通过 **视觉、听觉、触觉、嗅觉、味觉** 等感知到的动作或状态，其用法特殊，常接 **宾语 + 动词原形/现在分词/过去分词**。
 
 ```
 感官动词
@@ -639,6 +641,32 @@ The music sounds very nice.I enjoy listening to it again.
 
 The food smells good and sells well
 ```
+
+## 使役动词
+
+使役动词表示 **“让/叫/使某人做某事”**，强调 **主动促使动作发生**。英语中主要有 **make, let, have, get**，用法和含义有细微差别。
+
+```
+Have：安排或要求（正式）
+结构：have + 人 + 动词原形
+
+例句：
+✅ I had the mechanic check my car. （我让技师检查了我的车。）
+✅ She had her assistant book a flight. （她让助理订机票。）
+
+⚠️ 与“have + 物 + 过去分词”区别（使某事被做）：
+✅ I had my hair cut. （我理发了。→ 别人剪的）
+
+
+Get：劝说或说服
+结构：get + 人 + to do（必须带 to）
+
+例句：
+✅ I got my brother to lend me money. （我说服弟弟借钱给我。）
+✅ How did you get him to agree? （你怎么让他同意的？）
+```
+
+
 
 cost|spend|take
 
