@@ -104,7 +104,31 @@ even though
 虽然 尽管
 
 even if
-即使
+即使 哪怕
+
+Even Though（尽管，虽然）
+用法：表示 已经存在的事实，强调让步关系（类似 "although"）。
+结构：
+
+Even though + 事实情况, 主句
+
+Even though it was raining, we went out.
+（尽管当时在下雨，我们还是出去了。）→ （确实下雨了）
+
+表示 假设的情况（可能发生或不会发生），强调条件。
+结构：
+
+Even if + 假设情况, 主句
+
+例句：
+✅ Even if it rains tomorrow, we will go hiking.
+（即使明天下雨，我们也要去徒步。）→ （不确定是否下雨）
+
+✅ Even if he apologizes, I won’t forgive him.
+
+"Although" 和 "though" 都表示 “虽然、尽管”，用于引导让步状语从句，但它们在 正式程度、位置和用法 上有细微差别。
+
+Although 不能用于句末
 
 leave out
 忽略 不提及 不包括
@@ -145,6 +169,12 @@ set up
 
 set down
 写下 记下
+
+write down
+写下 记下
+
+put down
+放下 记下
 
 set an example
 树立一个榜样
@@ -224,7 +254,7 @@ look down upon
 看不起 轻视
 
 look up
-参阅 抬头看
+查阅 抬头看 尊敬 拜访
 
 look up to
 钦佩 仰慕

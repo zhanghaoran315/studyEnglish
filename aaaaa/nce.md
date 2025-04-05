@@ -147,6 +147,12 @@ take one's advice
 take up
 学着做 开始做
 
+take out
+拿出
+
+take down
+卸载 写下 取下
+
 hoax
 n 骗局 恶作剧
 
@@ -190,8 +196,7 @@ show up
 
 turn
 n 1.转动 旋转
-2.行为 举止
-3.轮流的机会
+2..轮流的机会
 v.1 转动 旋转
 2.变成 成为
 
@@ -220,7 +225,7 @@ turn up
 开大 调高
 
 turn down
-开小 调低
+开小 调低 拒绝
 
 turn over
 翻转 翻身
