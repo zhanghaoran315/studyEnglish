@@ -594,30 +594,7 @@ Have you a new bike.
 make
 
 ```
-make
-n 牌子
-v 1.制造 制作
 
-
-What make is ...?
-
-1.制造
-make a table
-make a list
-make a cake
-make tea
-
-2.制作
-make a film
-make an ad.
-
-3.产生，引起
-make a noise
-
-4.写
-make a shopping list
-
-make money
 
 ```
 

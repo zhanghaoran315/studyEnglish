@@ -1,6 +1,119 @@
 # construct
 
 ```
+hope
+n
+v 希望 期望
+
+hope to do sth
+hope that
+
+没有 hope sb to do sth
+
+wish
+n
+v 希望 祝愿
+
+wish to do sth
+wish sb to do sth
+wish that
+wish sb + n、adj
+祝愿sb
+
+
+
+share
+n 股份 一份
+v 共享 分享 分配 分摊
+
+share ... with
+和...分享 和...分担
+
+
+manage
+v 1.管理 负责
+2.完成（困难的事）应付（困难局面等）
+
+ahead
+ad 向前面 在前面
+
+ahead of
+在...前面
+
+task
+n 任务 工作
+
+congratulate
+v 祝贺 感到高兴 感到自豪
+
+congratulation
+n 祝贺
+
+graduate
+v 毕业 获得学位
+
+graduation
+n 毕业
+
+effort
+n 努力
+
+make an effort
+做出努力
+
+make every effort to do sth
+尽全力做某事
+
+
+
+make
+n 牌子
+v 1.制造 制作
+
+
+What make is ...?
+
+1.制造
+make a table
+make a list
+make a cake
+make tea
+
+2.制作
+make a film
+make an ad.
+
+3.产生，引起
+make a noise
+
+4.写
+make a shopping list
+
+make money
+
+make friends
+
+make trouble
+惹麻烦
+
+make room
+腾出地方
+
+make the bed
+整理床铺
+
+make a decision
+做决定
+
+make a noise
+
+make a mess
+弄得一团糟
+
+make a living
+谋生
+
+
 
 transport
 n 
@@ -123,15 +236,16 @@ v 使担心 使害怕
 enjoy
 v 喜爱 享受 欣赏
 
-slience
+silence
 n 沉默
 v 使安静
 
-in slience
+in silence
 默默地
 
-slient
+silent
 a 沉默的 无声的
+保持沉默
 
 suggest
 v 暗示 建议 推荐
@@ -165,6 +279,9 @@ v 玩 吹奏 扮演 表演
 play a part in
 take part in
 参加 参与
+
+play the keyboard
+演奏键盘式电子乐器
 
 rust
 n 锈 铁锈
@@ -362,6 +479,9 @@ choice
 n 选择 抉择
 adj 优质的 优选的 上等的
 
+make one’s own choices
+做出sb的选择
+
 next to
 prep.
 旁边
@@ -437,8 +557,9 @@ a 难以置信的 不真实的
 
 believe sb.
 相信某人（说的话）
-believe in sb.
-信任某人（的能力/人品/潜力
+
+believe in
+信任 信赖
 
 Believe me, please!
 
@@ -451,14 +572,6 @@ n 狙击手
 curtain
 n 窗帘 幕布
 
-look at
-看
-
-look for
-寻找
-
-look through
-透过...看
 
 joke
 n 笑话
@@ -474,8 +587,10 @@ trick
 n 戏法 把戏
 
 quiet
-平静的 安静的
+a 平静的 安静的
 Please be quiet!
+
+keep quiet
 
 none
 没有任何东西，没有一个
@@ -516,6 +631,14 @@ I met him, too.
 So ... I.
 I ..., too.
 
+get
+v 1.得到 获得
+2.买 购买
+3.抵达 到达
+
+get sb done
+使sb被
+
 get off
 下车
 get in the car
@@ -554,7 +677,24 @@ keep on
 
 I have kept the old photo for a long time.
 
-Keep in touch.保持联系
+keep in touch
+keep in touch with
+保持联系
+
+keep one's cool
+沉住气 保持冷静
+
+keep off
+使让开 不接近
+
+keep away from
+远离
+
+keep up with
+跟上 赶上
+
+keep in mind
+记住
 
 touch
 n v 触摸
@@ -1123,6 +1263,9 @@ adv 永远
 along
 prep. 沿
 
+along with
+连同 除...以外还
+
 
 ...is with his family.
 
@@ -1451,14 +1594,27 @@ v 主持 主办
 hostess
 n 女主人 女主持人
 
+thanks
+n 感谢
 
+thank
+v 感谢
+
+thankful
+a 感谢 感激
+
+be thankful to sb
+对sb心存感激
 
 
 thirst
-n 渴 口渴
+n 渴望 口渴
 
 thirsty
-a 渴的 口渴的
+a 渴望的 口渴的
+
+be thirsty for
+渴望 渴求
 
 cloak
 n 斗篷 披风 遮盖物
@@ -1485,8 +1641,7 @@ dress up
 work
 n 工作 作品
 
-look like 
-看起来像
+
 
 
 civilized

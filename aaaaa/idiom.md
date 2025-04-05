@@ -65,6 +65,23 @@ get on
 get in
 登上 上车
 
+get away
+逃跑
+
+take away
+带走 掠夺
+
+give away
+捐赠
+
+go away
+离开
+
+put away
+收起来
+
+put in
+投入
 
 search for
 搜寻
@@ -121,6 +138,15 @@ set off
 set up
 建立 设立
 
+set down
+写下 记下
+
+set an example
+树立一个榜样
+
+set free
+释放
+
 try out
 试验 试用 参加...的选拔
 
@@ -166,11 +192,7 @@ put down
 write down
 写下 记下
 
-look down
-向下看 瞧不起
 
-look up
-参阅 抬头看
 
 make up
 编造
@@ -187,23 +209,80 @@ in danger
 look forward 
 期待；盼望
 
+look back at
+回首（往事） 回忆 回顾
+
+look down
+向下看 瞧不起
+
+look down upon
+看不起 轻视
+
+look up
+参阅 抬头看
+
+look up to
+钦佩 仰慕
+
+look at
+看
+
+look for
+寻找
+
+look through
+透过...看 快速查看 浏览
+
+look like 
+看起来像
+
+look into
+调查
+
+look after
+照顾 照料
+
+look around
+环顾四周
+
+on time
+按时
+
 can't help 
 禁不住，忍不住；不得不
 
 go off
-（闹钟）发出响声
+（闹钟）发出响声 熄灭
 
 go by
-经过 随便走访 凭...判断
+(时间)逝去; 过去 
+经过 随便走访 凭...判断 
 
 go up
 上升 增长 被兴建起来
 
-get up
-起床 站起
+go down
+下来 下沉
 
 go on
 发生 继续 过去
+
+go for a walk
+去散步
+
+go along
+沿着...走
+
+go away
+走开 离开
+
+go out
+外出（娱乐）
+
+
+get up
+起床 站起
+
 
 at least
 至少
@@ -399,6 +478,25 @@ upside down
 be known for
 be famous for
 因...而闻名
+
+have problems with sth.
+在某方面有困难
+
+at the end of
+在...末
+
+the end of
+...的末尾
+
+the beginning of
+...的开始
+
+first of all
+首先
+
+
+
+
 
 
 
