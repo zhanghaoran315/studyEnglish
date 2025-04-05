@@ -1,6 +1,13 @@
 # construct
 
 ```
+each time
+每次 每当
+
+whenever
+c 每当
+
+
 hope
 n
 v 希望 期望
@@ -358,7 +365,7 @@ v 问 询问 请求 请求
 ask to do sth
 
 ask sb to do sth.
-求/请求某人做某事 邀请
+求/请求某人做某事
 
 ask for
 请求 要求 向...要
@@ -410,8 +417,6 @@ great deal 大量
 ignore
 v 忽视 不予理会
 
-whenever
-c 每当
 
 late
 adj. 晚的 迟的
@@ -1457,7 +1462,7 @@ give sb a call
 给 打电话
 
 give sb a chance
-给 一个几乎
+给 一个机会
 
 give sb a lesson
 给 一个教训

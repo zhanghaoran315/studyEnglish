@@ -473,8 +473,7 @@ put sth to good use
 build ... out of
 用...建造
 
-pull down
-拆下 摧毁
+
 
 upside down
 上下颠倒 倒转
