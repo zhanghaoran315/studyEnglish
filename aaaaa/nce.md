@@ -885,8 +885,6 @@ think to oneself
 work on
 从事于
 
-drive into 撞倒
-
 such
 a 那样的 这样的
 

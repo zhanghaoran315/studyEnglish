@@ -3,8 +3,7 @@
 
 
 ```
-rather than
-而不 而不是
+
 
 would rather (not) do sth
 宁愿（不）做某事
@@ -33,7 +32,10 @@ not so ... as ...
 不如...那样...
 
 help out 
-帮助…摆脱困难
+帮助（摆脱困难）
+
+can't help 
+禁不住 忍不住 不得不
 
 used to do sth
 过去常常做某事
@@ -47,10 +49,13 @@ usually
 often
 sometimes
 
-be used to doing sth/sth
-习惯于做某事、习惯于某事
+be used to doing sth
+习惯于做某事
 
 get used to
+be used to
+习惯于某事
+
 
 be/get accustomed to ...
 习惯于
@@ -248,8 +253,7 @@ look around
 on time
 按时
 
-can't help 
-禁不住，忍不住；不得不
+
 
 go off
 （闹钟）发出响声 熄灭
@@ -474,10 +478,6 @@ pull down
 
 upside down
 上下颠倒 倒转
-
-be known for
-be famous for
-因...而闻名
 
 have problems with sth.
 在某方面有困难
