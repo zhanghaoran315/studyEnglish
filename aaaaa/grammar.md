@@ -1877,6 +1877,14 @@ The green apple is as sweet as the red apple.
 The green apple isn't as sweet as the red apple.
 
 The red apple is sweeter than the green apple.
+
+
+
+情况	例句	是否加 the？
+明确比较（特定范围）	"She is the smartest in class."	必须加
+表语（强调性质）	"The lake is deepest here."	可不加
+已有物主代词	"Your most important task..."	不加
+副词性最高级	"He runs fastest."	不加
 ```
 
 # 代词

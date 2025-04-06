@@ -306,6 +306,12 @@ go for a walk
 go along
 沿着...走
 
+along
+prep. 沿
+
+along with
+连同 除...以外还
+
 go away
 走开 离开
 
@@ -359,6 +365,24 @@ not ... anymore
 not any longer
 no longer
 不再
+
+as long as
+只要 和...一样长
+
+"As long as you love me, I’ll stay."（只要你爱我，我就会留下。）
+
+"The meeting lasted as long as 3 hours."（会议持续了长达3小时。——此处表示时间长度）
+
+As long as 引导的条件状语从句不能使用将来时，需用一般现在时或过去时代替：
+
+if only
+只要 要是...多好
+
+only if
+只要...就
+只是在...时候
+
+
 
 be good for
 对...有益

@@ -1574,7 +1574,7 @@ occasional
 ### 一般将来进行时
 
 ```
-all parts of the country = all over the country
+all parts of the country = all over the country=across the country
 全国各地
 
 They will be arriving here tomorrow.
@@ -10868,7 +10868,7 @@ do sth unwilllingly
 
 willing
 v 愿意
-adj 愿意
+adj 愿意 乐意
 be willing to do sth
 
 I am willing to help you.

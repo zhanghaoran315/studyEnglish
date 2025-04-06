@@ -149,6 +149,17 @@ v 转移 使分心
 distract
 v 转移 使分心
 
+congratulate
+v 祝贺 感到高兴 感到自豪
+
+congratulation
+n 祝贺
+
+warn
+v 警告 劝告 提醒
+
+
+
 
 
 

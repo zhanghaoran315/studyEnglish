@@ -1,6 +1,28 @@
 # construct
 
 ```
+lastly
+ad 最后
+
+breathtaking
+a 激动人心的 壮观的
+
+The view was most breathtaking!
+（景色极其壮观！——此处 most ≈ very，非比较级）
+
+most
+adj
+det pron 最多
+adv 最 非常 极其
+
+valuable
+a 有价值的 宝贵的
+
+willing
+v 愿意
+a 愿意 乐意
+be willing to do sth
+
 
 waste
 n 垃圾 浪费 废物
@@ -88,10 +110,35 @@ v 共享 分享 分配 分摊
 share ... with
 和...分享 和...分担
 
+crisis
+n 危机 （病情的）转折点；危急关头；危难时刻
+
 
 manage
-v 1.管理 负责
+v 1.管理 负责 经营
 2.完成（困难的事）应付（困难局面等）
+
+She manages a large company in New York.（她在纽约经营一家大公司。）
+
+He managed the team successfully during the crisis.（他在危机期间成功管理了团队。）
+
+He manages a restaurant.
+
+Can you manage all this work alone?（你能独自应付这么多工作吗？）
+
+She manages her stress by exercising.（她通过运动来应对压力。）
+
+manage to do sth
+设法做某事（结果成功了）
+设法做到
+
+try to do sth
+努力、尽力做某事（结果不一定成功）
+
+manage without sth
+没有某物也能应付
+
+Can you manage without a phone for a day?
 
 ahead
 ad 向前面 在前面
@@ -172,7 +219,23 @@ make a mess
 make a living
 谋生
 
+be made of
+由...制成（看得出原材料）
 
+be made from
+由...制成（看不出原材料）
+
+be made in
+产于某地 在...制造（接地点或时间名词）
+
+be made into
+被制成（接成品）
+
+be made up of
+由...构成（接组成部分）
+
+be made by
+由...制作（接动作执行者）
 
 transport
 n 
@@ -1229,6 +1292,22 @@ v
 2.落（下）
 3.（赛跑时）使（自己）就位，使(自己)作好准备
 
+set up
+建立 设立
+
+set out 
+set off
+出发 启程
+
+set down
+写下 记下
+
+set an example
+树立一个榜样
+
+set free
+释放
+
 cheat
 n (尤指游戏中的)作弊者，骗子
 v 欺骗；(尤指在游戏、比赛、考试等中)作弊，舞弊
@@ -1335,12 +1414,6 @@ n 锤子
 forever
 for ever  85
 adv 永远
-
-along
-prep. 沿
-
-along with
-连同 除...以外还
 
 
 ...is with his family.
@@ -1685,10 +1758,8 @@ v 主持 主办
 hostess
 n 女主人 女主持人
 
-thanks
-n 感谢
-
 thank
+n 感谢
 v 感谢
 
 thankful
