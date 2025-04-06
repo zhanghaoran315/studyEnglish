@@ -1,6 +1,58 @@
 # construct
 
 ```
+
+waste
+n 垃圾 浪费 废物
+v 浪费 白费 
+
+
+focus
+n 焦点 中心点
+v 集中(注意力、精力等于)；聚焦(于)
+
+focus on
+
+
+honk
+n 喇叭声
+
+horn
+n 喇叭
+
+honk the horn
+鸣喇叭
+
+
+youth
+n 青春 青年 年轻人
+
+actual
+a 真实的 实际的
+
+actually
+ad 事实上 实际上
+
+一般将来时
+will do
+be going to do
+be about to do
+
+be about to 表示即将或准备做某事，强调即将发生的动作。
+be going to 表示计划、打算做某事，强调主观的打算或计划。
+
+"be about to do" 是 一般将来时 的一种表达方式，强调 "马上要发生"。
+
+比 "will" 和 "be going to" 更紧迫，常用于口语。
+
+否定形式 "be not about to do" 可以表示 拒绝或不愿意做某事。
+
+be not about to do"
+可以表示 "不打算做某事" 或 "不愿意做某事"（带有拒绝的语气）。
+
+be about to ... when...
+刚要....突然
+
 each time
 每次 每当
 
@@ -153,6 +205,9 @@ take out
 take down
 卸载 写下 取下
 
+spaghetti
+n 意大利面
+
 hoax
 n 骗局 恶作剧
 
@@ -177,11 +232,12 @@ a 愚蠢的
 
 April Fool's Day
 
-show-showed-shown
+show
 vt 
 1.显示 表明 
 2.给...看
 3.引 带 领
+show-showed-shown
 
 show sb. sth.
 show sth. to sb.
@@ -549,7 +605,7 @@ The French test was nice and easy.
 Don't believe her.
 
 belief
-n 信仰；信念；相信；
+n 信仰 信念 相信
 
 disbelief
 n 不信 怀疑
@@ -893,8 +949,7 @@ think-thought-thought
 think to oneself
 心里想
 
-work on
-从事于
+
 
 such
 a 那样的 这样的
@@ -992,7 +1047,7 @@ v 切、割
 cut-cut-cut
 
 cut down
-减少 砍到
+减少 砍倒
 
 cut off
 切除
@@ -1181,6 +1236,12 @@ leave
 n 休假 假期
 v 离开(某人、某处) 剩下 丢弃
 leave-left-left
+
+leave 表示将某物遗忘在某地 leave sth.+地点状语
+forget 表示忘记某物 forget sth.后面不能接地点状语
+
+Judy forgot her book. 
+She left it at home.
 
 leave out
 忽略 不提及 不包括
@@ -1649,9 +1710,17 @@ dress up
 
 work
 n 工作 作品
+v 工作
 
+work on
+从事于
 
+work for 
+为...而工作，受雇于
+I work for a big company.
 
+work out
+解决 算出 锻炼
 
 civilized
 a 文明的

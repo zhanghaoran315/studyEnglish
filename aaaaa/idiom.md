@@ -194,8 +194,7 @@ bring out
 bring back
 恢复 使想起 归还
 
-work out
-解决 算出 锻炼
+
 
 hang out
 闲逛 常去某处
@@ -313,6 +312,9 @@ go away
 go out
 外出（娱乐）
 
+in the middle of
+在…的中间
+
 
 get up
 起床 站起
@@ -322,7 +324,10 @@ at least
 至少
 
 by the end of ...
-在（）以前
+在（某个时间点）以前 + 将来完成时|过去完成时
+
+at the end of
+在...的尽头 在...的末端 + 任意时态
 
 by the way
 顺便说一下 顺便问一下
@@ -343,8 +348,12 @@ end up
 最终成为
 最后处于
 
+end up + doing|adj|adv|介词短语 结束 以...告终
+end up as + n|pron 最终成为
+end up with + n|pron 以...结束
+
 put up
-搭起 举起 （开车）接人
+搭起 举起
 
 not ... anymore
 not any longer
@@ -491,14 +500,13 @@ make up one's mind(s) to do sth.
 某人下定决心做某事
 I made up my mind to study English well.
 
-work for 
-为...而工作，受雇于
-I work for a big company.
+
 
 add up
 把...加起来
 
 put sth to good use
+好好利用某物
 
 build ... out of
 用...建造
