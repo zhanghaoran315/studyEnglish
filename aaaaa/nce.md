@@ -575,6 +575,12 @@ forget sth./sb.
 forget to do ... 要做而忘记做
 Don't forget your friends when you become rich.
 
+forget to do sth
+忘记要做某事
+
+forget doing sth
+忘记做过某事
+
 become
 v 变成 成为
 
@@ -1466,6 +1472,21 @@ n 后悔 遗憾
 v 后悔 遗憾
 
 regret to do sth
+对即将要做的事情表示遗憾或抱歉（通常用于正式场合）
+
+regret to say/tell/inform/announce.
+
+regret doing sth
+后悔已经做过的事
+
+I regret quitting my job without a backup plan.
+
+“To do” → 将来（即将做，但遗憾）
+
+“Doing” → 过去（已做，但后悔）
+
+backup
+n 备份 增援
 
 
 adj + en = v
