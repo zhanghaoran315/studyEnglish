@@ -1,6 +1,9 @@
 # construct
 
 ```
+joy
+n 高兴 快乐
+
 spider
 n 蜘蛛
 
@@ -286,6 +289,8 @@ be made up of
 
 be made by
 由...制作（接动作执行者）
+
+be made to do sth
 
 transport
 n

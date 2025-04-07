@@ -561,9 +561,28 @@ the beginning of
 first of all
 首先
 
+It is believed (by sb.) that + 从句
+= People believe that + 从句
+= Sb. is believed to do sth.
 
 
 
+ It's believed that reading improves vocabulary.
+= People believe that reading improves vocabulary.
+（人们相信阅读能提高词汇量。）
+
+可加入信息来源
+✅ It's believed by scientists that the earth is getting warmer.
+（科学家们认为地球正在变暖。）
+
+可改写为不定式结构
+✅ He is believed to be the best candidate.
+= It's believed that he is the best candidate.
+
+5. 同义替换
+= It is thought that...
+= It is considered that...
+= It is widely accepted that...
 
 
 

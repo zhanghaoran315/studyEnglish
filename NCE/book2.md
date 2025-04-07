@@ -3188,7 +3188,7 @@ I don't believe in that young man.
 ... but ever since he moved in, he has had trouble with cars and their owners.
 
 ever since
-从那以后（一直）（语气比since强）
+从那以后|自从（一直）（语气比since强）
 
 ever since 引导的从句内容，用一般过去时
 since 做为时间状语，自从过去，一直延续到现在，主句用现在完成时
@@ -7266,7 +7266,7 @@ so that ...
 He ran to the station so that he caught the train.
 所以，引导结果状语从句
 He ran to the station so that he might catch the train.
-目的是，引导目的状语从句（后面出现情态动词）= in order that
+目的是 为了，引导目的状语从句（后面出现情态动词）= in order that
 
 annoy
 vt 使生气 打扰
