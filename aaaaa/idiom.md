@@ -23,6 +23,9 @@ make friends with sb
 neither ... nor ...
 即不 ... 也不 ...
 
+等于
+both ... and ... + 否定
+
 比较状语从句
 as ... as ...
 形容词同级比较，和...一样
@@ -64,7 +67,10 @@ be used to do sth
 用来做...  80
 
 to start with
+at first
 起初 开始时
+
+
 
 get on
 get in
@@ -554,6 +560,8 @@ the beginning of
 
 first of all
 首先
+
+
 
 
 

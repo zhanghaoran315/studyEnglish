@@ -1,6 +1,56 @@
 # construct
 
 ```
+spider
+n 蜘蛛
+
+worry
+n
+v 担心
+
+be worry about doing sth
+
+admire
+v 欣赏 赞赏 钦佩 仰慕
+
+admiration
+n 欣赏 赞赏 钦佩 仰慕
+
+admirable
+a 值得赞赏的 令人钦佩的
+
+likely
+a 可能的
+ad 可能
+
+1. 作形容词（Adjective）
+结构：
+be likely to do sth（很可能做某事）
+It is likely that...（很可能...）
+
+例句：
+✅ She is likely to win the competition.
+（她很可能赢得比赛。）
+
+✅ It is likely that it will rain tomorrow.
+（明天很可能会下雨。）
+
+作副词（Adverb）
+结构：
+
+likely + 动词（常用于口语，非正式）
+most likely（最有可能）
+
+例句：
+✅ He will likely arrive late.（他很可能迟到。）
+✅ She most likely forgot the meeting.（她很可能忘了会议。）
+
+⚠️ 注意：
+
+正式写作中，更常用 probably 代替副词 likely。
+
+例如：He will probably arrive late.（更正式）
+
 lastly
 ad 最后
 
@@ -26,7 +76,7 @@ be willing to do sth
 
 waste
 n 垃圾 浪费 废物
-v 浪费 白费 
+v 浪费 白费
 
 
 focus
@@ -238,7 +288,7 @@ be made by
 由...制作（接动作执行者）
 
 transport
-n 
+n
 v 运送 运输
 
 transportation
@@ -296,8 +346,8 @@ a 愚蠢的
 April Fool's Day
 
 show
-vt 
-1.显示 表明 
+vt
+1.显示 表明
 2.给...看
 3.引 带 领
 show-showed-shown
@@ -326,7 +376,7 @@ turn ... into ...
 turn around
 调转 转身
 
-turn on 
+turn on
 打开
 turn off
 关闭
@@ -357,7 +407,7 @@ det 大量 许多
 ad 很 非常
 
 till
-conj 
+conj
 prep 直到 直到...为止
 I waited till 10:30
 
@@ -473,6 +523,9 @@ surprised
 
 surprising
 令人惊讶的
+
+surprisingly
+ad 令人惊讶地 惊人地
 
 line
 n 线 线路 队伍
@@ -1189,6 +1242,13 @@ get on well with
 与...和睦相处
 
 
+单词	词性	功能	例句
+good	形容词 (adj.)	修饰名词，说明“好”的性质	She is a good teacher.
+well	副词 (adv.)	修饰动词，说明“做得好”	He sings well.*
+well	形容词 (adj.)	仅指“身体健康”	I don’t feel well today.
+
+
+
 
 swine
 n 猪 讨厌的人
@@ -1223,7 +1283,11 @@ n
 v 叫 请 打电话
 
 call in（ad）
-召来 叫来
+召来 叫来 “请来（专业人士）”，
+
+so my father called in a doctor
+
+send for
 
 call up
 打电话给sb
@@ -1295,7 +1359,7 @@ v
 set up
 建立 设立
 
-set out 
+set out
 set off
 出发 启程
 
@@ -1325,7 +1389,7 @@ leave-left-left
 leave 表示将某物遗忘在某地 leave sth.+地点状语
 forget 表示忘记某物 forget sth.后面不能接地点状语
 
-Judy forgot her book. 
+Judy forgot her book.
 She left it at home.
 
 leave out
@@ -1376,7 +1440,7 @@ rent
 n 租金 房租
 v 租用 出租
 
-rent out 
+rent out
 出租 租给
 
 rend
@@ -1768,6 +1832,9 @@ a 感谢 感激
 be thankful to sb
 对sb心存感激
 
+give thanks to sb
+向...表达谢意
+
 
 thirst
 n 渴望 口渴
@@ -1789,7 +1856,7 @@ n 衣帽间
 
 dress
 n 连衣裙
-v 穿衣服 
+v 穿衣服
 
 get dressed
 穿上衣服
@@ -1807,7 +1874,7 @@ v 工作
 work on
 从事于
 
-work for 
+work for
 为...而工作，受雇于
 I work for a big company.
 
