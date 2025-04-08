@@ -1,6 +1,51 @@
 # construct
 
 ```
+all but
+几乎
+
+victory
+n 胜利 成功
+
+make sure
+确保
+
+make sure of victory
+锁定胜局
+
+make sure that + 从句：
+The coach made sure that every player understood the strategy.
+
+make sure to do：
+Make sure to lock the door before leaving.
+
+too + 形容词/副词 + to do sth
+（太...而不能...）
+被动含义： 虽为主动形式，但隐含能力不足导致的被动结果。
+He ran too slowly to win the race.（他跑得太慢，没能赢得比赛。）
+
+or
+conj.
+1.（用以引出另一种可能性）或，或者，还是；
+2.（用于含否定意思的动词后）也不，也不是，也没有；
+3.（用于警告或忠告）否则，不然；
+4.（用于两个数字之间表示约略数目）大约；
+5.（用于引出解释性词语）或者说；
+6.（用于说明原因）不然，否则；
+
+stop
+n 停止 车站
+v 停止 阻止
+
+stop doing sth	停止正在做的事	She stopped crying.（她停止了哭泣。）
+
+stop to do sth  停下来去做另一件事  He stopped to answer the phone.（他停下来去接电话。）
+
+stop sb (from) doing sth   阻止某人做某事  The rain stopped us from going out.（雨阻止了我们外出。）
+
+The project was stopped by the government.
+（项目被政府叫停。）
+
 joy
 n 高兴 快乐
 
@@ -127,6 +172,23 @@ be not about to do"
 
 be about to ... when...
 刚要....突然
+
+"Be close to doing sth" 
+
+翻译： "几乎/快要/接近于做某事"
+强调： 动作即将发生但尚未完成的状态
+
+
+场景	例句	说明
+即将完成	The project is close to finishing.	项目接近尾声
+濒临发生	She was close to crying.	差点哭出来
+空间接近	The ship is close to docking.	船只即将靠岸
+
+vs "be close to + 名词"
+
+The station is close to my house. (空间距离)
+The station is close to being built. (动作状态)
+
 
 each time
 每次 每当
@@ -291,6 +353,32 @@ be made by
 由...制作（接动作执行者）
 
 be made to do sth
+"被迫做某事"（强调外力强迫）
+"被要求做某事"（较正式/官方语境）
+"必须做某事"（规则或命令）
+
+
+中文翻译	适用场景	英文例句
+被迫做	不情愿但不得不做	He was made to work overtime.（他被迫加班。）
+被要求做	正式规定或上级指令	Students are made to wear uniforms.（学生被要求穿校服。）
+必须做	客观规则或自然结果	Visitors are made to show ID.（访客必须出示身份证。）
+
+近义词
+表达	语气强弱	例句对比
+be made to do	较强	She was made to apologize.（被迫道歉。）
+be asked to do	较弱	She was asked to apologize.（被请求道歉。）
+be forced to do	最强	She was forced to apologize.（被强迫道歉。）
+
+force
+n 力 力量 武力 武装部队
+v 强迫 迫使
+
+make it adj for sb to do sth
+使某人做某事变得...
+
+"it" 是形式宾语，指代后面的不定式。
+
+The self-service library makes it easy for us to borrow books.
 
 transport
 n
@@ -322,6 +410,17 @@ take out
 
 take down
 卸载 写下 取下
+
+It takes sb 时间 to do sth.
+花费sb时间做某事
+
+sth cost sb 金钱
+
+sb spend 时间|金钱 on sth.
+
+sb spend 时间|金钱 (in) doing sth.
+
+sb pay 金钱 for sth.
 
 spaghetti
 n 意大利面
@@ -444,7 +543,10 @@ guy
 n 家伙 伙计们
 
 goal
-n 球门 射门 目标
+n 球门 射门 目标 made sure of victory.
+
+score a goal
+进球
 
 chance
 n 1.机会 可能性

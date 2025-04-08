@@ -4298,3 +4298,17 @@ She told me she would come.
 He said he would go abroad.
 ```
 
+## 9.现在完成进行时
+
+```
+I have been working hard all morning.
+have / has been doing
+现在完成进行时
+过去的某个时间发生，一直持续到了现在，而且这个动作还很有可能继续进行下去（动作的未完成性）
+句子中常含有时间状语
+all + 表示时间的状语（all morning\all day\all week）
+for\since
+
+Ted has been working on his essay for several weeks.
+```
+
