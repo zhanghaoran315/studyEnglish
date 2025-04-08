@@ -247,6 +247,20 @@ manage to do sth
 设法做某事（结果成功了）
 设法做到
 
+managed to do sth = was/were able to do sth.
+
+able
+a 能够的
+
+区别
+can / be able to
+相同点：都表示能力，能够，be able to 时态更加灵活
+
+不同点：
+1.表示过去已经成功做到的，用was/were able to，could表示过去能够做但不能表示结果成功
+2.can可以表示猜测，允许
+
+
 try to do sth
 努力、尽力做某事（结果不一定成功）
 
@@ -1450,11 +1464,6 @@ a 通常的 寻常的
 
 as usual
 像往常一样 照旧
-
-unusual
-a 不寻常的 特别的
-
-
 
 set
 n 一套 一幅 一组

@@ -7250,6 +7250,12 @@ develop a bad/good habit
 a developing country
 a developed country
 
+"develop" 表示"逐步形成/培养"，强调通过教练帮助，系统性地建立情绪管理方法。
+
+"develop ways/strategies/skills" 是英语常见搭配，表示"开发/培养方法/策略/技能"。
+例句：
+Teachers help students develop problem-solving skills.
+
 ```
 
 课文

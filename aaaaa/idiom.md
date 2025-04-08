@@ -200,6 +200,18 @@ bring out
 bring back
 恢复 使想起 归还
 
+bring out the best in someone
+
+含义：激发某人的潜力，使其表现出最好的一面。
+
+近义表达：
+unlock someone's potential（释放潜能）
+
+inspire someone to excel（激励某人超越自我）
+
+例句：
+A good teacher knows how to bring out the best in students.
+
 
 
 hang out
