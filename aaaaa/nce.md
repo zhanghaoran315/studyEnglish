@@ -1,6 +1,31 @@
 # construct
 
 ```
+all the time
+含义：始终，一直（强调持续性）。
+
+对比其他时间状语：
+
+over time（随着时间的推移）→ 侧重渐进过程。
+
+gradually（逐渐地）→ 更强调缓慢变化。
+
+gradual
+a 逐渐的 逐步的
+
+gradually
+ad 逐渐地 逐步地
+
+steady
+a 稳定的 稳步的 持续的
+
+steadily
+ad 稳定地 稳步地 持续地
+
+
+event
+n 事件 事情
+
 all but
 几乎
 
@@ -296,6 +321,9 @@ n 努力
 make an effort
 做出努力
 
+make an effort to do sth
+努力做某事
+
 make every effort to do sth
 尽全力做某事
 
@@ -360,6 +388,12 @@ be made in
 be made into
 被制成（接成品）
 
+被转化为……
+A simple mistake was made into a huge problem by his anxiety.
+be turned into（更口语化，如："Her fear was turned into courage."）
+
+be transformed into（更正式，指本质改变，如："The caterpillar was transformed into a butterfly."）
+
 be made up of
 由...构成（接组成部分）
 
@@ -411,6 +445,16 @@ take
 v 1.拿 取
 2.接受 采取
 3.遭受 经受 承受 忍受
+4.学习，读，修（课程）
+
+The team took a terrible beating.
+
+take a pre-university course
+
+She can't take criticism 
+
+"take + 名词 + to do sth." 表示 “凭借某种品质/资源去做某事”。
+take the courage to do sth.（鼓起勇气做某事）。
 
 take my advice.
 take one's advice
@@ -585,6 +629,12 @@ take part in
 
 play the keyboard
 演奏键盘式电子乐器
+
+play with
+与...一起玩
+
+play an important role 
+起到重要作用
 
 rust
 n 锈 铁锈
@@ -1576,6 +1626,9 @@ n 愤怒
 
 angry
 a 生气的 愤怒的
+
+be angry with
+对sb生气
 
 another
 det./pron. 另一个

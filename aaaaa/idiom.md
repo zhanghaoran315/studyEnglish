@@ -17,11 +17,16 @@ the more ... , the more ...
 be friends with sb
 成为sb的朋友
 
-make friends with sb
+
+
+friends with sb
 与sb交朋友
 
 neither ... nor ...
-即不 ... 也不 ...
+即不 ... 也不 ...（强调二者选其一）
+
+either ... or ...
+要么 ... 要么 ...（强调二者选其一）
 
 等于
 both ... and ... + 否定
@@ -105,6 +110,14 @@ let sb in
 
 no sooner ... than ...
 一 ... 就 ... （as soon as）
+
+hardly
+ad 几乎不
+
+hardly ... when ...
+几乎还没来得及...就...
+
+
 
 even though
 虽然 尽管

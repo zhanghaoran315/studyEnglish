@@ -3083,7 +3083,7 @@ She is the manager who served me yesterday.
 先行词是物或者是人：that
 
 who和whom的区别
-先行词作主语：who
+先行词作主语或宾语（口语|非正式）：who 
 先行词作宾语：whom
 
 He is the man who loves my friend.
