@@ -265,4 +265,28 @@ take sb. by one's side •
 → 可省略（"that"作"about"的宾语）     总结 情况 可否省略 示例   关系词作宾语 ✅ Yes The cake (that) she made...  关系词作主语 ❌ No The dog that barked...  非限制性定语从句 ❌ No My brother, who is a doctor...  介词提前 ❌ No The pen with which I wrote...
 
 
+===============================================
+
+
+在定语从句中，先行词（antecedent） 是被定语从句修饰的名词或代词，它的词性通常是： 
+1. 名词（Noun）—— 最常见 先行词通常是名词（可数或不可数），在从句中充当主语、宾语、定语等成分。 
+•  例句： ◦  The book that I bought is interesting.（先行词：book，名词）  
+◦  He is the teacher who teaches us English.（先行词：teacher，名词）    
+ 2. 代词（Pronoun）—— 如不定代词 某些代词（尤其是不定代词，如 something, anything, everything, nothing, all, none 等）也可作先行词。
+  •  例句： ◦  I want something that can make me happy.（先行词：something，不定代词）  ◦  All that glitters is not gold.（先行词：All，代词）    
+  3. 特殊情况：整个句子作先行词（非典型） 少数情况下，整个主句可以作先行词，此时关系代词用 which（非限制性定语从句）。 
+  •  例句： ◦  He failed the exam, which surprised everyone.（先行词是前面整个句子 "He failed the exam"）     
+  ⚠️ 注意：先行词不能是以下词性 •  形容词、副词、动词 不能直接作先行词。 
+   •  介词短语、从句 一般也不能作先行词（除非是特殊结构，如 "which" 指代前面整个句子）。  
+    总结 先行词的词性主要是：
+✅ 名词（最常见）
+✅ 代词（尤其是不定代词）
+❌ 其他词性（如形容词、动词等）通常不行。 希望这个总结能帮到你！如果有具体例子想分析，欢迎继续提问 😊     
+ . It’s meaningless to think about anything terrible that you can't change 先行词       
+ 在这个句子中： "It’s meaningless to think about anything terrible that you can't change."
+（"纠结于你无法改变的糟糕事情是没有意义的。"） 先行词（antecedent）分析：
+ 1.  定语从句部分："that you can't change" ◦  这是一个限制性定语从句，用来修饰前面的名词性成分。    2.  先行词："anything terrible" ◦  "anything" 是不定代词（indefinite pronoun），"terrible" 是形容词修饰它，整体作为先行词。  ◦  定语从句 "that you can't change" 进一步限定 "anything terrible"（指“你无法改变的任何糟糕事情”）。     为什么不是其他部分？ •  ❌ 不是 "It"（形式主语，指代后面不定式短语）。  •  ❌ 不是 "to think about..."（不定式短语，是真正主语）。  •  ❌ 不是单独的词 "terrible"（形容词不能单独作先行词）。   关键点： ✅ 先行词 = "anything terrible"（不定代词 + 形容词修饰，整体作为名词性成分）。
+✅ 关系代词 "that" 在从句中作宾语（you can't change that = you can't change anything terrible）。 如果需要更简单的解释： •  "anything terrible that you can't change" = "你无法改变的任何糟糕事情"  •  先行词就是被修饰的“事情”部分（即 "anything terrible"）。
+
+
 ```

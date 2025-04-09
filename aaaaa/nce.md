@@ -1,6 +1,11 @@
 # construct
 
 ```
+hug
+n
+v 拥抱 抱紧
+
+
 all the time
 含义：始终，一直（强调持续性）。
 
@@ -468,6 +473,9 @@ take out
 
 take down
 卸载 写下 取下
+
+take a chance to do sth.
+抓住机会做某事，不定式 "to hang" 表目的。
 
 It takes sb 时间 to do sth.
 花费sb时间做某事
