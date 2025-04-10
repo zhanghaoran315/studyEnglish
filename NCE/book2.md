@@ -947,6 +947,11 @@ While you were sleeping, a theif sneaked in.
 
 You were sleeping, when a theif sneaked in.
 
+when 引导的过去进行时中，短暂动作用一般过去式 rang
+
+My sister Tina was listening to music when the telephone rang
+when 引导的过去进行时中，短暂动作用一般过去式 rang
+
 sneak
 n 打小报告的人 告状者
 v 偷偷的走 溜
@@ -1502,10 +1507,10 @@ will do
 be going to do
 be about to do
 
-be about to 表示即将或准备做某事，强调即将发生的动作。
+be about to 表示即将或准备做某事，强调即将发生的动作。不与tomorrow等具体的时间状语连用
 be going to 表示计划、打算做某事，强调主观的打算或计划。
 
-"be about to do" 是 一般将来时 的一种表达方式，强调 "马上要发生"。
+"不与tomorrow等具体的时间状语连用be about to do" 是 一般将来时 的一种表达方式，强调 "马上要发生"。
 
 比 "will" 和 "be going to" 更紧迫，常用于口语。
 
@@ -1514,7 +1519,7 @@ be going to 表示计划、打算做某事，强调主观的打算或计划。
 be not about to do"
 可以表示 "不打算做某事" 或 "不愿意做某事"（带有拒绝的语气）。
 
-be about to ... when...
+be about to do... when...
 刚要....突然
 
 plenty of + 不可数名词/复数名称

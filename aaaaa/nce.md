@@ -1,6 +1,15 @@
 # construct
 
 ```
+It read, “I'm locked inside. Please call for help.” 
+read
+v 阅读 写着 学习
+
+down
+p 向下 往下 沿着 顺着 朝着
+ad 向下
+a 沮丧
+
 hug
 n
 v 拥抱 抱紧
@@ -64,8 +73,19 @@ conj.
 6.（用于说明原因）不然，否则；
 
 stop
-n 停止 车站
+n 停止 停留 车站
 v 停止 阻止
+
+floor
+n 地板 地面 楼层
+
+
+stopped between floors
+“停在楼层之间”
+
+a short stop
+stop 在此作名词，指“停下、逗留”（类似 a quick break）。
+
 
 stop doing sth	停止正在做的事	She stopped crying.（她停止了哭泣。）
 
@@ -522,6 +542,8 @@ vt
 3.引 带 领
 show-showed-shown
 
+I'll go first and show you the way
+
 show sb. sth.
 show sth. to sb.
 
@@ -542,6 +564,9 @@ v.1 转动 旋转
 turn ... to ...
 turn ... into ...
 把...变成...
+
+transformed into
+changed into
 
 turn around
 调转 转身
@@ -580,6 +605,8 @@ till
 conj
 prep 直到 直到...为止
 I waited till 10:30
+
+Don’t put off till tomorrow what should be done
 
 alarm
 n 警报
@@ -1041,6 +1068,9 @@ v 1.保留 保持 保存 保守
 2.继续(做谋事)
 keep-kept-kept
 
+keep doing sth
+持续得做某事
+
 keep on
 
 I have kept the old photo for a long time.
@@ -1254,9 +1284,20 @@ think to oneself
 
 such
 a 那样的 这样的
+ad 如此地 
+
+such a terrible thing:
+such a + 形容词 + 名词 结构，加强语气（“如此糟糕的事”）。
 
 such as
 例如 像这样
+
+seem
+v 看来 好像 似乎
+
+seem to be: 表示“看起来是”
+
+didn’t seem to be 
 
 honest
 a 诚实的 正直的 老实的
@@ -1530,6 +1571,18 @@ v
 2.落（下）
 3.（赛跑时）使（自己）就位，使(自己)作好准备
 
+set foot 
+进入到某处 行走
+
+set foot on 
+踏上
+
+set foot in
+进入 踏进 涉足于
+
+at foot
+在附近
+
 set up
 建立 设立
 
@@ -1575,6 +1628,9 @@ leave for
 feel left out
 感觉被忽略、冷落
 觉得被遗忘
+
+leave sb by oneself
+把sb单独留下
 
 way
 n 方式 方法 路

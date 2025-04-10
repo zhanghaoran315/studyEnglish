@@ -943,7 +943,7 @@ many students
 I haven't got much either!
 ```
 
-完全否定和部分否定
+## 完全否定和部分否定
 
 ```
 完全否定
@@ -3266,6 +3266,10 @@ It is broken by him.
 
 3.没必要提出动作的发出者
 A new building was built.
+
+
+
+Challenges will be turned into chances if you have a positive attitude.
 ```
 
 

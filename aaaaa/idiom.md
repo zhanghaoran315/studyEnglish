@@ -316,7 +316,9 @@ on time
 
 
 go off
-（闹钟）发出响声 熄灭
+1.（闹钟）发出响声 
+2.（食物）变坏 变质
+3.（电灯）熄灭 （水电）断掉
 
 go by
 (时间)逝去; 过去 
@@ -374,6 +376,12 @@ by the way
 
 by the time
 在...以前
+
+引导时间状语从句。
+若从句用一般过去时，主句常用过去完成时。
+By the time Lily got home,her friends had already left.已经离开了。【拓展】
+若 by the time 后的从句表示将来发生的事情，则从句用一般现在时,主句常用将来完成时。
+By the time he gets there,I’ll have finished the work.当他到达那里时,我将已完成这项工作。
 
 no more than 
 仅仅 才 (少)
@@ -615,6 +623,20 @@ It is believed (by sb.) that + 从句
 
 after all
 毕竟 终究
+
+His heart wasn’t in his work.
+
+One’s heart is not in sth.
+对某事缺乏热情/敷衍了事
+他干活心不在焉。
+
+为什么用 "heart" 而不是 "mind"？
+"Heart"：象征情感投入（强调缺乏动力或热情）。
+
+"Mind"：更偏向注意力集中（如 His mind was elsewhere = 他走神了）。
+
+此处用 "heart" 更能体现情感上的疏离，而非单纯的“分心”。
+
 
 
 
