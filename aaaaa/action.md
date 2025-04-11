@@ -1,6 +1,79 @@
 # action
 
 ```
+"as much...as" 结构详解
+1. 基本用法
+结构：as much + 不可数名词 + as
+功能：表示"和……一样多的（某物）"或"尽可能多的（某物）"。
+
+例句：
+
+She drank as much water as she could after the race.
+（比赛后她喝了尽可能多的水。）
+
+You should save as much money as possible.
+（你应该尽可能多地存钱。）
+
+2. 与 "as many...as" 的区别
+结构	修饰对象	例句
+as much...as	不可数名词（time, money, water）	He spent as much time as he could studying.
+as many...as	可数名词复数（books, people）	She bought as many books as possible.
+易错点：
+❌ She ate as much apples as she wanted. （× "apples" 可数）
+✅ She ate as many apples as she wanted. （√）
+
+3. 省略情况
+当上下文明确时，可省略第二个 "as" 后的内容：
+
+Did you take enough medicine?
+Yes, I took as much as needed. （省略 "as it was needed"）
+
+4. 特殊句型
+"as much as + 数字"：表示"多达……"（强调数量大）
+
+The whale can weigh as much as 40 tons.
+（这头鲸鱼重量可达40吨。）
+
+"not as much...as"：表示"不如……多"
+
+I don’t earn as much money as my brother.
+（我赚的钱不如我哥哥多。）
+
+5. 真题应用（对应第16题）
+原句：
+"她花了尽可能多的时间练习英语口语。"
+正确翻译：
+She spent as much time as she could practicing spoken English.
+
+解析：
+
+"时间"（time）是不可数名词 → 用 as much...as。
+
+"as she could" 是 "as she could spend" 的省略。
+
+6. 常见错误
+❌ He has as much friends as I do. （× "friends" 可数）
+✅ He has as many friends as I do.
+
+❌ Spend as much time as you can to practice. （× 动词形式错误）
+✅ Spend as much time as you can practicing. （√ "spend time doing"）
+
+总结口诀
+"不可数用 much，可数 many 别忘啦！
+比较省略要灵活，spend 后面 ing 挂。"
+
+通过对比练习巩固：
+
+He wants to read ______ books ______ possible this summer. （可数）
+→ as many; as
+
+Please add ______ sugar ______ the recipe requires. （不可数）
+→ as much; as
+
+
+===================================
+
+
 "Be coming to" 是一个英语短语，通常表示 ​​“即将到达、即将发生”​​ 或 ​​“逐渐变得”​​ 的意思。具体用法如下：
 
 ​​1. 表示“即将到达/发生”​​
@@ -416,6 +489,440 @@ So it is with us.
 The same applies to us.
 
 我们也是如此
+
+===============================
+
+动词短语辨析：
+
+"had begun"（A）：表示“已经开始”，但 begin 是瞬间动词，不能与表示持续时间的 "for ten minutes" 连用。
+
+"had been on"（B）：
+
+"be on" 表示电影/演出等“正在进行中”，是 可持续的状态。
+
+"had been on for ten minutes" 正确表达“电影已放映了十分钟”（持续状态 + 时间段）。
+
+========================
+
+句子解析： 1.  主语 (Subject)： ◦  The little boy（这个小男孩）→ 句子的主语，指代“年龄小的男孩”。    2.  谓语 (Predicate)： ◦  isn’t old enough（不够大/还太小）→ 系动词（is） + 表语（not old enough），表示年龄不足。    3.  不定式短语 (Infinitive Phrase)： ◦  to get dressed by himself（自己穿衣服）→ 不定式作结果状语，说明“不够大的结果是什么”。 ■  get dressed：固定短语，意为“穿好衣服”。  ■  by himself：介词短语，强调“独自完成”。      4.  否定结构： ◦  isn’t old enough to...（不够……以至于不能……）→ 英语中常用“not + adj. + enough to”表示“不足以做某事”。       语法重点： •  enough 的用法： ◦  形容词/副词 + enough + to do（足够……可以做……）。  ◦  否定形式：not + adj. + enough + to do（不够……以至于不能……）。  ◦  例句：
+✅ She is tall enough to reach the shelf.（她足够高，能够到架子。）
+✅ He isn’t strong enough to lift the box.（他不够强壮，搬不动箱子。）    •  get dressed 的搭配： ◦  get dressed = put on clothes（穿衣服），强调动作。  ◦  be dressed = wear clothes（穿着衣服），强调状态。       同义表达： 1.  The little boy is too young to dress himself.
+（用 too...to 结构替换，但需注意 dress 是及物动词，需接宾语。）  2.  The little boy can’t dress himself yet because he’s too young.     常见错误： ❌ The little boy isn’t old enough to wear clothes by himself.
+（wear 强调“穿着”的状态，而非“穿”的动作，此处应使用 get dressed。） ✅ 正确表达：
+The little boy isn’t old enough to get dressed by himself.
+
+=====================================
+
+1. 基本结构
+too + 形容词/副词 + to do sth
+表示“太……以至于不能……”，具有否定含义。
+
+2. 例句与翻译
+He is too young to go to school.
+（他年龄太小，还不能上学。）
+→ 隐含否定：He cannot go to school because he is too young.
+
+The box is too heavy to carry.
+（这个箱子太重了，搬不动。）
+→ 隐含否定：The box cannot be carried because it’s too heavy.
+
+3. 语法要点
+主语一致性：
+不定式（to do）的逻辑主语通常与句子主语一致。
+
+✅ She is too tired to work. （她太累了，无法工作。）
+
+❌ The coffee is too hot to drink it. （错误，应去掉 "it"）
+
+被动形式：
+当不定式与主语是被动关系时，用被动式（to be done）。
+
+✅ The food is too cold to be eaten.
+（食物太凉了，没法吃。）
+
+修饰名词：
+用 "too + 形容词 + a/an + 名词 + to do"。
+
+✅ It’s too difficult a problem to solve.
+（这个问题太难了，解决不了。）
+
+4. 与 "not...enough to" 的转换
+"too...to" 可转换为 "not + 形容词 + enough + to do"，但需注意否定位置。
+
+too young to go = not old enough to go
+
+too heavy to carry = not light enough to carry
+
+5. 特殊用法
+"never too...to"：表示“再……也不为过”。
+
+✅ It’s never too late to learn.
+（学习永远不嫌晚。）
+
+"only too...to"：表示“非常乐意做……”，无否定含义。
+
+✅ I’m only too glad to help.
+（我非常乐意帮忙。）
+
+
+============================================
+只能接动名词（doing）作宾语的动词及短语
+在英语中，部分动词或短语只能接动名词（V-ing）作宾语，而不能接不定式（to do）。以下是常见的此类动词及短语分类整理：
+
+1. 常见只能接 doing 的动词
+以下动词后**必须接动名词（doing）**作宾语：
+
+admit（承认）
+
+He admitted cheating on the test.
+
+❌ He admitted to cheat on the test.
+
+avoid（避免）
+
+She avoids eating junk food.
+
+consider（考虑）
+
+They are considering moving to Canada.
+
+delay（推迟）
+
+We delayed making a decision.
+
+deny（否认）
+
+He denied stealing the money.
+
+dislike（不喜欢）
+
+I dislike waking up early.
+
+enjoy（享受）
+
+She enjoys reading novels.
+
+finish（完成）
+
+Have you finished writing the report?
+
+imagine（想象）
+
+Can you imagine living on Mars?
+
+mind（介意）
+
+Would you mind opening the window?
+
+miss（错过）
+
+I miss playing basketball with my friends.
+
+practice（练习）
+
+She practices speaking English every day.
+
+quit（放弃）
+
+He quit smoking last year.
+
+recommend（推荐）
+
+The doctor recommends exercising regularly.
+
+resist（抵抗）
+
+She couldn’t resist laughing.
+
+risk（冒险）
+
+He risked losing his job.
+
+suggest（建议）
+
+She suggested going to the museum.
+
+2. 固定短语后接 doing
+以下短语必须接动名词：
+
+can’t help（忍不住）
+
+I can’t help laughing at his joke.
+
+feel like（想要）
+
+Do you feel like watching a movie?
+
+give up（放弃）
+
+He gave up trying to fix the car.
+
+keep on（继续）
+
+She kept on talking for hours.
+
+look forward to（期待）
+
+I look forward to meeting you.
+
+be used to（习惯于）
+
+He is used to working late.
+
+be worth（值得）
+
+This book is worth reading.
+
+3. 介词后接 doing
+介词（in, on, at, of, about 等）后必须接动名词：
+
+think about doing（考虑做某事）
+
+I’m thinking about changing my job.
+
+succeed in doing（成功做某事）
+
+She succeeded in passing the exam.
+
+be interested in doing（对做某事感兴趣）
+
+He is interested in learning Spanish.
+
+be good at doing（擅长做某事）
+
+She is good at playing the piano.
+
+be afraid of doing（害怕做某事）
+
+He is afraid of flying.
+
+4. 特殊句型
+It’s no use/good doing（做某事没用）
+
+It’s no use crying over spilled milk.
+
+There’s no point in doing（做某事没有意义）
+
+There’s no point in arguing with him.
+
+5. 常见错误对比
+❌ I enjoy to read books.（×）
+✅ I enjoy reading books.（√）
+
+❌ She suggested to go shopping.（×）
+✅ She suggested going shopping.（√）
+
+❌ He is afraid to make mistakes.（× 表示“害怕去做”）
+✅ He is afraid of making mistakes.（√ 表示“害怕某种情况”）
+
+总结
+只能接 doing 的动词：admit, avoid, consider, deny, enjoy, finish, imagine, mind, miss, practice, quit, recommend, resist, risk, suggest 等。
+
+固定短语：can’t help, feel like, give up, look forward to, be used to, be worth 等。
+
+介词后必须用 doing：think about, succeed in, be interested in, be good at 等。
+
+特殊句型：It’s no use/good doing, There’s no point in doing。
+
+掌握这些规则后，就能避免 “to do” 和 “doing” 的混淆问题！
+
+=========================================================
+你提到的这个问题非常关键！确实，上述所有动词和短语都不能接 "sb to do"（宾语 + 不定式）的结构。以下是详细解析：
+
+1. 为什么这些动词不能接 "sb to do"？
+这些动词和短语的语法规则决定了它们：
+
+只能直接接动名词（doing），如：
+✅ He suggested going early.
+❌ He suggested us to go early. （错误）
+
+不适用 "动词 + 人 + to do" 的结构（即没有 suggest/advise/enjoy sb to do 的用法）。
+
+2. 对比：可接 "sb to do" 的动词
+少数动词可以接 "宾语 + 不定式"，例如：
+
+ask/tell/want/allow/encourage sb to do
+✅ She asked me to help.
+✅ They encouraged him to try.
+
+但你列出的所有动词（如 suggest, enjoy, avoid）均无此用法。
+
+3. 特殊注意点
+recommend / advise 的用法：
+虽然它们不能接 sb to do，但可以通过其他结构表达类似含义：
+
+✅ I recommend reading this book. （直接接 doing）
+
+✅ I recommend that you read this book. （接从句）
+
+❌ I recommend you to read this book. （错误）
+
+be used to 的混淆：
+
+be used to doing（习惯于做某事）→ 接 doing
+
+used to do（过去常常做某事）→ 接不定式，但含义完全不同。
+
+4. 如何正确表达 "建议某人做某事"？
+对于不能接 sb to do 的动词，需改用其他结构：
+
+接动名词：
+
+She suggested going together.
+
+接从句（that...）：
+
+She suggested that we go together.
+
+换用其他动词：
+
+She advised us to go together. （advise 可接 sb to do）
+
+5. 总结表格
+动词/短语	正确用法（接 doing）	错误用法（接 sb to do）
+suggest	✅ suggest doing	❌ suggest sb to do
+enjoy	✅ enjoy reading	❌ enjoy sb to read
+avoid	✅ avoid making	❌ avoid sb to make
+recommend	✅ recommend trying	❌ recommend sb to try
+关键结论
+所有列出的动词和短语均不能接 "sb to do"，必须严格接 doing 或通过从句表达。
+
+需要区分 可接 sb to do 的动词（如 tell, ask） 和 只能接 doing 的动词（如 suggest, enjoy）。
+
+如果有具体句子需要验证，可以告诉我，我会帮你分析！
+
+===================================================
+
+
+只能接doing做宾语的 我怎么快速的记忆
+快速记忆「只能接 doing 作宾语」的动词和短语
+要高效记忆这些动词，可以结合 分类记忆法 + 联想口诀。以下是具体方法：
+
+1. 分类记忆法
+将动词按 意义或场景分类，减少记忆负担：
+
+① 情感/态度类
+
+喜欢/讨厌：enjoy（享受）, dislike（不喜欢）
+
+后悔/承认：regret（后悔）, admit（承认）
+
+避免/抵抗：avoid（避免）, resist（抵抗）
+
+② 行为/过程类
+
+开始/结束：start（开始）, finish（完成）, quit（放弃）
+
+练习/尝试：practice（练习）, consider（考虑）
+
+建议/推荐：suggest（建议）, recommend（推荐）
+
+③ 固定短语类
+
+忍不住：can’t help
+
+期待：look forward to
+
+值得：be worth
+
+2. 联想口诀法
+编一个简单口诀，覆盖高频动词：
+「建议放弃练习，避免承认享受，考虑完成冒险，忍不住期待值得！」
+（对应动词：suggest, quit, practice, avoid, admit, enjoy, consider, finish, risk, can’t help, look forward to, be worth）
+
+3. 排除法辅助
+记住 少数可接「sb to do」的动词，其余基本接 doing：
+✅ 接 sb to do 的常见动词：
+
+ask, tell, want, allow, encourage, force（如 ask sb to go）
+❌ 其他动词大概率接 doing！
+
+4. 对比记忆易混词
+stop to do（停下来去做另一件事） vs. stop doing（停止正在做的事）
+
+remember to do（记得要做） vs. remember doing（记得做过）
+
+try to do（努力做） vs. try doing（尝试做）
+
+5. 实战快速检验
+遇到动词时，问自己：
+
+是否属于 情感/态度/建议类（如 enjoy, suggest）？→ 接 doing
+
+是否是 ask/tell/want 等？→ 可接 sb to do
+
+是否有介词（如 look forward to）？→ 接 doing
+
+总结：三步速记法
+背口诀：覆盖核心动词。
+
+记例外：ask/tell/want 等接 sb to do，其余基本接 doing。
+
+看介词：介词后必接 doing（如 think about doing）。
+
+例句快速验证：
+
+❌ She suggested him to leave. （×）
+✅ She suggested leaving. 或 She suggested that he leave.
+
+❌ I enjoy to swim. （×）
+✅ I enjoy swimming.
+
+多造句练习，很快就能形成语感！
+
+可接sb to do 是少数吗
+是的！可接 "sb to do"（宾语 + 不定式）的动词确实是少数，而大多数动词要么接 doing，要么接 that 从句。以下是清晰对比和记忆技巧：
+
+1. 可接 "sb to do" 的常见动词（少数派）
+这些动词通常表示 "命令/请求/允许/教导" 等使役意义，数量有限，需单独记忆：
+
+动词	例句（正确用法）	错误反例（不可接 doing）
+ask	She asked me to help.	❌ She asked my helping.
+tell	He told her to wait.	❌ He told her waiting.
+want	They want you to stay.	❌ They want your staying.
+allow	Mom allowed me to go.	❌ Mom allowed my going.
+encourage	We encouraged him to try.	❌ We encouraged his trying.
+force	The law forces people to obey.	❌ The law forces people obeying.
+teach	He taught me to swim.	❌ He taught my swimming.
+2. 只能接 "doing" 的动词（多数派）
+之前列出的动词（如 enjoy, suggest, avoid）绝对不能接 "sb to do"，例如：
+
+❌ I suggest you to go. → ✅ I suggest going. 或 I suggest that you go.
+
+❌ She enjoys him to sing. → ✅ She enjoys listening to him sing. （需换结构）
+
+3. 快速判断技巧
+遇到动词时，问自己：
+
+是否表示"命令/请求/允许"？
+
+是 → 可能接 sb to do（如 ask, tell, allow）。
+
+否 → 大概率接 doing 或 that 从句（如 suggest, enjoy）。
+
+是否有介词（如 look forward to）？
+
+有介词 → 必接 doing。
+
+4. 为什么 "sb to do" 是少数？
+英语中，不定式（to do）常表未来或目的，而 动名词（doing）强调动作本身。
+
+"Ask sb to do" 隐含 "让某人去做某事（未发生）"。
+
+"Enjoy doing" 强调 "享受做某事的过程"，无法强行加人（❌ enjoy you to sing）。
+
+5. 强化记忆口诀
+"请叫让教准想要，允许鼓励逼着跑"
+（覆盖：ask, tell, let, teach, advise, want, expect, allow, encourage, force 等少数派动词）
+
+总结
+可接 "sb to do" 的动词 ≈ 20个左右（需单独记忆）。
+
+其余动词要么接 doing，要么接从句，无 "sb to do" 结构。
+
+介词后永远接 doing（如 think about doing）。
+
+
 
 
 ```

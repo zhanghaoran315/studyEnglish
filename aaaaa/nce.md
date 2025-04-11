@@ -1,6 +1,25 @@
 # construct
 
 ```
+end
+n 结束 结局
+
+ending
+n (故事、电影等的)结尾
+
+The film I watched last night has an unhappy ending.
+
+答案：
+
+解析：此处需填名词形式，表示"结局"。"end"作名词时指"终点/结果"，而"ending"更强调"故事的结尾"，更符合语境。
+
+
+unless
+c 除非 如果不
+
+site
+n 地点 场所 位置 遗址
+
 It read, “I'm locked inside. Please call for help.” 
 read
 v 阅读 写着 学习
@@ -494,6 +513,14 @@ take out
 take down
 卸载 写下 取下
 
+take place
+发生 举行
+
+take the place of
+take the place
+代替
+
+
 take a chance to do sth.
 抓住机会做某事，不定式 "to hang" 表目的。
 
@@ -671,6 +698,9 @@ play with
 play an important role 
 起到重要作用
 
+feather
+n 羽毛
+
 rust
 n 锈 铁锈
 v 使生锈
@@ -702,6 +732,15 @@ a 尴尬的 窘迫的
 
 embarrassing
 a 令人尴尬的 使人害羞的
+
+It was such an ______ joke that everyone felt ______ (embarrass).
+答案：embarrassing; embarrassed
+解析：
+"embarrassing"（令人尴尬的）修饰"joke"。
+"felt embarrassed"（感到尴尬的）描述人的感受。
+
+-ing vs. -ed 形容词：
+embarrassing（事物令人尴尬） / embarrassed（人感到尴尬）。
 
 amuse
 vt 使娱乐 (提供)消遣
@@ -2099,6 +2138,53 @@ dress in
 
 dress up
 打扮 装饰
+
+enough
+adv 十分 相当 足够地 
+程度副词，修饰形容词，副词等
+very 往往放在adj前面
+
+The book is very interesting.
+He often gets up very early
+
+当enough作程度副词修饰形容词，副词，常放在形容词，副词后面
+
+My house is large enough.
+He got up early enough
+
+enough 的用法： 
+◦  形容词/副词 + enough + to do（足够……可以做……）。  
+◦  否定形式：not + adj. + enough + to do（不够……以至于不能……）。  
+
+◦  例句：
+✅ She is tall enough to reach the shelf.（她足够高，能够到架子。）
+✅ He isn’t strong enough to lift the box.（他不够强壮，搬不动箱子。）    
+
+•  get dressed 的搭配： 
+◦  get dressed = put on clothes（穿衣服），强调动作。  
+◦  be dressed = wear clothes（穿着衣服），强调状态。       
+
+同义表达： 
+1.  The little boy is too young to dress himself.
+（用 too...to 结构替换，但需注意 dress 是及物动词，需接宾语。）  
+
+2.  The little boy can’t dress himself yet because he’s too young.     
+
+常见错误： ❌ The little boy isn’t old enough to wear clothes by himself.
+（wear 强调“穿着”的状态，而非“穿”的动作，此处应使用 get dressed。）
+
+too + 形容词/副词 + to do sth
+表示“太……以至于不能……”，具有否定含义。
+
+"never too...to"：表示“再……也不为过”。
+
+✅ It’s never too late to learn.
+（学习永远不嫌晚。）
+
+"only too...to"：表示“非常乐意做……”，无否定含义。
+
+✅ I’m only too glad to help.
+（我非常乐意帮忙。）
 
 work
 n 工作 作品

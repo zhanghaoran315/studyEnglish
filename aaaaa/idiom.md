@@ -159,11 +159,16 @@ run out
 run out of
 用完 耗尽
 
+(1)run out of为及物动词短语,其主语通常是表示人的名词或代词,相当于 use up。
+(2)run out为不及物动词短语,其主语通常是时间、金钱、食物等无生命的事物。
+
 run away
 逃跑
 
 run away from
 回避 逃离 从...逃脱
+
+flee
 
 sell out
 卖光
@@ -391,6 +396,8 @@ not more than
 
 no more
 不再
+
+。。。will have no more homework.
 
 end up
 最终成为
