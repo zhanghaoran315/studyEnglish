@@ -1,6 +1,15 @@
 # construct
 
 ```
+paraglider
+n 滑翔伞  滑翔伞运动员
+
+quilt
+n 被子
+
+delphin
+n 海豚
+
 end
 n 结束 结局
 
