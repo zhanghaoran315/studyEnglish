@@ -1,6 +1,10 @@
 # construct
 
 ```
+saying
+n 谚语 格言
+A Chinese saying
+
 paraglider
 n 滑翔伞  滑翔伞运动员
 
@@ -695,6 +699,8 @@ n 游戏 戏剧
 v 玩 吹奏 扮演 表演
 
 play a part in
+参与 在...方面起作用
+
 take part in
 参加 参与
 

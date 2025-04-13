@@ -81,6 +81,9 @@ get on
 get in
 登上 上车
 
+get off
+下车
+
 get away
 逃跑
 
@@ -178,6 +181,9 @@ put out
 
 give out
 分发 散发
+
+give off 
+发出（光等）；长出（枝、杈等）
 
 find out
 查明 弄清

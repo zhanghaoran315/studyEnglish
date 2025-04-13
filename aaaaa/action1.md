@@ -1541,4 +1541,123 @@ The meeting ______ (start) at 9 AM and ______ (be on) for an hour. → started; 
 
 掌握这些规则后，英语时态和动词用法会更精准！ 😊
 
+==============================
+关于第7题能否用 "acts" 的解析
+原题回顾
+Your dream will come true if you put your thoughts into ______ (act).
+
+标准答案：action
+解析：固定短语 put...into action（将...付诸行动），强调"实际行动"的抽象概念。
+
+例句：
+Put your plan into action.（将计划付诸实施。）
+
+能否用 "acts"？
+❌ 不可以，原因如下：
+
+语义不符：
+
+"acts" 是 "act" 的复数形式，指具体的行为或举动（如 heroic acts 英勇行为）。
+
+原句需要表达的是"将想法转化为行动"的抽象过程，而非多个具体行为。
+
+搭配冲突：
+
+put into + 抽象名词（如 action/practice/effect）是固定结构。
+
+"put into acts" 不符合英语习惯用法，会显得生硬。
+
+语法逻辑：
+
+"thoughts"（想法）是抽象复数，与之匹配的应是抽象单数名词 action，而非具体复数名词 "acts"。
+
+对比示例
+表达	正确性	含义
+put into action	✅	将...付诸实践（抽象）
+put into acts	❌	无此搭配，语义混乱
+perform acts	✅	执行具体行为（如慈善行为）
+类似题目练习
+用所给词的正确形式填空：
+We need to put these ideas into ______ (practice).
+答案：practice（抽象概念，不可用 "practices"）
+
+总结
+必须用 "action"：原题考查固定短语和抽象名词的用法。
+
+"acts" 的适用场景：仅用于描述多个具体行为（如 His kind acts touched everyone.）。
+
+最终答案：第7题填 action。
+
+==============================
+"Put into" 短语的用法解析
+1. 基本结构
+put + 名词 + into + 名词/动名词
+表示"将...放入/投入/应用于..."，具体含义取决于上下文。
+
+2. 常见搭配及用法
+搭配	含义	例句
+put into action	付诸实施	Let's put the plan into action.
+put into practice	实践	It's time to put theory into practice.
+put into words	用语言表达	I can't put my feelings into words.
+put into effect	生效	The new law will be put into effect next month.
+put into operation	投入运营	The factory was put into operation last year.
+put into perspective	客观看待	This incident puts everything into perspective.
+3. 语法注意事项
+宾语位置：
+
+代词作宾语时必须放在中间：Put it into practice.
+
+名词可前可后：Put the plan into action. = Put into action the plan.
+
+不可拆分的固定搭配：
+
+正确：put into use
+
+错误：put use into（词序错误）
+
+被动语态：
+
+The theory was finally put into practice.
+
+4. 易混淆表达辨析
+put in vs put into：
+
+put in：具体放置（Put in the coins.）
+
+put into：更抽象的应用（Put effort into the project.）
+
+put on vs put into：
+
+put on clothes（穿衣）
+
+put money into the bank（存钱）
+
+5. 常见错误纠正
+❌ We should put the suggestion into actions.
+✅ We should put the suggestion into action.
+（"action"在此为抽象概念，不可数）
+
+❌ He put his heart into study English.
+✅ He put his heart into studying English.
+（"into"后接动名词）
+
+6. 应用练习
+完成句子：
+The government plans to ______ the new policy ______ next week.
+（答案：put...into effect）
+
+改错：
+She put her whole energy into prepare the exam.
+（应改为：preparing）
+
+7. 记忆技巧
+联想记忆法：
+想象"put into"是一个魔法漏斗→把想法/计划"倒入"现实世界变成行动/实践。
+
+图示：
+[想法] → (put into) → [行动]
+（抽象到具体的转化过程）
+
+掌握这些搭配能让你的英语表达更地道准确！需要其他短语解析请随时告诉我。 
+
 ```
