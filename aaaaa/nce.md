@@ -1,6 +1,21 @@
 # construct
 
 ```
+baby
+n 生孩子
+have a baby 
+生孩子
+
+law
+n 法律 法规
+make a law
+制定法律
+
+left-behind children
+留守儿童
+
+the left-behind kids.
+
 saying
 n 谚语 格言
 A Chinese saying
@@ -713,6 +728,9 @@ play with
 play an important role 
 起到重要作用
 
+play a role in
+在...中起作用
+
 feather
 n 羽毛
 
@@ -841,6 +859,12 @@ adv p c 也 所以 那么
 deal
 n 协议
 v 发牌
+
+make a deal
+达成协议
+
+make a problem
+制造问题
 
 deal with
 处理；涉及；做生意
