@@ -108,6 +108,21 @@ put away
 put in
 投入
 
+put into 
+使进入；把...放进；在……上种植
+
+put into practice 
+实行，实施；落实
+
+put into operation 
+使生效；使运转，使开动
+
+put into production 
+把…投入生产
+
+put into use 
+使用，应用；投入使用
+
 search for
 搜寻
 
@@ -153,6 +168,14 @@ Even if + 假设情况, 主句
 （即使明天下雨，我们也要去徒步。）→ （不确定是否下雨）
 
 ✅ Even if he apologizes, I won’t forgive him.
+
+
+
+连词	适用场景	题目是否匹配
+Although/Though	事实性让步（已知真实情况）	✅
+Even if	假设性让步（虚拟或未发生情况）	❌
+正确选择：Although/Though
+（因为“旧书包不合适”是客观事实，而非假设。）
 
 "Although" 和 "though" 都表示 “虽然、尽管”，用于引导让步状语从句，但它们在 正式程度、位置和用法 上有细微差别。
 
@@ -228,7 +251,7 @@ bring out
 使显现 激发
 
 bring back
-恢复 使想起 归还
+恢复（to） 使想起 归还
 
 bring out the best in someone
 
@@ -443,10 +466,16 @@ only if
 只要...就
 只是在...时候
 
+hand out
+拿出 分发 给与
+
 
 
 be good for
 对...有益
+
+be good at doing
+（擅长做某事）
 
 a green hand
 新手
@@ -592,6 +621,9 @@ add up
 
 put sth to good use = make good use of sth.
 好好利用某物
+
+make use of sth.
+利用某物
 
 
 build ... out of

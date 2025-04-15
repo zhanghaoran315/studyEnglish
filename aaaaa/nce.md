@@ -1,6 +1,17 @@
 # construct
 
 ```
+leaflet
+n 传单 小册子
+
+tear
+n 眼泪 泪水
+v 撕裂 撕开 撕碎
+tear-tore-torn
+
+tear down
+拆除 拆毁
+
 heat
 n 热 温度
 
@@ -568,6 +579,30 @@ sb pay 金钱 for sth.
 
 spaghetti
 n 意大利面
+
+cost
+n 成本 花费 价钱 代价
+v 花费
+
+at the cost of
+以...为代价
+
+at the expense of
+以...为代价
+
+与 "at the cost of" 的区别
+短语	用法侧重	例句
+at the expense of	更正式，多用于书面语，强调"牺牲他人/他物"	Economic growth should not come at the expense of the poor.
+at the cost of	口语和书面均可，强调"付出某种代价"	She won the race at the cost of an injury.
+总结：
+
+"at the expense of" 更强调"损害他人/他物"（常用于批评）。
+
+"at the cost of" 更中性，可指"付出某种代价"（不一定是负面的）。
+
+4. 近义替换表达
+by sacrificing... （通过牺牲...）
+
 
 hoax
 n 骗局 恶作剧
@@ -1473,13 +1508,13 @@ cut down
 减少 砍倒
 
 cut off
-切除
+切除 切断
 
 cut up
 切碎
 
 cut in
-插嘴
+插嘴 插队
 
 cut into pieces
 切成碎片
@@ -1989,8 +2024,15 @@ a 满的 充满的
 
 
 give
-v 给 交给 赠送 送给 举行 举办
+v 1.给 交给 
+2.赠送 送给 
+3.举行 举办
+4.与名词连用描述某一动作，意义与该名词相应的动词相同
 give-gave-given
+
+
+give a speech
+发表演讲
 
 give sb a lift
 捎sb一程
@@ -2230,7 +2272,7 @@ too + 形容词/副词 + to do sth
 
 work
 n 工作 作品（可数）
-v 工作
+v 奏效 产生预期的结果(或作用) 运转 运行
 
 work on
 从事于
