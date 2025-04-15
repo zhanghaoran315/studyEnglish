@@ -247,6 +247,9 @@ try out
 come out
 出版 出现
 
+come up with
+提出 想出 赶上
+
 bring out
 使显现 激发
 
