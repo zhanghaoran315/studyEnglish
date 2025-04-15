@@ -1963,6 +1963,15 @@ up to 70% off	最高减70%	最低3折	可能部分商品仅5折/7折
 
 如果需要其他商业术语的对比解析（如"买一送一"的英文表达），欢迎随时提问！
 
+=================================
+
+Watching English movies ___ (be) a good way to improve your English.​
+
+
+动名词作主语，谓语动词用单数​​
+主语 Watching English movies（看英语电影）是动名词短语，视为单数概念，谓语动词用 is。
+类似例句：Eating vegetables is healthy.（吃蔬菜是健康的。）
+
 
 
 ```

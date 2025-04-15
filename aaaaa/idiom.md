@@ -57,6 +57,12 @@ usually
 often
 sometimes
 
+肯定句: 主语+used to+动词原形(+其他)
+
+
+否定句: 主语+didn't use to+动词原形(+其他) | 主语+usedn't to+动词原形(+其他)
+一般疑问句: Did+主语+use to+动词原形(+其他) | Used+主语+to+动词原形(+其他)?
+
 be used to doing sth
 习惯于做某事
 
@@ -584,8 +590,9 @@ I made up my mind to study English well.
 add up
 把...加起来
 
-put sth to good use
+put sth to good use = make good use of sth.
 好好利用某物
+
 
 build ... out of
 用...建造

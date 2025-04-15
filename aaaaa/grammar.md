@@ -1456,6 +1456,8 @@ May I have a cup of tea?
 
 情态动词后必须接一个动词和它组成谓语，这个动词必须是原型
 
+以must开头的一般疑问句的否定回答常用needn't或don't/doesn't have to。
+
 must/can + be + 非动词
 
 动词分类 
@@ -3270,6 +3272,15 @@ A new building was built.
 
 
 Challenges will be turned into chances if you have a positive attitude.
+
+
+一般现在时:am/is/are+及物动词的过去分词
+一般过去时:was/were+及物动词的过去分词
+一般将来时:will/shall be+及物动词的过去分词
+现在进行时:am/is/are+being+及物动词的过去分词
+现在完成时:have/has been+及物动词的过去分词
+
+拓展 含有情态动词的被动语态由“情态动词+be+及物动词的过去分词”构成,
 ```
 
 
@@ -4103,6 +4114,8 @@ I have got a headache
 
 注意：
 报告、表达或转述近期刚刚发生的事往往用完成时，多见于新闻
+
+"in the last 5 years" 优先用现在完成时。
 ```
 
 ## 6.过去进行时态

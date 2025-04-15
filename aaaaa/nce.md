@@ -1,6 +1,9 @@
 # construct
 
 ```
+heat
+n 热 温度
+
 baby
 n 生孩子
 have a baby 
@@ -1986,7 +1989,7 @@ a 满的 充满的
 
 
 give
-v 给
+v 给 交给 赠送 送给 举行 举办
 give-gave-given
 
 give sb a lift
@@ -2226,7 +2229,7 @@ too + 形容词/副词 + to do sth
 （我非常乐意帮忙。）
 
 work
-n 工作 作品
+n 工作 作品（可数）
 v 工作
 
 work on
