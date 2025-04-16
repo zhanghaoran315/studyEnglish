@@ -2118,6 +2118,89 @@ develop 在学术或写作语境中的翻译可以视具体含义而定，常见
 
 需要根据具体上下文进一步调整。
 
+=======================================
+非限定性定语从句 vs. 限定性定语从句
+1. 限定性定语从句（Restrictive/Defining Clause）
+作用：对先行词进行必要限定，缺少它会导致句意不完整或歧义。
+形式：
+
+不用逗号隔开
+
+关系代词：that, which, who, whom, whose（不可省略）
+
+关系副词：when, where, why
+
+例句：
+
+The book that you lent me is fascinating.
+→ 你借给我的那本书很有趣。（限定“哪本书”）
+
+People who work hard deserve success.
+→ 努力工作的人值得成功。（限定“哪些人”）
+
+中文对应：通常直接译为“的”字结构，作为前置定语。
+
+2. 非限定性定语从句（Non-restrictive/Non-defining Clause）
+作用：对先行词进行补充说明，删除后不影响核心句意。
+形式：
+
+必须用逗号隔开
+
+关系代词：which, who, whom, whose（不可用that）
+
+关系副词：when, where
+
+例句：
+
+My laptop, which I bought last year, just crashed.
+→ 我的笔记本电脑（我去年买的）刚刚坏了。（补充说明，非必要信息）
+
+Paris, where I studied art, is my favorite city.
+→ 巴黎（我曾在那里学艺术）是我最爱的城市。
+
+中文对应：
+
+用括号或破折号分隔
+
+或译为独立小句：“我去年买的那个笔记本电脑…”
+
+核心区别对比
+维度	限定性从句	非限定性从句
+必要性	不可删除，否则句意改变	可删除，句意仍完整
+标点	无逗号	必须用逗号
+关系代词	可用that	不可用that
+中文译法	“的”字前置定语	括号/破折号/独立小句
+例句	The dog that barks is mine.	My dog, which is brown, is cute.
+易错点
+逗号陷阱：
+
+非限定性从句若省略逗号，可能变成限定性从句，导致歧义。
+
+例：
+
+限定性：My sister who lives in Beijing is a doctor.
+→ 我住在北京的姐姐是医生。（暗示有其他姐妹）
+
+非限定性：My sister, who lives in Beijing, is a doctor.
+→ 我姐姐（她住在北京）是医生。（唯一姐姐，补充信息）
+
+which vs. that：
+
+非限定性从句中绝对不能用that。
+
+错误：The book, that I love, is missing. ❌
+
+正确：The book, which I love, is missing. ✅
+
+练习判断
+判断以下从句类型并翻译：
+
+The artist who painted this is famous.
+→ 限定性；画这幅画的艺术家很有名。
+
+The Louvre, which is in Paris, displays the Mona Lisa.
+→ 非限定性；卢浮宫（位于巴黎）展出了《蒙娜丽莎》。
+
 
 
 ```

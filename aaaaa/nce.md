@@ -1,6 +1,12 @@
 # construct
 
 ```
+household
+n 家庭
+
+clerk
+n 店员 职员
+
 giraffe
 n 长颈鹿
 
