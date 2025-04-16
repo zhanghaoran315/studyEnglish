@@ -2084,6 +2084,40 @@ It’s about time...	about time + 过去式	抱怨/催促	It’s about time he s
 It’s high time...	high time + 过去式	非常紧迫	It’s high time he studied!
 
 
+====================================
+
+develop 在学术或写作语境中的翻译可以视具体含义而定，常见译法包括：
+
+展开（论述/观点）
+
+例：How does the author develop the argument?
+→ 作者如何展开这一论点？
+
+逐步推进/发展（强调逻辑递进）
+
+例：The theory was developed through three stages.
+→ 该理论通过三个阶段逐步发展而成。
+
+阐明/阐述（侧重解释说明）
+
+例：The paragraph develops the concept of justice.
+→ 本段阐述了正义的概念。
+
+构建/形成（强调从无到有的过程）
+
+例：She developed her ideas into a full theory.
+→ 她将自己的观点构建成完整理论。
+
+翻译建议：
+
+若原文指论证过程，优先用“展开论述”
+
+若涉及理论/观点的演进，用“发展”或“推进”
+
+在文学分析中，“develop”描述人物或情节时，可译作“刻画”（如：develop a character → 刻画人物）
+
+需要根据具体上下文进一步调整。
+
 
 
 ```

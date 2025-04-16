@@ -181,6 +181,12 @@ Even if	假设性让步（虚拟或未发生情况）	❌
 
 Although 不能用于句末
 
+even more
+更多地 更多的
+
+even when
+即使当
+
 leave out
 忽略 不提及 不包括
 
@@ -364,8 +370,11 @@ go off
 3.（电灯）熄灭 （水电）断掉
 
 go by
-(时间)逝去; 过去 
+(时间)逝去; 过去（其后不接宾语 相当于 pass by） 
 经过 随便走访 凭...判断 
+
+Time goes by so quickly.
+时光飞逝。
 
 go up
 上升 增长 被兴建起来
@@ -691,6 +700,21 @@ One’s heart is not in sth.
 "Mind"：更偏向注意力集中（如 His mind was elsewhere = 他走神了）。
 
 此处用 "heart" 更能体现情感上的疏离，而非单纯的“分心”。
+
+
+It's time to do sth.
+该做某事了。/ 到了做某事的时候了。
+
+与It's time for sth.同义
+
+It's time to go to school. = It's time for school. 
+到了上学的时间了。
+
+It's time for sb. to do sth. 
+意为“某人该做某事了。/到了某人该做某事的时候了。”
+
+It'’s time for you to go to bed.
+你该睡觉了
 
 
 

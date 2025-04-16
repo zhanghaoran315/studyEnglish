@@ -1,6 +1,31 @@
 # construct
 
 ```
+giraffe
+n 长颈鹿
+
+result in
+导致 结果是
+
+join
+v 连接 接合 参加 加入
+
+join hands (with) sb
+(与sb) 拉起手 挽手
+
+"join our hands"译为"携手共进"，既保留"携手"的意象，又通过"共进"强化行动力
+
+whole
+n 全部 整体
+a 全部的 整体的
+
+as a whole
+总的来说
+
+
+way out
+出口 解决之道
+
 leaflet
 n 传单 小册子
 
@@ -1197,6 +1222,10 @@ keep in touch with
 
 keep one's cool
 沉住气 保持冷静
+
+keep cool
+stay cool
+保持冷静
 
 keep off
 使让开 不接近
