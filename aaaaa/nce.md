@@ -1,6 +1,51 @@
 # construct
 
 ```
+awful
+a 很坏的
+
+aim
+n 目的 目标
+v 瞄准 对准 目的是 旨在
+aim at
+aim for
+
+aim at sth
+aim for sth
+aim at doing sth
+力求达到  力争做到
+
+lovely
+a 可爱的 美丽的 极好的
+
+
+memory
+n 记忆 回忆
+
+in memory of
+纪念
+
+total
+n 总额 总数
+v 总和 总计
+a 总的 全部的 完全的 彻底的
+
+totally
+ad 完全地
+
+absolute
+a 绝对的 完全的 肯定的
+
+anyway
+ad (转换话题、结束谈话或回到原话题时说)无论如何；反正；而且；至少；尽管；加之；即使这样
+
+news
+n 新闻 消息
+
+weekly
+a 每周的
+ad 每周一次地
+
 household
 n 家庭
 
@@ -2211,7 +2256,7 @@ n 机械师 力学
 
 host
 n 主机 服务器 主人 主持人 东道主
-v 主持 主办
+v 主持 主办 做东举办
 
 hostess
 n 女主人 女主持人

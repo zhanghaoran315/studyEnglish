@@ -359,6 +359,9 @@ look after
 look around
 环顾四周
 
+look around 
+游览；到处察看；到处寻找
+
 on time
 按时
 
