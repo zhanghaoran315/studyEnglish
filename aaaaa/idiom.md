@@ -181,6 +181,10 @@ Even if	假设性让步（虚拟或未发生情况）	❌
 
 Although 不能用于句末
 
+though
+c 虽然 尽管
+ad 可是 然而
+
 even more
 更多地 更多的
 
@@ -255,6 +259,9 @@ come out
 
 come up with
 提出 想出 赶上
+
+come up
+走进 发生 开始 上升 发芽 被提出
 
 bring out
 使显现 激发
@@ -417,8 +424,7 @@ get up
 起床 站起
 
 
-at least
-至少
+
 
 by the end of ...
 在（某个时间点）以前 + 将来完成时|过去完成时
@@ -446,6 +452,18 @@ not more than
 
 no more
 不再
+
+more than
+多于
+
+no less
+仍然 不相上下 依旧
+
+no less than
+不少于 多达 正如
+
+at least
+至少
 
 。。。will have no more homework.
 

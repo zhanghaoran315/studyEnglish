@@ -1,6 +1,22 @@
 # construct
 
 ```
+in that case
+既然那样
+
+wonder if
+不知道 想知道是否
+
+genius
+n 天才 天资 天赋
+
+every other day
+表示​​“每隔一天”​​，即​​“第一天做，第三天再做”​​（频率为两天一次）。
+
+english
+n 英语
+a 英语的 英国的
+
 awful
 a 很坏的
 
@@ -93,7 +109,7 @@ n 热 温度
 
 baby
 n 生孩子
-have a baby 
+have a baby
 生孩子
 
 law
@@ -138,7 +154,7 @@ c 除非 如果不
 site
 n 地点 场所 位置 遗址
 
-It read, “I'm locked inside. Please call for help.” 
+It read, “I'm locked inside. Please call for help.”
 read
 v 阅读 写着 学习
 
@@ -360,7 +376,7 @@ be not about to do"
 be about to ... when...
 刚要....突然
 
-"Be close to doing sth" 
+"Be close to doing sth"
 
 翻译： "几乎/快要/接近于做某事"
 强调： 动作即将发生但尚未完成的状态
@@ -613,7 +629,7 @@ The team took a terrible beating.
 
 take a pre-university course
 
-She can't take criticism 
+She can't take criticism
 
 "take + 名词 + to do sth." 表示 “凭借某种品质/资源去做某事”。
 take the courage to do sth.（鼓起勇气做某事）。
@@ -839,7 +855,7 @@ play the keyboard
 play with
 与...一起玩
 
-play an important role 
+play an important role
 起到重要作用
 
 play a role in
@@ -1480,7 +1496,7 @@ think to oneself
 
 such
 a 那样的 这样的
-ad 如此地 
+ad 如此地
 
 such a terrible thing:
 such a + 形容词 + 名词 结构，加强语气（“如此糟糕的事”）。
@@ -1493,7 +1509,7 @@ v 看来 好像 似乎
 
 seem to be: 表示“看起来是”
 
-didn’t seem to be 
+didn’t seem to be
 
 honest
 a 诚实的 正直的 老实的
@@ -1767,10 +1783,10 @@ v
 2.落（下）
 3.（赛跑时）使（自己）就位，使(自己)作好准备
 
-set foot 
+set foot
 进入到某处 行走
 
-set foot on 
+set foot on
 踏上
 
 set foot in
@@ -1803,7 +1819,7 @@ stand
 n 桌 台 摊位
 v 站立 站起来 位于（某处）忍受 容忍
 
-stand out 
+stand out
 突出 引人注目 站出来 坚持到底 坚决反对
 
 
@@ -2107,8 +2123,8 @@ a 满的 充满的
 
 
 give
-v 1.给 交给 
-2.赠送 送给 
+v 1.给 交给
+2.赠送 送给
 3.举行 举办
 4.与名词连用描述某一动作，意义与该名词相应的动词相同
 give-gave-given
@@ -2307,7 +2323,7 @@ dress up
 打扮 装饰
 
 enough
-adv 十分 相当 足够地 
+adv 十分 相当 足够地
 程度副词，修饰形容词，副词等
 very 往往放在adj前面
 
@@ -2319,23 +2335,23 @@ He often gets up very early
 My house is large enough.
 He got up early enough
 
-enough 的用法： 
-◦  形容词/副词 + enough + to do（足够……可以做……）。  
-◦  否定形式：not + adj. + enough + to do（不够……以至于不能……）。  
+enough 的用法：
+◦  形容词/副词 + enough + to do（足够……可以做……）。
+◦  否定形式：not + adj. + enough + to do（不够……以至于不能……）。
 
 ◦  例句：
 ✅ She is tall enough to reach the shelf.（她足够高，能够到架子。）
-✅ He isn’t strong enough to lift the box.（他不够强壮，搬不动箱子。）    
+✅ He isn’t strong enough to lift the box.（他不够强壮，搬不动箱子。）
 
-•  get dressed 的搭配： 
-◦  get dressed = put on clothes（穿衣服），强调动作。  
-◦  be dressed = wear clothes（穿着衣服），强调状态。       
+•  get dressed 的搭配：
+◦  get dressed = put on clothes（穿衣服），强调动作。
+◦  be dressed = wear clothes（穿着衣服），强调状态。
 
-同义表达： 
+同义表达：
 1.  The little boy is too young to dress himself.
-（用 too...to 结构替换，但需注意 dress 是及物动词，需接宾语。）  
+（用 too...to 结构替换，但需注意 dress 是及物动词，需接宾语。）
 
-2.  The little boy can’t dress himself yet because he’s too young.     
+2.  The little boy can’t dress himself yet because he’s too young.
 
 常见错误： ❌ The little boy isn’t old enough to wear clothes by himself.
 （wear 强调“穿着”的状态，而非“穿”的动作，此处应使用 get dressed。）
