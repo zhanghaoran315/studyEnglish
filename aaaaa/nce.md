@@ -1,6 +1,18 @@
 # construct
 
 ```
+outskirt
+n 郊区
+
+belong
+vi 属于
+
+belongings
+n 财产
+
+findings
+n 调查 结果
+
 in that case
 既然那样
 
@@ -486,6 +498,8 @@ v 祝贺 感到高兴 感到自豪
 
 congratulation
 n 祝贺
+
+congratulations（祝贺）
 
 graduate
 v 毕业 获得学位
