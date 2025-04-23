@@ -25,6 +25,10 @@ work for	去...发展	动词短语意译
 
 英文"flight out of New York"转化为中文"从纽约起飞的航班"（动态介词静态化）
 
+be a part of	参与	比 "join" 更自然
+challenging yet rewarding	具有挑战性但很有价值	常用于描述理想的工作
+the sort of things	那种类型的事情	= "the kind of things"
+
 
 英文	中文	差异说明
 just checking	只是在查看	中文省略主语
