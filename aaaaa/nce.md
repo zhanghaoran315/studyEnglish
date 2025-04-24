@@ -1,6 +1,9 @@
 # construct
 
 ```
+pathway
+n 小路
+
 fancy
 v 想要 认为 真想不到
 

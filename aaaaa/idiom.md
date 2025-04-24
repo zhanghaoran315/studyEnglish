@@ -456,6 +456,9 @@ no more
 more than
 多于
 
+less than
+小于
+
 no less
 仍然 不相上下 依旧
 

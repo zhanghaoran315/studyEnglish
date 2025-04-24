@@ -257,7 +257,21 @@ problem	问题/症状	医疗术语适配
 ​​"on top of the salary"​​ → ​​"工资之外"​​（额外福利）。
 
 
+"English country house"（英国乡村宅邸）：特指英国贵族的大型乡村住宅，
+兼具居住与艺术价值（如《唐顿庄园》的取景地Highclere Castle也属此类）。
+
+② 第二分句： "It has been home to the Howard family for more than 300 years." 
+•  主语（Subject）: It（指代Castle Howard）  
+•  谓语（Predicate）: has been（现在完成时，强调从过去持续至今的状态）  
+•  宾语（Object）: home to the Howard family（霍华德家族的住所） ◦  
+"home to" 固定搭配，表示“是…的居所”（类似 "home of"，但更强调归属感）。    
+•  时间状语（Adverbial）: for more than 300 years（300多年来）
+
+
 pathways through a wooded setting → ​​森林小径​​（意译，"wooded setting"不直译"林木环境"）
+
+wooded
+a 长满树木的
 
 
 原文：​​
