@@ -2364,6 +2364,80 @@ They sat in the garden reading newspapers and drinking coffee.（比 "They sat r
 符合口语习惯。
 
 所以，你的观察是对的——通常地点状语在最后，但原句的语序也是可以接受的，只是侧重点略有不同。
+===============================
+Will 和 Would 的区别与用法
+1. Will
+
+基本作用：表示 将来时（future tense），指 确定或计划的未来动作。
+
+I will travel to Japan next month.（我下个月会去日本。）
+
+She will call you later.（她稍后会给你打电话。）
+
+其他用法：
+
+意愿 / 承诺（愿意做某事）：
+
+I will help you with your homework.（我会帮你做作业。）
+
+预测（基于当前情况的判断）：
+
+It will rain tomorrow.（明天会下雨。）
+
+习惯性行为（通常指令人不悦的习惯）：
+
+He will always interrupt me when I’m speaking.（他老是在我说话时打断我。）
+
+2. Would
+
+基本作用：Will 的过去式，用于 过去将来时（过去某时刻看未来）。
+
+He said he would come to the party.（他说他会来参加派对。）
+
+其他用法：
+
+委婉请求 / 礼貌询问（比 will 更客气）：
+
+Would you please close the door?（请你关上门好吗？）
+
+假设 / 虚拟语气（非真实情况）：
+
+If I were rich, I would buy a yacht.（如果我有钱，我会买游艇。）
+
+过去的习惯（类似 used to）：
+
+When I was a kid, I would play soccer every day.（小时候，我每天都踢足球。）
+
+偏好 / 选择（would rather / would prefer）：
+
+I would rather stay home tonight.（我今晚宁愿待在家里。）
+
+关键区别对比
+用法	Will	Would
+时间	现在或未来的真实情况	过去将来、假设或礼貌请求
+语气	直接、确定	委婉、假设、礼貌
+例句	She will arrive at 8 PM.	She said she would arrive at 8 PM.
+虚拟语气	不适用	If I had time, I would go.
+习惯	令人不悦的习惯（现在）	过去的习惯
+经典易错点
+✅ Will 用于 真实未来，Would 用于 假设或过去将来。
+❌ If I will go…（❌ 错误，虚拟语气不能用 will）
+✅ If I went, I would…（✔ 正确）
+
+✅ Would you…? 比 Will you…? 更礼貌。
+❌ Will you help me?（直接，可能显得强硬）
+✅ Would you help me?（更礼貌）
+
+练习（试试看！）
+If I ______ (have) more money, I ______ (buy) a new car.
+
+She promised she ______ (call) me later.
+
+______ you mind opening the window?
+
+（答案：1. had / would buy, 2. would call, 3. Would）
+
+希望这个解析对你有帮助！如果有具体句子不确定，欢迎提问 
 
 
 

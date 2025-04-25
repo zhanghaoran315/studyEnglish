@@ -741,6 +741,15 @@ It'’s time for you to go to bed.
 你该睡觉了
 
 
+stay away 
+外出，不在家
+stay away from 
+躲避；离…远；不在家
+
+now that
+既然 由于
+
+
 
 
 

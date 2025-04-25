@@ -29,6 +29,43 @@ be a part of	参与	比 "join" 更自然
 challenging yet rewarding	具有挑战性但很有价值	常用于描述理想的工作
 the sort of things	那种类型的事情	= "the kind of things"
 
+=========================
+在句子 "Just avoiding the rush hour traffic" 中，avoiding 使用的是 -ing 形式（现在分词或动名词），而不是动词原形 avoid。这是因为：
+
+这是一个省略句
+完整的句子可能是：
+
+"I'm just avoiding the rush hour traffic."（现在进行时）
+
+"Just avoiding the rush hour traffic is a good idea."（动名词作主语）
+
+在口语或非正式语境中，"I'm" 或 "It's" 等主语和助动词常被省略，使表达更简洁。
+
+-ing 形式表示正在进行的动作
+Avoiding 在这里表示 "正在避开"，强调说话时正在发生的动作。例如：
+
+"Why are you late?"
+
+"Just avoiding the rush hour traffic."（意思是“我刚刚在避开高峰期的交通。”）
+
+如果是动词原形，语法会出错
+
+❌ "Just avoid the rush hour traffic."（这是一个祈使句，意思是“你避开高峰期交通吧”，但不符合上下文。）
+
+✅ "I just avoid the rush hour traffic."（一般现在时，表示习惯性动作，但缺少了“正在”的意味。）
+
+总结：
+Avoiding 用 -ing 形式是因为：
+
+可能是现在进行时（be + V-ing）的省略；
+
+强调“正在避开”这个动作；
+
+如果直接用 avoid，要么是祈使句，要么是一般现在时，但不符合语境。
+
+希望这个解释对你有帮助！ 
+=======================================================
+
 
 英文	中文	差异说明
 just checking	只是在查看	中文省略主语
@@ -291,41 +328,28 @@ a 长满树木的
 根据上下文，可以是​​“奖品”​​、​​“奖项”​​或​​“奖励”​​（如比赛奖品 vs. 公司奖励）。
 
 
-=========================
-在句子 "Just avoiding the rush hour traffic" 中，avoiding 使用的是 -ing 形式（现在分词或动名词），而不是动词原形 avoid。这是因为：
 
-这是一个省略句
-完整的句子可能是：
+"I'd be a bit worried about that."
 
-"I'm just avoiding the rush hour traffic."（现在进行时）
+I'd = I would（我会/我将）
 
-"Just avoiding the rush hour traffic is a good idea."（动名词作主语）
+"From New Year's Eve to January fifth, one person a day." 解析
+1. 字面意思
+时间范围：从 除夕（New Year's Eve） 到 1月5日（January fifth）
 
-在口语或非正式语境中，"I'm" 或 "It's" 等主语和助动词常被省略，使表达更简洁。
+事件描述：每天一人（one person a day）
 
--ing 形式表示正在进行的动作
-Avoiding 在这里表示 "正在避开"，强调说话时正在发生的动作。例如：
+2. 可能的情境与含义
+这句话没有明确上下文，但根据常见用法，可能表示：
 
-"Why are you late?"
+活动安排：
 
-"Just avoiding the rush hour traffic."（意思是“我刚刚在避开高峰期的交通。”）
+例如，"从除夕到1月5日，每天邀请一位嘉宾"（活动策划）
 
-如果是动词原形，语法会出错
+"From New Year's Eve to January 5th, we'll feature one artist per day."
 
-❌ "Just avoid the rush hour traffic."（这是一个祈使句，意思是“你避开高峰期交通吧”，但不符合上下文。）
 
-✅ "I just avoid the rush hour traffic."（一般现在时，表示习惯性动作，但缺少了“正在”的意味。）
 
-总结：
-Avoiding 用 -ing 形式是因为：
-
-可能是现在进行时（be + V-ing）的省略；
-
-强调“正在避开”这个动作；
-
-如果直接用 avoid，要么是祈使句，要么是一般现在时，但不符合语境。
-
-希望这个解释对你有帮助！ 
 
 
 

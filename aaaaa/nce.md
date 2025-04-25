@@ -1,6 +1,64 @@
 # construct
 
 ```
+accompany
+v 陪伴 伴随 与...同时发生
+
+be accompanied by
+在...的陪同下
+
+dance
+n
+c 跳舞
+
+tune
+n 曲调 曲子
+
+dance to the tune
+伴着曲调跳舞
+
+
+colleague
+n 同时 同僚
+
+given
+p 鉴于 考虑到
+
+graphic
+n 图表 
+a 图表的
+
+pretty
+a 漂亮的 精致的
+ad 相当 十分 非常
+
+We're working to a pretty tight schedule
+
+well paid 
+adj. 报酬优厚
+
+farm
+n 农场 养殖场
+
+later
+ad 以后 后来 稍后
+
+excellent
+a 极好的 杰出的
+
+over there 
+adv. 在那里
+
+bit
+n 一点 稍微 
+
+since
+p 自从 自...以来
+c 因为 既然
+
+grateful
+a 感激的 表示感谢的
+
 pathway
 n 小路
 
@@ -804,8 +862,12 @@ turn over
 
 lot
 n 群 组 批 整个 全部 场地
+v 抽签 抓阄
 det 大量 许多
 ad 很 非常
+
+draw lots
+抽签
 
 till
 conj
@@ -1513,6 +1575,9 @@ think-thought-thought
 think to oneself
 心里想
 
+think highly of 
+高度评价，尊重
+
 
 
 such
@@ -2178,6 +2243,7 @@ v 谈论 谈话
 
 
 will
+will-would
 modal 将
 n 意志 毅力
 
