@@ -2439,6 +2439,69 @@ ______ you mind opening the window?
 
 希望这个解析对你有帮助！如果有具体句子不确定，欢迎提问 
 
+=====================================
+
+1. 作形容词（Adjective）
+核心意思：忙碌的；占线中的；繁华的
+
+(1) 形容人忙碌
+结构：
+
+be busy with + 名词
+She's busy with her homework.
+→ 她正忙着写作业。
+
+be busy (in) doing sth（口语常省略in）
+He's busy preparing for the exam.
+→ 他正忙着备考。
+
+(2) 形容物体/场所繁忙
+The phone line is busy.
+→ 电话占线中。（美式英语）
+→ 电话正在通话中。（英式英语常用 engaged）
+
+a busy shopping street
+→ 一条繁华的商业街
+
+2. 作动词（Verb，较少用）
+意思：使…忙碌
+
+He busied himself with cleaning the room.
+→ 他忙着打扫房间。（字面：让自己忙于打扫）
+
+3. 常见搭配与习语
+英文表达	中文对应	例句
+as busy as a bee	忙得团团转	My mom is as busy as a bee during the holidays. → 假期里我妈忙得团团转。
+busy signal （美式）	电话忙音	I called but got a busy signal. → 我打了电话，但听到忙音。
+busybody （名词）	爱管闲事的人	Don't be such a busybody! → 别这么多管闲事！
+4. 中文易错点
+❌ 错误直译：
+
+"I'm busy to go out." （×）
+→ 正确说法：I'm too busy to go out. （忙得没空出去）
+
+⭕ 地道中文转换：
+
+英文：Keep yourself busy.
+中文：别闲着 / 找点事做（非直译“保持忙碌”）
+
+5. 近义词对比
+单词	侧重含义	例句
+occupied	正式用语，强调“被占用”	The seat is occupied. （座位有人了）
+engaged （英式）	电话/厕所“使用中”	The toilet is engaged. （厕所有人）
+总结：
+
+形容人忙 → be busy (with) + 名词/V-ing
+
+形容占线 → busy（美式） / engaged（英式）
+
+避免直译“busybody”等特殊词汇
+
+需要其他词的用法解析可以随时问我！
+
+
+
+
 
 
 ```

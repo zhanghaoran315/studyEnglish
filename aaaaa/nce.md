@@ -1,6 +1,14 @@
 # construct
 
 ```
+papaya
+n 木瓜
+
+
+
+childish
+a 幼稚的 孩子气的；天真的；稚嫩的
+
 accompany
 v 陪伴 伴随 与...同时发生
 

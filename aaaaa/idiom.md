@@ -749,6 +749,24 @@ stay away from
 now that
 既然 由于
 
+have to do with sth.
+与...有关
+
+text
+n 文本
+v 发短信
+
+text-messaging
+发短信
+
+"sort of"（口语）= 有点/某种程度上
+
+text a lot
+发很多短信
+
+a lot 
+很多 许多 常
+
 
 
 

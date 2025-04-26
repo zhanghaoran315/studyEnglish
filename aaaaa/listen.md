@@ -349,6 +349,132 @@ I'd = I would（我会/我将）
 "From New Year's Eve to January 5th, we'll feature one artist per day."
 
 
+What is it like living in on-campus housing?
+住在校园宿舍是什么体验？
+
+解析：
+
+"on-campus housing" 指大学校园内的宿舍或公寓，区别于校外租房（off-campus housing）。
+
+句型 "What is it like..." 用于询问对某事物的感受或描述，类似中文的"...怎么样？"。
+
+时态使用现在进行时（living）强调当前持续的居住状态。
+
+"What do you know about...?" 
+是询问对某人或某事的了解程度，中文对应“你了解…吗？”或“你知道…的哪些情况？”。
+
+
+"What do you know about Jane's past?"
+→ “你知道简的过去吗？”
+
+"What do you know about this plan?"
+→ “你对这个计划了解多少？”
+
+
+"But I asked my father if he texted then"
+
+"then" 根据上下文指“他年轻时”，中文需补充否则语义不全
+
+中文习惯用“我爸”而非“我的父亲”（除非正式场合）
+
+
+Hold on. You are the one with bad milk in your fridge
+等等，你冰箱里的牛奶都变质了好吗？ / 慢着，你还好意思说我？你冰箱里的牛奶都馊了！
+
+解析：
+
+"Hold on"
+
+根据语气强烈程度可译为：
+
+较温和："等等"
+
+较强硬："慢着"/"喂"（带打断意味）
+
+"You are the one with..."
+
+强调结构，中文用"你才是...的那个人"显得生硬
+
+更自然的处理：
+
+直译："你冰箱里的牛奶..."（隐含"你才是该被说的人"）
+
+意译："你还好意思说我？你..."（加入反问增强反击语气）
+
+"bad milk"
+
+中文具体化处理：
+
+"变质"（中性描述）
+
+"馊了"（更口语化，带嫌弃意味）
+
+语境还原：
+
+这是典型的"反呛"对话（前文可能被对方指责，此处用对方的问题反击）
+
+中文习惯用"好吗"/"好吧"结尾增强语气，类似英语的"you know"
+
+语气对比：
+| 英文直译 | 等一等，你才是冰箱里有坏牛奶的那个人 |
+| 生活化翻译 | 得了吧，你冰箱的牛奶都臭了还说别人？ |
+| 激烈版 | 闭嘴！你自个儿冰箱里的奶都长毛了！ |
+
+文化提示：
+
+中文吵架常用"你还好意思说X？"结构反击
+
+"馊了"比"变质"更有画面感（暗示酸臭味），适合口语冲突场景
+
+
+He will buy the wrong things. Papayas instead of pineapples, for example 解析
+翻译：
+他肯定会买错东西。比如，把木瓜当成菠萝买回来。
+
+解析：
+
+句型结构
+
+主句（预测）：He will buy the wrong things.
+→ 中文用"肯定"加强推测语气（英文原句隐含必然性）
+
+举例：Papayas instead of pineapples, for example
+→ 中文用"把A当成B"结构更自然（直译"用木瓜代替菠萝"会生硬）
+
+词汇选择
+
+wrong things 译为"买错东西"（非字面"错误的东西"）
+
+instead of 在此语境灵活处理为"当成"，体现"混淆"含义
+
+文化适配
+
+中文说"买回来"比单纯"买"更生动（隐含"带回家"的结果）
+
+补充"比如"明确举例关系（英文用逗号分隔，中文需逻辑连接词）
+
+语法重点：
+
+will 在此表确定性推测（非单纯将来时），中文用"肯定"对应
+
+instead of 的否定含义通过"当成"（隐含"错误替代"）传递
+
+语气对比：
+| 英文直译 | 他会买不正确的东西。例如木瓜而非菠萝。 |
+| 生活化翻译 | 他准买错，比如分不清木瓜和菠萝！ |
+
+延伸表达：
+
+He always mixes up A and B.
+→ 他老把A和B搞混。
+
+That's not what I asked for!
+→ 这根本不是我要买的！
+
+常见错误：
+❌ "他会买错误的东西，例如木瓜代替菠萝。"
+（"错误的东西"像哲学概念，"代替"未体现"弄错"）
+
 
 
 
