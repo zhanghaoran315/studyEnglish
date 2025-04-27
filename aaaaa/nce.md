@@ -1,10 +1,22 @@
 # construct
 
 ```
+one another
+each other
+彼此 互相
+
+direct
+v 指导 管理
+a 直接的 最近的
+
+director
+n 董事 经理 主任 负责人
+
+comedy
+n 喜剧
+
 papaya
 n 木瓜
-
-
 
 childish
 a 幼稚的 孩子气的；天真的；稚嫩的
