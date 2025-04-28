@@ -1,7 +1,5 @@
 # Idiom
 
-
-
 ```
 
 
@@ -39,10 +37,10 @@ not as ... as ...
 not so ... as ...
 不如...那样...
 
-help out 
+help out
 帮助（摆脱困难）
 
-can't help 
+can't help
 禁不住 忍不住 不得不
 
 used to do sth
@@ -81,6 +79,8 @@ to start with
 at first
 起初 开始时
 
+get over
+克服 渡过 穿过 从...中恢复过来
 
 
 get on
@@ -108,19 +108,19 @@ put away
 put in
 投入
 
-put into 
+put into
 使进入；把...放进；在……上种植
 
-put into practice 
+put into practice
 实行，实施；落实
 
-put into operation 
+put into operation
 使生效；使运转，使开动
 
-put into production 
+put into production
 把…投入生产
 
-put into use 
+put into use
 使用，应用；投入使用
 
 search for
@@ -221,7 +221,7 @@ put out
 give out
 分发 散发
 
-give off 
+give off
 发出（光等）；长出（枝、杈等）
 
 find out
@@ -262,6 +262,9 @@ come up with
 
 come up
 走进 发生 开始 上升 发芽 被提出
+
+come together
+vi. 集合
 
 bring out
 使显现 激发
@@ -327,7 +330,7 @@ in person
 in danger
 处于危险之中
 
-look forward 
+look forward
 期待；盼望
 
 look back at
@@ -354,7 +357,7 @@ look for
 look through
 透过...看 快速查看 浏览
 
-look like 
+look like
 看起来像
 
 look into
@@ -366,7 +369,7 @@ look after
 look around
 环顾四周
 
-look around 
+look around
 游览；到处察看；到处寻找
 
 on time
@@ -375,13 +378,13 @@ on time
 
 
 go off
-1.（闹钟）发出响声 
+1.（闹钟）发出响声
 2.（食物）变坏 变质
 3.（电灯）熄灭 （水电）断掉
 
 go by
-(时间)逝去; 过去（其后不接宾语 相当于 pass by） 
-经过 随便走访 凭...判断 
+(时间)逝去; 过去（其后不接宾语 相当于 pass by）
+经过 随便走访 凭...判断
 
 Time goes by so quickly.
 时光飞逝。
@@ -400,6 +403,8 @@ go for a walk
 
 go along
 沿着...走
+
+go over 复习 温习 仔细检查 转变 润色
 
 along
 prep. 沿
@@ -444,7 +449,7 @@ By the time Lily got home,her friends had already left.已经离开了。【拓�
 若 by the time 后的从句表示将来发生的事情，则从句用一般现在时,主句常用将来完成时。
 By the time he gets there,I’ll have finished the work.当他到达那里时,我将已完成这项工作。
 
-no more than 
+no more than
 仅仅 才 (少)
 
 not more than
@@ -519,16 +524,16 @@ a green hand
 a lucky dog
 幸运儿
 
-grandfather clock  
+grandfather clock
 老式坐钟
 
-Great-grandfather 
+Great-grandfather
 曾祖父
 
-Great-grandmother  
+Great-grandmother
 曾祖母
 
-shelf life 
+shelf life
 保质期
 
 dressing table
@@ -550,10 +555,10 @@ v 轻拍 轻敲
 
 turn on the tap
 
-dream boat 
+dream boat
 梦中情人
 
-sugar coat 
+sugar coat
 委婉
 
 Can you sugar coat a little?
@@ -636,7 +641,7 @@ two fifty pounds notes.
 a fifty-cent coin
 a fifty cents coin
 
-no more than 
+no more than
 仅仅 才 (少)
 
 not more than
@@ -731,19 +736,19 @@ It's time to do sth.
 
 与It's time for sth.同义
 
-It's time to go to school. = It's time for school. 
+It's time to go to school. = It's time for school.
 到了上学的时间了。
 
-It's time for sb. to do sth. 
+It's time for sb. to do sth.
 意为“某人该做某事了。/到了某人该做某事的时候了。”
 
 It'’s time for you to go to bed.
 你该睡觉了
 
 
-stay away 
+stay away
 外出，不在家
-stay away from 
+stay away from
 躲避；离…远；不在家
 
 now that
@@ -764,18 +769,18 @@ text-messaging
 text a lot
 发很多短信
 
-a lot 
+a lot
 很多 许多 常
 
+way off beam
+完全错误
 
-
-
+"Not exactly"​​
+在英语中表示部分否定，中文对应"不完全对"或"不全是"更自然。
+根据上下文（可能是纠正计算错误），语气应保持中性偏委婉，避免过于生硬。
+若对话更口语化，也可译为："​​不全是哦​​"（带轻微纠正意味）。
 
 
 
 
 ```
-
-
-
-

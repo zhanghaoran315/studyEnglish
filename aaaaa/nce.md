@@ -1,6 +1,15 @@
 # construct
 
 ```
+checkers
+n 跳棋
+
+great
+a 伟大的 大的
+
+greatly
+ad 非常 很
+
 one another
 each other
 彼此 互相
@@ -53,6 +62,12 @@ a 漂亮的 精致的
 ad 相当 十分 非常
 
 We're working to a pretty tight schedule
+
+pretty soon
+不久
+
+pretty much
+几乎
 
 well paid 
 adj. 报酬优厚
@@ -137,6 +152,9 @@ n 记忆 回忆
 
 in memory of
 纪念
+
+memorable
+a 难忘的 值得纪念的
 
 total
 n 总额 总数
