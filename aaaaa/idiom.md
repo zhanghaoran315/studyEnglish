@@ -404,7 +404,8 @@ go for a walk
 go along
 沿着...走
 
-go over 复习 温习 仔细检查 转变 润色
+go over 
+复习 温习 仔细检查 转变 润色
 
 along
 prep. 沿

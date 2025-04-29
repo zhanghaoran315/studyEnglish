@@ -1,6 +1,9 @@
 # construct
 
 ```
+aerobics
+n 有氧运动(经常分班组伴随音乐进行的增强心肺功能的健身活动)
+
 checkers
 n 跳棋
 
