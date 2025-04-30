@@ -781,6 +781,15 @@ way off beam
 根据上下文（可能是纠正计算错误），语气应保持中性偏委婉，避免过于生硬。
 若对话更口语化，也可译为："​​不全是哦​​"（带轻微纠正意味）。
 
+get along well with sth.
+与...相处良好
+
+as ... as possible
+尽可能
+
+as soon as possible 
+“尽快”（通用） / “越快越好”（口语）。
+
 
 
 

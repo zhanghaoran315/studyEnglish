@@ -1,6 +1,47 @@
 # construct
 
 ```
+thorough
+a 全面的 彻底的
+
+a copy of
+一份 一本
+
+fortnight
+n 两星期 十四天
+
+runny
+a 流鼻涕的 流眼泪的
+
+lick
+n 舔
+v 舔 舔食
+
+insecticide
+n 杀虫剂 杀虫药
+
+spray
+n 喷雾 水花 浪花
+v 喷 喷洒
+
+weed
+n 杂草 野草
+
+beg
+v 乞求 恳求
+
+rake
+v 耙松 耙平
+
+rake up
+重提 耙在一起
+
+lawn
+n 草坪 草地
+
+mow
+v 修剪 割(草)
+
 aerobics
 n 有氧运动(经常分班组伴随音乐进行的增强心肺功能的健身活动)
 
@@ -761,6 +802,12 @@ take one's advice
 take up
 学着做 开始做
 
+take in
+接受 理解 拘留 
+
+take a look at
+看一看 检查
+
 take out
 拿出
 
@@ -830,6 +877,8 @@ n 外貌 外观 外表
 
 doubt
 v 怀疑 不相信
+
+There is no doubt that( 毫无疑问....) 
 
 fool
 n 蠢人 傻瓜
