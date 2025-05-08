@@ -1225,6 +1225,127 @@ I’m happy for you.	"真心替你高兴！"	"哦，挺好的。"
 ​​"谢啦！下次要不要一起练？"​​
 
 需要其他情绪（如羡慕、调侃）的翻译吗？
+====================================
+
+“I've got to mow the lawn” 是一个常见的英语口语表达，直译为 “我得去修剪草坪”，但根据上下文，它可能有不同的含义和用法。以下是详细解析：
+
+1. 字面意思
+指 “需要给草坪割草”（家庭日常家务之一）。
+例句：
+
+"I can't go to the party today—I've got to mow the lawn."
+（“今天我不能去参加聚会了，我得去修剪草坪。”）
+
+2. 俚语/隐喻用法
+在非正式语境中，可能隐含其他含义：
+
+“有琐事要处理”：比喻不得不做枯燥的任务。
+（类似中文的“我得去搬砖了”）
+
+“需要整理或清理”：比如整理头发（幽默说法）。
+
+逃避的借口：委婉拒绝邀请时用（如不想社交）。
+
+例句：
+
+"Sorry, guys, I've got to mow the lawn this weekend."
+（“抱歉，这周末我得‘忙家务’。”——实际可能只是不想出门。）
+
+3. 语法解析
+"I've got to" = "I have to"（必须，不得不），口语中更常用。
+
+"mow the lawn"：固定搭配，“修剪草坪”。
+（“mow”指用割草机割草，“lawn”指家门前的小草坪。）
+
+====================================
+​​"Keep" 的用法解析（以原句为例）​​
+​​原句​​: "My honey keeps begging me to do that."
+​​核心结构​​: ​​"keep + doing"​​
+
+​​1. 基本含义​​
+​​"keep doing"​​ 表示 ​​"持续/反复做某事"​​，强调动作的重复性或状态的延续性，常带有 ​​"停不下来" 或 '让人不耐烦'​​ 的隐含情绪。
+
+​​例句​​:
+She keeps laughing at my jokes.
+（她一直笑我的笑话 → 可能是捧场，也可能是尴尬）
+My phone keeps ringing at night.
+（我手机半夜老是响 → 隐含烦躁）
+​​2. 与原句的关联​​
+在 "My honey keeps begging..." 中：
+
+​​动作重复性​​：伴侣反复请求，可能是撒娇（正向）或纠缠（负向）。
+​​隐含情绪​​：需通过上下文判断是甜蜜还是抱怨。
+​​对比​​:
+
+甜蜜版："TA老是撒娇求我啦～"（"老是"对应"keeps"）
+抱怨版："TA没完没了地求我"（"没完没了"强化重复性）
+​​3. "Keep" 的其他常见用法​​
+结构	含义	例句
+​​keep + doing​​	持续做某事（强调动作）	He keeps forgetting my birthday.（他总忘记我生日）
+​​keep + adj.​​	保持某种状态	Keep quiet!（保持安静！）
+​​keep + 宾语 + adj.​​	使…保持某种状态	Coffee keeps me awake.（咖啡让我清醒）
+​​keep on + doing​​	继续做（更口语化）	She kept on talking.（她一直说个不停）
+​​4. 中文如何体现 "keep" 的重复性？​​
+英文用 ​​"keeps begging"​​ → 中文可用以下词汇匹配语境：
+
+​​正向​​：老是、总爱、一直（例："TA总爱求我"）
+​​负向​​：没完没了、动不动就、反复（例："TA动不动就求我"）
+
+====================================
+
+​​"Honored" 的详细用法解析​​
+​​核心含义​​：
+​​"Honored"​​（形容词）表示 ​​“感到荣幸的”​​，强调因被认可、邀请或赋予某种特权而产生的谦逊与感激之情。
+
+​​1. 基本用法​​
+​​(1) 常见结构​​
+句型	例子	中文
+​​be honored to do sth​​	I'm honored to meet you.	很荣幸见到您。
+​​feel honored (by sth)​​	She felt honored by the award.	她因获奖感到荣幸。
+​​It's an honor to...​​	It's an honor to be here.	能在此是我的荣幸。
+​​(2) 适用场景​​
+​​正式场合​​（演讲、颁奖、会议）
+"As CEO, I'm honored to announce our new project."
+（“作为CEO，我很荣幸宣布我们的新项目。”）
+​​私人互动​​（受邀、受表扬）
+"We're honored that you chose our wedding venue."
+（“您选择我们的婚礼场地，我们深感荣幸。”）
+​​职场/学术​​（合作、邀请发言）
+"Dr. Lee is honored to join the research team."
+（“李博士很荣幸加入研究团队。”）
+​​2. 语气强化与弱化​​
+​​(1) 更强烈的表达​​
+​​Deeply/Truly honored​​（深感荣幸）
+"I'm deeply honored by your trust."
+​​It’s a great privilege to...​​（殊荣）
+"It’s a great privilege to work with you."
+​​(2) 更随意的表达​​
+​​"So honored"​​（口语化）
+"So honored you came to my party!"
+​​"Honored to..."​​（简洁版）
+"Honored to help!"
+​​3. 常见搭配​​
+搭配	例句	中文
+​​be honored + with​​	He was honored with a lifetime achievement award.	他被授予终身成就奖。
+​​honored guest​​	Welcome our honored guest, Professor Zhang.	欢迎我们的贵宾，张教授。
+​​feel honored + that从句​​	I feel honored that you remembered me.	您还记得我，我很荣幸。
+​​4. 易混淆词对比​​
+单词	区别	例句
+​​honored​​	主观感受“荣幸”	I'm honored by the invitation.
+​​honorable​​	客观描述“可敬的”	He is an honorable leader.
+​​honorary​​	名誉的（无实权）	She received an honorary degree.
+​​5. 错误用法​​
+❌ ​​误用​​："I honored to join the team."（缺少be动词）
+✅ ​​正确​​："I ​​am​​ honored to join the team."
+
+❌ ​​误用​​："It’s honored to meet you."（主语应为“人”）
+✅ ​​正确​​："I’m honored to meet you."
+
+​​6. 文化小贴士​​
+在西方正式场合（如颁奖礼、学术会议），​​"honored"​​ 是表达谦逊的标准用语。
+在邮件或商务信函中，可用：
+"We would be honored to collaborate with your company."
+如果需要具体场景（如拒绝邀请时如何用"honored"委婉表达），可进一步探讨！ 🎖️
 
 ====================================
 

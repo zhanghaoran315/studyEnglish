@@ -221,6 +221,9 @@ put out
 give out
 分发 散发
 
+give in
+屈服；让步；妥协 交上
+
 give off
 发出（光等）；长出（枝、杈等）
 
