@@ -1,6 +1,15 @@
 # construct
 
 ```
+alike
+a 相像 十分相似
+
+​​all sorts of​
+​​形形色色的​（强调多样性）或 ​​各种各样的​​（中性）
+
+talkative
+a 健谈的 爱多说话的
+
 thorough
 a 全面的 彻底的
 
@@ -1366,7 +1375,7 @@ trick
 n 戏法 把戏
 
 quiet
-a 平静的 安静的
+a 平静的 安静的 文静的
 Please be quiet!
 
 keep quiet
@@ -2549,19 +2558,7 @@ too + 形容词/副词 + to do sth
 ✅ I’m only too glad to help.
 （我非常乐意帮忙。）
 
-work
-n 工作 作品（可数）
-v 奏效 产生预期的结果(或作用) 运转 运行
 
-work on
-从事于
-
-work for
-为...而工作，受雇于
-I work for a big company.
-
-work out
-解决 算出 锻炼
 
 civilized
 a 文明的

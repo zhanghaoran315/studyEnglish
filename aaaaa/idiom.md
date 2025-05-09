@@ -793,6 +793,24 @@ as ... as possible
 as soon as possible 
 “尽快”（通用） / “越快越好”（口语）。
 
+work
+n 工作 作品（可数）
+v 奏效 产生预期的结果(或作用) 运转 运行
+
+work on
+从事于
+
+work for
+为...而工作，受雇于
+I work for a big company.
+
+work out
+解决 算出 锻炼
+
+
+booked up 
+预订一空的
+
 
 
 
