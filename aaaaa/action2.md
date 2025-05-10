@@ -257,5 +257,71 @@ give credit where it's due	​​"该表扬时就表扬"​​	口语评价
 ​​"look alike"​​：
 指 ​​外貌相似​​，译为 ​​"长得像"​​。避免直译为 ​​"看起来像"​​（可能误解为神态或穿着）。
 
+====================================
+
+miss doing sth.错过做某事
+只能接 v.-ing 作宾语的动词:
+完成、练习、盼望、忙 finish,practice,look forward to,be busy
+
+考虑、建议、不禁、想 consider,suggest/advise,can't help,feel like
+
+错过、习惯、放弃miss,be/get used to,give up
+
+继续、喜欢、介意keepon，enjoy,mind
+
+====================================
+为什么 "I like playing tennis" 用 "playing"（doing 形式）？​​
+在英语中，​​"like"​​ 这类动词后接另一个动词时，通常需要将第二个动词变为 ​​动名词（-ing）​​ 或 ​​不定式（to do）​​。具体规则如下：
+
+​​1. 动词后接动名词（-ing）的情况​​
+​​"like"​​ 属于 ​​"情感/偏好类动词"​​，这类动词通常后接 ​​动名词（doing）​​，表示 ​​习惯性、经常性的动作​​。
+类似动词还有：
+
+​​enjoy​​（享受）
+​​love​​（爱）
+​​hate​​（讨厌）
+​​prefer​​（更喜欢）
+​​dislike​​（不喜欢）
+​​例句：​​
+✅ I like ​​playing​​ tennis.（我喜欢打网球。）→ ​​习惯性爱好​​
+✅ She enjoys ​​reading​​ books.（她喜欢读书。）
+✅ He hates ​​waking​​ up early.（他讨厌早起。）
+
+​​2. 动词后接不定式（to do）的情况​​
+​​不定式（to do）​​ 通常用于表示 ​​具体某次的行为​​ 或 ​​未来的动作​​。
+类似动词有：
+
+​​want​​（想要）
+​​decide​​（决定）
+​​plan​​（计划）
+​​hope​​（希望）
+​​例句：​​
+✅ I like ​​to play​​ tennis this weekend.（我想这周末打网球。）→ ​​具体某次​​
+✅ She wants ​​to read​​ that book.（她想读那本书。）
+
+​​3. "like + doing" vs. "like + to do" 的细微区别​​
+​​结构​​	​​含义​​	​​例句​​
+​​like + doing​​	表示 ​​长期、习惯性的喜好​​	I like ​​playing​​ tennis.（我平时喜欢打网球。）
+​​like + to do​​	表示 ​​某次具体的选择或意愿​​	I like ​​to play​​ tennis on Sundays.（我喜欢每周日打网球。）
+​​注意​​：有些动词（如 ​​like, love, hate​​）可以接 ​​doing​​ 或 ​​to do​​，但 ​​doing​​ 更常见，而 ​​to do​​ 更强调具体某次行为。
+
+​​4. 为什么不能说 "I like play tennis"？​​
+❌ I like ​​play​​ tennis.（错误）
+✅ I like ​​playing​​ tennis.（正确）
+
+​​原因​​：
+
+​​"like"​​ 是谓语动词，后面不能再接原形动词 ​​"play"​​，必须用 ​​非谓语形式​​（doing 或 to do）。
+英语中，一个句子通常只能有一个 ​​谓语动词​​，其他动词要变成 ​​不定式、动名词或分词​​。
+​​5. 总结​​
+​​"like" 后通常接 doing​​（表示习惯性喜欢）。
+​​"like" 后也可接 to do​​（但更强调具体某次行为）。
+​​不能直接接原形动词​​（如 "play"），必须变形。
+​​练习：​​
+
+我喜欢游泳。 → I like ​​swimming​​.（习惯）
+我今天想游泳。 → I like ​​to swim​​ today.（具体）
+如果有其他例子想练习，可以告诉我！ 🎾
+
 
 ```

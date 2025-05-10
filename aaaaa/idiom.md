@@ -254,6 +254,9 @@ set an example
 set free
 释放
 
+free from
+使摆脱 免于 解放
+
 try out
 试验 试用 参加...的选拔
 
@@ -811,6 +814,14 @@ work out
 booked up 
 预订一空的
 
+live for 
+v. 盼望；为.....而生活
+
+catch on 
+理解，明白；变得流行
+
+has a great deal to do with
+和……有很大关系
 
 
 

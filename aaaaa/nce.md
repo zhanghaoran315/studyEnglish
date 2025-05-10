@@ -1,6 +1,27 @@
 # construct
 
 ```
+lifetime
+n 一生
+
+fringe
+n 边缘
+a 附加的
+
+​​"fringe benefits"​​ 的灵活处理：
+正式：​​“附加福利”​​
+口语：​​“额外待遇”​​、​​“福利补贴”​
+
+average
+n 平均数 一般水平
+a 平均的 一般的
+
+drunkard
+n 酒鬼
+
+drunken
+a 醉的 醉酒的
+
 alike
 a 相像 十分相似
 
@@ -1196,8 +1217,8 @@ v 忽视 不予理会
 
 
 late
-adj. 晚的 迟的
-adv 晚 迟
+adj. 晚的 迟的 已故的 接近末期
+adv 晚 迟 接近末期
 
 be late for
 迟到
