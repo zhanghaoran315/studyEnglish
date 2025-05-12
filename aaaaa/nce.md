@@ -1,6 +1,36 @@
 # construct
 
 ```
+supply
+n 供应 供给 提供
+v 供应 供给 提供
+
+supplier
+n 供应商 供货商
+
+headmaster
+n. (尤指私立学校的)校长
+
+the Soviet Union
+苏联
+
+desire
+n 愿望 欲望 渴望
+v 期望 渴望
+
+condition
+n 环境 情况 条件
+
+stress
+n 压力
+v 强调
+
+stressor
+n 压力源
+
+hurricane
+n (尤指西大西洋的)飓风
+
 lifetime
 n 一生
 
