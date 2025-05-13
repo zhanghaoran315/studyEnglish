@@ -826,6 +826,19 @@ has a great deal to do with
 serve up 
 上菜，准备饭菜
 
+fill in 
+填写；填充；替代
 
+fill out 
+填写；变丰满，变大
+
+start over
+重新开始
+
+sign up 
+签约雇用，签约参加
+
+sign up for 
+注册，选课；报名参加
 
 ```

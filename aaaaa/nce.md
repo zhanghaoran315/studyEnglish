@@ -1,6 +1,18 @@
 # construct
 
 ```
+opinion
+n 意见 观点 信仰 看法
+
+midterm
+a 期中的 中期的
+
+furthermore
+ad 此外 而且
+
+follow
+v 跟随 接受 遵守
+
 supply
 n 供应 供给 提供
 v 供应 供给 提供
@@ -1423,7 +1435,7 @@ play tricks on sb
 开sb的玩笑
 
 trick
-n 戏法 把戏
+n 戏法 把戏 技巧
 
 quiet
 a 平静的 安静的 文静的
