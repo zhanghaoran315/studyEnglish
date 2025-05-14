@@ -1,6 +1,18 @@
 # construct
 
 ```
+firm
+n 公司
+
+lifeguard
+n 救生员
+
+seam
+n 接缝 缝隙
+
+afterwards
+ad 之后 后来
+
 opinion
 n 意见 观点 信仰 看法
 

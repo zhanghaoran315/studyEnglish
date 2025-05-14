@@ -841,4 +841,24 @@ sign up
 sign up for 
 注册，选课；报名参加
 
+as well
+也 同样地 还不如
+
+as well as
+也 和...一样 不但...而且
+
+over there
+在哪里
+
+over here
+在这里
+
+think over 
+仔细考虑；重新考虑
+
+think it over 
+仔细考虑下；好好想想
+
+
+
 ```
