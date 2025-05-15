@@ -548,6 +548,8 @@ dressing table
 
 put on & take off
 
+take off 起飞；脱下；离开
+
 穿衣服、戴眼镜、戴首饰，gloves，scarf
 
 turn on & turn off
@@ -858,6 +860,9 @@ think over
 
 think it over 
 仔细考虑下；好好想想
+
+a total of 
+总数为
 
 
 

@@ -1,6 +1,27 @@
 # construct
 
 ```
+anyhow
+ad 无论如何；随便地；杂乱无章地
+
+throughout
+p 遍及 自始至终 贯穿整个时期
+
+misspell
+v 拼错 写错
+
+skillfully
+ad 巧妙地
+
+the roller coaster
+n 过山车
+
+indeed
+ad 的确；其实；强调肯定的陈述或答复
+
+surf
+v 冲浪；(互联网上)浏览
+
 firm
 n 公司
 
