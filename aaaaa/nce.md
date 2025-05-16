@@ -1,6 +1,20 @@
 # construct
 
 ```
+sink
+n (厨房里的)洗涤池，洗碗槽
+
+lump
+n 块 肿块 隆起
+
+gaint
+n 巨人 伟人 大公司
+a 巨大的 伟大的
+
+motto
+n 座右铭 格言
+
+
 anyhow
 ad 无论如何；随便地；杂乱无章地
 
