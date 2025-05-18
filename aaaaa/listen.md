@@ -4460,4 +4460,28 @@ M: Don't worry so much, Mama. ®Now I'm going to pick up Alex. See you later.
 ​​W:​​ ​​"不，你搞不定的。两头都顾不上——你儿子和餐厅都会受影响。"​​
 ​​M:​​ ​​"别操心了，妈。我现在去接Alex，回头见。"​
 
+====================================
+对话原文：​​
+​​Roger:​​ "Hi, Ann. This is Roger. How have you been? And how's your apartment working out?"
+
+​​中文翻译（自然口语版）：​​
+​​Roger:​​ ​​"嗨，Ann，我是Roger。最近怎么样？新公寓住得还习惯吗？"​​
+
+​​1. 逐句解析​​
+​​(1) "This is Roger."​​
+​​直译​​：​​"这是Roger"​​（生硬）
+​​中文习惯​​：
+电话中：​​"我是Roger"​​
+当面说：可省略（直接说 ​​"Hi Ann, Roger."​​）
+​​(2) "How have you been?"​​
+​​字面​​：​​"你最近如何？"​​
+​​口语优化​​：
+​​"最近怎么样？"​​（通用）
+​​"还好吗？"​​（更随意）
+​​(3) "How's your apartment working out?"​​
+​​"work out"​​ 这里指 ​​"进展/适应情况"​​
+​​中文地道表达​​：
+​​"新公寓住得惯吗？"​​（强调适应）
+​​"房子还满意吗？"​​（侧重满意度）
+
 ```
