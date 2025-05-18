@@ -4551,4 +4551,30 @@ M: Don't worry so much, Mama. ®Now I'm going to pick up Alex. See you later.
 somewhere 这里表示“大约”，类似 about，但更口语化。
 under 表示“低于”，强调预算上限。
 
+================================
+Now I am in good health and high spirits.​​
+​​现在我身体健康，精神饱满。​​
+
+​​解析与翻译​​：
+​​Now I am in good health...​​
+​​翻译​​：现在我身体健康……
+​​解析​​：
+in good health 是固定搭配，表示“身体健康”（正式表达）。
+类似说法：I am healthy（更口语化）。
+​​...and high spirits.​​
+​​翻译​​：……而且精神饱满。
+​​解析​​：
+high spirits 指“情绪高涨、精神状态好”，常用于正式或书面表达。
+类似表达：I feel energetic（我感到精力充沛）。
+​​语言点总结​​：
+✅ ​​正式表达​​：
+
+in good health（比 healthy 更正式）
+high spirits（强调积极的精神状态）
+✅ ​​适用场景​​：
+
+​​书面报告​​（如健康总结、工作汇报）
+​​正式场合​​（如演讲开场白）
+​​日常交流​​（若想表达更正式的语气）
+
 ```
