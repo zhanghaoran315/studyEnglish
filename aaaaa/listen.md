@@ -4484,4 +4484,71 @@ M: Don't worry so much, Mama. ®Now I'm going to pick up Alex. See you later.
 ​​"新公寓住得惯吗？"​​（强调适应）
 ​​"房子还满意吗？"​​（侧重满意度）
 
+======================================
+​W:​​ "Well, that's what I'm calling about. You see, I've decided to look for a new apartment."
+​​M:​​ "Oh, what's the problem with your place now? I thought you liked the apartment."
+​​W:​​ "Oh, I do, but it's a little far from the campus, and the back-and-forth travel is just killing me. Do you think you could help? I thought you might know more about the housing situation near the school."
+
+​​中文翻译（自然口语版）：​​
+​​W:​​ ​​"其实我打电话就是为了这事。是这样的，我想换个新公寓。"​​
+​​M:​​ ​​"啊？你现在住的地方有什么问题吗？我以为你挺喜欢那儿的。"​​
+​​W:​​ ​​"是挺喜欢的，但离学校有点远，每天来回通勤太折磨人了。你能帮帮忙吗？我觉得你可能更了解学校附近的租房情况。"​​
+
+​​1. 逐句解析​​
+​​(1) "Well, that's what I'm calling about."​​
+​​直译​​：​​"这就是我打电话的原因。"​​（稍显生硬）
+​​口语优化​​：
+​​"其实我打电话就是为了这事。"​​（更自然）
+​​"我正想跟你说这个呢。"​​（更随意）
+​​(2) "You see, I've decided..."​​
+​​"You see"​​ 是口语中的填充词，类似中文的 ​​"是这样的"​​ 或 ​​"你看啊"​​，用于引出解释。
+​​(3) "the back-and-forth travel is just killing me."​​
+​​"back-and-forth travel"​​ → ​​"来回通勤"​​（更符合中文习惯）
+​​"killing me"​​ 是夸张表达，翻译时可保留情绪：
+​​"太折磨人了"​​
+​​"累死我了"​​
+​​(4) "Do you think you could help?"​​
+​​直译​​：​​"你觉得你能帮忙吗？"​​
+​​口语优化​​：
+​​"你能帮帮忙吗？"​​（更自然）
+​​"能不能帮我看看？"​​（更委婉）
+​​(5) "the housing situation near the school."​​
+​​"housing situation"​​ 指租房市场或房源情况，可简化为：
+​​"学校附近的租房情况"​​
+​​"学校周边的房子"​​（更口语化）
+
+
+
+======================================
+逐句翻译​​：
+​​Woman​​:
+"Uh, somewhere under $200 a month, if possible."
+​​翻译​​：嗯，如果可能的话，月租最好在200美元以下。
+"Oh, and I’d prefer to rent a furnished apartment."
+​​翻译​​：哦，而且我想租一间带家具的公寓。
+"Besides, I need a parking space."
+​​翻译​​：另外，我还需要一个停车位。
+​​Man​​:
+"Well, I know there’s an apartment complex around the corner that seems to have a few vacancies."
+​​翻译​​：嗯，我知道拐角处有一栋公寓楼，好像还有几间空房。
+"I’ll drop by there on my way to class today."
+​​翻译​​：今天去上课的路上我会顺路去看看。
+​​Woman​​:
+"Hey, thanks a lot."
+​​翻译​​：嘿，太感谢了！
+​​语言点解析​​：
+​​租房相关词汇​​：
+​​furnished apartment​​：带家具的公寓（对比：unfurnished 不带家具）
+​​parking space​​：停车位（同义：parking spot）
+​​apartment complex​​：公寓楼群（指有多栋楼的大型社区）
+​​vacancies​​：空房（单数：vacancy）
+​​关键表达​​：
+​​"I’d prefer to..."​​：委婉表达偏好（比 "I want" 更礼貌）。
+​​"drop by"​​：顺路拜访（= stop by，非正式场合常用）。
+​​"on my way to..."​​：在去…的路上。
+​​语法注意​​：
+​​"somewhere under $200"​​：
+somewhere 这里表示“大约”，类似 about，但更口语化。
+under 表示“低于”，强调预算上限。
+
 ```

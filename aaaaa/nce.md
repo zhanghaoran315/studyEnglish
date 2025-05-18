@@ -1,6 +1,9 @@
 # construct
 
 ```
+vacancy
+n 空缺 空房 
+
 sink
 n (厨房里的)洗涤池，洗碗槽
 
