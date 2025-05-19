@@ -868,6 +868,21 @@ a total of
 in that case 
 既然那样
 
+on a regular basis 
+定期地；经常地
+
+stick out
+突出 坚持 醒目
+
+pass on 
+传递；继续；去世
+
+cheer for 
+为…欢呼，喝彩；给…加油
+
+right now 
+就是现在，马上
+
 
 
 ```

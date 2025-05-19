@@ -1,6 +1,9 @@
 # construct
 
 ```
+within
+p 在...之内 在...之间
+
 vacancy
 n 空缺 空房 
 
