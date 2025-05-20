@@ -883,6 +883,9 @@ cheer for
 right now 
 就是现在，马上
 
+right away
+立刻
+
 
 
 ```

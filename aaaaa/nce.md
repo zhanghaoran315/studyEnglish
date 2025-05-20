@@ -1,6 +1,30 @@
 # construct
 
 ```
+laundry
+n 洗衣房 洗衣店
+
+definite
+a 确定的 肯定的
+
+definitely
+ad 确定 肯定 当然
+
+mansion
+n 公关 宅邸 用于公寓楼名
+
+spicy
+n 辛辣的 刺激的
+
+gender
+n 性别 性
+
+naturally
+ad 自然地
+
+widespread
+a 广泛的 普遍的
+
 within
 p 在...之内 在...之间
 
@@ -928,7 +952,9 @@ take one's advice
 听取劝告
 
 take up
-学着做 开始做
+学着做 开始做 
+
+take up 拿起；开始从事
 
 take in
 接受 理解 拘留 
@@ -2300,6 +2326,9 @@ eat some bread
 
 soap
 n 肥皂
+
+soap powder
+洗衣粉
 
 soup
 n 汤
