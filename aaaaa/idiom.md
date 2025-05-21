@@ -218,6 +218,9 @@ sell out
 put out
 扑灭 熄灭
 
+put off
+拖延
+
 give out
 分发 散发
 
@@ -885,6 +888,10 @@ right now
 
 right away
 立刻
+
+
+what's more 
+而且；更重要的是；另外
 
 
 

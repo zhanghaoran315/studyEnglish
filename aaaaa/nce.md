@@ -1,6 +1,41 @@
 # construct
 
 ```
+built-up
+a 建筑物密集的
+
+motorway
+n (英国)高速公路
+
+expressway
+freeway
+n (美国)高速公路
+
+highway
+n 公路；(尤指城镇间的)干道
+
+cufflink
+n 袖扣 
+
+jaw
+n 下巴 
+
+worm
+n  蠕虫 寄生虫
+
+agriculture
+n 农业 农学
+
+forecast
+n
+v 预测 预报
+
+forecaster
+n 天气预报员
+
+ambitious
+a 有野心的 雄心勃勃的
+
 laundry
 n 洗衣房 洗衣店
 
@@ -314,6 +349,9 @@ in that case
 
 wonder if
 不知道 想知道是否
+
+no wonder
+难怪 怪不得
 
 genius
 n 天才 天资 天赋
@@ -1167,7 +1205,7 @@ explain
 v 解释 说明
 
 play
-n 游戏 戏剧
+n 游戏 戏剧 比赛
 v 玩 吹奏 扮演 表演
 
 play a part in
