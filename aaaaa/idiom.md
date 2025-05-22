@@ -102,6 +102,9 @@ give away
 go away
 离开
 
+go for
+选择
+
 put away
 收起来
 

@@ -1,6 +1,15 @@
 # construct
 
 ```
+personable
+a 风度偏偏的 英俊潇洒的
+
+ought
+应该 ought to
+
+item
+n 项目 一则 一条 一件商品(物品)
+
 built-up
 a 建筑物密集的
 
