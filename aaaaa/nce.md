@@ -1,6 +1,12 @@
 # construct
 
 ```
+sportswear
+n (运动、运动项目、运动运动的)运动服装
+
+greenery
+n 绿色植物
+
 personable
 a 风度偏偏的 英俊潇洒的
 

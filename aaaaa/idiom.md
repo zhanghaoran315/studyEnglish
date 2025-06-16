@@ -91,7 +91,7 @@ get off
 下车
 
 get away
-逃跑
+离开 逃跑
 
 take away
 带走 掠夺
@@ -818,6 +818,10 @@ I work for a big company.
 work out
 解决 算出 锻炼
 
+英语中常用 work out 表达“自然解决”或“通过努力达成”，类似中文的“水到渠成”。
+
+"Don't worry. Everything will work out."（别担心，一切都会好起来的。）
+
 
 booked up 
 预订一空的
@@ -895,6 +899,12 @@ right away
 
 what's more 
 而且；更重要的是；另外
+
+get together with
+和...聚会
+
+have nothing to do with
+和...无关联
 
 
 
