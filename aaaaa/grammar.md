@@ -3382,6 +3382,11 @@ NO, they aren't
 He is sweeping the floor
 He isn't sweeping the floor.
 Is he sweeping the floor?
+
+
+现在进行时表将来​​：英语中常用进行时（be + doing）表示已确定的近期计划，类似中文“打算/要”。
+例：
+"She’s flying to Paris tomorrow." （她明天飞巴黎。）
 ```
 
 1st37

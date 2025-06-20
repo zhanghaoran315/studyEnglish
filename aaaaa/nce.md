@@ -1,6 +1,13 @@
 # construct
 
 ```
+story
+n 故事 叙述 描述 新闻报道
+
+supply
+n 供应 供给 补给品
+v 供应 供给
+
 sportswear
 n (运动、运动项目、运动运动的)运动服装
 
@@ -990,6 +997,10 @@ v 1.拿 取
 2.接受 采取
 3.遭受 经受 承受 忍受
 4.学习，读，修（课程）
+5.带去 引领
+
+A boy took us to our room.
+
 
 The team took a terrible beating.
 
