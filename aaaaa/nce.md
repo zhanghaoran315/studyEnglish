@@ -1,6 +1,21 @@
 # construct
 
 ```
+altogether
+ad 完全 总共 一共
+
+call off
+取消
+
+chest
+n 胸部
+
+lizard
+n 蜥蜴
+
+puppy
+n 小狗
+
 story
 n 故事 叙述 描述 新闻报道
 
@@ -37,10 +52,10 @@ highway
 n 公路；(尤指城镇间的)干道
 
 cufflink
-n 袖扣 
+n 袖扣
 
 jaw
-n 下巴 
+n 下巴
 
 worm
 n  蠕虫 寄生虫
@@ -86,7 +101,7 @@ within
 p 在...之内 在...之间
 
 vacancy
-n 空缺 空房 
+n 空缺 空房
 
 sink
 n (厨房里的)洗涤池，洗碗槽
@@ -307,7 +322,7 @@ given
 p 鉴于 考虑到
 
 graphic
-n 图表 
+n 图表
 a 图表的
 
 pretty
@@ -322,7 +337,7 @@ pretty soon
 pretty much
 几乎
 
-well paid 
+well paid
 adj. 报酬优厚
 
 farm
@@ -334,11 +349,11 @@ ad 以后 后来 稍后
 excellent
 a 极好的 杰出的
 
-over there 
+over there
 adv. 在那里
 
 bit
-n 一点 稍微 
+n 一点 稍微
 
 since
 p 自从 自...以来
@@ -1016,12 +1031,12 @@ take one's advice
 听取劝告
 
 take up
-学着做 开始做 
+学着做 开始做
 
 take up 拿起；开始从事
 
 take in
-接受 理解 拘留 
+接受 理解 拘留
 
 take a look at
 看一看 检查
@@ -1096,7 +1111,7 @@ n 外貌 外观 外表
 doubt
 v 怀疑 不相信
 
-There is no doubt that( 毫无疑问....) 
+There is no doubt that( 毫无疑问....)
 
 fool
 n 蠢人 傻瓜
@@ -1883,7 +1898,7 @@ think-thought-thought
 think to oneself
 心里想
 
-think highly of 
+think highly of
 高度评价，尊重
 
 
@@ -2013,7 +2028,7 @@ cut across
 抄近道 走近路
 
 cut out
-删除 突然熄火 突然停止运转
+切断 突然熄火 突然停止运转
 
 
 
@@ -2358,6 +2373,9 @@ The house is width a garden
 wear
 v 穿 戴 蓄(須) 留(发)
 wear-wore-worn
+
+wear out
+磨损，耗尽；穿破；使精疲力竭
 
 
 tomorrow
