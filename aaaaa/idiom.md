@@ -408,7 +408,7 @@ go down
 下来 下沉
 
 go on
-发生 继续 过去
+发生 进行 继续 (时间)过去
 
 go for a walk
 去散步

@@ -1,8 +1,26 @@
 # construct
 
 ```
+violation
+n 违规/违章/犯法
+
+colorful
+a 多姿多彩的 有趣的
+
+comic
+n 漫画
+
+mostly
+ad 通常 主要地 一般地
+
+simply
+ad 仅仅 只不过 简单的
+
+soda
+n 苏打汽水
+
 altogether
-ad 完全 总共 一共
+ad 完全/彻底 总共 一共
 
 call off
 取消
