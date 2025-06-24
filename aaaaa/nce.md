@@ -1,6 +1,18 @@
 # construct
 
 ```
+maple
+n 枫树
+
+fragrant
+n 香的 芳香的
+
+venue
+n 地点 场地
+
+downtown
+n 市中心 商业区
+
 violation
 n 违规/违章/犯法
 
@@ -80,6 +92,9 @@ n  蠕虫 寄生虫
 
 agriculture
 n 农业 农学
+
+agricultural
+a 农业的 (地区或社会)以农业为主的
 
 forecast
 n
@@ -1049,7 +1064,7 @@ take one's advice
 听取劝告
 
 take up
-学着做 开始做
+学着做 开始做 占用
 
 take up 拿起；开始从事
 
@@ -1893,6 +1908,9 @@ When did they move in?
 
 move out
 搬走
+
+move up
+提升 上升 向前移动
 
 moved
 感动的
