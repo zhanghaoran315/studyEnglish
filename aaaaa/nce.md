@@ -1,6 +1,27 @@
 # construct
 
 ```
+
+
+first
+ad 最初 起初
+
+divorce
+n 
+v 离婚
+
+telescope
+n 望远镜
+
+hairdryer
+n 吹风机
+
+gaffer
+n 工头 领班 领队 负责人
+
+fairy
+n 仙女 精灵
+
 maple
 n 枫树
 
@@ -1171,7 +1192,7 @@ show off
 炫耀 卖弄
 
 show up
-赶到 露面
+赶到 露面 出现
 
 
 

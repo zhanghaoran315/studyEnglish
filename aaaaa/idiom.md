@@ -416,7 +416,7 @@ go for a walk
 go along
 沿着...走
 
-go over 
+go over
 复习 温习 仔细检查 转变 润色
 
 along
@@ -801,7 +801,7 @@ get along well with sth.
 as ... as possible
 尽可能
 
-as soon as possible 
+as soon as possible
 “尽快”（通用） / “越快越好”（口语）。
 
 work
@@ -823,34 +823,34 @@ work out
 "Don't worry. Everything will work out."（别担心，一切都会好起来的。）
 
 
-booked up 
+booked up
 预订一空的
 
-live for 
+live for
 v. 盼望；为.....而生活
 
-catch on 
+catch on
 理解，明白；变得流行
 
 has a great deal to do with
 和……有很大关系
 
-serve up 
+serve up
 上菜，准备饭菜
 
-fill in 
+fill in
 填写；填充；替代
 
-fill out 
+fill out
 填写；变丰满，变大
 
 start over
 重新开始
 
-sign up 
+sign up
 签约雇用，签约参加
 
-sign up for 
+sign up for
 注册，选课；报名参加
 
 as well
@@ -865,39 +865,39 @@ over there
 over here
 在这里
 
-think over 
+think over
 仔细考虑；重新考虑
 
-think it over 
+think it over
 仔细考虑下；好好想想
 
-a total of 
+a total of
 总数为
 
 
-in that case 
+in that case
 既然那样
 
-on a regular basis 
+on a regular basis
 定期地；经常地
 
 stick out
 突出 坚持 醒目
 
-pass on 
+pass on
 传递；继续；去世
 
-cheer for 
+cheer for
 为…欢呼，喝彩；给…加油
 
-right now 
+right now
 就是现在，马上
 
 right away
 立刻
 
 
-what's more 
+what's more
 而且；更重要的是；另外
 
 get together with
@@ -906,8 +906,14 @@ get together with
 have nothing to do with
 和...无关联
 
-right after 
+right after
 就在…之后；刚好在…之后
+
+that way
+那样，那边
+
+invite sb over 
+请某人过来；邀请某人
 
 
 
