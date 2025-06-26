@@ -1,7 +1,39 @@
 # construct
 
 ```
+casual
+a 随便的 临时的
 
+celsius
+a 摄氏的
+
+sincere
+a 真诚的 诚挚的
+
+sincerely
+ad 真诚地 诚挚地
+
+secure
+v 获得 取得 保护 保卫
+a 安全的 牢固的 可靠的 稳固的
+
+securely
+ad 安全地
+
+medium
+a 中等的
+
+link
+n 链接 联系
+
+apparent
+a 显然的 显而易见的 表面上的
+
+establish
+v 建立 设立 确立 创立
+
+established
+a 公认的 已确立的
 
 first
 ad 最初 起初
@@ -337,7 +369,7 @@ each other
 彼此 互相
 
 direct
-v 指导 管理
+v 指导 管理 给（某人）指路
 a 直接的 最近的
 
 director
@@ -2551,7 +2583,7 @@ shorten
 vt 缩短 减少
 
 weak
-adj 虚弱的
+adj 虚弱的 缺乏说服力的
 
 weaken
 vt 使虚弱 削弱

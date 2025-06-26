@@ -2631,6 +2631,65 @@ engaged （英式）	电话/厕所“使用中”	The toilet is engaged. （厕�
 3️⃣ ​​警惕被动变主动​​
 "Get fired" → ​​"被开除"​​（中文需加"被"）
 需要哪个用法的详细案例？或具体句子分析？随时提问！
+===================================================
+​​"have to" vs "have got to" 深度解析​​
+​​1. 核心区别​​
+维度	​​have to​​	​​have got to​​
+​​正式度​​	中性，适用于所有场合	更口语化，非正式场景
+​​地域偏好​​	全球通用	英式英语更常用，美式较少
+​​时态灵活性​​	有完整时态变化（had to/will have to）	通常只用现在时（have got to）
+​​强调程度​​	普通	更强（带紧迫感或情绪）
+​​2. 使用场景对比​​
+✅ ​​通用场景（二者皆可）​​
+
+"I ​​have to/have got to​​ finish this report by 5pm."
+​​"我必须在五点前完成这份报告。"​​
+✅ ​​只能用 have to 的情况​​
+
+过去时/将来时：
+"She ​​had to​​ leave early yesterday."
+​​"她昨天不得不早走。"​​
+"You’ll ​​have to​​ show your ID later."
+​​"待会儿你得出示身份证。"​​
+✅ ​​只能用 have got to 的情况​​
+
+突然意识到必须做某事（带情绪）：
+"Oh no! I’ve ​​got to​​ call Mom now!"
+​​"糟了！我现在就得给我妈打电话！"​​
+英式口语中强调必要性：
+"You’ve ​​got to​​ try this cake!"
+​​"你必须尝尝这个蛋糕！"​​
+​​3. 典型例句翻译​​
+英文	中文自然表达	备注
+"We ​​have to​​ wear masks here."	​​"这里必须戴口罩。"​​	中性规则
+"I’ve ​​got to​​ pee!"	​​"我憋不住了！"​​	紧急需求
+"He ​​had to​​ apologize."	​​"他当时不得不道歉。"​​	过去时只能用have to
+"You ​​have got to​​ see this!"	​​"你非看这个不可！"​​	强烈推荐
+​​4. 常见错误​​
+❌ "I have got to submit it yesterday."
+（❌ have got to 不能用于过去时 → 应改为 ​​had to​​）
+
+❌ "She has to got leave now."
+（❌ 混淆结构 → 正确为 ​​has to leave​​ 或 ​​has got to leave​​）
+
+​​5. 中文对应表达差异​​
+​​"必须"​​（have to/have got to 都可用）
+​​"非得…不可"​​（更接近 have got to 的强烈语气）
+"你​​非得​​现在走​​不可​​吗？"
+"Do you ​​have got to​​ leave now?"
+​​6. 练习题​​
+翻译（用have to）："明天我得早起。"
+→ "I ​​have to​​ get up early tomorrow."
+翻译（用have got to）："这电影太棒了，你必须看！"
+→ "This movie is amazing—you’ve ​​got to​​ watch it!"
+改错："She has got to finished her homework last night."
+→ "She ​​had to​​ finish her homework last night."
+​​总结​​：
+
+​​正式写作/全球通用​​ → 优先用 ​​have to​​
+​​口语/英式英语/强调 urgency​​ → 用 ​​have got to​​
+​​过去/将来时​​ → 只能用 ​​have to​​
+需要更多对比例句吗？ 😊
 
 
 

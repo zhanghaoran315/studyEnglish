@@ -100,7 +100,7 @@ give away
 捐赠
 
 go away
-离开
+离开 (症状)消失
 
 go for
 选择
@@ -914,6 +914,12 @@ that way
 
 invite sb over 
 请某人过来；邀请某人
+
+leave no stone unturned
+想尽办法
+
+on sale
+廉价出售 打折
 
 
 
