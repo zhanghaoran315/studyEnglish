@@ -88,7 +88,7 @@ get in
 登上 上车
 
 get off
-下车
+下车 出发
 
 get away
 离开 逃跑
@@ -818,6 +818,9 @@ I work for a big company.
 work out
 解决 算出 锻炼
 
+working out
+健身
+
 英语中常用 work out 表达“自然解决”或“通过努力达成”，类似中文的“水到渠成”。
 
 "Don't worry. Everything will work out."（别担心，一切都会好起来的。）
@@ -920,6 +923,12 @@ leave no stone unturned
 
 on sale
 廉价出售 打折
+
+add up
+合计
+
+add up the bill
+算账
 
 
 

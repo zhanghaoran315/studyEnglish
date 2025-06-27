@@ -1,7 +1,34 @@
 # construct
 
 ```
+volunteer
+n 志愿者
+
+former
+a 以前的 从前的
+
+housekeeping
+n 家务 内务处理
+
+housekeeper
+n 
+
+stuff
+n 东西 物品 原料 材料
+
+bimonthly
+n.双月刊；半月刊
+adj./adv.两月一次的(地)；一月两次的(地)
+
+
+leisure
+n 休闲 空闲
+
+fruitful
+a 富有成效的 硕果累累的 富饶的
+
 casual
+n 临时工 便装
 a 随便的 临时的
 
 celsius
