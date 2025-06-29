@@ -1,6 +1,28 @@
 # construct
 
 ```
+stage
+n 舞台 阶段 时期
+
+add
+v 加 增加 补充说
+
+backwards
+ad 倒着 朝反方向
+
+schoolyard
+n 校园
+
+bookish
+a 书呆子气的
+
+decade
+n.十年；十年期(尤指一个年代)
+
+value
+n 价值 值
+v 重视
+
 volunteer
 n 志愿者
 
@@ -11,7 +33,7 @@ housekeeping
 n 家务 内务处理
 
 housekeeper
-n 
+n
 
 stuff
 n 东西 物品 原料 材料
@@ -66,7 +88,7 @@ first
 ad 最初 起初
 
 divorce
-n 
+n
 v 离婚
 
 telescope
@@ -2614,6 +2636,9 @@ adj 虚弱的 缺乏说服力的
 
 weaken
 vt 使虚弱 削弱
+
+weakness
+n 弱点 缺点 软弱
 
 wardrobe
 n 衣柜

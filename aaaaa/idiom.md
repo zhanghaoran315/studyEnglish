@@ -302,7 +302,7 @@ hang out
 闲逛 常去某处
 
 get out
-出去 离开
+出去 离开 拿出
 
 fall down
 倒塌 跌倒
