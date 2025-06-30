@@ -88,7 +88,7 @@ get in
 登上 上车
 
 get off
-下车 出发
+下车 离开 出发
 
 get away
 离开 逃跑
@@ -849,6 +849,10 @@ fill out
 
 start over
 重新开始
+
+start with
+start from
+从...开始
 
 sign up
 签约雇用，签约参加

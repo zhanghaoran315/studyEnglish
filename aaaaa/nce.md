@@ -1,6 +1,18 @@
 # construct
 
 ```
+off-street
+a 路外的 后街的
+
+eager
+a 热切的 渴望的
+
+go
+v 进入...状态 处于...状态
+
+overcharge
+v 多收费
+
 stage
 n 舞台 阶段 时期
 
@@ -33,7 +45,7 @@ housekeeping
 n 家务 内务处理
 
 housekeeper
-n
+n 管家 (旅馆的)房间清洁工
 
 stuff
 n 东西 物品 原料 材料
@@ -493,6 +505,15 @@ n 一点 稍微
 since
 p 自从 自...以来
 c 因为 既然
+
+ever since
+从那时到现在
+
+long since
+很久以前
+
+since when
+自什么时候开始 从什么时候开始
 
 grateful
 a 感激的 表示感谢的
@@ -1384,6 +1405,9 @@ play
 n 游戏 戏剧 比赛
 v 玩 吹奏 扮演 表演
 
+player
+n 运动员 演奏者
+
 play a part in
 参与 在...方面起作用
 
@@ -1828,6 +1852,9 @@ keep in touch
 keep in touch with
 保持联系
 
+get in touch with
+与...联系 和...接触
+
 keep one's cool
 沉住气 保持冷静
 
@@ -2119,6 +2146,9 @@ adj 1.奇怪的 古怪的
 stranger
 n 陌生人
 
+in a strange way
+奇怪的是
+
 put ... into 放入
 
 take out 拿出
@@ -2167,6 +2197,9 @@ cut across
 
 cut out
 切断 突然熄火 突然停止运转
+
+take a short cut
+走捷径
 
 
 
