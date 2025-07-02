@@ -1,6 +1,52 @@
 # construct
 
 ```
+dry
+v (使)变干；(把…)弄干
+a 干的 干燥的
+
+leftover
+n 残羹剩饭；吃剩的食物；遗留物；残存物；
+a 剩余的 吃剩的
+
+chess
+n 国际象棋
+
+stadium
+n 体育场 运动场
+
+dealer
+n 经销商
+
+anniversary
+n 周年纪念日
+
+run-down
+a 破败的 疲惫的
+
+well-rounded
+a 全面的
+
+workshop
+n 车间 讲习班
+
+post-production
+n.（电影或电视的）后期制作
+
+assess
+v 评估 评定
+
+judge
+n 法官 裁判员
+v 判断 认为 评判 估计
+
+outing
+n 郊游 远足
+
+material
+n 材料 原料
+a 物质的 重要的
+
 off-street
 a 路外的 后街的
 
@@ -287,6 +333,9 @@ v 冲浪；(互联网上)浏览
 
 firm
 n 公司
+
+law firm
+律师事务所
 
 lifeguard
 n 救生员
@@ -1209,6 +1258,9 @@ take place
 take the place of
 take the place
 代替
+
+take care of
+照顾 照料
 
 
 take a chance to do sth.

@@ -105,6 +105,9 @@ go away
 go for
 选择
 
+go ahead 
+前进；进行
+
 put away
 收起来
 
@@ -808,6 +811,11 @@ work
 n 工作 作品（可数）
 v 奏效 产生预期的结果(或作用) 运转 运行
 
+work with
+与...共事
+对...有效
+
+
 work on
 从事于
 
@@ -933,6 +941,12 @@ add up
 
 add up the bill
 算账
+
+build up
+增进 加强
+
+come across
+偶遇；无意中发现；讲得清楚明白；[口]给人…印象
 
 
 
