@@ -2,26 +2,22 @@
 
 ```
 
-mess
-n 
-v
+regard
+n 尊重 注意 问候
+v 将 认为 把 看做 regard as
 
-assess
-v 评估 评定
+give sb ones regards
 
-assess
-v 
+in regard to
+关于
 
-72
-192
+regarding
+p 关于
 
-264
+regardless
+ad 不管 不顾
 
-214
 
-478
-
-20
 
 
 ```
