@@ -1,6 +1,9 @@
 # construct
 
 ```
+profile
+n 简介 描述
+
 dry
 v (使)变干；(把…)弄干
 a 干的 干燥的
