@@ -1017,7 +1017,6 @@ What color is it?
 green
 a green hand 新手
 
-
 come
 v 来
 come-came-come
@@ -1025,6 +1024,7 @@ Come here
 过来 
 
 upstairs
+a 楼上的
 adv 在楼上
 
 downstairs
