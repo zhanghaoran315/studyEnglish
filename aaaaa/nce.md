@@ -1,6 +1,15 @@
 # construct
 
 ```
+textbook
+n 教科书 教材 课本
+
+also
+ad 而且 此外 同样 也
+
+rugby
+n 橄榄球
+
 profile
 n 简介 描述
 
@@ -53,8 +62,7 @@ a 物质的 重要的
 off-street
 a 路外的 后街的
 
-eager
-a 热切的 渴望的
+
 
 go
 v 进入...状态 处于...状态
@@ -576,7 +584,6 @@ n 小路
 fancy
 v 想要 认为 真想不到
 
-
 outskirt
 n 郊区
 
@@ -843,8 +850,7 @@ stop sb (from) doing sth   阻止某人做某事  The rain stopped us from going
 The project was stopped by the government.
 （项目被政府叫停。）
 
-joy
-n 高兴 快乐
+
 
 spider
 n 蜘蛛
@@ -2862,9 +2868,11 @@ adj 1.时髦的 漂亮的
 
 
 upstairs
+a 楼上的
 adv 在楼上
 
 downstairs
+a 楼下的
 adv 在楼下
 
 stair
@@ -2933,7 +2941,7 @@ be thankful to sb
 对sb心存感激
 
 give thanks to sb
-向...表达谢意
+向sb表达感激
 
 
 thirst
@@ -2952,20 +2960,6 @@ v 掩盖 遮盖
 cloakroom
 n 衣帽间
 
-
-
-dress
-n 连衣裙
-v 穿衣服
-
-get dressed
-穿上衣服
-
-dress in
-穿...的服装 乔装打扮
-
-dress up
-打扮 装饰
 
 enough
 adv 十分 相当 足够地

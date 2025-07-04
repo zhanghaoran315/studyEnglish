@@ -471,11 +471,13 @@ no more than
 not more than
 最多 不超过 (多)
 
+more than
+多于
+
 no more
 不再
 
-more than
-多于
+
 
 less than
 小于
@@ -947,6 +949,10 @@ build up
 
 come across
 偶遇；无意中发现；讲得清楚明白；[口]给人…印象
+
+in group
+成组 成群
+
 
 
 

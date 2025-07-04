@@ -477,7 +477,7 @@ engine
 
 语法
 
-### 否定句和疑问句
+### 简单句转换
 
 ```
 肯定句
@@ -503,8 +503,8 @@ yes no question
 你吃饭了吗
 可以直接用yes或者no来回答
 
+动词提前
 动词+主语+其他成分
-
 Is this Miss Sophie Dupont  
 Yes,she is  
 No,she isn't
@@ -516,6 +516,17 @@ No,he isn't
 Are you Italian   
 Yes,I am   
 No,I am not
+
+特殊情况
+1.否定转移	
+I think he is right.	
+Don't you think he is right?
+否定在主句，回答针对从句
+
+2.Let's 开头的祈使句	
+Let's go.	
+Shall we go?
+固定转换
 
 特殊疑问句
 wh question
@@ -586,7 +597,7 @@ Who is my teacher?
 
 My book is on the table.
 谁的书在桌上 my
-Whose book is in the table?
+Whose book is on the table?
 
 我的书在那 on the table
 Where is my book?
@@ -595,7 +606,6 @@ Where is my book?
 What is on the table
 
 You are French
-
 你是什么国籍  French
 What nationality are you?
 
@@ -609,7 +619,7 @@ Who is French? (主语是who  第三人称单数)
 ```
 My name is Robert
 
-Is your name Robert
+Is your name Robert?
 形容词性物主代词一般不能决定一句话动词的形式
 
 What nationality are you?
@@ -618,7 +628,7 @@ What's your job?
 
 Web Front-End Developer 或者Web Front-End Engineer
 
-I am a web front-end engineer based in Hangzhou, China.
+I am a web front-end engineer working in Hangzhou, China.
 
 I am a teacher
 I am a driver
@@ -629,7 +639,6 @@ I have no jobs. I am a student.
 
 My job (事物) is a teacher(事物).  XXX
 I am a teacher
-
 ```
 
 单词句型
@@ -654,29 +663,23 @@ air hostess
 空姐
 air
 航空
+
 host
-主机 服务器 主人 东道主
+n 主机 服务器 主人 主持人 东道主
+v 主持 主办 做东举办
+
 hostess
-女主人 女主持
-
-postman
-邮递员
-
-post
-n 邮政 柱 杆
-vt 邮寄
-
-post office
-邮局
+n 女主人 女主持
 
 nurse
-护士 保姆
+n 护士 保姆
 
 mechanic
-机械师 力学
+n 机械师 修理工 力学
 
 hair
 n 头发 毛发
+
 hairdresser
 理发师
 
@@ -687,8 +690,6 @@ husband
 househusband
 
 milkman
-
-
 ```
 
 
@@ -698,20 +699,17 @@ milkman
 单词
 
 ```
-打招呼
-hello 
-hey、hi  熟人
-
-how
-怎么 怎样
-
-
 today
 n adv 今天
 
+tomorrow
+n adv 在明天
+
+yesterday
+n adv 在昨天
+
 tonight
 n adv 今晚
-
 
 well
 adj 身体好
@@ -722,51 +720,25 @@ adj 好的（状态良好） 很好（表示满意）
 Everything is fine.
 一切都好
 
-
-
-thanks
-感谢
+thank
+n
+v 感谢
 Thanks a lot
 Thank you very much.
 
-good-bye  
-再见
-See you 再见 回头见 下次见
-```
-
-
-
 busy
-
-```
 忙的
-
 It is a busy day
 He is very busy
-```
 
 lazy
-
-```
 懒惰的
-
 He is very lazy.
-```
-
-语法
-
-冠词复习
-
-```
-
 ```
 
 课文
 
-打招呼
-
 ```
-
 How are you?
 How are you doing?
 How is your mother?
@@ -783,7 +755,7 @@ Not bad.								还行
 very bad. \ Terrible.
 
 terrible
-可怕的 糟糕的
+a 可怕的 糟糕的
 ```
 
 单词句型
@@ -807,18 +779,20 @@ slim
 You are so slim.
 
 dirty
-脏的 肮脏的
+肮脏的 下流的 卑鄙的
+
 clean
-干净的
 v 使干净 打扫
+a 干净的 文明的
 
 tidy
-干净的 整洁的
-v 使整洁
+v 使整洁 整理
+a 整洁的 整齐的
 
 untidy
-不整洁的 凌乱的
 v 使不整洁
+不整洁的 凌乱的
+
 
 prefix
 un-不，表示否定
@@ -835,29 +809,22 @@ Lady GaGa is hot now.
 
 cold
 n 感冒 伤风
-adj 冷的 寒冷的
+adj 冷的 寒冷的 冷漠的
 
 It is very cold today.
 I have a cold welcome.
 
 old
-老的 旧的
+a 老的 旧的
 
 young
 年轻的
-
-busy
-忙的 忙碌的
-It is a busy day.
 
 idle
 空闲的 闲置的
 
 free
-自由的 免费的 空闲的
-
-lazy
-懒惰的
+自由的 免费的 空闲的 免税的
 
 look at 看  （连着）
 see     看见
@@ -890,9 +857,6 @@ Will she come tomorrow?
 Perhaps so.   
 Perhaps not.
 
-white
-白色的
-
 snow
 n 雪
 v 下雪
@@ -914,7 +878,7 @@ catch the thief 小偷  95
 ```
 名词所有格的分类
 分类： 
-名词's名词    of   双重所有格
+名词's名词    of  双重所有格
 
 
 1.名词's名词
@@ -961,7 +925,7 @@ at the greengrocer's (shop)
 固定结构
 in four hours' time  95
 在5小时后
-twenty minutes' time
+in twenty minutes' time
 
 in 
 prep 
@@ -1018,6 +982,7 @@ aunt
 
 step
 n 步 脚步
+v 踩踏 行走
 
 stepfather
 继父
@@ -1031,8 +996,12 @@ stepbrother
 blouse
 女衬衫
 
+trousers
+n 裤子
+
 tie
-领带
+n 领带 联系 绳子
+v 系 捆 绑
 ```
 
 

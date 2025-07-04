@@ -10137,15 +10137,11 @@ all the way down：一直向下/远到
 
 ​​1. 完整翻译（自然口语化）​​
 ✅ ​​"Emma曾在曼彻斯特的一支足球队工作。"​​（直译，清晰）
-✅ ​​"Emma老师当年在曼城混过足球圈！"​​（口语化，带江湖气）
-✅ ​​"Emma昔供职于曼城球会。"​​（文言简版）
-========================================
-原文：​​ "Then for a very successful rugby team in Dublin."
+
+"Then for a very successful rugby team in Dublin."
 
 ​​1. 完整翻译（自然口语化）​​
 ✅ ​​"后来又去了都柏林的一支顶级橄榄球队。"​​（直译，清晰）
-✅ ​​"接着杀到都柏林，进了支牛逼哄哄的橄榄球队！"​​（口语化，带江湖气）
-✅ ​​"继效都柏林橄榄劲旅。"​​（文言简版）
 ====================================
 原文（修正后）：​​ "And finally ended up working here in Vancouver."
 
@@ -10444,9 +10440,12 @@ all the way down：一直向下/远到
 德国城市 → ​​"慕尼黑"​​（官方译名）
 ​​时态处理​​：
 "was" → ​​"曾/当年"​​（中文无时态，需加时间词）
+
+英语习惯​​：谈论某地时，常用 ​​"they"​​ 代指当地人或相关群体（如 "In Japan, they respect traditions."）
 =============================================
 原文（修正后）：​​
-"They had a great museum in Munich. He took me to the museum and I responded very strongly to what I saw on the walls there. I learned about art from him. So I learned about looking at art from him."
+"They had a great museum in Munich. He took me to the museum and I responded very strongly to what I saw on the walls there. 
+I learned about art from him. I learned about looking at art from him."
 
 ​​1. 完整翻译（自然口语化）​​
 ✅ ​​"慕尼黑有座很棒的博物馆。他常带我去，我对墙上的作品产生了强烈共鸣。是他教会我艺术，教会我如何‘观看’艺术。"​​（直译，文学化）
@@ -10678,20 +10677,6 @@ track → ​​"跑道/田径场"​​（需明确）
 直译：​​"在奥运会"​​
 中文术语：​​"奥运赛场"​​（专业感）
 =================================
-原文：​​ "I don't care about the gold."
-
-​​1. 完整翻译（自然口语化）​​
-✅ ​​"我不在乎金牌。"​​（直译，中性）
-✅ ​​"金牌？老子不稀罕！"​​（口语化，带不屑）
-✅ ​​"金非吾所念。"​​（文言简版）
-
-​​2. 关键解析​​
-​​"don't care"​​：
-直译：​​"不在乎"​​
-中文强化：​​"不稀罕/不放在眼里"​​（按情绪）
-​​"the gold"​​：
-直译：​​"金牌"​​
-中文适配：根据场景可选 ​​"冠军/名次"​
 ===================================
 原文：​​ "Take everything and show it to the world."
 
@@ -10710,8 +10695,6 @@ track → ​​"跑道/田径场"​​（需明确）
 ​​隐含动作​​：
 英文简洁 → 中文可补动词 ​​"亮/秀"​
 =============================
-
-
 翻译解析：​​
 ​​原文（修正后）：​​ "Jennifer and I will be glad to have them stay with us."
 
@@ -10749,8 +10732,6 @@ Jennifer → ​​"Jen/Jennifer"​​（按称呼习惯）
 英文中性 → 中文可加 ​​"太/真"​​ 显化程度
 
 =================================
-
-=====================================
 原文（修正后）：​​ "Hurry up with your food."
 
 ​​1. 完整翻译（自然口语化）​​
