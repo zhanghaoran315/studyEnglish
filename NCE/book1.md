@@ -1182,7 +1182,7 @@ ex-husband
 
 close
 v 关闭
-a 亲密的
+a 亲密的 密切的
 ad 接近 靠近
 
 best friend  
