@@ -1203,19 +1203,29 @@ airport
 visa
 n 签证
 
+vise
+n 老虎钳 签证
+
+vase
+n 花瓶
+
 brown
 棕色的
 
 brown sugar
 红糖
 
-He look brown after this summer.
+He looks brown after this summer.
 
 tour  
-n 旅游 参观   
+n 旅游 旅行
+
+tourism
+n 旅游业
 
 tourist
-旅游者 游客
+n 游客
+a 旅游的
 
 -er  后缀	  teach teacher
 -ist 后缀  （某种人）
@@ -1228,9 +1238,13 @@ tourist
     novelist  小说家
             
     terror   	
-    n 恐怖 恐惧
+    n 恐怖 恐怖行动 恐惧
+    
     terrorist   
     n 恐怖分子
+    
+    terrorism
+    n 恐怖主义
 ```
 
 
@@ -1278,7 +1292,7 @@ That's fine.
 ### 名词复数
 
 ```
-名词的数
+名词的数 和 动词三人称单数
 
 可数名词（C）：book teacher car house man table pen
 不可数名词（U）：water air rain snow tea coffee milk
@@ -1438,7 +1452,9 @@ gray
 
 yellow
 yellow race  黄种人
-race 比赛 人种
+race 
+比赛 赛跑 竞争 角逐 种族 人种
+v 比赛
 
 I am yellow race  XXXXX
 I am Asian

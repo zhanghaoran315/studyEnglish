@@ -1,6 +1,14 @@
 # construct
 
 ```
+vote
+n 投票 票 投票总数
+v 投票 表决
+
+veto
+n 否决权 禁止
+v 禁止 反对
+
 textbook
 n 教科书 教材 课本
 
