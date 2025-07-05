@@ -1066,13 +1066,15 @@ lovely
 nice
 
 case
-箱子
+事例 案例 病例 盒子
 
 suitcase  
 手提箱
 
 pet
-宠物
+n 宠物
+v 抚摸 宠爱
+
 carpet
 地毯
 
@@ -1135,11 +1137,11 @@ Here we go...   咱开始吧
 
 ```
 custom
-n 习惯 光顾
+n 习惯 习俗 风俗 光顾
 复数 customs
 
 customs
-n 海关(机构)
+n 海关(机构) 关税
 
 customer   
 n 顾客 121
@@ -1160,13 +1162,14 @@ n 领袖
 adj 主要的 首要的
 
 executive
-n 主管 
-adj 行政的 有执行权的
+n 总经理 董事
+adj 行政的 管理的
 
 Chief Executive Officer
 
 finance
 n 财政 金融
+v 提供资金
 Chief Finance Officer
 
 girlfriend
@@ -1178,8 +1181,9 @@ ex-husband
 
 
 close
-v 关
-adj 亲密的
+v 关闭
+a 亲密的
+ad 接近 靠近
 
 best friend  
 最好的朋友

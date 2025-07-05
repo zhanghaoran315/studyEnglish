@@ -629,10 +629,6 @@ aim for sth
 aim at doing sth
 力求达到  力争做到
 
-lovely
-a 可爱的 美丽的 极好的
-
-
 memory
 n 记忆 回忆
 
@@ -1890,6 +1886,15 @@ a good idea
 a bad idea
 I have no idea.
 我不知道、我没有想法
+
+have no idea
+不知道 不清楚
+
+no idea
+不知道
+
+have no idea of
+完全不知道
 
 teaspoonful
 n 一茶匙的量
