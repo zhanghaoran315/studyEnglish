@@ -1479,7 +1479,7 @@ employee
 雇员 受雇者
 
 employ  
-vt  雇用
+vt  雇用 使用
 
 employer
 雇主 雇用者    
@@ -1490,10 +1490,12 @@ suffix
 
 train
 n 火车
-v 训练
+v 培训 训练
 
-trainer 教练
-trainee 实习生 被培训的人
+trainer 
+教练
+trainee 
+实习生 被培训的人
 
 hard-working
 勤奋的
@@ -1507,11 +1509,16 @@ adv 努力地
 构词：adj.+doing
 good-looking
 好看的
+
 easy-going
 随和的 好相处的
 
 sale
 销售 出售 销售量
+
+sell
+v 卖 出售 推销 促销
+sell-sold-sold
 
 rep
 代表 发言人
@@ -1533,11 +1540,12 @@ office hours
 assistant
 助手 助理
 
-
 an office assistant  
 办公室助理
+
 a shop assistant  
 商场售货员
+
 a classroom assistant 
 n 助教
 ```
@@ -1547,7 +1555,6 @@ n 助教
 单词的复数和句子的复数
 
 ```
-
 What are their jobs?
 What is your job?
 
@@ -1578,8 +1585,9 @@ They are tourists.
 brush  
 n 刷子 画笔
 v 涂 抹
+
 bench  
-n 长凳 法官
+n 长凳 长椅 法官
 
 
 名词的单复数
@@ -1616,7 +1624,6 @@ useful
 Hello
 How are you?
 How are you doing?
-
 How do you do? 
 幸会     使用场合非常正式
 回答 How do you do.
@@ -1677,6 +1684,7 @@ sit down
 
 seat
 n 座位 席位
+v 坐
 
 sit down, please!
 have a seat, please!

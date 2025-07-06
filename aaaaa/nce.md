@@ -1,6 +1,13 @@
 # construct
 
 ```
+
+good-looking
+a 好看的
+
+easy-going
+a 随和的 好相处的
+
 vote
 n 投票 票 投票总数
 v 投票 表决

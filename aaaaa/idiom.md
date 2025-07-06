@@ -622,10 +622,7 @@ I'm a little under the weather.
 all the time
 总是 一直
 
-big sale
-大甩卖
-for sale
-出售
+
 
 have the last word.
 说了算，最后拍板
@@ -935,8 +932,7 @@ invite sb over
 leave no stone unturned
 想尽办法
 
-on sale
-廉价出售 打折
+
 
 add up
 合计
