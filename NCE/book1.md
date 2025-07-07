@@ -1762,8 +1762,10 @@ aircraft
 飞机 航空器
 
 carry
-v 1.带来 搬 提 拿 背 抱 扛
-2.运输 传输
+v 1.提 拿 背 抱 扛
+2.携带 带有
+3.支撑 承载
+4.传输 运输
 carry-carried-carried
 
 carrier
@@ -1791,6 +1793,9 @@ There is no place like home.
 There is a witness everywhere
 要想人不知，除非。。。
 
+wit
+n 机智
+
 witness
 n 目击者 证人
 
@@ -1799,14 +1804,14 @@ adv 到处 每个地方
 
 
 royal
-王室的 皇家的 一流的
+n 王室成员
+a 王室的 皇家的
 
 
 There is no royal way to learning.
 书山有路勤为径 学海无涯苦作舟
 
 will  
-modal 将  
 n 意志 毅力
 
 Where there is a will, there is a way.
@@ -1839,11 +1844,10 @@ There is no ... but ...
 没有...只有...
 
 spot  143
-n 1.场所 地点
-2. 斑点 污渍
+n 地点 场所 斑点 污渍
+v 发现 注意到
  
 There are spots in the sun.
- 
 人无完人,金无足赤
 
 There be (am/is/are) be动词的三种形式取决于主语
@@ -1884,25 +1888,29 @@ n 讨论 谈话
 v 讨论 谈话
 
 open
+v 打开
 adj 开着的
 
 close
-v 关  
-adj 接近 靠近  
+v 关闭  
+a 亲密的 密切的
+ad 接近 靠近
 
 close the door
 The bank is close to the shop
 
-shut-shut-shut
+shut
 v 关闭
 adj 关着的
+shut-shut-shut
 
 shutdown
 n 关闭 停机
 
 light
 n 光 电灯
-adj 轻的 少量的
+v 点燃 点火 照亮 使明亮
+a 轻的 少量的
 
 light rain
 light snow
@@ -1955,7 +1963,8 @@ Great-grandmother
 
 ```
 give
-vt给
+v 给 交给 赠送 送给
+与名词连用
 
 give + accusative
 
@@ -1978,7 +1987,7 @@ My mind is empty.
 Empty the bottle please.
 
 full
-满的
+a 满的 充满的
 
 I'm full.
 a full stop 句号
@@ -1994,11 +2003,15 @@ a little girl
 一个小女孩 (可爱的)
 
 sharp
-锋利的
+a 锋利的 急剧的 强烈的 清晰的
+ad 整点
 The knife is sharp
 
+sharpen
+v 使变锋利 加强 加重 改善 提高
+
 blunt
-钝的  不熟练了
+a 钝的 迟钝的 不熟练了
 
 The knife is blunt
 
@@ -2020,14 +2033,13 @@ tin
 锡 罐头瓶 易拉罐
 
 forks
-叉子 餐叉
+叉子
 
 fork
-餐叉 岔路 岔路口
+n 叉子 岔路
 
 spoon
 勺子 调羹
-
 ```
 
 课文
@@ -2047,20 +2059,14 @@ a book是要承受这个give动作(直接宾语)，还是要补充说明me(间�
 单词
 
 ```
-on  
-prep. 在...之上
-prep.后经常接n.
-
-on the table 
-on the floor
-on the bed
-
 ceil
 v 装天花板
+
 ceiling
 n 天花板 上限
 
 bookshelf
+
 shelf life 
 保质期
 
@@ -2070,7 +2076,8 @@ office desk
 school desk
 
 plate
-盘子
+n 盘子 号码牌 金属牌
+v 电镀
 
 cupboard
 食厨 橱柜
@@ -2132,7 +2139,7 @@ post him a letter
 sell her a new car  
 
 sell-sold-sold
-v 卖 出售
+v 卖 出售 促销 推销
 sell sb. sth.
 sell sth. to sb.
 
@@ -2141,9 +2148,6 @@ vt 拿来 带来
 
 tell-told-told
 vt 告诉 说
-
-hand
-vt 交 递 给 传
 
 buy-bought-bought
 vt 购买
@@ -2181,7 +2185,10 @@ The desk is on the right.
 The bed is on the left
 
 electric
-带电的 可通电的
+电的 电动的
+
+electricity
+n 电
 
 an electric cooker
 an electric shaver 
@@ -2191,7 +2198,7 @@ cooker
 炉子 炊具
 cook
 n.厨师
-v.煮 烧 做飯
+v.烹饪
 
 middle
 n. 中间
@@ -2199,22 +2206,24 @@ in the middle of 在...的中间
 
 The table is in the middle of the room
 
-of
-prep. ...的
-
 room
 房间
 living room 
 客厅 起居室
 living 
-n 生计 收入 
-adj 活着的 
+n 生活 生计 收入 
+a 活的(定语)
+
+alive
+a 活的（表语）
+he is alive
 
 dinner
 正餐 晚餐
 
 dine
 v 吃饭 进餐
+
 dining
 n 吃饭
 dining room
@@ -2261,7 +2270,7 @@ There be句型
 
 ```
 1.构成
-There be + (is,are) + 地点
+There be(is,are) + 地点
 2.有   拥有  have
 	   存在  There be
 
@@ -2269,12 +2278,9 @@ There be + (is,are) + 地点
 	There is + 单数名词
 	There are + 复数名词
 
-mind
-n 大脑 智慧
-
 There is an electric cooker in the kitchen.
 There is a refrigerator in the kitchen.
-There ia a fridge in the kitchen.
+There is a fridge in the kitchen.
 
 There are tow chairs in the room.
 There is a table in the middle of the kitchen
@@ -2287,7 +2293,10 @@ There is a table in the middle of the kitchen
 
 ```
 near
-prep. 接近 靠近
+a 近的
+ad 在附近 几乎 差不多
+p 在附近 接近 靠近
+
 一般prep.经常会放在n.或者pron.的前面  靠近XX
 near the table 
 near the door
@@ -2296,14 +2305,22 @@ near the window
 nearly
 adv 几乎 差不多
 
+nearby
+a 附近的 邻近的
+
 window
 窗户
 windows z
+
 widow
 寡妇 遗孀
 
 arm
-手臂
+n 手臂 扶手 袖子
+v 武装 装备
+
+armament
+n 武器 军备
 
 armchair
 扶手椅
@@ -2316,6 +2333,7 @@ wall
 
 the Great Wall
 Wall Street
+华尔街
 
 
 trousers
@@ -2398,7 +2416,6 @@ must
 model verb
 情态动词，情感，态度
 表示必要或很重要，必须
-提出建议，应该
 
 You must go out.
 Can you go out please?
@@ -2426,7 +2443,7 @@ Put your hand in your pocket.
 
 
 clothes
-n  衣服
+n 衣服
 
 clothes是一个没有单数形式的复数名词，其前不可加不定冠词，也不可加数词，但可用some，these，those，many，few等词修饰
 clothing是不可数名词。

@@ -930,6 +930,9 @@ adv 最 非常 极其
 valuable
 a 有价值的 宝贵的
 
+will
+n 意志 毅力
+
 willing
 v 愿意
 a 愿意 乐意
@@ -2793,15 +2796,19 @@ a 满的 充满的
 
 
 give
-v 1.给 交给
-2.赠送 送给
-3.举行 举办
-4.与名词连用描述某一动作，意义与该名词相应的动词相同
+v 1.给 交给 赠送 送给
+2.与名词连用描述某一动作，意义与该名词相应的动词相同
 give-gave-given
 
 
 give a speech
 发表演讲
+give a call
+打电话
+give a hand
+帮忙
+give a try
+试一试
 
 give sb a lift
 捎sb一程
