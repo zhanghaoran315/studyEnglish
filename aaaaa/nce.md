@@ -766,9 +766,12 @@ c 除非 如果不
 site
 n 地点 场所 位置 遗址
 
-It read, “I'm locked inside. Please call for help.”
 read
-v 阅读 写着 学习
+v 1.阅读 写着 学习
+2.查阅到 通过阅读得知
+
+It read, “I'm locked inside. Please call for help.”
+
 
 down
 p 向下 往下 沿着 顺着 朝着
@@ -2749,10 +2752,10 @@ shorten
 vt 缩短 减少
 
 weak
-adj 虚弱的 缺乏说服力的
+a 虚弱的 缺乏说服力的
 
 weaken
-vt 使虚弱 削弱
+v 使虚弱 削弱
 
 weakness
 n 弱点 缺点 软弱

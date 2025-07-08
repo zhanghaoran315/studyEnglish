@@ -2416,6 +2416,7 @@ must
 model verb
 情态动词，情感，态度
 表示必要或很重要，必须
+(提出建议)应该，得
 
 You must go out.
 Can you go out please?
@@ -2459,17 +2460,14 @@ wardrobe
 
 Put your coat in the wardrobe.
 
-sweep-swept-swept
+sweep
 v 打扫 清除
+sweep-swept-swept
 ```
 
 课文
 
 ```
-祈使句：用来表示命令、请求、建议等
-1.没有主语
-2.动词打头
-
 What must I do?
 
 句型
@@ -2492,6 +2490,9 @@ dust the table
 ```
 祈使句：用来表示命令、请求、建议等
 
+1.带动词 没有主语 动词打头
+2.不带动词 在口语、标语和紧急场合中尤为常见。
+
 1.表示命令：动词原型+....
 shut the door
 2.表示请求：please+动词原形+。。。
@@ -2504,7 +2505,7 @@ Let's go,ok?
 
 ```
 read
-v 1.读 看
+v 1.阅读 写着 学习
 2.查阅到 通过阅读得知
 
 看书 看报 看杂志
@@ -2512,31 +2513,25 @@ read a book
 read a newspaper
 read a magazine (不能用look)
 
-sharpen
-v 使锋利
-
 adj + en = v
 shorten 
 vt 缩短 减少
 
 weak
-adj 虚弱的
+a 虚弱的 缺乏说服力的
 
 weaken
-vt 使虚弱 削弱
+v 使虚弱 削弱
 
-take-took-taken 
-v 拿 取
+weakness
+n 弱点 缺点 软弱
 
 put on & take off
-
 穿衣服、戴眼镜、戴首饰，gloves，scarf
-
 
 turn on & turn off
 打开带电的设备
 turn on the television
-
 turn on the light
 
 tap
@@ -2589,6 +2584,7 @@ climb the mountain
 
 run-ran-run
 v 跑
+
 run after 
 追逐
 
