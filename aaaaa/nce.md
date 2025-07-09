@@ -1,6 +1,11 @@
 # construct
 
 ```
+meet
+v 满足 会面 迎接
+meet-met-met
+
+"meet needs and goals"译为"满足需求和目标"（保留动宾结构的完整性）
 
 good-looking
 a 好看的
