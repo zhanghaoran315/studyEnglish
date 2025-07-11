@@ -1,6 +1,9 @@
 # construct
 
 ```
+group
+n 群 组 集团
+
 regular
 a 定时的 定期的
 

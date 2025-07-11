@@ -477,6 +477,11 @@ more than
 no more
 不再
 
+no more than
+仅仅 才 (少)
+
+not more than
+最多 不超过 (多)
 
 
 less than
@@ -657,12 +662,6 @@ two fifty pounds notes.
 
 a fifty-cent coin
 a fifty cents coin
-
-no more than
-仅仅 才 (少)
-
-not more than
-最多 不超过 (多)
 
 
 come with

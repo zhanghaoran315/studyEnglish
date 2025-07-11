@@ -355,47 +355,48 @@ problem	问题/症状	医疗术语适配
 ✅ ​​最自然的说法​​：
 ​​"I'd like to schedule my regular medical check-up."​​
 （强调 ​​"预约"​​ 体检时间，最符合日常场景）
-
-翻译解析与优化​​
-​​1. 核心信息拆解​​
-​​"no less than two years of experience"​​ → ​​"至少两年经验"​​
-"no less than" 在中文里直接译为​​"至少"​​更自然，无需直译成"不少于"。
-​​"not necessarily in advertising"​​ → ​​"（不限定广告行业）"​​
-括号补充说明，符合中文招聘文案习惯。
-​​"Lisa's got..."​​ → ​​"Lisa有……"​​
-中文口语中常省略主语后的动词（如"有"），但此处保留更清晰。
-
-
-
+============================================
 ​​"Any requirement?"​​
 口语化缩写，完整应为 "Are there any requirements?"
 此处可能想表达：
 ​​询问对方是否有附加条件​​（如工作职责、技能要求等）。
 或 ​​确认是否需要进一步信息​​（如申请流程）。
+============================================
+原文：​​ "Salespeople with no less than two years of experience, not necessarily in advertising."
 
-​​"No."​​
-简短否定，中文直接译为​​"不"​​或​​"没有"​​（根据上下文）。
-​​"Just the paid trips to Paris on top of the salary."​​
-​​"paid trips"​​ → ​​"公费旅行"​​（强调公司承担费用）。
-​​"on top of the salary"​​ → ​​"工资之外"​​（额外福利）。
+​​1. 完整翻译（自然口语化）​​
+✅ ​​"需有至少两年销售经验（不限于广告行业）。"​​（直译，清晰）
+✅ ​​"招销售，两年以上经验就行，不卡行业！"​​（口语化，带网感）
+✅ ​​"须有二年售货之历，然非必于广而告之业。"​​（文言简版）
 
+​​2. 关键解析​​
+​​英文部分​​	​​中文处理要点​​	​​优化逻辑​​
+"no less than two years"	"至少两年" → ​​"两年以上/满两年"​​	中文招聘常用表述
+"not necessarily in advertising"	"不一定是广告行业" → ​​"不限定行业/不卡行业"​​	本土化招聘黑话
+"salespeople"	"销售人员" → ​​"销售岗/业务员"​​	按岗位级别调整
+==========================================================
+原文：​​ "No. Just the paid trips to Paris on top of the salary."
 
+​​1. 完整翻译（自然口语化）​​
+✅ ​​"不，只有工资之外的巴黎公费旅行。"​​（直译，清晰）
+✅ ​​"想啥呢！工资照拿还包巴黎游！"​​（口语化，带网感）
+✅ ​​"非也，俸外另赐巴黎之游。"​​（文言简版）
+
+​​2. 关键解析​​
+​​英文部分​​	​​中文处理要点​​	​​优化逻辑​​
+"No."	"不" → ​​"想啥呢/做梦呢"​​	根据上下文补充情绪
+"paid trips"	"付费旅行" → ​​"公费旅游/公司包游"​​	职场福利常用表述
+"on top of the salary"	"在工资之外" → ​​"工资照拿还包/额外"​​	强调福利叠加
+==============================================================
 "English country house"（英国乡村宅邸）：特指英国贵族的大型乡村住宅，
 兼具居住与艺术价值（如《唐顿庄园》的取景地Highclere Castle也属此类）。
-
-② 第二分句： "It has been home to the Howard family for more than 300 years."
-•  主语（Subject）: It（指代Castle Howard）
-•  谓语（Predicate）: has been（现在完成时，强调从过去持续至今的状态）
-•  宾语（Object）: home to the Howard family（霍华德家族的住所） ◦
-"home to" 固定搭配，表示“是…的居所”（类似 "home of"，但更强调归属感）。
-•  时间状语（Adverbial）: for more than 300 years（300多年来）
-
-
-pathways through a wooded setting → ​​森林小径​​（意译，"wooded setting"不直译"林木环境"）
+==============================================================
+pathways through a wooded setting → 
+​​森林小径​​（意译，"wooded setting"不直译"林木环境"）
 
 wooded
 a 长满树木的
-
+===========================
 
 原文：​​
 "How did they like the prize?"
