@@ -1184,7 +1184,7 @@ still
 adv 还 仍然
 
 yet
-conj 然而 但是
+conj 然而 但是(but)
 adv 87
 1.疑问句句末-已经
 2.否定句句尾-还 仍

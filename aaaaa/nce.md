@@ -1,6 +1,18 @@
 # construct
 
 ```
+meet
+v 满足 会面 迎接
+meet-met-met
+
+"meet needs and goals"译为"满足需求和目标"（保留动宾结构的完整性）
+
+good-looking
+a 好看的
+
+easy-going
+a 随和的 好相处的
+
 vote
 n 投票 票 投票总数
 v 投票 表决
@@ -759,9 +771,12 @@ c 除非 如果不
 site
 n 地点 场所 位置 遗址
 
-It read, “I'm locked inside. Please call for help.”
 read
-v 阅读 写着 学习
+v 1.阅读 写着 学习
+2.查阅到 通过阅读得知
+
+It read, “I'm locked inside. Please call for help.”
+
 
 down
 p 向下 往下 沿着 顺着 朝着
@@ -922,6 +937,9 @@ adv 最 非常 极其
 
 valuable
 a 有价值的 宝贵的
+
+will
+n 意志 毅力
 
 willing
 v 愿意
@@ -2739,10 +2757,10 @@ shorten
 vt 缩短 减少
 
 weak
-adj 虚弱的 缺乏说服力的
+a 虚弱的 缺乏说服力的
 
 weaken
-vt 使虚弱 削弱
+v 使虚弱 削弱
 
 weakness
 n 弱点 缺点 软弱
@@ -2786,15 +2804,19 @@ a 满的 充满的
 
 
 give
-v 1.给 交给
-2.赠送 送给
-3.举行 举办
-4.与名词连用描述某一动作，意义与该名词相应的动词相同
+v 1.给 交给 赠送 送给
+2.与名词连用描述某一动作，意义与该名词相应的动词相同
 give-gave-given
 
 
 give a speech
 发表演讲
+give a call
+打电话
+give a hand
+帮忙
+give a try
+试一试
 
 give sb a lift
 捎sb一程
