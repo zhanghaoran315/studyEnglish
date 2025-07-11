@@ -197,6 +197,9 @@ B. "Just a joke!"
 Fine with me	我没问题	中性/积极
 行吧	勉强接受
 
+that is all right
+没事了 没关系
+
 ========================================
 原文（修正后）：​​ "Betty told me last time that she often spent the waiting time writing a to-do list so that she wouldn't miss anything in the days to come."
 
@@ -254,7 +257,6 @@ above all	最重要的是	突出情感优先级
 spend time with	共度时光	动词短语情感升级
 
 
-
 英文要素	中文处理	策略
 Of course!	当然好啊！	感叹词情感强化
 It's been ages	好久没见	时间夸张表述转换
@@ -262,9 +264,7 @@ dinner party	晚餐聚会/聚餐	按场合正式度选择
 
 
 核心概念显化
-
 "specially designed"译为"量身定制"（比"特别设计"更精准，突出个性化）
-
 "meet needs and goals"译为"满足需求和目标"（保留动宾结构的完整性）
 
 句式重组
@@ -278,32 +278,16 @@ dinner party	晚餐聚会/聚餐	按场合正式度选择
 专业术语适配
 
 "strength of the program"译为"项目优势"（教育领域通用表述）
-
 "specific needs"译为"具体需求"（避免直译"特殊需求"可能引发的歧义）
+==========================================
+​​翻译解析：​​
+​​原文（修正后）：​​ "In addition, you can enter the Language Center Bonus Project, 
+which will allow you to have extra English hours with a native speaker."
 
-
-术语精准化
-
-"Language Center Bonus Project" → “‘语言中心奖励计划’”
-
-保留英文专有名词并添加引号，中文补充“计划”明确性质。
-
-"extra English hours" → “额外英语课时”（教育领域标准表述）。
-
-被动转主动
-
-"which will allow you to..." → “可额外获得...”
-
-英文被动结构转为中文主动句式，更符合表达习惯。
-
-文化适配
-
-"with a native speaker" → “与母语者一对一学习”
-
-中文强调“一对一”以体现价值，避免直译“和母语者一起”的模糊性。
-
-
-以下是该句子的中文翻译及解析：
+​​1. 完整翻译（自然口语化）​​
+✅ ​​"此外，你还可以加入语言中心的‘加分项目’，额外获得与母语者练习英语的课时。"​​（直译，清晰）
+===========================================================
+Professor Jackson, could I talk to you about my paper sometime today?
 
 ​​翻译：​​
 "杰克逊教授，请问今天方便和您讨论一下我的论文吗？"
@@ -318,7 +302,9 @@ dinner party	晚餐聚会/聚餐	按场合正式度选择
 ​​动词精准转换​​：
 "talk about" → "讨论"（学术场景标准用词，比"谈谈"更正式）
 
-
+==================================================
+I need to prepare class notes and hold office hours. 
+ However, I spend nearly two-thirds of mytime doing research
 ​​翻译要点解析​​
 ​​"prepare class notes" → "备课"​​
 中文习惯用"备课"（preparing for lectures）代替直译的"准备课堂笔记"，更符合教师工作场景。
@@ -331,72 +317,44 @@ dinner party	晚餐聚会/聚餐	按场合正式度选择
 英文用分数表达时间分配，中文同样适用，但可加"都花在..."使句子更流畅。
 ​​"doing research" → "科研"​​
 在学术语境中，"research" 常译为"科研"（科学研究），比"做研究"更简洁正式。
+===================================
+​​翻译解析：​​
+​​原文：​​ "I'm so sorry I shouted at you yesterday, I feel awful."
 
+​​1. 完整翻译（自然口语化）​​
+✅ ​​"昨天对你大吼大叫真的很抱歉，我特别内疚。"​​（直译，真诚）
+✅ ​​"昨天凶你是我的锅，现在越想越难受..."​​（口语化，带网感）
+✅ ​​"昨日呵斥，吾甚愧之。"​​（文言简版）
 
-
-
-英文要素	中文处理	策略
-so sorry	真的很抱歉	程度副词转换
-shouted at	大喊大叫	动词短语具象化
-feel awful	懊悔极了	情感词汇升级
+​​2. 关键解析​​
+​​英文部分​​	​​中文处理要点​​	​​优化逻辑​​
+"I'm so sorry"	"非常抱歉" → ​​"我的锅/我错了"​​	年轻群体常用道歉术语
+"shouted at you"	"对你大喊" → ​​"凶你/吼你"​​	口语化情绪表达
+"feel awful"	"感觉糟糕" → ​​"内疚/难受"​​	中文更倾向具体情绪描述
+====================================
+It's all right. I know you've been under a lot of pressure lately.
 
 英文要素	中文处理	策略
 It's all right	没关系	万能安抚用语
 under pressure	压力大	介词结构简化
 lately	最近	时间副词前置
+=================================
+Certainly. What seems to be the problem?
 
-
-医疗场景术语
-
-"make an appointment" → “预约”（医疗场景固定用语）
-"see Dr. Ross" → “罗斯医生的门诊”（中文习惯用“门诊”涵盖问诊行为）
-
-句式简洁化
-英文不定式（to see）转为中文动宾短语，符合口语习惯。
-
-正式度分级
-电话预约：“您好，我想挂罗斯医生的号。”（“挂号”更本土化）
-邮件预约：“烦请安排罗斯医师的面诊预约
-
-
-翻译解析：
 专业场景适配
 "Certainly" → “好的”（医疗场景常用应答词，比“当然”更自然）
 "What seems to be the problem?" → “请问是什么问题？”（标准医患对话开场白）
-委婉语气保留
-中文补充“请问”以维持英文的礼貌性（"seems to be"的隐含委婉）。
-口语化变体
-儿科诊所：“来，告诉阿姨哪里不舒服呀？”
-急诊分诊：“具体什么症状？”
 
 中英对比：
 英文要素	中文处理	策略
 Certainly	好的	服务场景惯用应答
 seems to be	请问…	委婉语气显性化
 problem	问题/症状	医疗术语适配
-场景扩展：
-电话预诊：“请描述下您的主要不适。”
-
-复诊接待：“这次来复查什么情况？”
-
-
-
-您想表达的是 ​​"我希望安排/进行常规体检"​​，但需要根据具体场景选择最自然的英文表达。以下是详细解析：
 
 ​​1. 核心动词选择​​
 ✅ ​​最自然的说法​​：
 ​​"I'd like to schedule my regular medical check-up."​​
 （强调 ​​"预约"​​ 体检时间，最符合日常场景）
-​​"I need to get my regular medical examination."​​
-（强调 ​​"需要做"​​ 体检，动作导向）
-⚠️ ​​注意区别​​：
-​​"have"​​ + 体检：语法正确，但偏向英式英语（如："I have a medical next week." 英式口语）。
-​​"get"​​ + 体检：美式更常用，强调主动获取服务。
-​​"schedule"​​：明确指向 ​​"安排时间"​​，适合正式预约场景。
-​​2. 名词搭配优化​​
-​​"regular medical examination"​​ → 正式（多用于书面）
-​​"regular check-up"​​ → 更口语化（美式常用）
-​​"annual physical"​​ → 特指 ​​"年度体检"​​（北美高频词）
 
 翻译解析与优化​​
 ​​1. 核心信息拆解​​

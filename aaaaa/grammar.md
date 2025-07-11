@@ -942,6 +942,24 @@ many students
 I haven't got much either!
 ```
 
+another
+
+```
+another 
+det./pron. 另一个
+There is another book in my bag
+
+1.anothor+可数名词单数
+anothor后接可数名词单数要直接接
+Here is anothor photograph
+
+
+2.another+数词+名词复数
+I need another two hammers.
+```
+
+
+
 ## 完全否定和部分否定
 
 ```
@@ -1044,7 +1062,8 @@ A book is
 A tree is
 Tom is
 
-英语的人称顺序 1.单数人称遵循：第二人称、第三人称、第一人称的顺序(231)
+英语的人称顺序 
+1.单数人称遵循：第二人称、第三人称、第一人称的顺序(231)
 You, he and I must clean up the classroom.
 
 2 复人称遵循：第一称、第二称、第三称的顺序(123)
@@ -1995,6 +2014,8 @@ Nowhere
 # 介词
 
 ```
+介词前放动词，介词后放名词、代词、动名词
+
 near
 prep. 接近 靠近
 一般 prep.经常会放在 n.或者 pron.的前面 靠近 XX

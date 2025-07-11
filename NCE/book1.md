@@ -2647,9 +2647,15 @@ clean cleanning   XXXX
 open openning  XXX
 
 4.例外
+death
+n 死
+
 die
 v 死亡
 dying
+
+dead
+a 死的
 
 I watch TV
 
@@ -2741,8 +2747,6 @@ What about you?
 I am a teacher. What about you?
 What about this dress?
 What about his English?
-
-
 ```
 
 单词
@@ -2795,17 +2799,13 @@ suck the breast
 bone
 骨头
 
-clean
-adj 干净的
-v 使清洁 使变干净
-
 meal
 饭 一顿饭
 
-drink-drank-drunk
+drink
 n 饮料
 v 喝
-drink-drank
+drink-drank-drunk
 drink water
 drink tea
 drink coffee
@@ -2844,8 +2844,7 @@ sunblock
 防晒霜
 
 shine
-n 阳光
-v 发光 擦亮 闪耀
+v 闪耀 发光 照耀 擦亮 
 shine-shone-shone
 
 sunshine
@@ -2858,7 +2857,7 @@ prep. 和...在一起(附带 伴随)
 
 He is with his new grilfriend.
 I am with my new sunglasses.
-The house is width a garden
+The house is with a garden
 
 人与人 人与物 物与物
 
@@ -2882,9 +2881,10 @@ Are you the family of ... ?
 你们是...的家属
 
 over
-prep. 
-1.跨越 上方(不接触的)
-2.在...的对边/在...另一边
+p 在...期间 
+在...上面（正上方）
+穿过 通过（到达高的障碍物，篱笆，山脉）
+在...的对面 在...的另一边
 
 He is walking over the bridge.
 The bird is flying over the river
@@ -2928,10 +2928,10 @@ n v 睡觉
 sleep-slept-slept
 
 shave
-n v 刮胡子 剃須
+v 刮胡子 剃发 削减 降价
 
 shaver
-剃须刀
+n 理发师 剃须刀
 
 cry
 n v 哭
@@ -3038,7 +3038,7 @@ for ever  85
 adv 永远
 
 along
-prep. 沿
+p 沿
 
 bank
 河岸 银行  C
@@ -3092,10 +3092,13 @@ I am off to bed now.
 ```
 介词on的意思 
 1.在...之上
+2.在...旁边，靠近
 
-over的意思 
-1.跨越 在...之上(不接触)
-2.在...对面/在...另一边
+over
+p 在...期间
+在...上面
+穿过 通过
+在...的对面 在...另一边
 
 There is a bridge over the river.
 Platform two is over the bridge.
@@ -3136,11 +3139,16 @@ I, you and he are sorry for being late.
 We, you and they are sorry for being late.
 
 across与over
-across 从平面的一边到另一边
+across
+p 穿过（表面穿过，马路、桥、河）
 come across the street
 run across the playground
 
-over 翻越
+over
+p 在...期间
+在...的上面
+穿过 通过（到达高的障碍物，篱笆，山脉）
+在...的对面/在...另一边
 climb over the gate
 jump over the wall
 
@@ -3209,7 +3217,7 @@ This is a photograph of our village.
 作定语的名词是无生命的时候，往往采用名词所有格of的形式
 
 cover
-n 封面 盖子
+n 封面 盖子 遮盖物 床单
 v 覆盖 遮盖
 
 The window of this room is open
@@ -3261,21 +3269,11 @@ I know him well.
 hard work   adj 艰苦的工作
 work hard   adv 努力地工作
 
-make-made-made
-n 牌子
-v 做 制造
-
-What make is it?
-make the bed 
-整理床铺
-make a bookcase\make a bookshelf
-
-bookcase
-bookshelf
-书架
 
 paint
-v 涂色 上色
+n 油漆 颜料
+v 做画 上油漆 涂颜料
+
 painting 
 n 画
 
@@ -3342,20 +3340,21 @@ wise
 adj 精明的 明智的 
 
 poem
+poetry
 诗歌
 
 witty
 adj 言辞诙谐的 机智的
 
 subtle
-adj 巧妙的 机智的
+a 巧妙的 机智的
 
 philosophy
 n 哲学
 
 deep
-adj 深的 深沉的
-adv 深深地
+a 深的 深沉的
+a 深深地
 
 
 历史使人明智
@@ -3509,8 +3508,7 @@ The flower is going to fade.
 
 fade
 n 淡入 淡出 
-v 褪色 凋谢
-adj 平淡的 乏味的
+v 褪色 凋谢 衰退 逐渐消失
 
 angry
 生气的 愤怒的
@@ -3520,7 +3518,7 @@ She will be happy if you come.
 She will be angry if you absent.
 
 imagine
-v 猜想 认为
+v 想象 认为
 
 box-office
 n 票房收入
@@ -3533,7 +3531,7 @@ Will you open the window please?
 
 Will you come with me?
 
-Please turn off the lights before you leave.  ????
+Please turn off the lights before you leave. 
 
 Yes, I will.
 

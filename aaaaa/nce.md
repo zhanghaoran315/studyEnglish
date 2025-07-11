@@ -1,6 +1,23 @@
 # construct
 
 ```
+regular
+a 定时的 定期的
+
+evaluate
+v 评价 评估 估计
+
+subtle
+a 巧妙的 机智的
+
+warm
+v 使温暖 变暖和
+a 温暖的 热心的
+
+cover
+n 封面 盖子 遮盖物 床单
+v 覆盖 遮盖
+
 meet
 v 满足 会面 迎接
 meet-met-met
@@ -475,9 +492,6 @@ v 喷 喷洒
 weed
 n 杂草 野草
 
-beg
-v 乞求 恳求
-
 rake
 v 耙松 耙平
 
@@ -541,12 +555,8 @@ n 曲调 曲子
 dance to the tune
 伴着曲调跳舞
 
-
 colleague
 n 同时 同僚
-
-given
-p 鉴于 考虑到
 
 graphic
 n 图表
@@ -636,7 +646,10 @@ n 英语
 a 英语的 英国的
 
 awful
-a 很坏的
+a 可怕的 很坏的
+
+awfully
+ad 可怕地 十分 非常
 
 aim
 n 目的 目标
@@ -2726,7 +2739,6 @@ int (用于请求别人重复某事)什么，请再说一遍
 beg
 v 恳求 乞求
 
-
 beggar
 n 乞丐
 
@@ -2738,6 +2750,7 @@ regret to do sth
 对即将要做的事情表示遗憾或抱歉（通常用于正式场合）
 
 regret to say/tell/inform/announce.
+遗憾的说
 
 regret doing sth
 后悔已经做过的事
@@ -2807,6 +2820,9 @@ give
 v 1.给 交给 赠送 送给
 2.与名词连用描述某一动作，意义与该名词相应的动词相同
 give-gave-given
+
+given
+p 鉴于 考虑到
 
 
 give a speech
