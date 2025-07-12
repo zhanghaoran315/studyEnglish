@@ -15,7 +15,7 @@
 savings account”固定译为“储蓄账户”（国内银行通用术语）
 
 ============================================
- "I read the job description and discovered a few interesting programs that I'd like to be a part of."
+"I read the job description and discovered a few interesting programs that I'd like to be a part of."
 
 ​​1. 完整翻译（自然口语化）​​
 ✅ ​​"我看了职位描述，发现了一些很想参与的特色项目。"​​（直译，专业）
@@ -387,10 +387,43 @@ problem	问题/症状	医疗术语适配
 "No."	"不" → ​​"想啥呢/做梦呢"​​	根据上下文补充情绪
 "paid trips"	"付费旅行" → ​​"公费旅游/公司包游"​​	职场福利常用表述
 "on top of the salary"	"在工资之外" → ​​"工资照拿还包/额外"​​	强调福利叠加
+
+========================================
+原文：​​ "Could I get you to answer a few questions?"
+
+​​1. 完整翻译（自然口语化）​​
+✅ ​​"能请您回答几个问题吗？"​​（礼貌正式）
+✅ ​​"方便帮忙填个问卷不？就几分钟~"​​（轻松友好）
+✅ ​​"愿答数问否？"​​（文言精简版）
+
+​​2. 关键解析​​
+​​英文表达​​	​​中文适配方案​​	​​适用场景​​
+"Could I get you to..."	​​"能请您.../方便...吗？"​​	礼貌请求
+"answer questions"	​​"回答问题/填问卷"​​	书面/口头差异
+"a few"	​​"几个/几分钟"​​	弱化负担感
+=========================================
+原文：​​ "Try to have the buses arrive on time."
+
+​​1. 完整翻译（自然口语化）​​
+✅ ​​"尽量让公交车准时到站。"​​（直译，清晰）
+✅ ​​"公交别晚点啊！"​​（口语化，带抱怨感）
+✅ ​​"务使巴士准时。"​​（文言简版）
+
+​​2. 关键解析​​
+​​英文部分​​	​​中文处理要点​​	​​优化逻辑​​
+"Try to have"	"尽量让" → ​​"确保/争取"​​	根据语气强度调整
+"buses arrive"	"公交车到站" → ​​"公交别晚点"​​	口语化处理
+"on time"	"准时" → ​​"准点/正点"​
 ==============================================================
 "English country house"（英国乡村宅邸）：特指英国贵族的大型乡村住宅，
 兼具居住与艺术价值（如《唐顿庄园》的取景地Highclere Castle也属此类）。
 ==============================================================
+​​原文：​​ "It is known for flowering plants, fruit trees and pathways through a wooded setting."
+
+​​1. 完整翻译（自然口语化）​​
+✅ ​​"这里以缤纷的花卉、繁茂的果树和幽静的林间小径闻名。"​​（文学化表达）
+
+
 pathways through a wooded setting → 
 ​​森林小径​​（意译，"wooded setting"不直译"林木环境"）
 
