@@ -189,7 +189,7 @@ Although 不能用于句末
 
 though
 c 虽然 尽管
-ad 可是 然而
+ad 可是 然而 不过
 
 even more
 更多地 更多的

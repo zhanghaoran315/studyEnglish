@@ -589,9 +589,6 @@ ad 以后 后来 稍后
 excellent
 a 极好的 杰出的
 
-over there
-adv. 在那里
-
 bit
 n 一点 稍微
 
@@ -1268,14 +1265,14 @@ v 1.拿 取
 
 A boy took us to our room.
 
-
 The team took a terrible beating.
 
 take a pre-university course
 
 She can't take criticism
 
-"take + 名词 + to do sth." 表示 “凭借某种品质/资源去做某事”。
+take + 名词 + to do sth.
+表示 “凭借某种品质/资源去做某事”。
 take the courage to do sth.（鼓起勇气做某事）。
 
 take my advice.
@@ -1305,6 +1302,8 @@ take place
 take the place of
 take the place
 代替
+
+
 
 take care of
 照顾 照料

@@ -3603,16 +3603,25 @@ vases（复数）
 花瓶
 
 drop
-n 下降 滴
-v 掉下 降低
+n 滴
+v 落下 掉下 减少 降低 中途卸客
 drop the vase
 
 flower
 n 花
 
-take v 拿 取
+take
+v 1.拿 取
+2.接收 采取
+3.遭受 经受 承受 忍受
+4.学习 读 修
+5.带去 引领
 take him the book
 take the book to him
+
+take + 名词 + to do sth
+表示 “凭借某种品质/资源去做某事”。
+take the courage to do sth.（鼓起勇气做某事）。
 
 take 
 带走 近到远
