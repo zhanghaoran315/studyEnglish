@@ -1,6 +1,35 @@
 # construct
 
 ```
+work
+n 工作 作品（可数）
+v 奏效 产生预期的结果(或作用) 运转 运行
+
+work with
+与...共事
+对...有效
+
+work on
+从事于
+
+work for
+为...而工作，受雇于
+I work for a big company.
+
+work out
+解决 算出 锻炼
+
+working out
+健身
+
+英语中常用 work out 表达“自然解决”或“通过努力达成”，类似中文的“水到渠成”。
+
+"Don't worry. Everything will work out."（别担心，一切都会好起来的。）
+
+elder
+n 长者 年长者
+a 年纪较大的
+
 group
 n 群 组 集团
 
@@ -536,11 +565,33 @@ n 董事 经理 主任 负责人
 comedy
 n 喜剧
 
+instead
+ad 代替 相反 
+
+instead of
+代替
+
 papaya
 n 木瓜
 
 childish
 a 幼稚的 孩子气的；天真的；稚嫩的
+
+now that
+既然 由于
+
+have to do with sth.
+与...有关
+
+text
+n 文本
+v 发短信
+
+text-messaging
+发短信
+
+sort of
+（口语）= 有点/某种程度上
 
 accompany
 v 陪伴 伴随 与...同时发生
@@ -550,7 +601,7 @@ be accompanied by
 
 dance
 n
-c 跳舞
+v 跳舞
 
 tune
 n 曲调 曲子
@@ -559,7 +610,7 @@ dance to the tune
 伴着曲调跳舞
 
 colleague
-n 同时 同僚
+n 同事 同僚
 
 graphic
 n 图表
@@ -1401,6 +1452,7 @@ n 1.转动 旋转
 2..轮流的机会
 v.1 转动 旋转
 2.变成 成为
+3.求助于
 
 turn ... to ...
 turn ... into ...
@@ -1443,8 +1495,7 @@ v 抽签 抓阄
 det 大量 许多
 ad 很 非常
 
-draw lots
-抽签
+
 
 till
 conj
@@ -2129,7 +2180,7 @@ n 聪明的 精明的
 
 stupid
 n 傻子 笨蛋
-adj 愚蠢的
+a 愚蠢的
 
 move
 n

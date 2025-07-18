@@ -2811,7 +2811,7 @@ Do you smoke? → ​​No, I don't.​​
 ​​委婉提问​​：加"perhaps"软化语气
 Perhaps you could help me?（比 Can you help me? 更礼貌）
 需要更多例句或专项练习吗？ 😊
-
+========================================================
 否定转移​是怎么样的
 ​​否定转移（Transferred Negation）深度解析​​
 ​​1. 核心概念​​
@@ -3331,7 +3331,23 @@ I recommend this book.（我​​推荐​​这本书）
 "feature film"→ ​​"正片/长片"​​（区别于短片）
 
 需要补充更多领域的具体用例吗？ 📚💡
+======================================
+What is it like living in on-campus housing?
+住在校园宿舍是什么体验？
 
+解析：
+"on-campus housing" 指大学校园内的宿舍或公寓，区别于校外租房（off-campus housing）。
+句型 "What is it like..." 用于询问对某事物的感受或描述，类似中文的"...怎么样？"。
+时态使用现在进行时（living）强调当前持续的居住状态。
+
+"What do you know about...?"
+是询问对某人或某事的了解程度，中文对应“你了解…吗？”或“你知道…的哪些情况？”。
+
+"What do you know about Jane's past?"
+→ “你知道简的过去吗？”
+
+"What do you know about this plan?"
+→ “你对这个计划了解多少？”
 
 
 

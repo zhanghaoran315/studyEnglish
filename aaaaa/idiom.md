@@ -767,20 +767,7 @@ stay away
 stay away from
 躲避；离…远；不在家
 
-now that
-既然 由于
 
-have to do with sth.
-与...有关
-
-text
-n 文本
-v 发短信
-
-text-messaging
-发短信
-
-"sort of"（口语）= 有点/某种程度上
 
 text a lot
 发很多短信
@@ -804,33 +791,6 @@ as ... as possible
 
 as soon as possible
 “尽快”（通用） / “越快越好”（口语）。
-
-work
-n 工作 作品（可数）
-v 奏效 产生预期的结果(或作用) 运转 运行
-
-work with
-与...共事
-对...有效
-
-
-work on
-从事于
-
-work for
-为...而工作，受雇于
-I work for a big company.
-
-work out
-解决 算出 锻炼
-
-working out
-健身
-
-英语中常用 work out 表达“自然解决”或“通过努力达成”，类似中文的“水到渠成”。
-
-"Don't worry. Everything will work out."（别担心，一切都会好起来的。）
-
 
 booked up
 预订一空的
