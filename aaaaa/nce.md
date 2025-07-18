@@ -1,6 +1,9 @@
 # construct
 
 ```
+alright
+a 好的
+
 work
 n 工作 作品（可数）
 v 奏效 产生预期的结果(或作用) 运转 运行
