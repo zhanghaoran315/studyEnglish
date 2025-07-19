@@ -1,6 +1,15 @@
 # construct
 
 ```
+Or rather 
+“不对”（口语修正） / “确切地说”（正式）。
+
+freak
+n 狂人
+
+pull-up
+n 引体向上
+
 alright
 a 好的
 
@@ -849,6 +858,9 @@ down
 p 向下 往下 沿着 顺着 朝着
 ad 向下
 a 沮丧
+
+down the street
+在街边
 
 hug
 n
@@ -1838,8 +1850,7 @@ n 锁
 v 锁 使固定
 
 
-fluent
-a 流利的 流畅的
+
 
 snail
 n 蜗牛
@@ -2034,6 +2045,35 @@ keep up with
 
 keep in mind
 记住
+
+​1. 基本含义​​
+​​"keep doing"​​ 表示 ​​"持续/反复做某事"​​，强调动作的重复性或状态的延续性，常带有 ​​"停不下来" 或 '让人不耐烦'​​ 的隐含情绪。
+
+​​例句​​:
+She keeps laughing at my jokes.
+（她一直笑我的笑话 → 可能是捧场，也可能是尴尬）
+My phone keeps ringing at night.
+（我手机半夜老是响 → 隐含烦躁）
+​​2. 与原句的关联​​
+在 "My honey keeps begging..." 中：
+
+​​动作重复性​​：伴侣反复请求，可能是撒娇（正向）或纠缠（负向）。
+​​隐含情绪​​：需通过上下文判断是甜蜜还是抱怨。
+​​对比​​:
+
+甜蜜版："TA老是撒娇求我啦～"（"老是"对应"keeps"）
+抱怨版："TA没完没了地求我"（"没完没了"强化重复性）
+​​3. "Keep" 的其他常见用法​​
+结构	含义	例句
+​​keep + doing​​	持续做某事（强调动作）	He keeps forgetting my birthday.（他总忘记我生日）
+​​keep + adj.​​	保持某种状态	Keep quiet!（保持安静！）
+​​keep + 宾语 + adj.​​	使…保持某种状态	Coffee keeps me awake.（咖啡让我清醒）
+​​keep on + doing​​	继续做（更口语化）	She kept on talking.（她一直说个不停）
+​​4. 中文如何体现 "keep" 的重复性？​​
+英文用 ​​"keeps begging"​​ → 中文可用以下词汇匹配语境：
+
+​​正向​​：老是、总爱、一直（例："TA总爱求我"）
+​​负向​​：没完没了、动不动就、反复（例："TA动不动就求我"）
 
 touch
 n v 触摸
@@ -2804,6 +2844,7 @@ v 后悔 遗憾
 
 regret to do sth
 对即将要做的事情表示遗憾或抱歉（通常用于正式场合）
+遗憾做某事
 
 regret to say/tell/inform/announce.
 遗憾的说

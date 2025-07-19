@@ -1213,7 +1213,10 @@ But I do believe that I can improve with a lot of practice.​
 
 说英语也没那么容易,但我确实相信，通过大量练习我能进步。
 =====================================================
-
+​​"My heart missed several beats. 
+​"我的心脏漏跳了几下。"​​
+​​隐含意义​​：形容因​​紧张、惊吓、心动​​等情绪导致的生理反应。
+==========================================
 I didn't remember when and how it was stolen.
 ​​翻译：​​
 ​​"我不记得它是何时以及如何被偷走的。"​​
@@ -1237,19 +1240,35 @@ I didn't remember when and how it was stolen.
 
 ​​报警或陈述事实​​时使用，语气客观，强调记忆的缺失。
 ​​小说或回忆录​​中，可稍加文学化处理，如："那东西究竟何时、如何不翼而飞，我竟毫无印象。
-
 ==============================
-​​"Not really"​​ → ​​"不完全是"​​（保留英语模糊否定，比直接译"不是"更自然）
+I greatly regretted not being careful of the thief,
+​​翻译解析与优化​​
+​​1. 原文结构拆解​​
+​​情绪表达​​：I greatly regretted... → ​​"我非常后悔……"​​
+​​后悔内容​​：not being careful of the thief → ​​"没有提防小偷"​​
+​​2. 翻译要点​​
+​​英文部分​​	​​直译​​	​​优化策略​​	​​自然中文表达​​
+greatly regretted	"非常后悔"	强化语气 → ​​"后悔莫及"​​	​​"肠子都悔青了"​​
+not being careful	"没有小心"	本土化 → ​​"没提防"​​	​​"大意了"​​
+the thief	"小偷"	语境补充 → ​​"扒手"​​	​​"三只手"​
 ==============================
-
-
-
 ​​"We move a lot."​​ → ​​"我们经常搬家。"​​
 "a lot"译为"经常"而非"很多"，符合中文表达习惯
 补充"搬家"明确动作（英文move可泛指迁移）
-
-
 =====================
+It's very nice of you...
+你真是太好了
+to invite me → ​​"邀请我"​
+=====================
+a highly respected wise president in Yale history
+耶鲁历史上备受尊敬的睿智校长
+
+highly respected	"高度受尊敬的"	本土化 → ​​"德高望重的"​​	​​"备受景仰的"​​
+wise president	"睿智的校长"	正式化 → ​​"英明校长"​​	​​"智慧领袖"​​
+in Yale history	"在耶鲁历史上"	精简 → ​​"耶鲁校史上"​​	​​"耶鲁校史中"​
+=====================
+​​"Not really"​​ → ​​"不完全是"​​（保留英语模糊否定，比直接译"不是"更自然）
+==============================
 Does it come with the job?
 ​​翻译：​​
 ​​"这是工作带来的（变动）吗？"​​
@@ -1259,7 +1278,7 @@ Does it come with the job?
 ​​文化适配​​：
 英文"come with the job"是职场惯用语，中文需补充"带来"明确因果关系
 括号内"变动"可省略（前文提过搬家），但保留则更易理解
-
+======================================
 
 sales floor → “销售部”（口语） / “销售区域”（正式）。
 don't have to worry → “不用纠结”（口语） / “减少顾虑”（正式）。
@@ -1306,14 +1325,11 @@ Chatting with coworkers keeps me energized.	“和同事聊聊天就有干劲。
 "Collaboration is my strength. I find solo tasks less motivating."
 ​​中文模板​​:
 ​​“我擅长协作型工作，独自完成任务会缺乏动力。”​​
-
-需要调整语气或补充其他职场表达吗？ 😊
-
 ==============================
-
 ​​解析 "the fact" 的用法与翻译​​
 ​​1. 原文语境回顾​​
-在句子 "I like the fact that I get to work with people." 中，​​"the fact"​​ 用于引出具体内容（that 从句），强调“与人共事”这一客观情况是喜欢的理由。
+在句子 "I like the fact that I get to work with people." 中，​
+​"the fact"​​ 用于引出具体内容（that 从句），强调“与人共事”这一客观情况是喜欢的理由。
 
 ​​2. 核心功能分析​​
 ​​语法作用​​：
@@ -1353,6 +1369,49 @@ The fact remains that we lost.	"事实是我们输了。"	"说到底，我们还
 → ​​"我欣赏的恰恰是你道歉了这一点。"​​
 需要进一步分析其他含"fact"的句子吗？ 😊
 
+​​关于 "remain" 的深度解析​​
+​​1. 核心作用​​
+✅ ​​强调事实的持续性​​：
+
+表明"我们输了"这一事实 ​​至今未改变​​，隐含"尽管有其他观点或努力，但结果不变"。
+中文常对应 ​​"事实依然是/事实仍旧是"​​。
+✅ ​​语法功能​​：
+
+此处为 ​​系动词​​（linking verb），连接主语 the fact 和表语 that we lost，构成 ​​主系表结构​​。
+​​2. 翻译对照​​
+​​英文原句​​	​​直译​​	​​优化译法​​
+The fact remains that we lost.	"事实保持着我们输了。"	​​"事实是我们依然输了。"​​
+（生硬）	（自然）
+​​优化策略​​：
+
+将 remains 译为 ​​"依然是/仍旧是"​​，保留"持续状态"含义。
+省略冗余词（如"保持着"），直接点明结果。
+​​3. 替代词对比​​
+​​替换词​​	​​例句​​	​​语气差异​​
+​​stay​​	The fact stays unchanged.	更中性，强调"停留"状态
+​​persist​​	The fact persists.	带负面色彩（如问题持续存在）
+​​continue​​	The fact continues.	侧重"不间断"
+​​唯独 *remain​​*：
+含 ​​"尽管有其他因素，但结果不变"​​ 的隐含意义，最适合原句语境。
+​​4. 经典用例​​
+历史事件：
+The fact remains that the treaty was signed.
+​​"事实依然是条约已签署。"​​（暗示争议存在但结果不可否认）
+日常对话：
+The fact remains: you broke the rules.
+​​"事实摆在眼前：你违规了。"​​（强调无可辩驳）
+​​5. 常见误译​​
+❌ "事实保留着我们输了。"
+（问题："保留"完全曲解词义）
+
+❌ "事实剩下我们输了。"
+（问题：混淆 remain 和 left）
+
+​​6. 进阶用法​​
+​​名词化表达​​：
+
+Despite all efforts, the ​​remaining fact​​ is our defeat.
+​​"尽管全力争取，但无法改变的事实是我们败了。"​
 
 =======================================
 ​​解析 "I get to work with people" 的用法与翻译​​
@@ -1428,6 +1487,7 @@ We ___ try the new restaurant tonight! (​​get to​​)
 ​​英文原句​​:
 "I've been hitting the gym every day for about six months now—an hour of aerobics in the morning, and then I pump iron and swim after work."
 
+
 ​​内容分析​​:
 
 ​​健身频率​​：
@@ -1473,6 +1533,9 @@ She’s a runner—trains for marathons.	“她是跑马拉松的，天天练。
 英文原句​​:
 "I can't believe that you've turned into a gym junkie. Are you sure that you're not overdoing it?"
 
+junkie
+n 有毒瘾者
+
 ​​内容分析​​:
 
 ​​语气与态度​​：
@@ -1511,7 +1574,9 @@ Don’t burn yourself out.	“别练到猝死啊！”（夸张）	“注意别�
 ​​解析与翻译：关于健身带来的改变​​
 ​​1. 原文解析​​
 ​​英文原句​​:
-"Not a chance. You remember how I was before—I was so overweight that I had no energy and lacked the confidence to make new friends. Now I feel like I'm Mr. Universe."
+"Not a chance. You remember how I was before—
+I was so overweight that I had no energy and lacked the confidence to make new friends. 
+Now I feel like I'm Mr. Universe."
 
 ​​内容分析​​:
 
@@ -1544,6 +1609,10 @@ lacked confidence → “怂”（口语） / “缺乏自信”（正式）。
 ​​英文​​	​​中文（幽默）​​	​​中文（励志）​​
 I used to be a couch potato.	“我以前就是个沙发土豆！”	“过去我总宅家不动。”
 Now I’m a total fitness freak!	“现在我是健身狂人！”	“如今我已彻底爱上健身。”
+
+freak
+n 狂人
+
 ​​5. 如何补充健身改变细节？​​
 ​​英文模板​​:
 "I lost 20kg, and now I can even do pull-ups!"
@@ -1611,11 +1680,8 @@ I’m happy for you.	"真心替你高兴！"	"哦，挺好的。"
 
 “有琐事要处理”：比喻不得不做枯燥的任务。
 （类似中文的“我得去搬砖了”）
-
 “需要整理或清理”：比如整理头发（幽默说法）。
-
 逃避的借口：委婉拒绝邀请时用（如不想社交）。
-
 例句：
 
 "Sorry, guys, I've got to mow the lawn this weekend."
@@ -1626,7 +1692,6 @@ I’m happy for you.	"真心替你高兴！"	"哦，挺好的。"
 
 "mow the lawn"：固定搭配，“修剪草坪”。
 （“mow”指用割草机割草，“lawn”指家门前的小草坪。）
-
 ====================================
 ​​"Keep" 的用法解析（以原句为例）​​
 ​​原句​​: "My honey keeps begging me to do that."
@@ -1660,63 +1725,21 @@ My phone keeps ringing at night.
 
 ​​正向​​：老是、总爱、一直（例："TA总爱求我"）
 ​​负向​​：没完没了、动不动就、反复（例："TA动不动就求我"）
-
+================================
+I wanted a cat more than anything else(我最想要的是一只猫),
 ====================================
-
-​​"Honored" 的详细用法解析​​
-​​核心含义​​：
-​​"Honored"​​（形容词）表示 ​​“感到荣幸的”​​，强调因被认可、邀请或赋予某种特权而产生的谦逊与感激之情。
-
-​​1. 基本用法​​
-​​(1) 常见结构​​
-句型	例子	中文
-​​be honored to do sth​​	I'm honored to meet you.	很荣幸见到您。
-​​feel honored (by sth)​​	She felt honored by the award.	她因获奖感到荣幸。
-​​It's an honor to...​​	It's an honor to be here.	能在此是我的荣幸。
-​​(2) 适用场景​​
-​​正式场合​​（演讲、颁奖、会议）
-"As CEO, I'm honored to announce our new project."
-（“作为CEO，我很荣幸宣布我们的新项目。”）
-​​私人互动​​（受邀、受表扬）
-"We're honored that you chose our wedding venue."
-（“您选择我们的婚礼场地，我们深感荣幸。”）
-​​职场/学术​​（合作、邀请发言）
-"Dr. Lee is honored to join the research team."
-（“李博士很荣幸加入研究团队。”）
-​​2. 语气强化与弱化​​
-​​(1) 更强烈的表达​​
-​​Deeply/Truly honored​​（深感荣幸）
-"I'm deeply honored by your trust."
-​​It’s a great privilege to...​​（殊荣）
-"It’s a great privilege to work with you."
-​​(2) 更随意的表达​​
-​​"So honored"​​（口语化）
-"So honored you came to my party!"
-​​"Honored to..."​​（简洁版）
-"Honored to help!"
-​​3. 常见搭配​​
-搭配	例句	中文
-​​be honored + with​​	He was honored with a lifetime achievement award.	他被授予终身成就奖。
-​​honored guest​​	Welcome our honored guest, Professor Zhang.	欢迎我们的贵宾，张教授。
-​​feel honored + that从句​​	I feel honored that you remembered me.	您还记得我，我很荣幸。
-​​4. 易混淆词对比​​
-单词	区别	例句
-​​honored​​	主观感受“荣幸”	I'm honored by the invitation.
-​​honorable​​	客观描述“可敬的”	He is an honorable leader.
-​​honorary​​	名誉的（无实权）	She received an honorary degree.
-​​5. 错误用法​​
-❌ ​​误用​​："I honored to join the team."（缺少be动词）
-✅ ​​正确​​："I ​​am​​ honored to join the team."
-
-❌ ​​误用​​："It’s honored to meet you."（主语应为“人”）
-✅ ​​正确​​："I’m honored to meet you."
-
-​​6. 文化小贴士​​
-在西方正式场合（如颁奖礼、学术会议），​​"honored"​​ 是表达谦逊的标准用语。
-在邮件或商务信函中，可用：
-"We would be honored to collaborate with your company."
-如果需要具体场景（如拒绝邀请时如何用"honored"委婉表达），可进一步探讨！ 🎖️
-
+​​翻译解析与优化​​
+​​1. 原文结构拆解​​
+​​时间状语​​：In the end → ​​"最终/到头来"​​
+​​主句​​：it wasn't such a terrible thing → ​​"这并不是那么糟糕的事"​​
+​​语气词​​：after all → ​​"毕竟/其实"​​
+​​2. 翻译要点​​
+​​英文部分​​	​​直译​​	​​优化策略​​	​​自然中文表达​​
+In the end	"最后"	口语化 → ​​"到头来"​​	​​"结果"​​
+wasn't such a terrible thing	"不是那么糟糕的事"	软化语气 → ​​"也没那么糟"​​	​​"其实还行"​​
+after all	"毕竟"	自然化 → ​​"其实"​​	​​"说到底"​
+==========================================
+​​"leave...to Sunday"​​ → ​​"拖到周日"​​：用"拖"字更符合学生心理。
 ====================================
 
 ​​解析与翻译：关于“尽快更新”的急切表达​​
