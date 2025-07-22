@@ -1,7 +1,15 @@
 # construct
 
 ```
-Or rather 
+Now and then.
+​​​​“偶尔”​
+
+wrong
+a 错误的 有毛病的
+
+Is anything wrong ? You look worried.
+
+Or rather
 “不对”（口语修正） / “确切地说”（正式）。
 
 freak
@@ -578,7 +586,7 @@ comedy
 n 喜剧
 
 instead
-ad 代替 相反 
+ad 代替 相反
 
 instead of
 代替
@@ -633,6 +641,9 @@ a 漂亮的 精致的
 ad 相当 十分 非常
 
 We're working to a pretty tight schedule
+
+soon
+ad 很快 不久 马上
 
 pretty soon
 不久
@@ -1098,7 +1109,7 @@ each time
 每次 每当
 
 whenever
-c 每当
+c 每当 无论何时 任何时候(都行)
 
 
 hope
@@ -1520,7 +1531,7 @@ I waited till 10:30
 Don’t put off till tomorrow what should be done
 
 alarm
-n 警报
+n 警报 闹钟
 v 使担心 使害怕
 
 enjoy

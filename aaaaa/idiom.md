@@ -401,6 +401,9 @@ go by
 (时间)逝去; 过去（其后不接宾语 相当于 pass by）
 经过 随便走访 凭...判断
 
+pass by 
+经过 走过 逝去
+
 Time goes by so quickly.
 时光飞逝。
 
@@ -796,13 +799,13 @@ booked up
 预订一空的
 
 live for
-v. 盼望；为.....而生活
+盼望 为.....而生活
 
 catch on
-理解，明白；变得流行
+理解 明白 变得流行
 
 has a great deal to do with
-和……有很大关系
+和...有很大关系
 
 serve up
 上菜，准备饭菜
@@ -907,6 +910,10 @@ come across
 
 in group
 成组 成群
+
+find out
+发现 查明 找出
+
 
 
 
