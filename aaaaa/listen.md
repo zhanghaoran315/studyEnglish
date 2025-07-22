@@ -3041,6 +3041,10 @@ certainly just a beginning	"显然只是开始"	强化语气 → ​​"不过�
 ​​直译​​：
 “新的发明终将让我们做到我们至今未曾梦想过的事情。”
 ===========================
+it will take you right to the zoo. →
+​"它会直达动物园"​
+
+===========================
 
 原文​​："Grandpa, this seat is for you, for you are the eldest person here and also it's your birthday today."
 
