@@ -1,6 +1,9 @@
 # construct
 
 ```
+meat
+n 肉
+
 Now and then.
 ​​​​“偶尔”​
 

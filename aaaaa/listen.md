@@ -3099,6 +3099,20 @@ it will take you right to the zoo. →
 恍然大悟：​​“原来如此”​​
 无奈接受：​​“好吧我懂了”​​
 幽默拆穿：​​“搁这儿等着我呢”​
+=======================================
+​​翻译解析与优化​​
+​​1. 原文结构拆解​​
+​​语气词​​：Well → ​​"嗯/那"​​
+​​提议​​：how about something for their new house → ​​"给他们新家买点什么？"​​
+​​举例​​：like a nice picture? → ​​"比如一幅好看的画？"​​
+​​询问​​：Do they like art? → ​​"他们喜欢艺术吗？"​​
+​​2. 翻译要点​​
+​​英文部分​​	​​直译​​	​​优化策略​​	​​自然中文表达​​
+Well	"好吧"	口语化 → ​​"那"​​	​​"嗯"​​
+how about...	"……怎么样？"	本土化 → ​​"要不……？"​​	​​"不如……？"​​
+something for their new house	"给他们新家的东西"	自然化 → ​​"新家礼物"​​	​​"乔迁礼物"​​
+a nice picture	"一幅好看的画"	具体化 → ​​"装饰画"​​	​​"艺术画"​​
+Do they like art?	"他们喜欢艺术吗？"	软化语气 → ​​"他们爱艺术吗？"​​	​​"对艺术感兴趣吗？"​
 
 =======================================
 原文​​："OK, there is no cash advance any more for short trips."
@@ -3171,6 +3185,9 @@ it will take you right to the zoo. →
 ​​“最高标准是多少？”​​（适用于差旅/住宿标准）
 
 =====================================
+身份说明​​：As new members of this school → ​​"作为这所学校的新成员"​​
+​​义务表达​​：we must follow the school rules → ​​"我们必须遵守校规"​
+======================================
 对话原文：​​
 ​​A:​​ "What do you want for dinner tonight? It's seven o'clock."
 ​​W:​​ "I've had enough meat at the brunch, so some fruit will do."
@@ -3272,6 +3289,8 @@ Dad:​​ "Kate! Don't you see your brothers are making so much noise here? Why
 ​​"orders"​​ 在餐厅场景特指 ​​"点的菜"​​，不可直译为 ​​"订单"​​。
 ​​"I'll check it."​​
 直译："我会核对"，但中文服务员更常说：​​"我马上去确认"​​ 或 ​​"立刻处理"​​
+
+is there anything wrong? → ​​"有什么问题吗？"​
 
 =========================================
 英文：​​ "I'm not sure if that counts, though."
