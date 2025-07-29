@@ -40,7 +40,19 @@ work for
 I work for a big company.
 
 work out
-解决 算出 锻炼
+锻炼身体 做运动
+成功地发展
+I work out regularly to keep fit
+
+
+work out (at sth)
+计算 计算出
+
+work sb out
+了解 理解
+
+work sth out
+计算 算出
 
 working out
 健身
