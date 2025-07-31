@@ -894,8 +894,6 @@ invite sb over
 leave no stone unturned
 想尽办法
 
-
-
 add up
 合计
 
@@ -913,6 +911,13 @@ in group
 
 find out
 发现 查明 找出
+
+in need
+在危难中 在穷困中
+
+in need of
+需要...时
+
 
 
 

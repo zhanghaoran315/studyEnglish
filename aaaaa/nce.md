@@ -1,6 +1,10 @@
 # construct
 
 ```
+trade
+n 贸易 交易 行业
+v 交易 营业
+
 meat
 n 肉
 
@@ -380,6 +384,9 @@ n 天气预报员
 
 ambitious
 a 有野心的 雄心勃勃的
+
+ambition
+n 野心 雄心 抱负
 
 laundry
 n 洗衣房 洗衣店
@@ -2632,7 +2639,7 @@ stand out
 
 leave
 n 休假 假期
-v 离开(某人、某处) 剩下 丢弃
+v 离开(某人、某处) 出发 剩下 丢弃
 leave-left-left
 
 leave 表示将某物遗忘在某地 leave sth.+地点状语
