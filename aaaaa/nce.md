@@ -1,6 +1,14 @@
 # construct
 
 ```
+giant
+n 巨人 伟人
+a 巨大的 伟大的
+
+display
+n 展览 陈列 表演
+v 展览 陈列 显示 显露
+
 trade
 n 贸易 交易 行业
 v 交易 营业
@@ -31,6 +39,8 @@ a 好的
 work
 n 工作 作品（可数）
 v 奏效 产生预期的结果(或作用) 运转 运行
+
+works of art
 
 work with
 与...共事
@@ -424,7 +434,7 @@ n (厨房里的)洗涤池，洗碗槽
 lump
 n 块 肿块 隆起
 
-gaint
+giant
 n 巨人 伟人 大公司
 a 巨大的 伟大的
 
