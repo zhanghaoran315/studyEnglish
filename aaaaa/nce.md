@@ -75,6 +75,12 @@ working out
 
 "Don't worry. Everything will work out."（别担心，一切都会好起来的。）
 
+​​How's your apartment working out?
+​​"work out"​​ 这里指 ​​"进展/适应情况"​​
+​​中文地道表达​​：
+​​"新公寓住得惯吗？"​​（强调适应）
+​​"房子还满意吗？"​​（侧重满意度）
+
 elder
 n 长者 年长者
 a 年纪较大的
