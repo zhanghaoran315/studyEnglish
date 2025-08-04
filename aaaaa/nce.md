@@ -1,6 +1,12 @@
 # construct
 
 ```
+empire
+n 帝国 大企业
+
+jasmine
+n 茉莉
+
 giant
 n 巨人 伟人
 a 巨大的 伟大的
@@ -90,6 +96,8 @@ n 群 组 集团
 
 regular
 a 定时的 定期的
+on a regular basis
+定期地；经常地
 
 evaluate
 v 评价 评估 估计
@@ -2207,6 +2215,9 @@ n 通过 合格
 v
 1.通过 及格(vt vi)
 2.给 递
+
+pass out
+昏倒
 
 credit
 n 信用 贷款 学分

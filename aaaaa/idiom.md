@@ -854,8 +854,7 @@ a total of
 in that case
 既然那样
 
-on a regular basis
-定期地；经常地
+
 
 stick out
 突出 坚持 醒目
@@ -917,6 +916,9 @@ in need
 
 in need of
 需要...时
+
+make the first move
+迈出第一步 主动出击
 
 
 
