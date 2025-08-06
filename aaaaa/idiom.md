@@ -222,7 +222,7 @@ sell out
 卖光
 
 put out
-扑灭 熄灭
+扑灭 熄灭 伸出
 
 put off
 拖延
