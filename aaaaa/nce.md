@@ -1,6 +1,12 @@
 # construct
 
 ```
+junk
+n 废弃物品
+
+junk food
+垃圾食品
+
 empire
 n 帝国 大企业
 
@@ -425,7 +431,7 @@ mansion
 n 公关 宅邸 用于公寓楼名
 
 spicy
-n 辛辣的 刺激的
+a 辛辣的 刺激的
 
 gender
 n 性别 性
