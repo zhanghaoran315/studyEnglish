@@ -1,6 +1,26 @@
 # construct
 
 ```
+together
+ad 一起 共同
+
+get together with
+和...聚会
+
+come together
+集合
+
+pull together
+齐心协力 通力协作
+
+distance
+n 距离
+
+a distance of 200 kilometers
+
+exist
+v 存在 生活 生存
+
 junk
 n 废弃物品
 
@@ -92,6 +112,8 @@ working out
 ​​中文地道表达​​：
 ​​"新公寓住得惯吗？"​​（强调适应）
 ​​"房子还满意吗？"​​（侧重满意度）
+
+Everything will work out just fine.
 
 elder
 n 长者 年长者
@@ -364,6 +386,11 @@ v 供应 供给
 
 sportswear
 n (运动、运动项目、运动运动的)运动服装
+
+swear
+n
+v 发誓 咒骂
+swear-swore-sworn
 
 greenery
 n 绿色植物

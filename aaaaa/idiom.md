@@ -921,6 +921,15 @@ make the first move
 迈出第一步 主动出击
 
 
+​​"get...wrong"​​ → ​
+​"搞错"​​ / ​​"记岔"​​
+
+might as well
+不妨 还是...的好
+
+might well
+有可能
+
 
 
 

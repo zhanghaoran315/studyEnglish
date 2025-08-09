@@ -6616,6 +6616,10 @@ Weibo → ​​"微博"​​
 ​​③ "need to use mobile data"​​
 ​​"mobile data"​​ → ​​"流量"​​（中文更常用）
 ​​"need to use"​​ → ​​"得用"​​ / ​​"耗"​​（口语化动词）
+===========================
+原文结构拆解​​
+​​主语​​：I believed...→ ​​"我原以为……"​​
+​​内容​​：they were all free originally→ ​​"它们原本都是免费的
 
 ===========================
 "Xin Tao, are you an E.T.?"
@@ -6735,7 +6739,10 @@ Weibo → ​​"微博"​​
 ​​⑤ "learn to move on"​​
 ​​直译​​：​​"学会继续前进"​​
 ​​口语化​​：​​"学会翻篇"​​ / ​​"往前看"​​
-
+============================
+talk to myself
+"对自己说话"
+本土化 → ​​"自言自语"​
 ============================
 ​​翻译与解析​​
 ​​1. 原文句子​​
@@ -6745,19 +6752,16 @@ Weibo → ​​"微博"​​
 ​​"嗨，迈克！最近有啥新鲜事？"​​
 或（更随意版）
 ​​"老麦，最近咋样啊？"​​
+==========================
+动作​​：Let me take a look.→ ​​"让我看看"​​
+​​发现​​：No wonder it hurts!→ ​​"难怪会疼！"​​
+​​诊断​​：One of your teeth looks broken.→ ​​"你有一颗牙好像断了"​​
+​​建议​​：You'd better see a dentist right away.→ ​​"最好马上去看牙医"​
 
-​​逐句解析​​
-​​① "Hi, Mike."​​
-​​"Hi"​​ → ​​"嗨"​​ / ​​"嘿"​​（根据关系亲密度选择）
-​​人名处理​​：
-正式：​​"迈克"​​
-亲密：​​"老麦"​​ / ​​"麦哥"​​
-​​② "What's new?"​​
-​​直译​​：​​"有什么新的？"​​
-​​口语优化​​：
-​​"有啥新鲜事？"​​（强调趣闻）
-​​"最近咋样？"​​（泛问近况）
-
+​​"take a look"​​ → ​​"瞅瞅/看看"​​：北方用"瞅瞅"，南方可用"睇下"（粤语）。
+​​"No wonder"​​ → ​​"怪不得/难怪"​​：中文固定搭配。
+​​"broken tooth"​​ → ​​"牙裂了/牙崩了"​​：比直译更生动。
+​​"right away"​​ → ​​"赶紧/马上"​​：增强紧迫感。
 ===========================
 ​​翻译与解析​​
 ​​1. 原文对话​​
@@ -6785,7 +6789,8 @@ Weibo → ​​"微博"​​
 
 ==================
 1. 原文对话​​
-​​M:​​ "Don't be silly. You'd be better off seeing one. I'll make an appointment for you. Only a fool is afraid of the dentist!"
+​​M:​​ "Don't be silly. You'd be better off seeing one. I'll make an appointment for you. 
+Only a fool is afraid of the dentist!"
 ​​W:​​ "Okay. I might as well go. But find me one who doesn't hurt!"
 ​​M:​​ "Come on. I'm your best friend. You can depend on me. There's nothing to be afraid of."
 ​​W:​​ "Well, if you say so, I'll take your word for it."
@@ -6845,11 +6850,19 @@ Weibo → ​​"微博"​​
 ​​⑥ "No, it is not there."​​
 ​​口语省略​​：​​"没啊，不在"​​（"there"无需直译）
 =================================
+​​观点​​：I think...→ ​​"我认为……"​​
+​​距离描述​​：it is a distance of 180 kilometers from here to London→ ​​"从这里到伦敦的距离是180公里"​
+=================================
+​​建议​​：So, shall we allow three hours...?→ ​​"那么，我们预留三小时……？"​​
+​​目的​​：to cover the distance→ ​​"走完这段路程"​
+=================================
 "The school I'd like to recommend is called E-W Training School, which aims to train Chinese beginners from foreign countries—just like you, an American kid."
 
 ​​中文翻译：​​
 ​​"我想推荐的学校叫E-W培训学校，它专门培训来自海外的中文初学者——就像你这样的美国孩子。"​
-
+====================
+存在描述​​：There are many kinds of...→ ​​"有各种各样的……"​​
+​​活动范围​​：activities in and out of class→ ​​"课内外活动"​
 ====================
 ​​翻译与解析​​
 ​​英文原文​​：
@@ -6990,7 +7003,10 @@ I’d love you to meet my parents.
 
 ===========================
 ​​英文原文​​：
-"I don't often go for walks, but I either play sports outside, you know, tennis or badminton."
+I don't often go for walks, 
+but I either play sports outside, you know, tennis or badminton or just sit in the sunshine and read a good book.
+
+"either...or..."​​，表示 ​​"要么……要么……"​​ 或 ​​"不是……就是……"​​，用于列举两种（或以上）可能性。
 
 ​​中文翻译（自然口语版）​​：
 ​​"我不常散步，但会在户外运动，比如打网球或羽毛球。"​​
@@ -7051,15 +7067,6 @@ I’d love you to meet my parents.
 "When laziness hits, I set a 10-minute timer to get started."
 ​​中文​​：
 ​​"犯懒时，我会设10分钟倒计时逼自己动起来。"​
-
-========================================
-​​翻译与解析​​
-​​英文原文（修正后）​​：
-"I think most people do. I like wearing nice, colorful clothes in summer—you know, a nice dress or skirt. It's too cold for those kinds of clothes in winter."
-
-​​中文翻译（自然口语版）​​：
-​​"我觉得大多数人都这样吧。夏天我喜欢穿漂亮鲜艳的裙子，比如一条好看的牛仔裙。但冬天穿这些就太冷了。"
-
 =============================================
 "I think most people do. I like wearing nice, colorful clothes in summer—you know, a nice dress or skirt. It's too cold for those kinds of clothes in winter."
 
@@ -7237,7 +7244,8 @@ B: "You got the idea!"（"没错，你上手很快嘛！"）
 ​​4. 类似表达​​
 ​​正式场合​​："You’ve understood correctly."（您理解正确。）
 ​​随意场合​​："That’s it!"（就是这样！）
-
+==============================================
+ It's refreshing to get away for a while(短暂的离开会让人耳目一新。
 ==============================================
 ​​解析与翻译​​
 ​​1. 原文解析​​

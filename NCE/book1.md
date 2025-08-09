@@ -18,8 +18,8 @@
 
 ```
 excuse
-n 借口
-v 原谅
+n 借口 原因
+v 原谅 宽恕
 
 Excuse me
 
@@ -87,6 +87,15 @@ v 穿衣服
 be dressed in
 穿着
 
+get dressed
+穿上衣服
+
+dress in
+穿...的衣服 乔装打扮
+
+dress up
+打扮 装饰
+
 skirt
 n 短裙
 
@@ -105,8 +114,10 @@ house
 
 flat
 n 公寓楼（英）
-adj 1.平的 水平的
-2.瘪了的 不景气的
+adj 平的 扁平的 瘪了的 不景气的
+
+flat out
+竭尽全力
 
 apartment
 n 公寓楼（美）
@@ -147,7 +158,7 @@ theirs
 toy 玩具
 
 number
-n 号码
+n 数字 号码 编号
 
 sir
 先生，一般用于陌生人
