@@ -882,7 +882,7 @@ have nothing to do with
 和...无关联
 
 right after
-就在…之后；刚好在…之后
+一...就...
 
 that way
 那样，那边
@@ -929,6 +929,11 @@ might as well
 
 might well
 有可能
+
+​​"on one's way out"​​：
+直译是"在离开的路上"，但中文习惯根据场景调整：
+​​"出门"​​（刚出发）
+​​"要走"​​（即将离开当前地点）
 
 
 

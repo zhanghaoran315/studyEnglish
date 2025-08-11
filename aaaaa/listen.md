@@ -7311,9 +7311,6 @@ B: "You got the idea!"（"没错，你上手很快嘛！"）
 ❌ ​​"不能相信"​​ → 显得生硬，不够自然
 ✅ ​​"不敢相信"、"简直了"、"太离谱了"​​ → 更符合中文口语习惯
 如果需要根据具体上下文调整语气（比如愤怒、惊喜、讽刺等），可以告诉我！
-
-
-
 ==========================================
 
 Yes, but something could come up and stop that wish coming true
@@ -7382,7 +7379,6 @@ Receptionist: "Yes, but we need to verify your ID."
 ​​商店结账​​：
 "I’d like to pay with a traveler’s check—do you accept them?"
 （​​"我想用旅行支票付款，你们收吗？"​​）
-
 ==========================================
 翻译解析：​​
 ​​原文：​​

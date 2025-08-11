@@ -1,6 +1,16 @@
 # construct
 
 ```
+balance
+n 平衡 余额
+v 使保持平衡
+
+tone
+n 语气 音调 声调
+
+gather
+v 搜集 聚集 集合 召集 收割 收获
+
 together
 ad 一起 共同
 
@@ -359,6 +369,9 @@ ad 通常 主要地 一般地
 simply
 ad 仅仅 只不过 简单的
 
+​​"simply no"​​：
+强调"完全没有"，中文用 ​​"根本没/完全不/一点都没有"​​ 强化否定。
+
 soda
 n 苏打汽水
 
@@ -369,7 +382,7 @@ call off
 取消
 
 chest
-n 胸部
+n 胸部 大箱子
 
 lizard
 n 蜥蜴
@@ -1536,7 +1549,7 @@ show
 vt
 1.显示 表明
 2.给...看
-3.引 带 领
+3.引 领 带 
 show-showed-shown
 
 I'll go first and show you the way

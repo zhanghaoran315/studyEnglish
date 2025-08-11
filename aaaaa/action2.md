@@ -566,6 +566,8 @@ He ​​rarely, if ever​​, eats junk food.​​（他几乎从不吃垃圾
 =======================
 I get cold feet when I have to go to one."​​
 ​​"get cold feet"​​ → ​​"腿软"​​ / ​​"怂了"​​（中文习语）
+=======================
+​​Are you sure of...?​​	你确定……吗？/ 你有把握……吗？	询问信心或确定性
 
 
 ```
