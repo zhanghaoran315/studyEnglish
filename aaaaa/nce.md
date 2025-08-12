@@ -842,6 +842,9 @@ n 总额 总数
 v 总和 总计
 a 总的 全部的 完全的 彻底的
 
+in total
+总计
+
 totally
 ad 完全地
 

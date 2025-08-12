@@ -8064,7 +8064,10 @@ mph = miles per hour 1609
 ​​"It is in mine"​​：
 直译：​​"在我国确实是"​​
 自然衔接：​​"我们这儿可严重了"​​/​​"反正我们逃不掉"​
-
+===================================
+​​动作​​：gradually move up...→ ​​"逐步晋升……"​​
+​​目标​​：to the management level→ ​​"到管理层"​​
+​​范围​​：in this company→ ​​"在这家公司"​
 ===================================
 ​​翻译解析：​​
 ​​原文：​​ "The best way to get downtown is to take the subway."
