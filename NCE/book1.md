@@ -41,7 +41,7 @@ Excuse me
 主＋谓＋宾＋宾补
 主＋系＋表（最简单）
 
-宾语：动作的承受着、对象或结果
+宾语：动作的承受者、对象或结果
 宾补：对宾语的补充说明
 
 I love you
@@ -54,9 +54,6 @@ She is beautiful
 yes
 是
 什么事  声调 2
-
-it
-代替物体，地方，天气
 ```
 
 语法
@@ -104,8 +101,10 @@ shirt
 
 car
 汽车
+
 bus
 公共汽车
+
 coach
 长途客车 教练
 
@@ -169,11 +168,6 @@ Mr.Jones
 
 讲英语的国家学生在学校遇到老师，称 Sir Mr.
 这两个词还可以当老师讲
-
-cloakroom
-衣帽存放处
-cloak
-n 斗篷 披风
 ```
 
 
@@ -264,13 +258,6 @@ ticket please
 单词句型
 
 ```
-suit
-一套衣服
-daughter
-女儿
-
-doctor
-医生 博士
 ```
 
 ## Lesson 5&6
@@ -287,6 +274,7 @@ Sister Furong
 
 good
 好
+
 well
 身体好
 
@@ -294,15 +282,21 @@ morning   早晨
 afternoon 下午
 evening    晚上
 night 夜晚
+都是名词
 
 meet
-遇见
+v 遇见 会面 满足 迎接
+meet-met-met
 meet you/meet me/meet him/meet her  宾格
 
 too 
 adv 
 1.太 很 非常（adj、adv前）
 1.也 还（肯定句，疑问句末，either用于否定句）
+
+either
+det/pron  两者之一
+ad 也 还（否定句）
 ```
 
 语法
@@ -337,12 +331,11 @@ the students 这些、那些
 定冠词the的用法
 1、特指某人或某物
 2、用于第二次提到的人或物前
-3、用于自然界中独一无二的事物的名词前
-4、用于可数名词单数前表示一类人或事物（这种用法和不定冠词的第一种用法一样）
-5、用在乐器名词前
-6、用在姓氏的复数名词前，表示全家人或者夫妇两个
-7、用在形容词或分词前，表示一类人或事物
-8、用在地理名词前，表示江、海洋、山脉、群岛、海峡、海湾
+3、用在乐器名词前
+4、用在姓氏的复数名词前，表示全家人或者夫妇两个
+5、用在形容词或分词前，表示一类人或事物
+6、用在地理名词前，表示江、海洋、山脉、群岛、海峡、海湾
+7、用于自然界中独一无二的事物的名词前
 
 monk  和尚
 
@@ -356,11 +349,6 @@ an + 元音发音开头，其余用a
 an egg
 an orange
 an hour
-
-特殊情况：国家，国籍，人名，城市名不用冠词
-
-I am in China 
-I am in the China XXXX
 
 ```
 
@@ -458,32 +446,16 @@ Tom is
 
 ===================
 natinality
-国籍
+n 国籍 民族
 
 nation 
-国家 民族 国民
+n 国家 民族 国民
 
 national 
-国家的 民族的
+n 国家的 民族的
 
 表格 nationality(国籍)    
 Chinese
-
-keyboard
-电脑键盘
-key 钥匙
-board 板子
-blackboard 黑板
-
-operator
-操作人员
-
-engineer
-工程师
-
-engine  
-引擎 发动机
-
 ```
 
 语法
@@ -514,6 +486,8 @@ yes no question
 你吃饭了吗
 可以直接用yes或者no来回答
 
+
+肯定句转一般疑问句
 动词提前
 动词+主语+其他成分
 Is this Miss Sophie Dupont  
@@ -527,17 +501,6 @@ No,he isn't
 Are you Italian   
 Yes,I am   
 No,I am not
-
-特殊情况
-1.否定转移	
-I think he is right.	
-Don't you think he is right?
-否定在主句，回答针对从句
-
-2.Let's 开头的祈使句	
-Let's go.	
-Shall we go?
-固定转换
 
 特殊疑问句
 wh question
@@ -655,21 +618,6 @@ I am a teacher
 单词句型
 
 ```
-policeman
-警察
-
-police
-警方 警察部门
-
-police office
-警察局 派出所
-
-taxi driver
-出租车司机
-
-taxi
-出租车
-
 air hostess
 空姐
 air
@@ -723,28 +671,13 @@ tonight
 n adv 今晚
 
 well
-adj 身体好
-
-fine
-adj 好的（状态良好） 很好（表示满意）
-
-Everything is fine.
-一切都好
+a 身体好
 
 thank
 n
 v 感谢
 Thanks a lot
 Thank you very much.
-
-busy
-忙的
-It is a busy day
-He is very busy
-
-lazy
-懒惰的
-He is very lazy.
 ```
 
 课文
@@ -764,30 +697,44 @@ How are they.
 Fine. \ Very well.Thank you, and you.   非常好
 Not bad.								还行
 very bad. \ Terrible.
-
-terrible
-a 可怕的 糟糕的
 ```
 
 单词句型
 
 ```
 fat
-胖的 肥胖的
+n 脂肪 肥肉
+a 胖的 肥胖的 厚的 宽大的
 a fat cat
 爆发户
 He is a fat cat.
+
+fatness
+n 肥胖
+
+fatten
+v 发胖 长肥 长胖
 
 heavy
 重的
 You are a little heavy
 
 thin
-薄的 瘦的 细的
+a 薄的 瘦的 细的 稀疏的 稀薄的 稀少的
+
+thick
+a 浓的 厚的 粗的 浓密的 茂密的
 
 slim
-苗条的 纤细的
+v 变苗条 减肥
+a 苗条的 纤细的
 You are so slim.
+
+dirt
+n 污物 泥土
+
+dirt cheap
+特别便宜
 
 dirty
 肮脏的 下流的 卑鄙的
@@ -801,7 +748,6 @@ v 使整洁 整理
 a 整洁的 整齐的
 
 untidy
-v 使不整洁
 不整洁的 凌乱的
 
 
@@ -960,6 +906,7 @@ the ticket to the movie
 Here you are. 
 
 Here it is.
+给你 在这儿 拿去吧
 给对方东西时的用语
 ```
 
@@ -1013,6 +960,9 @@ n 裤子
 tie
 n 领带 联系 绳子
 v 系 捆 绑
+
+tied ... to ...
+把... 和...关联
 ```
 
 
@@ -11545,13 +11495,6 @@ impossible
 不可能的
 possible
 可能的
-
-invite
-vt 邀请
-invite sb. to sth.（n/pron）
-They invited me to the party/their wedding.
-invite sb. to do sth.
-They invited me to have dinner.
 
 lemonade
 柠檬水

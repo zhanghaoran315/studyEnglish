@@ -1,6 +1,16 @@
 # construct
 
 ```
+invite
+vt 邀请
+invite sb. to sw.（n/pron）
+They invited me to the party/their wedding.
+invite sb. to do sth.
+They invited me to have dinner.
+
+invite sb over
+请某人过来；邀请某人
+
 balance
 n 平衡 余额
 v 使保持平衡
@@ -152,7 +162,7 @@ n 封面 盖子 遮盖物 床单
 v 覆盖 遮盖
 
 meet
-v 满足 会面 迎接
+v 遇见 会面 满足 迎接
 meet-met-met
 
 "meet needs and goals"译为"满足需求和目标"（保留动宾结构的完整性）

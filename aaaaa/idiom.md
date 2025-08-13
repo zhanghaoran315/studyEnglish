@@ -887,8 +887,7 @@ right after
 that way
 那样，那边
 
-invite sb over
-请某人过来；邀请某人
+
 
 leave no stone unturned
 想尽办法

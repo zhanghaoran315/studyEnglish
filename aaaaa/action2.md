@@ -656,6 +656,17 @@ Can you get me a ticket?
 中文习惯表达：
 ​​"到此为止/翻篇儿"​​（结束感）
 ​​"这部分就这样吧"​​（略带无奈）
+=====================
+特殊情况
+1.否定转移	
+I think he is right.	
+Don't you think he is right?
+否定在主句，回答针对从句
+
+2.Let's 开头的祈使句	
+Let's go.	
+Shall we go?
+固定转换
 
 
 

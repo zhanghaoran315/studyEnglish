@@ -8857,9 +8857,16 @@ First aid（急救）
 ​​"天边炸开的闪电"​​（画面感）
 
 ===============================
-​​"That's something to think about"​​：
-此处实际含义：​​"说得有道理"​​（附和对方观点）
+主语​​：That's→ ​​"这"​​
+​​表语​​：something to think about→ ​​"值得思考的事"​
 
+That's something...
+"这是……的事"
+
+to think about
+"去思考"
+
+这是值得思考的事。
 ==============================
 关于 "invite people over" 的深度解析​​
 ​​1. 核心含义​​
