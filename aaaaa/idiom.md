@@ -105,7 +105,7 @@ go away
 go for
 选择
 
-go ahead 
+go ahead
 前进；进行
 
 put away
@@ -214,7 +214,7 @@ run away
 逃跑
 
 run away from
-回避 逃离 从...逃脱
+逃离 从...逃脱
 
 flee
 
@@ -401,7 +401,7 @@ go by
 (时间)逝去; 过去（其后不接宾语 相当于 pass by）
 经过 随便走访 凭...判断
 
-pass by 
+pass by
 经过 走过 逝去
 
 Time goes by so quickly.
@@ -887,7 +887,7 @@ right after
 that way
 那样，那边
 
-invite sb over 
+invite sb over
 请某人过来；邀请某人
 
 leave no stone unturned
@@ -934,6 +934,10 @@ might well
 直译是"在离开的路上"，但中文习惯根据场景调整：
 ​​"出门"​​（刚出发）
 ​​"要走"​​（即将离开当前地点）
+
+​​that way​​
+​"那样"​​
+中文习惯：​​"这样/这么一来"​​（衔接上下文）
 
 
 
