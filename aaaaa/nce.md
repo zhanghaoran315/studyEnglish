@@ -1,6 +1,9 @@
 # construct
 
 ```
+risk
+n 风险 危险
+
 invite
 vt 邀请
 invite sb. to sw.（n/pron）
@@ -304,6 +307,9 @@ a 随便的 临时的
 
 celsius
 a 摄氏的
+
+Celsius degrees
+a 摄氏度
 
 sincere
 a 真诚的 诚挚的
