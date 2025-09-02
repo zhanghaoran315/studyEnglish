@@ -871,6 +871,9 @@ right now
 right away
 立刻
 
+right after
+一...就...
+
 
 what's more
 而且；更重要的是；另外
@@ -881,8 +884,7 @@ get together with
 have nothing to do with
 和...无关联
 
-right after
-一...就...
+
 
 that way
 那样，那边
@@ -943,6 +945,9 @@ on sale
 
 for sale
 出售
+
+at this point 
+这时候，此时此刻
 
 
 

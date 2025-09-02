@@ -976,7 +976,8 @@ What color?
 What color is it?
 
 green
-a green hand 新手
+a green hand 
+新手
 
 come
 v 来

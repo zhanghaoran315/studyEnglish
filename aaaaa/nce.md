@@ -1,6 +1,12 @@
 # construct
 
 ```
+strong
+a 强壮的 强烈的 强力的
+
+temple
+n 寺庙 神殿 太阳穴
+
 risk
 n 风险 危险
 
@@ -107,24 +113,6 @@ work on
 work for
 为...而工作，受雇于
 I work for a big company.
-
-work out
-锻炼身体 做运动
-成功地发展
-I work out regularly to keep fit
-
-
-work out (at sth)
-计算 计算出
-
-work sb out
-了解 理解
-
-work sth out
-计算 算出
-
-working out
-健身
 
 英语中常用 work out 表达“自然解决”或“通过努力达成”，类似中文的“水到渠成”。
 
@@ -259,6 +247,9 @@ n 舞台 阶段 时期
 add
 v 加 增加 补充说
 
+add up
+合计
+
 backwards
 ad 倒着 朝反方向
 
@@ -277,6 +268,9 @@ v 重视
 
 volunteer
 n 志愿者
+
+sitting room
+客厅 起居室
 
 former
 a 以前的 从前的
@@ -2636,6 +2630,9 @@ call sb.
 phone sb.
 give sb. a call
 give sb. a phone
+
+call on
+拜访 看望
 
 remember
 v 记得 记住 想起 记起
