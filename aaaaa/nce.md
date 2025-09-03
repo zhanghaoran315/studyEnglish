@@ -1829,7 +1829,8 @@ a 日常的 每天的
 ad 日常 每天
 
 so
-adv p c 也 所以 那么
+adv  c 也 所以 那么
+pron 如此 这样
 
 deal
 n 协议

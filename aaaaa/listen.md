@@ -10794,6 +10794,8 @@ I think I 'm welqualified for[完全胜任(某个岗位)]the accountant position
 
 "作为一个音乐家，给予你自己对自己感受的反思以最大的关注和时间是很重要的。"
 
+对你自身感受的自我反思
+
 作为音乐家，必须倾注全部心力去内省自己的情感。
 
 ​​1. 完整翻译（自然口语化）​​
@@ -10835,7 +10837,10 @@ I think I 'm welqualified for[完全胜任(某个岗位)]the accountant position
 ​​"meet someone"​​：
 直译：​​"遇见某人"​​
 中文更自然：​​"找到/遇到知音"​​（音乐圈术语）
+==============================
+ I want to see the seed, at least the seed of the great trethat can grow. I would go for this violinist. I would go for this musician.
 
+我想看到种子，至少能长成参天大树的种子。我会选择这位小提琴家。我会选择这位音乐家。
 ===============================
 原文：​​ "Let's drive around the block one more time."
 
@@ -10872,7 +10877,8 @@ I think I 'm welqualified for[完全胜任(某个岗位)]the accountant position
 ​​疑问语气​​：
 英文用"Did you say" → 中文可用 ​​"你是说/难道"​​ 表达惊讶
 ======================================
-原文（修正后）：​​ "Mr. Wilson, students from Class 2 want to visit the history museum. Will it be all right if I take them there this weekend?"
+原文（修正后）：​​ "Mr. Wilson, students from Class 2 want to visit the history museum. 
+Will it be all right if I take them there this weekend?"
 
 ​​1. 完整翻译（自然口语化）​​
 ✅ ​​"Wilson老师，二班学生想去历史博物馆参观。这周末我带他们去可以吗？"​​（直译，师生对话场景）
@@ -10906,6 +10912,11 @@ I think I 'm welqualified for[完全胜任(某个岗位)]the accountant position
 ​​语境补充​​：
 中文常隐含主语 → ​​"他们/学生们"​​ 可省略
 ======================================
+ She seems to have everything she loves
+
+她喜欢的东西，好像全都有了！
+
+ =================================
 原文（修正后）：​​ "A city pass, with which she can visit twelve different attractions, including the National History Museum, the Science Museum, the zoo, and more."
 
 ​​1. 完整翻译（自然口语化）​​
@@ -11029,6 +11040,9 @@ I think I 'm welqualified for[完全胜任(某个岗位)]the accountant position
 ​​反问语气​​：
 英文用"Aren't they" → 中文可用 ​​"不会…吗/岂不是"​​
 ========================================
+There are now 40 dogs working with children aged from 6 to 18.
+"目前有40只狗与6至18岁的孩子们一起工作。
+========================================
 原文（修正后）：​​ "People say you're doing unpaid work in the new season of My Fair Lady."
 
 ​​1. 完整翻译（自然口语化）​​
@@ -11134,6 +11148,23 @@ I think I 'm welqualified for[完全胜任(某个岗位)]the accountant position
 ​​"film and television industry"​​：
 直译：​​"影视行业"​​
 中文简称：​​"影视圈"​​（非正式）
+=======================================
+We've been fortunate to have got good advice from some famous athletes on how to improve our skills and build up our body
+​​翻译解析与优化​​
+​​1. 原文结构拆解​​
+• ​幸运表达​​：We've been fortunate to... → ​​"我们很幸运……"​​
+• ​获得建议​​：have got good advice from... → ​​"得到了来自……的宝贵建议"​​
+• ​建议来源​​：some famous athletes → ​​"一些著名运动员"​​
+• ​建议内容​​：on how to improve our skills and build up our body → ​​"关于如何提升技能和强身健体"​​
+​​2. 翻译要点​​
+​​英文部分​​	​​直译​​	​​优化策略​​	​​自然中文表达​​
+fortunate to have got	"幸运地获得"	口语化 → ​​"有幸得到"​​	​​"运气好，拿到了"​​
+good advice	"好建议"	强化价值 → ​​"宝贵建议"​​	​​"干货指导"​​
+build up our body	"增强身体"	本土化 → ​​"强身健体"​​	​​"练体格"​​（口语）
+​​3. 完整翻译对比​​
+​​版本类型​​	​​翻译结果​​	​​适用场景​​
+​​直译版​​	"我们很幸运地从一些著名运动员那里得到了关于如何提高技能和增强身体的好建议。"	中性描述（无情绪）
+
 =======================================
 ​​翻译解析：​​
 ​​原文：​​ "We're honored to have Emma Wilson here."
