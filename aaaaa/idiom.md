@@ -643,6 +643,10 @@ make up one's mind 下定决心
 
 make some friends 交朋友
 
+​​"do everything at once"​​：
+直译：​​"一次性完成"​​
+中文适配：​​"一锅端/全搞定"​
+
 半勺
 half a teaspoonful
 half an hour

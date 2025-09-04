@@ -11371,6 +11371,28 @@ build up our body	"增强身体"	本土化 → ​​"强身健体"​​	​​
 直译：​​"在一天中的这个时候"​​
 中文优化：​​"这钟点儿/这个点"​​（口语化）
 ====================================
+We've got to do something about the neighbor's dog.
+​​翻译解析与优化​​
+​​1. 原文结构拆解​​
+•urgency​​：We've got to do something... → ​​"我们必须做点什么……"​​
+•​问题对象​​：about the neighbor's dog → ​​"关于邻居的狗"​​
+​​2. 翻译要点​​
+​​英文部分​​	​​直译​​	​​优化策略​​	​​自然中文表达​​
+We've got to	"我们必须"	口语化 → ​​"得"​​	​​"赶紧"​​（带紧迫感）
+do something about...	"对……做点什么"	具体化 → ​​"处理一下/管管"​​	​​"想个招儿"​​
+the neighbor's dog	"邻居的狗"	语境补充 → ​​"邻居家那狗"​​	​​"隔壁那只修勾"​​
+​​3. 完整翻译对比​​
+​​版本类型​​	​​翻译结果​​	​​适用场景​​
+​​直译版​​	"我们必须对邻居的狗做点什么。"	中性描述（无情绪）
+​​优化版（推荐）​​	​​"我们得管管邻居家那狗了。"​​	日常抱怨/家庭对话
+​​口语版​​	​​"赶紧想个招儿治治隔壁那狗子！"​​	朋友吐槽
+​​优化说明​​：
+
+•​"We've got to"​​ → ​​"得/赶紧"​​：中文用"得"比"必须"更口语化。
+•​"do something"​​ → ​​"管管/治治"​​：根据隐含的"狗惹麻烦"语境补充动词。
+•​"neighbor's dog"​​ → ​​"邻居家那狗/隔壁那狗子"​​：添加"家"或"那"增强指向性。
+
+====================================
 ​​翻译解析：​​
 ​​原文：​​ "The flower garden, the garbage can, and yesterday he started digging holes in the yard!"
 
@@ -11405,6 +11427,17 @@ build up our body	"增强身体"	本土化 → ​​"强身健体"​​	​​
 ​​"not close to the door"​​：
 直译：​​"不靠近门"​​
 中文强化：​​"不挨门/远离出入口"​
+=========================
+​​紧急离开​​：I've got to go. → ​​"我得走了"​​
+•
+​​计划尝试​​：I'll try to get home... → ​​"我会尽量……到家"​​
+•
+​​时间目标​​：a little earlier today → ​​"今天早一点"​​
+​​2. 翻译要点​​
+​​英文部分​​	​​直译​​	​​优化策略​​	​​自然中文表达​​
+I've got to go	"我必须走了"	口语化 → ​​"我得撤了"​​	​​"先溜了"​​（网络用语）
+try to get home	"尝试到家"	自然化 → ​​"尽量赶回家"​​	​​"争取到家"​​
+a little earlier	"早一点"	具体化 → ​​"早一些"​​	​​"早点儿"​​（儿化音）
 =========================
 原文：​​ "We need to decide exactly when we're going to move. Any suggestions?"
 
@@ -11513,7 +11546,8 @@ build up our body	"增强身体"	本土化 → ​​"强身健体"​​	​​
 英语习惯​​：谈论某地时，常用 ​​"they"​​ 代指当地人或相关群体（如 "In Japan, they respect traditions."）
 =============================================
 原文（修正后）：​​
-"They had a great museum in Munich. He took me to the museum and I responded very strongly to what I saw on the walls there.
+"They had a great museum in Munich. 
+He took me to the museum and I responded very strongly to what I saw on the walls there.
 I learned about art from him. I learned about looking at art from him."
 
 ​​1. 完整翻译（自然口语化）​​
@@ -11656,6 +11690,17 @@ Albrecht Dürer → ​​"阿尔布雷希特·丢勒"​​（正式）/​​"
 中文优化：​​"仿佛/瞬间"​​（强化沉浸感）
 ​​运动场景​​：
 track → ​​"跑道/田径场"​​（需明确）
+=============================
+动作描述​​：Just watching him run → ​​"只是看着他跑步"​​
+•
+​​情感反应​​：got me motivated → ​​"让我受到激励"​​
+​​2. 翻译要点​​
+​​英文部分​​	​​直译​​	​​优化策略​​	​​自然中文表达​​
+Just watching...	"只是看着……"	强化聚焦 → ​​"光看着……"​​	​​"光是看……"​​
+got me motivated	"让我被激励"	主动化 → ​​"让我热血沸腾"​​	​​"我直接来劲了"​​
+​​3. 完整翻译对比​​
+​​版本类型​​	​​翻译结果​​	​​适用场景​​
+​​直译版​​	"只是看着他跑步就让我受到了激励。"	中性描述（无情绪）
 =============================
 ​​翻译解析：​​
 ​​原文：​​ "And wow, I finished fifth."
